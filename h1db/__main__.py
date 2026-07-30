@@ -49,6 +49,9 @@ def build_parser() -> argparse.ArgumentParser:
                         help="limit listing pages (50 each); -1 skips enumeration")
         sp.add_argument("--limit-bodies", type=int, help="fetch at most N bodies")
         sp.add_argument("--list-only", action="store_true")
+        sp.add_argument("--backfill-from", metavar="YYYY-MM-DD",
+                        help="sharded historical walk from this date to beat the "
+                             "10k-per-query cap (e.g. 2013-01-01 for everything)")
         sp.add_argument("--delay", type=float, default=1.0)
 
     st = sub.add_parser("set", help="build a working set of reports for a bug class")
@@ -82,6 +85,7 @@ def _do_pull(args, conn) -> dict:
         weakness=args.weakness, program=args.program, since=args.since,
         max_pages=args.max_pages, limit_bodies=args.limit_bodies,
         delay=args.delay, list_only=args.list_only,
+        backfill_from=getattr(args, "backfill_from", None),
     )
     print(f"listed {summary['listed']}, new {len(summary['new'])}, "
           f"fetched {summary['fetched']}, no-body {summary['empty']}, "

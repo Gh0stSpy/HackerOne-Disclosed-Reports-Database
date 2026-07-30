@@ -90,10 +90,29 @@ One request per second, single-threaded, with exponential backoff on 429/5xx.
 The endpoints are public and free; there is no reason to hammer them. A full
 seed is ~9,800 requests (a few hours). After that, daily runs are seconds.
 
+## Getting the full history (beyond the 10k cap)
+
+A single hacktivity query only ever exposes the **newest 10,000 reports** —
+HackerOne rejects offsets past that (page 200 × 50). This is why a plain pull,
+and every mirror that does the same, tops out around 9,800. It is *not* the true
+number of disclosed reports, which is far larger.
+
+To reach older reports, pull with a **sharded backfill**. It walks the timeline
+one month at a time, and since no single month approaches 10k, each sub-query
+completes and their union is the whole history:
+
+```bash
+python -m h1db pull --backfill-from 2013-01-01 --delay 1.0
+```
+
+This is a long one-time run (many months × pages, then bodies). Do it once in
+`tmux`; afterwards the normal incremental pull keeps you current. You can shard
+a narrower window too, e.g. `--backfill-from 2020-01-01`.
+
 ## Notes and limits
 
-- HackerOne caps pagination at **10,000 rows** (page 200 × 50). That is the
-  ceiling on what the hacktivity feed exposes.
+- A single query is capped at **10,000 rows**; use `--backfill-from` (above) to
+  get everything.
 - About **10% of disclosed reports have no body** — "limited disclosure", where
   the substance stayed in the comment thread. These are recorded with metadata
   and skipped for markdown. Newly disclosed reports are disproportionately in

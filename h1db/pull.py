@@ -145,6 +145,63 @@ def _listing_row(item: dict[str, Any]) -> dict[str, Any] | None:
     }
 
 
+def _months(start: str, end: str):
+    """Yield (lo, hi) month windows from ``start`` up to ``end``, inclusive."""
+    from datetime import date
+    y, m = int(start[:4]), int(start[5:7])
+    ey, em = int(end[:4]), int(end[5:7])
+    while (y, m) <= (ey, em):
+        lo = f"{y:04d}-{m:02d}-01"
+        ny, nm = (y + 1, 1) if m == 12 else (y, m + 1)
+        hi = f"{ny:04d}-{nm:02d}-01"
+        yield lo, hi
+        y, m = ny, nm
+
+
+def enumerate_sharded(
+    *,
+    start: str,
+    end: str,
+    limiter: http.RateLimiter,
+) -> Iterator[dict[str, Any]]:
+    """Enumerate disclosed+resolved reports month-by-month to beat the 10k cap.
+
+    HackerOne rejects offsets past 10,000 rows, so a single query only ever
+    exposes the newest ~10k reports. Splitting the timeline into month windows
+    keeps every sub-query well under that ceiling, and their union is the full
+    history — the reason this database can hold far more than the mirror it
+    replaces.
+    """
+    for lo, hi in _months(start, end):
+        query = (f"disclosed:true AND substate:resolved "
+                 f"AND disclosed_at:[{lo} TO {hi}]")
+        page = 1
+        seen_in_window = 0
+        while page < MAX_OFFSET_PAGE:
+            params = urllib.parse.urlencode({
+                "queryString": query,
+                "sort": "disclosed_at",
+                "page[number]": page,
+                "page[size]": PAGE_SIZE,
+            })
+            try:
+                payload = http.get_json(f"{HACKTIVITY}?{params}", limiter=limiter)
+            except http.HttpError as exc:
+                if exc.code == 400:
+                    break
+                raise
+            items = payload.get("data") if isinstance(payload, dict) else None
+            if not items:
+                break
+            for item in items:
+                row = _listing_row(item)
+                if row is not None:
+                    yield row
+            seen_in_window += len(items)
+            page += 1
+        logger.info("shard %s: %d reports", lo[:7], seen_in_window)
+
+
 def fetch_body(report_id: int, limiter: http.RateLimiter) -> dict[str, Any]:
     """Fetch and allowlist-project one report's JSON. Raises http.NotFound on 404."""
     payload = http.get_json(REPORT_JSON.format(id=report_id), limiter=limiter)
@@ -208,6 +265,7 @@ def pull(
     limit_bodies: int | None = None,
     delay: float = 1.0,
     list_only: bool = False,
+    backfill_from: str | None = None,
 ) -> dict[str, Any]:
     """Run enumeration then body-fetch. Returns a summary incl. newly disclosed ids."""
     reports_dir = Path(reports_dir)
@@ -219,9 +277,18 @@ def pull(
     # enumeration entirely, so a body-only run doesn't re-walk the whole feed.
     new_ids: list[dict[str, Any]] = []
     listed = 0
-    rows = () if (max_pages is not None and max_pages < 0) else enumerate_reports(
-        weakness=weakness, program=program, since=since,
-        max_pages=max_pages, limiter=limiter)
+    if backfill_from:
+        # Sharded historical walk — the only way past the 10k-per-query cap.
+        rows = enumerate_sharded(
+            start=backfill_from,
+            end=datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+            limiter=limiter)
+    elif max_pages is not None and max_pages < 0:
+        rows = ()  # body-only run: skip enumeration entirely
+    else:
+        rows = enumerate_reports(
+            weakness=weakness, program=program, since=since,
+            max_pages=max_pages, limiter=limiter)
     for row in rows:
         listed += 1
         if store.upsert_listing(conn, row, now):
