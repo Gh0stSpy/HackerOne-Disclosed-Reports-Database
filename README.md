@@ -16,7 +16,7 @@ publicly disclosed finding.
 | Reports with full write-ups | **1,160** |
 | With a published bounty | 269 |
 | Total published bounties | **$550,377** |
-| Last updated | 2026-07-30 21:55 UTC |
+| Last updated | 2026-07-30 22:18 UTC |
 | Last pull | 2026-07-30T21:54:01+00:00 |
 
 ## Browse
@@ -75,6 +75,20 @@ python -m h1db pull --since $(date -u +%Y-%m-%d)
 ```
 
 See **[docs/AUTOMATION.md](docs/AUTOMATION.md)** for the cron / Discord setup.
+
+## Turn reports into hunting skills
+
+The database's real purpose: distil real findings into reusable Claude Code
+skills. Build a focused set for a bug class, then have Claude synthesise it:
+
+```bash
+python -m h1db set ssrf --limit 30   # -> sets/ssrf/, ranked by bounty
+```
+
+A worked example ships in
+[skills/hunt-ssrf/SKILL.md](skills/hunt-ssrf/SKILL.md) — where SSRF hides, the
+payloads that worked, and the filter bypasses that earned the bounties, every
+claim cited to a disclosed report. See **[docs/SKILLS.md](docs/SKILLS.md)**.
 
 ## How it works
 

@@ -16,7 +16,7 @@ import logging
 import sys
 from pathlib import Path
 
-from . import index_site, notify, redact, store
+from . import index_site, notify, redact, sets, store
 from .pull import pull
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -50,6 +50,19 @@ def build_parser() -> argparse.ArgumentParser:
         sp.add_argument("--limit-bodies", type=int, help="fetch at most N bodies")
         sp.add_argument("--list-only", action="store_true")
         sp.add_argument("--delay", type=float, default=1.0)
+
+    st = sub.add_parser("set", help="build a working set of reports for a bug class")
+    st.add_argument("presets", nargs="*", metavar="PRESET",
+                    help="e.g. ssrf idor xss (omit with --list to see all)")
+    st.add_argument("--weakness", action="append", default=[], metavar="TEXT",
+                    help="match weakness names containing TEXT (repeatable)")
+    st.add_argument("--list", action="store_true", help="show presets and counts")
+    st.add_argument("--limit", type=int, default=30,
+                    help="reports per set (default 30; 25-40 suits one skill)")
+    st.add_argument("--min-bounty", type=float, default=0.0)
+    st.add_argument("--since", metavar="YYYY-MM-DD")
+    st.add_argument("--sort", choices=("bounty", "newest", "votes"), default="bounty")
+    st.add_argument("--out", type=Path, default=ROOT / "sets")
 
     sub.add_parser("index", help="regenerate browsable views and README")
     sub.add_parser("stats", help="show database contents")
@@ -108,6 +121,38 @@ def main(argv: list[str] | None = None) -> int:
         print(f"  pending:      {c.get('listed', 0):,}")
         print(f"  gone (404):   {c.get('gone', 0):,}")
         print(f"last pull:      {store.get_meta(conn, 'last_pull', 'never')}")
+        return 0
+
+    if args.command == "set":
+        if args.list:
+            print(f"\n{'preset':<11} {'reports':>8}  weakness match")
+            print("-" * 66)
+            for name, n in sets.available(conn):
+                print(f"{name:<11} {n:>8}  {', '.join(sets.PRESETS[name])}")
+            print("\nThen:  python -m h1db set ssrf --limit 30")
+            return 0
+
+        groups = [(p.lower(), sets.PRESETS[p.lower()])
+                  for p in args.presets if p.lower() in sets.PRESETS]
+        unknown = [p for p in args.presets if p.lower() not in sets.PRESETS]
+        if unknown:
+            print(f"unknown preset(s): {', '.join(unknown)}", file=sys.stderr)
+            print(f"options: {', '.join(sets.PRESETS)}", file=sys.stderr)
+            return 2
+        groups += [(t, [t]) for t in args.weakness]
+        if not groups:
+            print("nothing selected. Try: python -m h1db set --list", file=sys.stderr)
+            return 2
+
+        all_reports = store.all_reports(conn)
+        for label, patterns in groups:
+            chosen = sets.select(all_reports, patterns, min_bounty=args.min_bounty,
+                                 since=args.since, limit=args.limit, sort=args.sort)
+            if not chosen:
+                print(f"{label}: nothing matched")
+                continue
+            folder, n = sets.build(chosen, label, args.reports, args.out)
+            print(f"{label}: {n} reports -> {folder}")
         return 0
 
     if args.command == "redact":

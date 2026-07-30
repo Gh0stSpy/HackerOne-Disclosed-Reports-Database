@@ -220,6 +220,20 @@ python -m h1db pull --since $(date -u +%Y-%m-%d)
 
 See **[docs/AUTOMATION.md](docs/AUTOMATION.md)** for the cron / Discord setup.
 
+## Turn reports into hunting skills
+
+The database's real purpose: distil real findings into reusable Claude Code
+skills. Build a focused set for a bug class, then have Claude synthesise it:
+
+```bash
+python -m h1db set ssrf --limit 30   # -> sets/ssrf/, ranked by bounty
+```
+
+A worked example ships in
+[skills/hunt-ssrf/SKILL.md](skills/hunt-ssrf/SKILL.md) — where SSRF hides, the
+payloads that worked, and the filter bypasses that earned the bounties, every
+claim cited to a disclosed report. See **[docs/SKILLS.md](docs/SKILLS.md)**.
+
 ## How it works
 
 1. **Enumerate** disclosed, resolved reports from `api.hackerone.com` hacktivity.

@@ -17,3 +17,6 @@ __pycache__/
 .venv/
 venv/
 *.egg-info/
+
+# Derived working sets — rebuild with `python -m h1db set`
+sets/
