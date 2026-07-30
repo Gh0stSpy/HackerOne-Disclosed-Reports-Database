@@ -1,0 +1,76 @@
+name: Update database
+
+# Keeps the database fresh without needing anyone's machine to be on.
+# Pulls newly disclosed reports, rebuilds the indexes, commits, and pings
+# Discord if DISCORD_WEBHOOK_URL is set as a repository secret.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours, off the hour to avoid the rush
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Walk the entire feed instead of just the newest pages"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: h1db-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restore puller state
+        uses: actions/cache@v4
+        with:
+          # state.db tracks which reports are already fetched, so caching it is
+          # what makes scheduled runs incremental rather than starting over.
+          path: state.db
+          key: h1db-state-${{ github.run_id }}
+          restore-keys: h1db-state-
+
+      - name: Pull new reports
+        env:
+          H1DB_BODIES: "800"
+        run: |
+          if [ "${{ inputs.full }}" = "true" ]; then
+            python -m h1db pull --limit-bodies 100000 --delay 1.0
+          else
+            python -m h1db pull --max-pages 6 --limit-bodies "$H1DB_BODIES" --delay 1.0
+          fi
+
+      - name: Rebuild indexes
+        run: python -m h1db index
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "Update disclosed reports ($(date -u +'%Y-%m-%d %H:%M') UTC)"
+            git push
+          else
+            echo "no changes"
+          fi
+
+      - name: Notify Discord
+        if: env.DISCORD_WEBHOOK_URL != ''
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python -m h1db notify
+
+      - name: Summary
+        run: python -m h1db stats >> "$GITHUB_STEP_SUMMARY"

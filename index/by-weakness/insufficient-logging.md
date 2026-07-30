@@ -1,0 +1,32 @@
+# By weakness: Insufficient Logging
+
+**23 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+
+| # | Report | Title | Program | Severity | Bounty | Votes |
+|--:|:--|:--|:--|:--|--:|--:|
+| 1 | [3022516](../../reports/3022516.md) | Non-Production API Endpoints for the Forecast Service Fail to Log to CloudTrail Resulting  | AWS VDP | Medium | — | 75 |
+| 2 | [3780277](../../reports/3780277.md) | Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail R | AWS VDP | Medium | — | 66 |
+| 3 | [3014785](../../reports/3014785.md) | (Part 2) Non-Production API Endpoints for the Datazone Service Fail to Log to CloudTrail R | AWS VDP | Medium | — | 56 |
+| 4 | [2981210](../../reports/2981210.md) | Non-Production API Endpoints for the Datazone Service Fail to Log to CloudTrail Resulting  | AWS VDP | Medium | — | 50 |
+| 5 | [3009411](../../reports/3009411.md) | Non-Production API Endpoints for the DocumentDB Elastic Service Fail to Log to CloudTrail  | AWS VDP | Medium | — | 44 |
+| 6 | [3021451](../../reports/3021451.md) | Non-Production API Endpoint for the ElastiCache Service Fails to Log to CloudTrail Resulti | AWS VDP | Medium | — | 39 |
+| 7 | [2800091](../../reports/2800091.md) | Non-Production API Endpoints for the bedrock-agent Service Fail to Log to CloudTrail Resul | AWS VDP | Medium | — | 37 |
+| 8 | [2926361](../../reports/2926361.md) | Non-Production API Endpoints for the ssm Service Fail to Log to CloudTrail Resulting in Si | AWS VDP | Medium | — | 36 |
+| 9 | [2999116](../../reports/2999116.md) | Non-Production API Endpoints for the Device Farm Service Fail to Log to CloudTrail Resulti | AWS VDP | Medium | — | 30 |
+| 10 | [2979238](../../reports/2979238.md) | Amazon Comprehend Medical Service Reporting "AWS Internal" for CloudTrail Events Generated | AWS VDP | Medium | — | 29 |
+| 11 | [3021618](../../reports/3021618.md) | Non-Production API Endpoint for the EventBridge Service Fails to Log to CloudTrail Resulti | AWS VDP | Medium | — | 26 |
+| 12 | [2951803](../../reports/2951803.md) | Non-Production API Endpoints for the bedrock Service Fail to Log to CloudTrail Resulting i | AWS VDP | Medium | — | 25 |
+| 13 | [2972435](../../reports/2972435.md) | Non-Production API Endpoints for the cloudwatch Service Fail to Log to CloudTrail Resultin | AWS VDP | Medium | — | 23 |
+| 14 | [3029552](../../reports/3029552.md) | Non-Production API Endpoints for the Global Accelerator Service Fail to Log to CloudTrail  | AWS VDP | Medium | — | 23 |
+| 15 | [3419587](../../reports/3419587.md) | AWS Auto Scaling Service Reporting "AWS Internal" for CloudTrail Events Generated from Spe | AWS VDP | Medium | — | 23 |
+| 16 | [3042588](../../reports/3042588.md) | Non-Production API Endpoints for the Health Service Fail to Log to CloudTrail Resulting in | AWS VDP | Medium | — | 21 |
+| 17 | [3031512](../../reports/3031512.md) | Non-Production API Endpoints for the Glue Service Fail to Log to CloudTrail Resulting in S | AWS VDP | Medium | — | 18 |
+| 18 | [3072841](../../reports/3072841.md) | Amazon Pinpoint SMS and Voice, version 2  Service Reporting "AWS Internal" for CloudTrail  | AWS VDP | Medium | — | 18 |
+| 19 | [3418966](../../reports/3418966.md) | Non-Production API Endpoints for the AI Ops Service Fails to Log to CloudTrail Resulting i | AWS VDP | Medium | — | 18 |
+| 20 | [3068422](../../reports/3068422.md) | Non-Production API Endpoints for the Neptune Graph Service Fail to Log to CloudTrail Resul | AWS VDP | Medium | — | 17 |
+| 21 | [3044471](../../reports/3044471.md) | Amazon Kendra Intelligent Ranking Service Reporting "AWS Internal" for CloudTrail Events G | AWS VDP | Medium | — | 16 |
+| 22 | [3092085](../../reports/3092085.md) | Non-Production API Endpoints for the Route 53 Service Fail to Log to CloudTrail Resulting  | AWS VDP | Medium | — | 14 |
+| 23 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | AWS VDP | Medium | — | 14 |
+
+---
+*Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

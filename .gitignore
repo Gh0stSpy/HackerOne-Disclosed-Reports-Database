@@ -1,0 +1,19 @@
+# Secrets — the Discord webhook is a bearer credential. Never commit it.
+.env
+*.webhook
+
+# Local state and transient files
+state.db
+state.db-wal
+state.db-shm
+.pending-notify.json
+.last-auto-update
+.update.lock
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
