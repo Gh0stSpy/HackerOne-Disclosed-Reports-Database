@@ -1,11 +1,12 @@
-# By weakness: Path Traversal: '.../...//'
+# By weakness: Path Traversal
 
-**2 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**3 reports** · published bounties $5,000 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3181066](../../reports/3181066.md) | Path Traversal Vulnerability in Lila Project | Lichess | High | — | 115 |
-| 2 | [2375666](../../reports/2375666.md) | CVE-2018-0296 Cisco ASA Denial of Service & Path Traversal vulnerable on [mtn.co.ug] | MTN Group | Critical | — | 61 |
+| 1 | [3712279](../../reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through | PortSwigger Web Security | High | $5,000 | 157 |
+| 2 | [3580511](../../reports/3580511.md) | ActiveStorage Disk Service Path Traversal via Custom Blob Key Injection | Ruby on Rails | Medium | — | 57 |
+| 3 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | arkadiyt-projects | Medium | — | 21 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

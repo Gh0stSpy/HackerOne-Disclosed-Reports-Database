@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **1,160** |
-| With a published bounty | 269 |
-| Total published bounties | **$550,377** |
-| Last updated | 2026-07-30 22:18 UTC |
-| Last pull | 2026-07-30T21:54:01+00:00 |
+| Reports with full write-ups | **169** |
+| With a published bounty | 21 |
+| Total published bounties | **$33,216** |
+| Last updated | 2026-07-31 03:56 UTC |
+| Last pull | 2026-07-31T03:54:06+00:00 |
 
 ## Browse
 
@@ -32,31 +32,31 @@ publicly disclosed finding.
 
 | Weakness | Reports |
 |:--|--:|
-| Improper Access Control - Generic | 131 |
-| Information Disclosure | 101 |
-| Cross-site Scripting (XSS) - Reflected | 95 |
-| Uncontrolled Resource Consumption | 62 |
-| Business Logic Errors | 36 |
-| Insecure Direct Object Reference (IDOR) | 35 |
-| Improper Authentication - Generic | 34 |
-| Cross-site Scripting (XSS) - Stored | 32 |
-| SQL Injection | 30 |
-| Server-Side Request Forgery (SSRF) | 28 |
+| Cross-site Scripting (XSS) - Reflected | 28 |
+| Improper Access Control - Generic | 10 |
+| Uncontrolled Resource Consumption | 8 |
+| Information Disclosure | 8 |
+| Business Logic Errors | 5 |
+| Server-Side Request Forgery (SSRF) | 5 |
+| Cross-site Scripting (XSS) - Stored | 4 |
+| Improper Authentication - Generic | 4 |
+| Improper Certificate Validation | 4 |
+| Path Traversal | 3 |
 
 ## Highest published bounties
 
 | Report | Title | Program | Bounty |
 |:--|:--|:--|--:|
-| [2262382](reports/2262382.md) | Server Side Request Forgery (SSRF) via Analytics Reports | HackerOne | $25,000 |
-| [1819832](reports/1819832.md) | Delete anyone's content spotlight remotely. | Snapchat | $15,000 |
-| [3018307](reports/3018307.md) | Groups module can halt chain when handling a proposal with malicious g | Cosmos | $15,000 |
-| [1731349](reports/1731349.md) | Stored XSS via Kroki diagram | GitLab | $13,950 |
-| [2032716](reports/2032716.md) | An attacker can can view any hacker email via  /SaveCollaboratorsMutat | HackerOne | $12,500 |
 | [3287208](reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Ver | HackerOne | $12,500 |
-| [2107680](reports/2107680.md) | AWS keys and user cookie leakage via uninitialized memory leak in outd | Basecamp | $8,868 |
-| [1707287](reports/1707287.md) | CVE-2022-40604: Apache Airflow: Format String Vulnerability | Internet Bug Bounty | $8,000 |
-| [2967634](reports/2967634.md) | Exposed proxy allows to access internal reddit domains | Reddit | $7,500 |
 | [3694007](reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search | HackerOne | $7,000 |
+| [3712279](reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-cont | PortSwigger Web Security | $5,000 |
+| [3734676](reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the | Mozilla | $2,000 |
+| [2509022](reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdow | Shopify | $1,600 |
+| [3400140](reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | $1,024 |
+| [2541962](reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | pixiv | $500 |
+| [3279441](reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unico | Mozilla | $500 |
+| [3608199](reports/3608199.md) | DOM XSS in `fizzy.do` import filename preview enables one-click victim | Basecamp | $500 |
+| [3507241](reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter le | MetaMask | $350 |
 
 ## Build your own copy
 
