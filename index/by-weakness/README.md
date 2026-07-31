@@ -43,9 +43,9 @@
 | [Out-of-bounds Read](out-of-bounds-read.md) | 1 | — |
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |
 | [CRLF Injection](crlf-injection.md) | 1 | — |
+| [HTTP Request Smuggling](http-request-smuggling.md) | 1 | — |
 | [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
 | [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
-| [HTTP Request Smuggling](http-request-smuggling.md) | 1 | — |
 | [Integer Overflow](integer-overflow.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
