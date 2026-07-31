@@ -7,8 +7,8 @@
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
 | [Information Disclosure](information-disclosure.md) | 8 | — |
 | [Business Logic Errors](business-logic-errors.md) | 5 | $350 |
+| [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 5 | $337 |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 5 | — |
-| [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 4 | $337 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 4 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 4 | — |
 | [Path Traversal](path-traversal.md) | 3 | $5,000 |
@@ -27,6 +27,7 @@
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 2 | — |
 | [Array Index Underflow](array-index-underflow.md) | 2 | — |
 | [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
+| [HTTP Request Smuggling](http-request-smuggling.md) | 2 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 2 | — |
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
 | [Authentication Bypass by Capture-replay](authentication-bypass-by-capture-replay.md) | 1 | $2,000 |
@@ -43,7 +44,6 @@
 | [Out-of-bounds Read](out-of-bounds-read.md) | 1 | — |
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |
 | [CRLF Injection](crlf-injection.md) | 1 | — |
-| [HTTP Request Smuggling](http-request-smuggling.md) | 1 | — |
 | [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
 | [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
 | [Integer Overflow](integer-overflow.md) | 1 | — |

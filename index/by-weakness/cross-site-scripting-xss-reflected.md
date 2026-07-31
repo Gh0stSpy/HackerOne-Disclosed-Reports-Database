@@ -5,7 +5,7 @@
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Shopify | Medium | $1,600 | 90 |
-| 2 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | U.S. Dept Of Defense | Medium | — | 18 |
+| 2 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | U.S. Dept Of Defense | Medium | — | 19 |
 | 3 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | U.S. Dept Of Defense | Medium | — | 11 |
 | 4 | [3053220](../../reports/3053220.md) | XSS on ███ | U.S. Dept Of Defense | Medium | — | 10 |
 | 5 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | U.S. Dept Of Defense | Medium | — | 10 |

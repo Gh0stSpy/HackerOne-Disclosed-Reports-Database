@@ -1,6 +1,6 @@
 # By severity: Medium
 
-**87 reports** · published bounties $4,987 *(most programs don't publish an amount, so this undercounts)*
+**88 reports** · published bounties $4,987 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -47,18 +47,18 @@
 | 41 | [3642555](../../reports/3642555.md) | CVE-2026-5545: wrong reuse of HTTP Negotiate connection | Authentication Bypass by Primary Weakness | Medium | — | 22 |
 | 42 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | Path Traversal | Medium | — | 21 |
 | 43 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
-| 44 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
-| 45 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 18 |
+| 44 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
+| 45 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
 | 46 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 16 |
-| 47 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
-| 48 | [3606773](../../reports/3606773.md) | Stored XSS via SVG Upload — check_content() Blocklist Bypass & 256-Byte Scan Limit (Self-P | Cross-site Scripting (XSS) - Stored | Medium | — | 11 |
-| 49 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 50 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 51 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 52 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 53 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 54 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 55 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 9 |
+| 47 | [3606773](../../reports/3606773.md) | Stored XSS via SVG Upload — check_content() Blocklist Bypass & 256-Byte Scan Limit (Self-P | Cross-site Scripting (XSS) - Stored | Medium | — | 12 |
+| 48 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
+| 49 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 11 |
+| 50 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
+| 51 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
+| 52 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 53 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 54 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 55 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 56 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
 | 57 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
 | 58 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
@@ -89,8 +89,9 @@
 | 83 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
 | 84 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
 | 85 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
-| 86 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
-| 87 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
+| 86 | [3723248](../../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser | HTTP Request Smuggling | Medium | — | 2 |
+| 87 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
+| 88 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

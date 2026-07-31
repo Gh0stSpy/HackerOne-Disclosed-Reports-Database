@@ -15,6 +15,7 @@
 | [Lovable VDP](lovable-vdp.md) | 4 | — |
 | [arkadiyt-projects](arkadiyt-projects.md) | 3 | — |
 | [Ruby on Rails](ruby-on-rails.md) | 3 | — |
+| [Node.js](node-js.md) | 3 | — |
 | [pixiv](pixiv.md) | 2 | $700 |
 | [Omise](omise.md) | 2 | — |
 | [CoinMate.io](coinmate-io.md) | 2 | — |
@@ -22,7 +23,6 @@
 | [DuckDuckGo](duckduckgo.md) | 2 | — |
 | [Brave Software](brave-software.md) | 2 | — |
 | [phpBB](phpbb.md) | 2 | — |
-| [Node.js](node-js.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
 | [Discourse](discourse.md) | 1 | $1,024 |
 | [MetaMask](metamask.md) | 1 | $350 |
@@ -38,3 +38,4 @@
 | [RubyGems](rubygems.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
 | [Weblate](weblate.md) | 1 | — |
+| [Tucows (VDP)](tucows-vdp.md) | 1 | — |

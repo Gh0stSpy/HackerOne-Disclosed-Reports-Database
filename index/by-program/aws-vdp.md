@@ -16,7 +16,7 @@
 | 10 | [3738654](../../reports/3738654.md) | Firecracker Out-of-bounds Read/Write Local Privilege Escalation Vulnerability | Out-of-bounds Read | — | — | 33 |
 | 11 | [3620753](../../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 25 |
 | 12 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 16 |
-| 13 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 9 |
+| 13 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 11 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

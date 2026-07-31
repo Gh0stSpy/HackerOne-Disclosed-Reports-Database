@@ -8,9 +8,9 @@
 | 2 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
 | 3 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | Insecure Direct Object Reference (IDOR) | High | — | 25 |
 | 4 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
-| 5 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 18 |
-| 6 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
-| 7 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 15 |
+| 5 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
+| 6 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
+| 7 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
 | 8 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |
 | 9 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | Information Disclosure | Low | — | 14 |
 | 10 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
