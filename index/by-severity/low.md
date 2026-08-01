@@ -29,9 +29,9 @@
 | 23 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |
 | 24 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | Information Disclosure | Low | — | 14 |
 | 25 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
-| 26 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 13 |
-| 27 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
-| 28 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Cross-site Scripting (XSS) - Stored | Low | — | 8 |
+| 26 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Cross-site Scripting (XSS) - Stored | Low | — | 13 |
+| 27 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 13 |
+| 28 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
 | 29 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
 | 30 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
 | 31 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |

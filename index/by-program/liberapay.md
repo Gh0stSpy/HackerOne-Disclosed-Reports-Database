@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3878586](../../reports/3878586.md) | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, | — | Medium | $100 | 3 |
+| 1 | [3878586](../../reports/3878586.md) | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, | — | Medium | $100 | 6 |
 | 2 | [3721519](../../reports/3721519.md) | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Li | Open Redirect | — | — | 64 |
 
 ---
