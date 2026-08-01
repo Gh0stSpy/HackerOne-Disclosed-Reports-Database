@@ -17,6 +17,7 @@
 | [Ruby on Rails](ruby-on-rails.md) | 3 | — |
 | [Node.js](node-js.md) | 3 | — |
 | [pixiv](pixiv.md) | 2 | $700 |
+| [Liberapay](liberapay.md) | 2 | $100 |
 | [Omise](omise.md) | 2 | — |
 | [CoinMate.io](coinmate-io.md) | 2 | — |
 | [Django](django.md) | 2 | — |
@@ -33,7 +34,6 @@
 | [Kubernetes](kubernetes.md) | 1 | — |
 | [Automattic](automattic.md) | 1 | — |
 | [Yelp](yelp.md) | 1 | — |
-| [Liberapay](liberapay.md) | 1 | — |
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [RubyGems](rubygems.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
