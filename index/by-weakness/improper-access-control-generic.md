@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Basecamp | Medium | $287 | 97 |
+| 1 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Basecamp | Medium | $287 | 98 |
 | 2 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Nextcloud | Low | $250 | 46 |
 | 3 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Basecamp | Low | $218 | 51 |
 | 4 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Nextcloud | — | $100 | 56 |
