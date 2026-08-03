@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3632577](../../reports/3632577.md) | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protec | AWS VDP | Medium | — | 46 |
+| 1 | [3632577](../../reports/3632577.md) | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protec | AWS VDP | Medium | — | 47 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
