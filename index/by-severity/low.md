@@ -24,7 +24,7 @@
 | 18 | [3584903](../../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Incorrect Authorization | Low | — | 30 |
 | 19 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Uncontrolled Resource Consumption | Low | — | 28 |
 | 20 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
-| 21 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Cross-site Scripting (XSS) - Stored | Low | — | 26 |
+| 21 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Cross-site Scripting (XSS) - Stored | Low | — | 28 |
 | 22 | [3671818](../../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | Exposure of Data Element to Wrong Session | Low | — | 24 |
 | 23 | [3601655](../../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-spli | — | Low | — | 23 |
 | 24 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |

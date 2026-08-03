@@ -10,7 +10,7 @@
 | 4 | [3507241](../../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized  | Business Logic Errors | Medium | $350 | 84 |
 | 5 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Improper Access Control - Generic | Medium | $287 | 98 |
 | 6 | [3400143](../../reports/3400143.md) | Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribu | Insufficiently Protected Credentials | Medium | $250 | 37 |
-| 7 | [3878586](../../reports/3878586.md) | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, | — | Medium | $100 | 27 |
+| 7 | [3878586](../../reports/3878586.md) | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, | — | Medium | $100 | 31 |
 | 8 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Improper Access Control - Generic | Medium | — | 102 |
 | 9 | [3779690](../../reports/3779690.md) | Stored XSS in Rocket.Chat HTML File Export — Unauthenticated Entry via LiveChat | Cross-site Scripting (XSS) - Stored | Medium | — | 92 |
 | 10 | [3676308](../../reports/3676308.md) | POST /api/bitcoinWithdrawalFees returns financial data without authentication despite bein | Improper Authentication - Generic | Medium | — | 90 |
@@ -33,7 +33,7 @@
 | 27 | [3620748](../../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 41 |
 | 28 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Cross-site Scripting (XSS) - Stored | Medium | — | 39 |
 | 29 | [3697719](../../reports/3697719.md) | CVE-2026-7168: cross-proxy Digest auth state leak | Exposure of Data Element to Wrong Session | Medium | — | 37 |
-| 30 | [3606773](../../reports/3606773.md) | Stored XSS via SVG Upload — check_content() Blocklist Bypass & 256-Byte Scan Limit (Self-P | Cross-site Scripting (XSS) - Stored | Medium | — | 35 |
+| 30 | [3606773](../../reports/3606773.md) | Stored XSS via SVG Upload — check_content() Blocklist Bypass & 256-Byte Scan Limit (Self-P | Cross-site Scripting (XSS) - Stored | Medium | — | 36 |
 | 31 | [3590583](../../reports/3590583.md) | Unquoted body background attribute enables CSS injection that bypasses remote image blocki | Resource Injection | Medium | — | 34 |
 | 32 | [3591944](../../reports/3591944.md) | CVE-2026-3805: use after free in SMB connection reuse | Use After Free | Medium | — | 33 |
 | 33 | [3694390](../../reports/3694390.md) | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust | Improper Certificate Validation | Medium | — | 33 |
@@ -41,11 +41,11 @@
 | 35 | [3621606](../../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | CRLF Injection | Medium | — | 29 |
 | 36 | [3648681](../../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally Accepts Bare CR in Status | HTTP Request Smuggling | Medium | — | 28 |
 | 37 | [3590576](../../reports/3590576.md) | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loadin | Remote File Inclusion | Medium | — | 26 |
-| 38 | [3583983](../../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | Information Exposure Through Sent Data | Medium | — | 25 |
-| 39 | [3620753](../../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 25 |
-| 40 | [3383079](../../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function | Server-Side Request Forgery (SSRF) | Medium | — | 24 |
-| 41 | [3669637](../../reports/3669637.md) | CVE-2026-6253: proxy credentials leak over redirect-to proxy | — | Medium | — | 24 |
-| 42 | [3723248](../../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser | HTTP Request Smuggling | Medium | — | 24 |
+| 38 | [3723248](../../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser | HTTP Request Smuggling | Medium | — | 26 |
+| 39 | [3583983](../../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | Information Exposure Through Sent Data | Medium | — | 25 |
+| 40 | [3620753](../../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 25 |
+| 41 | [3383079](../../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function | Server-Side Request Forgery (SSRF) | Medium | — | 24 |
+| 42 | [3669637](../../reports/3669637.md) | CVE-2026-6253: proxy credentials leak over redirect-to proxy | — | Medium | — | 24 |
 | 43 | [876530](../../reports/876530.md) | Remote node DOS | Uncontrolled Resource Consumption | Medium | — | 23 |
 | 44 | [3642555](../../reports/3642555.md) | CVE-2026-5545: wrong reuse of HTTP Negotiate connection | Authentication Bypass by Primary Weakness | Medium | — | 22 |
 | 45 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | Path Traversal | Medium | — | 21 |
