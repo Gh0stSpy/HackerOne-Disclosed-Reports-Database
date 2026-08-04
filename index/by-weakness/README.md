@@ -49,10 +49,10 @@
 | [Integer Overflow](integer-overflow.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
+| [Inclusion of Functionality from Untrusted Control Sphere](inclusion-of-functionality-from-untrusted-control-sphere.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [SQL Injection](sql-injection.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
-| [Inclusion of Functionality from Untrusted Control Sphere](inclusion-of-functionality-from-untrusted-control-sphere.md) | 1 | — |
 | [Buffer Over-read](buffer-over-read.md) | 1 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
