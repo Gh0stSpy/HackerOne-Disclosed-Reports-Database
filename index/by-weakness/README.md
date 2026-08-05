@@ -11,6 +11,7 @@
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 5 | — |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 4 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 4 | — |
+| [Code Injection](code-injection.md) | 3 | $19,000 |
 | [Path Traversal](path-traversal.md) | 3 | $5,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 3 | $600 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | $500 |
@@ -20,7 +21,6 @@
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Use After Free](use-after-free.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
-| [Code Injection](code-injection.md) | 2 | $7,000 |
 | [Improper Input Validation](improper-input-validation.md) | 2 | $500 |
 | [OS Command Injection](os-command-injection.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |

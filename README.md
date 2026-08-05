@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **179** |
-| With a published bounty | 22 |
-| Total published bounties | **$33,316** |
-| Last updated | 2026-08-05 14:36 UTC |
-| Last pull | 2026-08-05T14:36:27+00:00 |
+| Reports with full write-ups | **180** |
+| With a published bounty | 23 |
+| Total published bounties | **$45,316** |
+| Last updated | 2026-08-05 19:57 UTC |
+| Last pull | 2026-08-05T19:57:47+00:00 |
 
 ## Browse
 
@@ -41,13 +41,14 @@ publicly disclosed finding.
 | Server-Side Request Forgery (SSRF) | 5 |
 | Improper Authentication - Generic | 4 |
 | Improper Certificate Validation | 4 |
-| Path Traversal | 3 |
+| Code Injection | 3 |
 
 ## Highest published bounties
 
 | Report | Title | Program | Bounty |
 |:--|:--|:--|--:|
 | [3287208](reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Ver | HackerOne | $12,500 |
+| [3782701](reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argum | Mozilla | $12,000 |
 | [3694007](reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search | HackerOne | $7,000 |
 | [3712279](reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-cont | PortSwigger Web Security | $5,000 |
 | [3734676](reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the | Mozilla | $2,000 |
@@ -56,7 +57,6 @@ publicly disclosed finding.
 | [2541962](reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | pixiv | $500 |
 | [3279441](reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unico | Mozilla | $500 |
 | [3608199](reports/3608199.md) | DOM XSS in `fizzy.do` import filename preview enables one-click victim | Basecamp | $500 |
-| [3507241](reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter le | MetaMask | $350 |
 
 ## Build your own copy
 
