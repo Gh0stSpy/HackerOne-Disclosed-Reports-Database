@@ -5,8 +5,8 @@
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
 | [curl](curl.md) | 29 | — |
 | [AWS VDP](aws-vdp.md) | 14 | — |
+| [Monero](monero.md) | 13 | — |
 | [Nextcloud](nextcloud.md) | 10 | $600 |
-| [Monero](monero.md) | 8 | — |
 | [Mozilla](mozilla.md) | 5 | $2,500 |
 | [Basecamp](basecamp.md) | 5 | $1,442 |
 | [HackerOne](hackerone.md) | 4 | $19,500 |
@@ -37,5 +37,5 @@
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [RubyGems](rubygems.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
-| [Weblate](weblate.md) | 1 | — |
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
+| [Weblate](weblate.md) | 1 | — |

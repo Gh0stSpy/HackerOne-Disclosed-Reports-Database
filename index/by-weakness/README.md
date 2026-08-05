@@ -6,7 +6,7 @@
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 11 | $855 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
 | [Information Disclosure](information-disclosure.md) | 8 | — |
-| [Business Logic Errors](business-logic-errors.md) | 5 | $350 |
+| [Business Logic Errors](business-logic-errors.md) | 6 | $350 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 5 | $337 |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 5 | — |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 4 | — |
@@ -15,7 +15,9 @@
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 3 | $600 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | $500 |
 | [Open Redirect](open-redirect.md) | 3 | — |
+| [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
+| [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Use After Free](use-after-free.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
 | [Code Injection](code-injection.md) | 2 | $7,000 |
@@ -25,7 +27,6 @@
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
 | [Privacy Violation](privacy-violation.md) | 2 | — |
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 2 | — |
-| [Array Index Underflow](array-index-underflow.md) | 2 | — |
 | [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 2 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 2 | — |
@@ -36,7 +37,6 @@
 | [Misconfiguration](misconfiguration.md) | 1 | — |
 | [Uncontrolled Search Path Element](uncontrolled-search-path-element.md) | 1 | — |
 | [Client-Side Enforcement of Server-Side Security](client-side-enforcement-of-server-side-security.md) | 1 | — |
-| [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 1 | — |
 | [Improper Null Termination](improper-null-termination.md) | 1 | — |
 | [Incorrect Default Permissions](incorrect-default-permissions.md) | 1 | — |
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 1 | — |
@@ -54,6 +54,7 @@
 | [SQL Injection](sql-injection.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Buffer Over-read](buffer-over-read.md) | 1 | — |
+| [NULL Pointer Dereference](null-pointer-dereference.md) | 1 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
