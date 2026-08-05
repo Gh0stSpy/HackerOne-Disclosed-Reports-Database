@@ -6,7 +6,7 @@
 | [curl](curl.md) | 29 | — |
 | [AWS VDP](aws-vdp.md) | 14 | — |
 | [Nextcloud](nextcloud.md) | 10 | $600 |
-| [Monero](monero.md) | 7 | — |
+| [Monero](monero.md) | 8 | — |
 | [Mozilla](mozilla.md) | 5 | $2,500 |
 | [Basecamp](basecamp.md) | 5 | $1,442 |
 | [HackerOne](hackerone.md) | 4 | $19,500 |
