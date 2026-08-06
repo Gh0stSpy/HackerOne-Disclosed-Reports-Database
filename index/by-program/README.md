@@ -36,6 +36,6 @@
 | [Yelp](yelp.md) | 1 | — |
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [RubyGems](rubygems.md) | 1 | — |
-| [Fastify](fastify.md) | 1 | — |
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
+| [Fastify](fastify.md) | 1 | — |
 | [Weblate](weblate.md) | 1 | — |
