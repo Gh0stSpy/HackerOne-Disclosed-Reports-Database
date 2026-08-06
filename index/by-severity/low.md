@@ -1,23 +1,23 @@
 # By severity: Low
 
-**42 reports** · published bounties $2,105 *(most programs don't publish an amount, so this undercounts)*
+**42 reports** · published bounties $1,887 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3279441](../../reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unicode Homoglyphs on add | Improper Input Validation | Low | $500 | 92 |
 | 2 | [3581911](../../reports/3581911.md) | Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass | Cross-site Scripting (XSS) - Stored | Low | $337 | 81 |
 | 3 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Improper Access Control - Generic | Low | $250 | 46 |
-| 4 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Improper Access Control - Generic | Low | $218 | 52 |
-| 5 | [3556892](../../reports/3556892.md) | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger | — | Low | $200 | 88 |
-| 6 | [3625600](../../reports/3625600.md) | Out of scope: Improper Input Validation Order on /api-internal/login via password field le | — | Low | $200 | 87 |
-| 7 | [2119892](../../reports/2119892.md) | clickjacing can lead to account takeover | UI Redressing (Clickjacking) | Low | $200 | 69 |
-| 8 | [3467641](../../reports/3467641.md) | Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to i | Insecure Direct Object Reference (IDOR) | Low | $100 | 70 |
-| 9 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Uncontrolled Resource Consumption | Low | $100 | 33 |
-| 10 | [3378540](../../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse | Improper Access Control - Generic | Low | — | 119 |
-| 11 | [3426839](../../reports/3426839.md) | Unlimited Reuse of Coupon Code Allows Free Shipping on All Orders on ██████████ | Business Logic Errors | Low | — | 68 |
-| 12 | [3670955](../../reports/3670955.md) | HMAC signature verification omits endpoint and payload allowing request forgery on CoinMat | Missing Required Cryptographic Step | Low | — | 66 |
-| 13 | [3558277](../../reports/3558277.md) | Fail-Open in set_tlsext_servername_callback on pyopenssl via unhandled exceptions leads to | — | Low | — | 63 |
-| 14 | [3025797](../../reports/3025797.md) | [Privilege Escalation] User can Pin\|Unpin Any Comment on Any Project or Locale | Privilege Escalation | Low | — | 59 |
+| 4 | [3556892](../../reports/3556892.md) | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger | — | Low | $200 | 88 |
+| 5 | [3625600](../../reports/3625600.md) | Out of scope: Improper Input Validation Order on /api-internal/login via password field le | — | Low | $200 | 87 |
+| 6 | [2119892](../../reports/2119892.md) | clickjacing can lead to account takeover | UI Redressing (Clickjacking) | Low | $200 | 69 |
+| 7 | [3467641](../../reports/3467641.md) | Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to i | Insecure Direct Object Reference (IDOR) | Low | $100 | 70 |
+| 8 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Uncontrolled Resource Consumption | Low | $100 | 33 |
+| 9 | [3378540](../../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse | Improper Access Control - Generic | Low | — | 119 |
+| 10 | [3426839](../../reports/3426839.md) | Unlimited Reuse of Coupon Code Allows Free Shipping on All Orders on ██████████ | Business Logic Errors | Low | — | 68 |
+| 11 | [3670955](../../reports/3670955.md) | HMAC signature verification omits endpoint and payload allowing request forgery on CoinMat | Missing Required Cryptographic Step | Low | — | 66 |
+| 12 | [3558277](../../reports/3558277.md) | Fail-Open in set_tlsext_servername_callback on pyopenssl via unhandled exceptions leads to | — | Low | — | 63 |
+| 13 | [3025797](../../reports/3025797.md) | [Privilege Escalation] User can Pin\|Unpin Any Comment on Any Project or Locale | Privilege Escalation | Low | — | 59 |
+| 14 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Improper Access Control - Generic | Low | — | 52 |
 | 15 | [3665151](../../reports/3665151.md) | Brave Shields Domain Reordering Leads to Origin Confusion | Violation of Secure Design Principles | Low | — | 51 |
 | 16 | [2061982](../../reports/2061982.md) | Create account without auth via response manipulation | Business Logic Errors | Low | — | 40 |
 | 17 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Improper Access Control - Generic | Low | — | 38 |

@@ -3,7 +3,7 @@
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 28 | $1,600 |
-| [Improper Access Control - Generic](improper-access-control-generic.md) | 11 | $855 |
+| [Improper Access Control - Generic](improper-access-control-generic.md) | 11 | $637 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
 | [Information Disclosure](information-disclosure.md) | 8 | — |
 | [Business Logic Errors](business-logic-errors.md) | 6 | $350 |
@@ -14,7 +14,7 @@
 | [Code Injection](code-injection.md) | 3 | $19,000 |
 | [Path Traversal](path-traversal.md) | 3 | $5,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 3 | $600 |
-| [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | $500 |
+| [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
@@ -52,8 +52,8 @@
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [SQL Injection](sql-injection.md) | 1 | — |
-| [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [NULL Pointer Dereference](null-pointer-dereference.md) | 1 | — |
+| [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Buffer Over-read](buffer-over-read.md) | 1 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |

@@ -8,7 +8,7 @@
 | [Monero](monero.md) | 13 | — |
 | [Nextcloud](nextcloud.md) | 10 | $600 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
-| [Basecamp](basecamp.md) | 5 | $1,442 |
+| [Basecamp](basecamp.md) | 5 | $724 |
 | [HackerOne](hackerone.md) | 4 | $19,500 |
 | [PortSwigger Web Security](portswigger-web-security.md) | 4 | $5,400 |
 | [Rocket.Chat](rocket-chat.md) | 4 | — |

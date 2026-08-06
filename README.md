@@ -14,10 +14,10 @@ publicly disclosed finding.
 | | |
 |---|---|
 | Reports with full write-ups | **180** |
-| With a published bounty | 23 |
-| Total published bounties | **$45,316** |
-| Last updated | 2026-08-06 09:09 UTC |
-| Last pull | 2026-08-06T09:09:02+00:00 |
+| With a published bounty | 21 |
+| Total published bounties | **$44,598** |
+| Last updated | 2026-08-06 14:37 UTC |
+| Last pull | 2026-08-06T14:37:52+00:00 |
 
 ## Browse
 
@@ -56,7 +56,7 @@ publicly disclosed finding.
 | [3400140](reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | $1,024 |
 | [2541962](reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | pixiv | $500 |
 | [3279441](reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unico | Mozilla | $500 |
-| [3608199](reports/3608199.md) | DOM XSS in `fizzy.do` import filename preview enables one-click victim | Basecamp | $500 |
+| [3507241](reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter le | MetaMask | $350 |
 
 ## Build your own copy
 
