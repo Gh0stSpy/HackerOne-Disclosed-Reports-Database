@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [2119892](../../reports/2119892.md) | clickjacing can lead to account takeover | pixiv | Low | $200 | 69 |
+| 1 | [2119892](../../reports/2119892.md) | clickjacing can lead to account takeover | pixiv | Low | $200 | 70 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
