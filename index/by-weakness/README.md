@@ -34,6 +34,7 @@
 | [Authentication Bypass by Capture-replay](authentication-bypass-by-capture-replay.md) | 1 | $2,000 |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 1 | $250 |
 | [UI Redressing (Clickjacking)](ui-redressing-clickjacking.md) | 1 | $200 |
+| [Insecure Storage of Sensitive Information](insecure-storage-of-sensitive-information.md) | 1 | $100 |
 | [Misconfiguration](misconfiguration.md) | 1 | — |
 | [Uncontrolled Search Path Element](uncontrolled-search-path-element.md) | 1 | — |
 | [Client-Side Enforcement of Server-Side Security](client-side-enforcement-of-server-side-security.md) | 1 | — |
