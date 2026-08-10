@@ -45,8 +45,8 @@
 | [Out-of-bounds Read](out-of-bounds-read.md) | 1 | — |
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |
 | [CRLF Injection](crlf-injection.md) | 1 | — |
-| [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
 | [Inclusion of Functionality from Untrusted Control Sphere](inclusion-of-functionality-from-untrusted-control-sphere.md) | 1 | — |
+| [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
 | [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
 | [Integer Overflow](integer-overflow.md) | 1 | — |
 | [NULL Pointer Dereference](null-pointer-dereference.md) | 1 | — |

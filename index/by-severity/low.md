@@ -25,7 +25,7 @@
 | 19 | [3584903](../../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Incorrect Authorization | Low | — | 30 |
 | 20 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Uncontrolled Resource Consumption | Low | — | 28 |
 | 21 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
-| 22 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Inclusion of Functionality from Untrusted Control Sphere | Low | — | 26 |
+| 22 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Inclusion of Functionality from Untrusted Control Sphere | Low | — | 27 |
 | 23 | [3671818](../../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | Exposure of Data Element to Wrong Session | Low | — | 24 |
 | 24 | [3601655](../../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-spli | — | Low | — | 23 |
 | 25 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |
