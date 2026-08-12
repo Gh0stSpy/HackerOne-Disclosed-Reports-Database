@@ -6,7 +6,7 @@
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | High | $1,024 | 92 |
 | 2 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Tor | Low | $100 | 34 |
-| 3 | [3307874](../../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis | Monero | Critical | — | 93 |
+| 3 | [3307874](../../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis | Monero | Critical | — | 94 |
 | 4 | [3542546](../../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access Policy | RubyGems | — | — | 41 |
 | 5 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Ruby on Rails | Low | — | 28 |
 | 6 | [876530](../../reports/876530.md) | Remote node DOS | Monero | Medium | — | 23 |

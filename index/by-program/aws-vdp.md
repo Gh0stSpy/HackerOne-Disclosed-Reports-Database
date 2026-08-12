@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3637898](../../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (S | OS Command Injection | High | — | 107 |
+| 1 | [3637898](../../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (S | OS Command Injection | High | — | 108 |
 | 2 | [3426839](../../reports/3426839.md) | Unlimited Reuse of Coupon Code Allows Free Shipping on All Orders on ██████████ | Business Logic Errors | Low | — | 68 |
 | 3 | [3780277](../../reports/3780277.md) | Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail R | Insufficient Logging | Medium | — | 66 |
 | 4 | [3577145](../../reports/3577145.md) | QuickSight Authorization Bypass: Chat Agents Accessible Despite Custom Permissions Denial | — | — | — | 59 |

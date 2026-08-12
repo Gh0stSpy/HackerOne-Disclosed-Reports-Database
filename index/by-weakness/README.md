@@ -3,7 +3,7 @@
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 28 | $1,600 |
-| [Improper Access Control - Generic](improper-access-control-generic.md) | 11 | $637 |
+| [Improper Access Control - Generic](improper-access-control-generic.md) | 12 | $637 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
 | [Information Disclosure](information-disclosure.md) | 8 | — |
 | [Business Logic Errors](business-logic-errors.md) | 6 | $350 |
@@ -27,8 +27,8 @@
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
 | [Privacy Violation](privacy-violation.md) | 2 | — |
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 2 | — |
-| [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 2 | — |
+| [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 2 | — |
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
 | [Authentication Bypass by Capture-replay](authentication-bypass-by-capture-replay.md) | 1 | $2,000 |

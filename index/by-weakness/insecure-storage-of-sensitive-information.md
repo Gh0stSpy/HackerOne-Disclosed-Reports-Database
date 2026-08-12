@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3265780](../../reports/3265780.md) | Adding phone number to profile By OTP brute forcing | CoinMate.io | Medium | $100 | 55 |
+| 1 | [3265780](../../reports/3265780.md) | Adding phone number to profile By OTP brute forcing | CoinMate.io | Medium | $100 | 58 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

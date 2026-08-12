@@ -39,3 +39,4 @@
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
 | [Weblate](weblate.md) | 1 | — |
+| [Myndr](myndr.md) | 1 | — |

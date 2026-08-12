@@ -1,10 +1,10 @@
-# By program: Khan Academy
+# By program: Myndr
 
 **1 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Improper Access Control - Generic | Critical | — | 114 |
+| 1 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Improper Access Control - Generic | — | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
