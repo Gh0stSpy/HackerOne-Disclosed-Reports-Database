@@ -22,10 +22,10 @@
 | 16 | [2061982](../../reports/2061982.md) | Create account without auth via response manipulation | Business Logic Errors | Low | — | 40 |
 | 17 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Cross-site Scripting (XSS) - Stored | Low | — | 40 |
 | 18 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Improper Access Control - Generic | Low | — | 38 |
-| 19 | [3584903](../../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Incorrect Authorization | Low | — | 30 |
-| 20 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Uncontrolled Resource Consumption | Low | — | 28 |
-| 21 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
-| 22 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Inclusion of Functionality from Untrusted Control Sphere | Low | — | 28 |
+| 19 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Inclusion of Functionality from Untrusted Control Sphere | Low | — | 30 |
+| 20 | [3584903](../../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Incorrect Authorization | Low | — | 30 |
+| 21 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Uncontrolled Resource Consumption | Low | — | 28 |
+| 22 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
 | 23 | [3671818](../../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | Exposure of Data Element to Wrong Session | Low | — | 24 |
 | 24 | [3601655](../../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-spli | — | Low | — | 23 |
 | 25 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 15 |

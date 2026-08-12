@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | AWS VDP | Low | — | 28 |
+| 1 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | AWS VDP | Low | — | 30 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
