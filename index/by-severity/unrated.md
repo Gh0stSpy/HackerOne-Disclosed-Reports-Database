@@ -24,8 +24,8 @@
 | 18 | [3426417](../../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django via repeated headers leads to | — | — | — | 24 |
 | 19 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |
 | 20 | [3547349](../../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host | — | — | — | 18 |
-| 21 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
-| 22 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Improper Access Control - Generic | — | — | 1 |
+| 21 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Improper Access Control - Generic | — | — | 4 |
+| 22 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
