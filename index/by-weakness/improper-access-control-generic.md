@@ -14,7 +14,7 @@
 | 8 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Basecamp | Low | — | 53 |
 | 9 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Mozilla | Low | — | 38 |
 | 10 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Monero | Low | — | 15 |
-| 11 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 10 |
+| 11 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 12 |
 | 12 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
 
 ---

@@ -10,11 +10,11 @@
 | 4 | [3507241](../../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized  | Business Logic Errors | Medium | $350 | 84 |
 | 5 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Improper Access Control - Generic | Medium | $287 | 101 |
 | 6 | [3400143](../../reports/3400143.md) | Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribu | Insufficiently Protected Credentials | Medium | $250 | 37 |
-| 7 | [3265780](../../reports/3265780.md) | Adding phone number to profile By OTP brute forcing | Insecure Storage of Sensitive Information | Medium | $100 | 65 |
+| 7 | [3265780](../../reports/3265780.md) | Adding phone number to profile By OTP brute forcing | Insecure Storage of Sensitive Information | Medium | $100 | 68 |
 | 8 | [3878586](../../reports/3878586.md) | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, | — | Medium | $100 | 52 |
 | 9 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Improper Access Control - Generic | Medium | — | 102 |
 | 10 | [3779690](../../reports/3779690.md) | Stored XSS in Rocket.Chat HTML File Export — Unauthenticated Entry via LiveChat | Cross-site Scripting (XSS) - Stored | Medium | — | 93 |
-| 11 | [3676308](../../reports/3676308.md) | POST /api/bitcoinWithdrawalFees returns financial data without authentication despite bein | Improper Authentication - Generic | Medium | — | 90 |
+| 11 | [3676308](../../reports/3676308.md) | POST /api/bitcoinWithdrawalFees returns financial data without authentication despite bein | Improper Authentication - Generic | Medium | — | 91 |
 | 12 | [3591764](../../reports/3591764.md) | Business Logic Bypass Allows Setting “Read Access” Role Without Pro Plan Subscription | Business Logic Errors | Medium | — | 76 |
 | 13 | [3599248](../../reports/3599248.md) | Bypass of Open Redirect Fix on lovable.dev via /..// Path Traversal in redirect parameter | Open Redirect | Medium | — | 72 |
 | 14 | [3766455](../../reports/3766455.md) | Yelp for Business: locked Email field silently editable via API | Client-Side Enforcement of Server-Side Security | Medium | — | 71 |
