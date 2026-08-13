@@ -42,9 +42,9 @@
 | [Incorrect Default Permissions](incorrect-default-permissions.md) | 1 | — |
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 1 | — |
 | [Insecure Default Initialization of Resource](insecure-default-initialization-of-resource.md) | 1 | — |
+| [Inclusion of Functionality from Untrusted Control Sphere](inclusion-of-functionality-from-untrusted-control-sphere.md) | 1 | — |
 | [NULL Pointer Dereference](null-pointer-dereference.md) | 1 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 1 | — |
-| [Inclusion of Functionality from Untrusted Control Sphere](inclusion-of-functionality-from-untrusted-control-sphere.md) | 1 | — |
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |
 | [CRLF Injection](crlf-injection.md) | 1 | — |
 | [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
