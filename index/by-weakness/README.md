@@ -17,6 +17,7 @@
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
+| [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Use After Free](use-after-free.md) | 3 | — |
@@ -26,7 +27,6 @@
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
 | [Privacy Violation](privacy-violation.md) | 2 | — |
-| [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 2 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 2 | — |
 | [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 2 | — |

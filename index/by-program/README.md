@@ -20,6 +20,7 @@
 | [pixiv](pixiv.md) | 2 | $700 |
 | [Liberapay](liberapay.md) | 2 | $100 |
 | [Omise](omise.md) | 2 | — |
+| [Yelp](yelp.md) | 2 | — |
 | [Django](django.md) | 2 | — |
 | [DuckDuckGo](duckduckgo.md) | 2 | — |
 | [Brave Software](brave-software.md) | 2 | — |
@@ -33,7 +34,6 @@
 | [Sony](sony.md) | 1 | — |
 | [Kubernetes](kubernetes.md) | 1 | — |
 | [Automattic](automattic.md) | 1 | — |
-| [Yelp](yelp.md) | 1 | — |
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [RubyGems](rubygems.md) | 1 | — |
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |

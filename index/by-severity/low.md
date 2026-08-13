@@ -1,6 +1,6 @@
 # By severity: Low
 
-**43 reports** · published bounties $1,887 *(most programs don't publish an amount, so this undercounts)*
+**44 reports** · published bounties $1,887 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -46,7 +46,8 @@
 | 40 | [3718195](../../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | — | Low | — | 2 |
 | 41 | [3721183](../../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Authentication Bypass by Primary Weakness | Low | — | 2 |
 | 42 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Information Disclosure | Low | — | 2 |
-| 43 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
+| 43 | [3829030](../../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption | Violation of Secure Design Principles | Low | — | 2 |
+| 44 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
