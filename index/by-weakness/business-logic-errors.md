@@ -8,7 +8,7 @@
 | 2 | [3591764](../../reports/3591764.md) | Business Logic Bypass Allows Setting “Read Access” Role Without Pro Plan Subscription | Lovable VDP | Medium | — | 76 |
 | 3 | [3426839](../../reports/3426839.md) | Unlimited Reuse of Coupon Code Allows Free Shipping on All Orders on ██████████ | AWS VDP | Low | — | 68 |
 | 4 | [2061982](../../reports/2061982.md) | Create account without auth via response manipulation | U.S. Dept Of Defense | Low | — | 40 |
-| 5 | [3699522](../../reports/3699522.md) | `check_reserve_proof` counts duplicate entries: one output can inflate `total` | Monero | Medium | — | 34 |
+| 5 | [3699522](../../reports/3699522.md) | `check_reserve_proof` counts duplicate entries: one output can inflate `total` | Monero | Medium | — | 35 |
 | 6 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | curl | Low | — | 3 |
 
 ---

@@ -28,12 +28,12 @@
 | 22 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
 | 23 | [3671818](../../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | Exposure of Data Element to Wrong Session | Low | — | 24 |
 | 24 | [3601655](../../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-spli | — | Low | — | 23 |
-| 25 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 15 |
-| 26 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |
-| 27 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | Information Disclosure | Low | — | 14 |
-| 28 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
-| 29 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
-| 30 | [3829030](../../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption | Violation of Secure Design Principles | Low | — | 13 |
+| 25 | [3829030](../../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption | Violation of Secure Design Principles | Low | — | 19 |
+| 26 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 15 |
+| 27 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |
+| 28 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | Information Disclosure | Low | — | 14 |
+| 29 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
+| 30 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
 | 31 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
 | 32 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
 | 33 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
