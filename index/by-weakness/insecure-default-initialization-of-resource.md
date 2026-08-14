@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3702072](../../reports/3702072.md) | bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, a | AWS VDP | Medium | — | 43 |
+| 1 | [3702072](../../reports/3702072.md) | bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, a | AWS VDP | Medium | — | 44 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

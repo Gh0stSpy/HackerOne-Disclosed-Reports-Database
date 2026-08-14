@@ -21,8 +21,8 @@
 | [Liberapay](liberapay.md) | 2 | $100 |
 | [Omise](omise.md) | 2 | — |
 | [Yelp](yelp.md) | 2 | — |
-| [Django](django.md) | 2 | — |
 | [DuckDuckGo](duckduckgo.md) | 2 | — |
+| [Django](django.md) | 2 | — |
 | [Brave Software](brave-software.md) | 2 | — |
 | [phpBB](phpbb.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
