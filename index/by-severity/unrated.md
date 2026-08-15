@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3287208](../../reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API | — | — | $12,500 | 174 |
+| 1 | [3287208](../../reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API | — | — | $12,500 | 175 |
 | 2 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Improper Access Control - Generic | — | $100 | 56 |
 | 3 | [3447021](../../reports/3447021.md) | XSS Vulnerability on Pressable/Atomic Hosting Platform via unescaped admin notices leads t | — | — | — | 76 |
 | 4 | [3399016](../../reports/3399016.md) | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on c | Improper Null Termination | — | — | 64 |
@@ -22,8 +22,8 @@
 | 16 | [3240792](../../reports/3240792.md) | Reported RPC Overflow | Integer Overflow | — | — | 25 |
 | 17 | [3456148](../../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding  | — | — | — | 25 |
 | 18 | [3426417](../../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django via repeated headers leads to | — | — | — | 24 |
-| 19 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |
-| 20 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Improper Access Control - Generic | — | — | 23 |
+| 19 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Improper Access Control - Generic | — | — | 24 |
+| 20 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |
 | 21 | [3547349](../../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host | — | — | — | 18 |
 | 22 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
 
