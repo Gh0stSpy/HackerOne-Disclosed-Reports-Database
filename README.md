@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **183** |
+| Reports with full write-ups | **184** |
 | With a published bounty | 22 |
 | Total published bounties | **$44,698** |
-| Last updated | 2026-08-16 13:03 UTC |
-| Last pull | 2026-08-16T13:02:54+00:00 |
+| Last updated | 2026-08-16 18:48 UTC |
+| Last pull | 2026-08-16T18:48:44+00:00 |
 
 ## Browse
 
@@ -39,8 +39,8 @@ publicly disclosed finding.
 | Business Logic Errors | 6 |
 | Cross-site Scripting (XSS) - Stored | 5 |
 | Server-Side Request Forgery (SSRF) | 5 |
+| Improper Certificate Validation | 5 |
 | Improper Authentication - Generic | 4 |
-| Improper Certificate Validation | 4 |
 | Code Injection | 3 |
 
 ## Highest published bounties

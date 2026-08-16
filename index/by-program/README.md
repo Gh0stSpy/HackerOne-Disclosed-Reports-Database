@@ -5,7 +5,7 @@
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
 | [curl](curl.md) | 29 | — |
 | [AWS VDP](aws-vdp.md) | 14 | — |
-| [Monero](monero.md) | 13 | — |
+| [Monero](monero.md) | 14 | — |
 | [Nextcloud](nextcloud.md) | 10 | $600 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [Basecamp](basecamp.md) | 5 | $724 |

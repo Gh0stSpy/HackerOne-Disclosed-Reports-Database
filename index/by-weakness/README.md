@@ -9,8 +9,8 @@
 | [Business Logic Errors](business-logic-errors.md) | 6 | $350 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 5 | $337 |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 5 | — |
+| [Improper Certificate Validation](improper-certificate-validation.md) | 5 | — |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 4 | — |
-| [Improper Certificate Validation](improper-certificate-validation.md) | 4 | — |
 | [Code Injection](code-injection.md) | 3 | $19,000 |
 | [Path Traversal](path-traversal.md) | 3 | $5,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 3 | $600 |
@@ -42,8 +42,8 @@
 | [Incorrect Default Permissions](incorrect-default-permissions.md) | 1 | — |
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 1 | — |
 | [Insecure Default Initialization of Resource](insecure-default-initialization-of-resource.md) | 1 | — |
-| [Inclusion of Functionality from Untrusted Control Sphere](inclusion-of-functionality-from-untrusted-control-sphere.md) | 1 | — |
 | [NULL Pointer Dereference](null-pointer-dereference.md) | 1 | — |
+| [Inclusion of Functionality from Untrusted Control Sphere](inclusion-of-functionality-from-untrusted-control-sphere.md) | 1 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 1 | — |
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |
 | [CRLF Injection](crlf-injection.md) | 1 | — |
