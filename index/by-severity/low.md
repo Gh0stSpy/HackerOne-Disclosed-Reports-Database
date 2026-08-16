@@ -26,7 +26,7 @@
 | 20 | [3584903](../../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Incorrect Authorization | Low | — | 30 |
 | 21 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Uncontrolled Resource Consumption | Low | — | 28 |
 | 22 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
-| 23 | [3829030](../../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption | Violation of Secure Design Principles | Low | — | 26 |
+| 23 | [3829030](../../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption | Violation of Secure Design Principles | Low | — | 27 |
 | 24 | [3671818](../../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | Exposure of Data Element to Wrong Session | Low | — | 24 |
 | 25 | [3601655](../../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-spli | — | Low | — | 23 |
 | 26 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 17 |
