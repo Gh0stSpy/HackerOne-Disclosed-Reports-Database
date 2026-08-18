@@ -7,7 +7,7 @@
 | 1 | [3287208](../../reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API | — | — | $12,500 | 175 |
 | 2 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Improper Access Control - Generic | — | $100 | 56 |
 | 3 | [3447021](../../reports/3447021.md) | XSS Vulnerability on Pressable/Atomic Hosting Platform via unescaped admin notices leads t | — | — | — | 76 |
-| 4 | [3399016](../../reports/3399016.md) | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on c | Improper Null Termination | — | — | 64 |
+| 4 | [3399016](../../reports/3399016.md) | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on c | Improper Null Termination | — | — | 65 |
 | 5 | [3721519](../../reports/3721519.md) | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Li | Open Redirect | — | — | 64 |
 | 6 | [3424977](../../reports/3424977.md) | User enumeration via timing attack in Django mod_wsgi authentication backend leads to acco | — | — | — | 62 |
 | 7 | [3577145](../../reports/3577145.md) | QuickSight Authorization Bypass: Chat Agents Accessible Despite Custom Permissions Denial | — | — | — | 59 |
