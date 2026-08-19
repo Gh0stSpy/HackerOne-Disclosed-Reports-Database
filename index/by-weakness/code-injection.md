@@ -4,8 +4,8 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3782701](../../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) | Mozilla | Critical | $12,000 | 289 |
-| 2 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | HackerOne | High | $7,000 | 157 |
+| 1 | [3782701](../../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) | Mozilla | Critical | $12,000 | 292 |
+| 2 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | HackerOne | High | $7,000 | 158 |
 | 3 | [2701701](../../reports/2701701.md) | Injection in path parameter of Ingress-nginx | Kubernetes | High | — | 88 |
 
 ---

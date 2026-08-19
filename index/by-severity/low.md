@@ -22,8 +22,8 @@
 | 16 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Cross-site Scripting (XSS) - Stored | Low | — | 49 |
 | 17 | [2061982](../../reports/2061982.md) | Create account without auth via response manipulation | Business Logic Errors | Low | — | 40 |
 | 18 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Inclusion of Functionality from Untrusted Control Sphere | Low | — | 39 |
-| 19 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Improper Access Control - Generic | Low | — | 38 |
-| 20 | [3829030](../../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption | Violation of Secure Design Principles | Low | — | 38 |
+| 19 | [3829030](../../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption | Violation of Secure Design Principles | Low | — | 39 |
+| 20 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Improper Access Control - Generic | Low | — | 38 |
 | 21 | [3584903](../../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Incorrect Authorization | Low | — | 30 |
 | 22 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Uncontrolled Resource Consumption | Low | — | 28 |
 | 23 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
