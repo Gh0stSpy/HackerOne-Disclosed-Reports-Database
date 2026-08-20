@@ -10,7 +10,7 @@
 | 4 | [3507241](../../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized  | Business Logic Errors | Medium | $350 | 84 |
 | 5 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Improper Access Control - Generic | Medium | $287 | 101 |
 | 6 | [3400143](../../reports/3400143.md) | Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribu | Insufficiently Protected Credentials | Medium | $250 | 37 |
-| 7 | [3265780](../../reports/3265780.md) | Adding phone number to profile By OTP brute forcing | Insecure Storage of Sensitive Information | Medium | $100 | 100 |
+| 7 | [3265780](../../reports/3265780.md) | Adding phone number to profile By OTP brute forcing | Insecure Storage of Sensitive Information | Medium | $100 | 101 |
 | 8 | [3878586](../../reports/3878586.md) | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, | — | Medium | $100 | 62 |
 | 9 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Improper Access Control - Generic | Medium | — | 103 |
 | 10 | [3779690](../../reports/3779690.md) | Stored XSS in Rocket.Chat HTML File Export — Unauthenticated Entry via LiveChat | Cross-site Scripting (XSS) - Stored | Medium | — | 94 |
@@ -19,7 +19,7 @@
 | 13 | [3766455](../../reports/3766455.md) | Yelp for Business: locked Email field silently editable via API | Client-Side Enforcement of Server-Side Security | Medium | — | 73 |
 | 14 | [3599248](../../reports/3599248.md) | Bypass of Open Redirect Fix on lovable.dev via /..// Path Traversal in redirect parameter | Open Redirect | Medium | — | 72 |
 | 15 | [3168691](../../reports/3168691.md) | Residual Malicious Payloads on HackerOne after Vulnerability Fixes | Improper Input Validation | Medium | — | 70 |
-| 16 | [3370430](../../reports/3370430.md) | Users can change project visibility which requires high subscription by just changing requ | Improper Access Control - Generic | Medium | — | 68 |
+| 16 | [3370430](../../reports/3370430.md) | Users can change project visibility which requires high subscription by just changing requ | Improper Access Control - Generic | Medium | — | 69 |
 | 17 | [3780277](../../reports/3780277.md) | Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail R | Insufficient Logging | Medium | — | 68 |
 | 18 | [3580511](../../reports/3580511.md) | ActiveStorage Disk Service Path Traversal via Custom Blob Key Injection | Path Traversal | Medium | — | 57 |
 | 19 | [3486747](../../reports/3486747.md) | SVG filter primitives bypass remote image blocking, enabling email tracking without consen | Privacy Violation | Medium | — | 53 |
@@ -29,9 +29,9 @@
 | 23 | [3723248](../../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser | HTTP Request Smuggling | Medium | — | 48 |
 | 24 | [3632577](../../reports/3632577.md) | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protec | Incorrect Permission Assignment for Critical Resource | Medium | — | 47 |
 | 25 | [3443563](../../reports/3443563.md) | Roundcube Webmail Style Sanitizer can be bypassed using CSS Character Escapes | Information Disclosure | Medium | — | 46 |
-| 26 | [3590586](../../reports/3590586.md) | position: fixed !important bypasses CSS sanitizer's fixed-position mitigation, enabling fu | Resource Injection | Medium | — | 44 |
-| 27 | [3702072](../../reports/3702072.md) | bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, a | Insecure Default Initialization of Resource | Medium | — | 44 |
-| 28 | [3020021](../../reports/3020021.md) | [Vertical Privilege Escalation] User can Unapproved any Approved Translation at [/translat | Privilege Escalation | Medium | — | 43 |
+| 26 | [3020021](../../reports/3020021.md) | [Vertical Privilege Escalation] User can Unapproved any Approved Translation at [/translat | Privilege Escalation | Medium | — | 44 |
+| 27 | [3590586](../../reports/3590586.md) | position: fixed !important bypasses CSS sanitizer's fixed-position mitigation, enabling fu | Resource Injection | Medium | — | 44 |
+| 28 | [3702072](../../reports/3702072.md) | bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, a | Insecure Default Initialization of Resource | Medium | — | 44 |
 | 29 | [3183046](../../reports/3183046.md) | Cache Pollution via Unkeyed GET Parameters on www.omise.co | — | Medium | — | 43 |
 | 30 | [3620748](../../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 41 |
 | 31 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Cross-site Scripting (XSS) - Stored | Medium | — | 39 |

@@ -10,7 +10,7 @@
 | 4 | [3378540](../../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse | HackerOne | Low | — | 121 |
 | 5 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Khan Academy | Critical | — | 116 |
 | 6 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Omise | Medium | — | 103 |
-| 7 | [3370430](../../reports/3370430.md) | Users can change project visibility which requires high subscription by just changing requ | Lovable VDP | Medium | — | 68 |
+| 7 | [3370430](../../reports/3370430.md) | Users can change project visibility which requires high subscription by just changing requ | Lovable VDP | Medium | — | 69 |
 | 8 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Basecamp | Low | — | 53 |
 | 9 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Mozilla | Low | — | 38 |
 | 10 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 32 |
