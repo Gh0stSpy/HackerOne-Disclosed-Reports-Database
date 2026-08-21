@@ -66,34 +66,34 @@
 | 60 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 61 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 62 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 63 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 64 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 65 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 66 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 67 | [2750977](../../reports/2750977.md) | Cross-Site Scripting (XSS) Vulnerability via parameter c0-id + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 7 |
-| 68 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 69 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 70 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 71 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 72 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 7 |
-| 73 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
-| 74 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
-| 75 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
-| 76 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
-| 77 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 78 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 79 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 80 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 81 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 82 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 83 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
-| 84 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Information Disclosure | Medium | — | 6 |
-| 85 | [3819475](../../reports/3819475.md) | Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipie | — | Medium | — | 6 |
-| 86 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
-| 87 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 88 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 89 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 5 |
-| 90 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 5 |
+| 63 | [3819475](../../reports/3819475.md) | Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipie | — | Medium | — | 9 |
+| 64 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 65 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 66 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 67 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 68 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 8 |
+| 69 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Information Disclosure | Medium | — | 8 |
+| 70 | [2750977](../../reports/2750977.md) | Cross-Site Scripting (XSS) Vulnerability via parameter c0-id + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 7 |
+| 71 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 72 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 73 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 74 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 75 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
+| 76 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
+| 77 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
+| 78 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
+| 79 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 80 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 81 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 82 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 83 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 84 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 85 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
+| 86 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 6 |
+| 87 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
+| 88 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
+| 89 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
+| 90 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 5 |
 | 91 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
 | 92 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
 | 93 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
