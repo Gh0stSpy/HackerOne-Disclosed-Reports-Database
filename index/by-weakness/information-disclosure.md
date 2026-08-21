@@ -1,6 +1,6 @@
 # By weakness: Information Disclosure
 
-**8 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**9 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -11,7 +11,8 @@
 | 5 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | U.S. Dept Of Defense | Medium | — | 6 |
 | 6 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | U.S. Dept Of Defense | High | — | 6 |
 | 7 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | curl | Medium | — | 4 |
-| 8 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | curl | Low | — | 2 |
+| 8 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Monero | Medium | — | 2 |
+| 9 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | curl | Low | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

@@ -1,6 +1,6 @@
 # By weakness: Improper Access Control - Generic
 
-**12 reports** · published bounties $637 *(most programs don't publish an amount, so this undercounts)*
+**13 reports** · published bounties $637 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -16,6 +16,7 @@
 | 10 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 33 |
 | 11 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Monero | Low | — | 19 |
 | 12 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
+| 13 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Monero | High | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

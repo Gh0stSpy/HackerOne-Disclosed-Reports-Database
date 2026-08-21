@@ -3,15 +3,15 @@
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 28 | $1,600 |
-| [Improper Access Control - Generic](improper-access-control-generic.md) | 12 | $637 |
+| [Improper Access Control - Generic](improper-access-control-generic.md) | 13 | $637 |
+| [Information Disclosure](information-disclosure.md) | 9 | — |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
-| [Information Disclosure](information-disclosure.md) | 8 | — |
-| [Business Logic Errors](business-logic-errors.md) | 6 | $350 |
+| [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 6 | — |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 5 | $337 |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 5 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 5 | — |
-| [Code Injection](code-injection.md) | 3 | $19,000 |
+| [Code Injection](code-injection.md) | 4 | $19,000 |
 | [Path Traversal](path-traversal.md) | 3 | $5,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 3 | $600 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
