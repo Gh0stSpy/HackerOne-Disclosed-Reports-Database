@@ -12,7 +12,7 @@
 | 6 | [3558713](../../reports/3558713.md) | Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs` | OS Command Injection | High | — | 48 |
 | 7 | [3632577](../../reports/3632577.md) | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protec | Incorrect Permission Assignment for Critical Resource | Medium | — | 47 |
 | 8 | [3702072](../../reports/3702072.md) | bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, a | Insecure Default Initialization of Resource | Medium | — | 44 |
-| 9 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Inclusion of Functionality from Untrusted Control Sphere | Low | — | 41 |
+| 9 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Inclusion of Functionality from Untrusted Control Sphere | Low | — | 42 |
 | 10 | [3620748](../../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 41 |
 | 11 | [3738654](../../reports/3738654.md) | Firecracker Out-of-bounds Read/Write Local Privilege Escalation Vulnerability | Out-of-bounds Read | — | — | 33 |
 | 12 | [3620753](../../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 25 |
