@@ -2,7 +2,7 @@
 
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
-| [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 30 | $1,600 |
+| [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 31 | $1,600 |
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 13 | $637 |
 | [Information Disclosure](information-disclosure.md) | 9 | — |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
@@ -43,8 +43,8 @@
 | [Client-Side Enforcement of Server-Side Security](client-side-enforcement-of-server-side-security.md) | 1 | — |
 | [Improper Null Termination](improper-null-termination.md) | 1 | — |
 | [Incorrect Default Permissions](incorrect-default-permissions.md) | 1 | — |
-| [Insecure Default Initialization of Resource](insecure-default-initialization-of-resource.md) | 1 | — |
 | [NULL Pointer Dereference](null-pointer-dereference.md) | 1 | — |
+| [Insecure Default Initialization of Resource](insecure-default-initialization-of-resource.md) | 1 | — |
 | [Inclusion of Functionality from Untrusted Control Sphere](inclusion-of-functionality-from-untrusted-control-sphere.md) | 1 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 1 | — |
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |

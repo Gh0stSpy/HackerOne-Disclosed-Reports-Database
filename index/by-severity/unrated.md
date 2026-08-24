@@ -16,7 +16,7 @@
 | 10 | [3642600](../../reports/3642600.md) | Authorization header leak in ssrf_filter via cross-host redirect leads to credential theft | — | — | — | 40 |
 | 11 | [3185083](../../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset Attack | Privacy Violation | — | — | 39 |
 | 12 | [3524779](../../reports/3524779.md) | DoS via Unbounded Memory Allocation in sendWebStream on Fastify v5.7.0+ leads to OOM crash | — | — | — | 35 |
-| 13 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Improper Access Control - Generic | — | — | 34 |
+| 13 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Improper Access Control - Generic | — | — | 35 |
 | 14 | [3518571](../../reports/3518571.md) | Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure o | — | — | — | 33 |
 | 15 | [3738654](../../reports/3738654.md) | Firecracker Out-of-bounds Read/Write Local Privilege Escalation Vulnerability | Out-of-bounds Read | — | — | 33 |
 | 16 | [3717354](../../reports/3717354.md) | UI Consent Bypass via Comma Injection in `addAutoApproveTarget` — User-Approval Dialog and | LLM09:2025 Misinformation | — | — | 27 |

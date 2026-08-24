@@ -1,6 +1,6 @@
 # By weakness: Cross-site Scripting (XSS) - Reflected
 
-**30 reports** · published bounties $1,600 *(most programs don't publish an amount, so this undercounts)*
+**31 reports** · published bounties $1,600 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -34,6 +34,7 @@
 | 28 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Essity | High | — | 4 |
 | 29 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | U.S. Dept Of Defense | Medium | — | 3 |
 | 30 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Essity | High | — | 3 |
+| 31 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Ruby on Rails | Medium | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
