@@ -1,6 +1,6 @@
 # By weakness: Cross-site Scripting (XSS) - Reflected
 
-**28 reports** · published bounties $1,600 *(most programs don't publish an amount, so this undercounts)*
+**30 reports** · published bounties $1,600 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -31,7 +31,9 @@
 | 25 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | U.S. Dept Of Defense | Medium | — | 5 |
 | 26 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | U.S. Dept Of Defense | Medium | — | 4 |
 | 27 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | U.S. Dept Of Defense | Medium | — | 4 |
-| 28 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | U.S. Dept Of Defense | Medium | — | 3 |
+| 28 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Essity | High | — | 4 |
+| 29 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | U.S. Dept Of Defense | Medium | — | 3 |
+| 30 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Essity | High | — | 3 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

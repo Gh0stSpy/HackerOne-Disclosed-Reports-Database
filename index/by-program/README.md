@@ -6,6 +6,7 @@
 | [curl](curl.md) | 29 | — |
 | [Monero](monero.md) | 22 | — |
 | [AWS VDP](aws-vdp.md) | 14 | — |
+| [Essity](essity.md) | 12 | — |
 | [Nextcloud](nextcloud.md) | 10 | $600 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [Basecamp](basecamp.md) | 5 | $724 |
@@ -38,5 +39,5 @@
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
 | [RubyGems](rubygems.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
-| [Weblate](weblate.md) | 1 | — |
 | [Myndr](myndr.md) | 1 | — |
+| [Weblate](weblate.md) | 1 | — |
