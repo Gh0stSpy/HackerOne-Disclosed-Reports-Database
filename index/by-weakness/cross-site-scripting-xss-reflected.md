@@ -29,9 +29,9 @@
 | 23 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | U.S. Dept Of Defense | Medium | — | 6 |
 | 24 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | U.S. Dept Of Defense | Medium | — | 5 |
 | 25 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | U.S. Dept Of Defense | Medium | — | 5 |
-| 26 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | U.S. Dept Of Defense | Medium | — | 4 |
-| 27 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | U.S. Dept Of Defense | Medium | — | 4 |
-| 28 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Ruby on Rails | Medium | — | 4 |
+| 26 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Ruby on Rails | Medium | — | 5 |
+| 27 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | U.S. Dept Of Defense | Medium | — | 4 |
+| 28 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | U.S. Dept Of Defense | Medium | — | 4 |
 | 29 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Essity | High | — | 4 |
 | 30 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | U.S. Dept Of Defense | Medium | — | 3 |
 | 31 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Essity | High | — | 3 |
