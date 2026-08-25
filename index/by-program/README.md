@@ -24,8 +24,8 @@
 | [Yelp](yelp.md) | 2 | — |
 | [DuckDuckGo](duckduckgo.md) | 2 | — |
 | [Django](django.md) | 2 | — |
-| [Brave Software](brave-software.md) | 2 | — |
 | [phpBB](phpbb.md) | 2 | — |
+| [Brave Software](brave-software.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
 | [Discourse](discourse.md) | 1 | $1,024 |
 | [MetaMask](metamask.md) | 1 | $350 |
