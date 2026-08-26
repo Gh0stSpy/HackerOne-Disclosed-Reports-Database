@@ -17,11 +17,11 @@
 | 11 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | U.S. Dept Of Defense | Medium | — | 8 |
 | 12 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | U.S. Dept Of Defense | Medium | — | 8 |
 | 13 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | U.S. Dept Of Defense | Medium | — | 8 |
-| 14 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
-| 15 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
-| 16 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | U.S. Dept Of Defense | Medium | — | 7 |
-| 17 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
-| 18 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Ruby on Rails | Medium | — | 7 |
+| 14 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Ruby on Rails | Medium | — | 8 |
+| 15 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
+| 16 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
+| 17 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | U.S. Dept Of Defense | Medium | — | 7 |
+| 18 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
 | 19 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | U.S. Dept Of Defense | Medium | — | 6 |
 | 20 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | U.S. Dept Of Defense | Medium | — | 6 |
 | 21 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | U.S. Dept Of Defense | Medium | — | 6 |
