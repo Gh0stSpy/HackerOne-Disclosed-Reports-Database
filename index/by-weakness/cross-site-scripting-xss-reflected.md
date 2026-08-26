@@ -13,11 +13,11 @@
 | 7 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | U.S. Dept Of Defense | Medium | — | 9 |
 | 8 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | U.S. Dept Of Defense | Medium | — | 9 |
 | 9 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | U.S. Dept Of Defense | Medium | — | 9 |
-| 10 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | U.S. Dept Of Defense | Medium | — | 8 |
-| 11 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | U.S. Dept Of Defense | Medium | — | 8 |
-| 12 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | U.S. Dept Of Defense | Medium | — | 8 |
-| 13 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | U.S. Dept Of Defense | Medium | — | 8 |
-| 14 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Ruby on Rails | Medium | — | 8 |
+| 10 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Ruby on Rails | Medium | — | 9 |
+| 11 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | U.S. Dept Of Defense | Medium | — | 8 |
+| 12 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | U.S. Dept Of Defense | Medium | — | 8 |
+| 13 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | U.S. Dept Of Defense | Medium | — | 8 |
+| 14 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | U.S. Dept Of Defense | Medium | — | 8 |
 | 15 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
 | 16 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
 | 17 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | U.S. Dept Of Defense | Medium | — | 7 |
