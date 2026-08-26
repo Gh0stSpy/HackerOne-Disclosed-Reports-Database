@@ -1,6 +1,6 @@
 # By severity: Medium
 
-**103 reports** · published bounties $5,187 *(most programs don't publish an amount, so this undercounts)*
+**104 reports** · published bounties $5,187 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -105,8 +105,9 @@
 | 99 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Incorrect Permission Assignment for Critical Resource | Medium | — | 3 |
 | 100 | [3839914](../../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins | Missing Authorization | Medium | — | 3 |
 | 101 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
-| 102 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
-| 103 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
+| 102 | [3689633](../../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorizati | Insecure Direct Object Reference (IDOR) | Medium | — | 2 |
+| 103 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
+| 104 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

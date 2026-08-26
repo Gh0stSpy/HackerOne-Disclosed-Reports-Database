@@ -18,6 +18,7 @@
 | [CoinMate.io](coinmate-io.md) | 3 | $100 |
 | [arkadiyt-projects](arkadiyt-projects.md) | 3 | — |
 | [Node.js](node-js.md) | 3 | — |
+| [Discourse](discourse.md) | 2 | $1,024 |
 | [pixiv](pixiv.md) | 2 | $700 |
 | [Liberapay](liberapay.md) | 2 | $100 |
 | [Omise](omise.md) | 2 | — |
@@ -27,7 +28,6 @@
 | [phpBB](phpbb.md) | 2 | — |
 | [Brave Software](brave-software.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
-| [Discourse](discourse.md) | 1 | $1,024 |
 | [MetaMask](metamask.md) | 1 | $350 |
 | [Tor](tor.md) | 1 | $100 |
 | [LinkedIn](linkedin.md) | 1 | — |
