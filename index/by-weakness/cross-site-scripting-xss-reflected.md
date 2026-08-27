@@ -6,8 +6,8 @@
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Shopify | Medium | $1,600 | 98 |
 | 2 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | U.S. Dept Of Defense | Medium | — | 19 |
-| 3 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | U.S. Dept Of Defense | Medium | — | 11 |
-| 4 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Ruby on Rails | Medium | — | 11 |
+| 3 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Ruby on Rails | Medium | — | 12 |
+| 4 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | U.S. Dept Of Defense | Medium | — | 11 |
 | 5 | [3053220](../../reports/3053220.md) | XSS on ███ | U.S. Dept Of Defense | Medium | — | 10 |
 | 6 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | U.S. Dept Of Defense | Medium | — | 10 |
 | 7 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | U.S. Dept Of Defense | Medium | — | 9 |
