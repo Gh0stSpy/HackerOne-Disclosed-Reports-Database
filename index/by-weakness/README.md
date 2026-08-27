@@ -7,12 +7,13 @@
 | [Information Disclosure](information-disclosure.md) | 9 | — |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
+| [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 6 | $337 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 6 | — |
-| [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 5 | $337 |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 5 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 5 | — |
 | [Code Injection](code-injection.md) | 4 | $19,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 4 | $600 |
+| [SQL Injection](sql-injection.md) | 4 | — |
 | [Path Traversal](path-traversal.md) | 3 | $5,000 |
 | [Improper Input Validation](improper-input-validation.md) | 3 | $500 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
@@ -25,7 +26,6 @@
 | [Use After Free](use-after-free.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 3 | — |
-| [SQL Injection](sql-injection.md) | 3 | — |
 | [OS Command Injection](os-command-injection.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |

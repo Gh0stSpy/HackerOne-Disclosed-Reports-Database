@@ -8,15 +8,15 @@
 | 2 | [3620006](../../reports/3620006.md) | Wallet RPC Restricted-Mode Policy Bypass | Improper Authentication - Generic | High | — | 51 |
 | 3 | [3693636](../../reports/3693636.md) | wallet-rpc crash via malformed /gettransactions response (empty txs → vector::front() in c | NULL Pointer Dereference | High | — | 44 |
 | 4 | [3699522](../../reports/3699522.md) | `check_reserve_proof` counts duplicate entries: one output can inflate `total` | Business Logic Errors | Medium | — | 42 |
-| 5 | [3185083](../../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset Attack | Privacy Violation | — | — | 39 |
-| 6 | [3819475](../../reports/3819475.md) | Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipie | — | Medium | — | 38 |
+| 5 | [3819475](../../reports/3819475.md) | Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipie | — | Medium | — | 41 |
+| 6 | [3185083](../../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset Attack | Privacy Violation | — | — | 39 |
 | 7 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Improper Authentication - Generic | High | — | 37 |
 | 8 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Improper Access Control - Generic | High | — | 37 |
 | 9 | [3698862](../../reports/3698862.md) | `check_reserve_proof` sums RingCT ECDH amounts without checking the output commitment | Missing Required Cryptographic Step | Medium | — | 37 |
-| 10 | [3621606](../../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | CRLF Injection | Medium | — | 30 |
-| 11 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Information Disclosure | Medium | — | 30 |
-| 12 | [3700036](../../reports/3700036.md) | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned t | Missing Required Cryptographic Step | Medium | — | 28 |
-| 13 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 27 |
+| 10 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Information Disclosure | Medium | — | 31 |
+| 11 | [3621606](../../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | CRLF Injection | Medium | — | 30 |
+| 12 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 28 |
+| 13 | [3700036](../../reports/3700036.md) | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned t | Missing Required Cryptographic Step | Medium | — | 28 |
 | 14 | [3240792](../../reports/3240792.md) | Reported RPC Overflow | Integer Overflow | — | — | 25 |
 | 15 | [876530](../../reports/876530.md) | Remote node DOS | Uncontrolled Resource Consumption | Medium | — | 24 |
 | 16 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |

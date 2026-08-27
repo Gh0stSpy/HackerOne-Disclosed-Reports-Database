@@ -1,6 +1,6 @@
 # By program: Essity
 
-**12 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**14 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -13,9 +13,11 @@
 | 7 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 5 |
 | 8 | [3781785](../../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters | Improper Input Validation | High | — | 4 |
 | 9 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Cross-site Scripting (XSS) - Reflected | High | — | 4 |
-| 10 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Cross-site Scripting (XSS) - Reflected | High | — | 3 |
-| 11 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Incorrect Permission Assignment for Critical Resource | Medium | — | 3 |
-| 12 | [3839914](../../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins | Missing Authorization | Medium | — | 3 |
+| 10 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Cross-site Scripting (XSS) - Stored | Critical | — | 3 |
+| 11 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 3 |
+| 12 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Cross-site Scripting (XSS) - Reflected | High | — | 3 |
+| 13 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Incorrect Permission Assignment for Critical Resource | Medium | — | 3 |
+| 14 | [3839914](../../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins | Missing Authorization | Medium | — | 3 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

@@ -35,19 +35,19 @@
 | 29 | [3183046](../../reports/3183046.md) | Cache Pollution via Unkeyed GET Parameters on www.omise.co | — | Medium | — | 43 |
 | 30 | [3699522](../../reports/3699522.md) | `check_reserve_proof` counts duplicate entries: one output can inflate `total` | Business Logic Errors | Medium | — | 42 |
 | 31 | [3620748](../../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 41 |
-| 32 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Cross-site Scripting (XSS) - Stored | Medium | — | 39 |
-| 33 | [3819475](../../reports/3819475.md) | Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipie | — | Medium | — | 38 |
+| 32 | [3819475](../../reports/3819475.md) | Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipie | — | Medium | — | 41 |
+| 33 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Cross-site Scripting (XSS) - Stored | Medium | — | 39 |
 | 34 | [3697719](../../reports/3697719.md) | CVE-2026-7168: cross-proxy Digest auth state leak | Exposure of Data Element to Wrong Session | Medium | — | 37 |
 | 35 | [3698862](../../reports/3698862.md) | `check_reserve_proof` sums RingCT ECDH amounts without checking the output commitment | Missing Required Cryptographic Step | Medium | — | 37 |
 | 36 | [3590583](../../reports/3590583.md) | Unquoted body background attribute enables CSS injection that bypasses remote image blocki | Resource Injection | Medium | — | 34 |
 | 37 | [3591944](../../reports/3591944.md) | CVE-2026-3805: use after free in SMB connection reuse | Use After Free | Medium | — | 33 |
 | 38 | [3694390](../../reports/3694390.md) | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust | Improper Certificate Validation | Medium | — | 33 |
 | 39 | [3608558](../../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | Server-Side Request Forgery (SSRF) | Medium | — | 31 |
-| 40 | [3621606](../../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | CRLF Injection | Medium | — | 30 |
-| 41 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Information Disclosure | Medium | — | 30 |
+| 40 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Information Disclosure | Medium | — | 31 |
+| 41 | [3621606](../../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | CRLF Injection | Medium | — | 30 |
 | 42 | [3648681](../../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally Accepts Bare CR in Status | HTTP Request Smuggling | Medium | — | 28 |
-| 43 | [3700036](../../reports/3700036.md) | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned t | Missing Required Cryptographic Step | Medium | — | 28 |
-| 44 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 27 |
+| 43 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 28 |
+| 44 | [3700036](../../reports/3700036.md) | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned t | Missing Required Cryptographic Step | Medium | — | 28 |
 | 45 | [3590576](../../reports/3590576.md) | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loadin | Remote File Inclusion | Medium | — | 26 |
 | 46 | [3583983](../../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | Information Exposure Through Sent Data | Medium | — | 25 |
 | 47 | [3620753](../../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 25 |
@@ -63,16 +63,16 @@
 | 57 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
 | 58 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 18 |
 | 59 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 16 |
-| 60 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
-| 61 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
-| 62 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 63 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 64 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 65 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 66 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 67 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 68 | [3689633](../../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorizati | Insecure Direct Object Reference (IDOR) | Medium | — | 9 |
-| 69 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 60 | [3689633](../../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorizati | Insecure Direct Object Reference (IDOR) | Medium | — | 14 |
+| 61 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
+| 62 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
+| 63 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
+| 64 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
+| 65 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
+| 66 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 67 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 68 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 69 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 70 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
 | 71 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
 | 72 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
