@@ -9,7 +9,7 @@
 | 3 | [3606773](../../reports/3606773.md) | Stored XSS via SVG Upload — check_content() Blocklist Bypass & 256-Byte Scan Limit (Self-P | phpBB | Medium | — | 51 |
 | 4 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Tucows (VDP) | Low | — | 51 |
 | 5 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Nextcloud | Medium | — | 39 |
-| 6 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Essity | Critical | — | 9 |
+| 6 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Essity | Critical | — | 13 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
