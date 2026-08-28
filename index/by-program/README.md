@@ -27,6 +27,7 @@
 | [Django](django.md) | 2 | — |
 | [phpBB](phpbb.md) | 2 | — |
 | [Brave Software](brave-software.md) | 2 | — |
+| [WordPress](wordpress.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
 | [MetaMask](metamask.md) | 1 | $350 |
 | [Tor](tor.md) | 1 | $100 |

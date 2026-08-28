@@ -7,14 +7,14 @@
 | [Information Disclosure](information-disclosure.md) | 9 | — |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
-| [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 6 | $337 |
+| [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 7 | $337 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 6 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 5 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 5 | — |
 | [Code Injection](code-injection.md) | 4 | $19,000 |
+| [Path Traversal](path-traversal.md) | 4 | $5,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 4 | $600 |
 | [SQL Injection](sql-injection.md) | 4 | — |
-| [Path Traversal](path-traversal.md) | 3 | $5,000 |
 | [Improper Input Validation](improper-input-validation.md) | 3 | $500 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |

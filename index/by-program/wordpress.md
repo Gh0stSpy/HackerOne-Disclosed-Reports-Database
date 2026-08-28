@@ -4,8 +4,8 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [2999394](../../reports/2999394.md) | Pivilege escalation of any new user to Keymaster caused by CSRF | Privilege Escalation | Medium | — | 61 |
-| 2 | [1927360](../../reports/1927360.md) | Previously created sessions continue being valid after 2FA activation | Improper Access Control - Generic | Low | — | 12 |
+| 1 | [3931777](../../reports/3931777.md) | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/< | Path Traversal | Critical | — | 3 |
+| 2 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
