@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3279441](../../reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unicode Homoglyphs on add | Improper Input Validation | Low | $500 | 92 |
+| 1 | [3279441](../../reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unicode Homoglyphs on add | Improper Input Validation | Low | $500 | 93 |
 | 2 | [3581911](../../reports/3581911.md) | Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass | Cross-site Scripting (XSS) - Stored | Low | $337 | 84 |
 | 3 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Improper Access Control - Generic | Low | $250 | 46 |
 | 4 | [3556892](../../reports/3556892.md) | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger | — | Low | $200 | 90 |
