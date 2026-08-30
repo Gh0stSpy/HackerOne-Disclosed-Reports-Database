@@ -4,8 +4,8 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | Essity | Critical | — | 19 |
-| 2 | [3873072](../../reports/3873072.md) | Unauthenticated SQL Injection via REST Batch Route Confusion ████████ | Essity | Critical | — | 8 |
+| 1 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | Essity | Critical | — | 20 |
+| 2 | [3873072](../../reports/3873072.md) | Unauthenticated SQL Injection via REST Batch Route Confusion ████████ | Essity | Critical | — | 9 |
 | 3 | [3809973](../../reports/3809973.md) | Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) | Essity | Critical | — | 7 |
 | 4 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | U.S. Dept Of Defense | Medium | — | 6 |
 
