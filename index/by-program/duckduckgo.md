@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3619288](../../reports/3619288.md) | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.ym | — | Critical | — | 65 |
+| 1 | [3619288](../../reports/3619288.md) | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.ym | — | Critical | — | 66 |
 | 2 | [3619287](../../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.ym | — | Critical | — | 41 |
 
 ---

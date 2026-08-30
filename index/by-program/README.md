@@ -9,7 +9,7 @@
 | [Essity](essity.md) | 14 | — |
 | [Nextcloud](nextcloud.md) | 10 | $600 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
-| [Basecamp](basecamp.md) | 5 | $724 |
+| [Basecamp](basecamp.md) | 5 | $437 |
 | [HackerOne](hackerone.md) | 4 | $19,500 |
 | [PortSwigger Web Security](portswigger-web-security.md) | 4 | $5,400 |
 | [Rocket.Chat](rocket-chat.md) | 4 | — |
@@ -27,6 +27,7 @@
 | [Django](django.md) | 2 | — |
 | [phpBB](phpbb.md) | 2 | — |
 | [Brave Software](brave-software.md) | 2 | — |
+| [Weblate](weblate.md) | 2 | — |
 | [WordPress](wordpress.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
 | [MetaMask](metamask.md) | 1 | $350 |
@@ -41,4 +42,3 @@
 | [RubyGems](rubygems.md) | 1 | — |
 | [Myndr](myndr.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
-| [Weblate](weblate.md) | 1 | — |
