@@ -7,7 +7,7 @@
 | 1 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Nextcloud | Low | $250 | 46 |
 | 2 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Nextcloud | — | $100 | 56 |
 | 3 | [3378540](../../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse | HackerOne | Low | — | 121 |
-| 4 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Khan Academy | Critical | — | 119 |
+| 4 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Khan Academy | Critical | — | 120 |
 | 5 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Omise | Medium | — | 104 |
 | 6 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Basecamp | Medium | — | 101 |
 | 7 | [3370430](../../reports/3370430.md) | Users can change project visibility which requires high subscription by just changing requ | Lovable VDP | Medium | — | 69 |
