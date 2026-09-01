@@ -4,9 +4,9 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3712279](../../reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through | PortSwigger Web Security | High | $5,000 | 166 |
+| 1 | [3712279](../../reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through | PortSwigger Web Security | High | $5,000 | 167 |
 | 2 | [3580511](../../reports/3580511.md) | ActiveStorage Disk Service Path Traversal via Custom Blob Key Injection | Ruby on Rails | Medium | — | 57 |
-| 3 | [3931777](../../reports/3931777.md) | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/< | WordPress | Critical | — | 28 |
+| 3 | [3931777](../../reports/3931777.md) | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/< | WordPress | Critical | — | 29 |
 | 4 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | arkadiyt-projects | Medium | — | 21 |
 
 ---
