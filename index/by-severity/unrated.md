@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3287208](../../reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API | — | — | $12,500 | 177 |
+| 1 | [3287208](../../reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API | — | — | $12,500 | 178 |
 | 2 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Improper Access Control - Generic | — | $100 | 56 |
 | 3 | [3447021](../../reports/3447021.md) | XSS Vulnerability on Pressable/Atomic Hosting Platform via unescaped admin notices leads t | — | — | — | 76 |
 | 4 | [3399016](../../reports/3399016.md) | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on c | Improper Null Termination | — | — | 65 |
