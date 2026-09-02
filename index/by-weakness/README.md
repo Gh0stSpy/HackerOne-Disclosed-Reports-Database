@@ -59,8 +59,8 @@
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Buffer Over-read](buffer-over-read.md) | 1 | — |
-| [Missing Authorization](missing-authorization.md) | 1 | — |
 | [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
+| [Missing Authorization](missing-authorization.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
