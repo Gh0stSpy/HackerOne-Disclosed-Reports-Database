@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to Rockstar Games' workspaces | Improper Access Control - Generic | High | — | 5 |
+| 1 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to Rockstar Games' workspaces | Improper Access Control - Generic | High | — | 13 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
