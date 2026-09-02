@@ -15,13 +15,13 @@
 | 9 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
 | 10 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
 | 11 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
-| 12 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
-| 13 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 8 |
+| 12 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 9 |
+| 13 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
 | 14 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
 | 15 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
-| 16 | [3788931](../../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Allocation of Resources Without Limits or Throttling | Low | — | 6 |
-| 17 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
-| 18 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 5 |
+| 16 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 7 |
+| 17 | [3788931](../../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Allocation of Resources Without Limits or Throttling | Low | — | 6 |
+| 18 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
 | 19 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
 | 20 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Business Logic Errors | Low | — | 3 |
 | 21 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |

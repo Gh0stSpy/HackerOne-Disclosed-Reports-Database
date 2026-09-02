@@ -83,21 +83,21 @@
 | 77 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
 | 78 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
 | 79 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 80 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
-| 81 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
-| 82 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
-| 83 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
-| 84 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 85 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 86 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 87 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 88 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 89 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 90 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
-| 91 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
-| 92 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 93 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 94 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 5 |
+| 80 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 7 |
+| 81 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
+| 82 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
+| 83 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
+| 84 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
+| 85 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 86 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 87 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 88 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 89 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 90 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 91 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
+| 92 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
+| 93 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
+| 94 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
 | 95 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
 | 96 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
 | 97 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
