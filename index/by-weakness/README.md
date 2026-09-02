@@ -9,11 +9,12 @@
 | [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 7 | $337 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 6 | — |
+| [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 6 | — |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 5 | $600 |
-| [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 5 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 5 | — |
 | [Code Injection](code-injection.md) | 4 | $19,000 |
 | [Path Traversal](path-traversal.md) | 4 | $5,000 |
+| [Use After Free](use-after-free.md) | 4 | — |
 | [SQL Injection](sql-injection.md) | 4 | — |
 | [Improper Input Validation](improper-input-validation.md) | 3 | $500 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
@@ -23,7 +24,6 @@
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
-| [Use After Free](use-after-free.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 3 | — |
 | [OS Command Injection](os-command-injection.md) | 2 | — |
@@ -60,6 +60,7 @@
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Buffer Over-read](buffer-over-read.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
+| [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
