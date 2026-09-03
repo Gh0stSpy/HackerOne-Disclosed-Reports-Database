@@ -14,7 +14,7 @@
 | 8 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | curl | Medium | — | 4 |
 | 9 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | curl | Low | — | 2 |
 | 10 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Monero | Low | — | 1 |
-| 11 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | curl | — | — | 0 |
+| 11 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | curl | — | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
