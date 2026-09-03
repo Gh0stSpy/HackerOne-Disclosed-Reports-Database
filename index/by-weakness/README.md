@@ -4,20 +4,20 @@
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 31 | $1,600 |
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 14 | $350 |
-| [Information Disclosure](information-disclosure.md) | 10 | — |
+| [Information Disclosure](information-disclosure.md) | 11 | — |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 7 | $337 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 6 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 6 | — |
+| [Improper Certificate Validation](improper-certificate-validation.md) | 6 | — |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 5 | $600 |
-| [Improper Certificate Validation](improper-certificate-validation.md) | 5 | — |
+| [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 5 | — |
 | [Code Injection](code-injection.md) | 4 | $19,000 |
 | [Path Traversal](path-traversal.md) | 4 | $5,000 |
+| [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
 | [Use After Free](use-after-free.md) | 4 | — |
 | [SQL Injection](sql-injection.md) | 4 | — |
-| [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 4 | — |
-| [Improper Input Validation](improper-input-validation.md) | 3 | $500 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
@@ -53,8 +53,8 @@
 | [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
 | [Integer Overflow](integer-overflow.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
-| [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
 | [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
+| [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 1 | — |
