@@ -5,7 +5,7 @@
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3507241](../../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized  | MetaMask | Medium | $350 | 85 |
-| 2 | [3591764](../../reports/3591764.md) | Business Logic Bypass Allows Setting “Read Access” Role Without Pro Plan Subscription | Lovable VDP | Medium | — | 76 |
+| 2 | [3591764](../../reports/3591764.md) | Business Logic Bypass Allows Setting “Read Access” Role Without Pro Plan Subscription | Lovable VDP | Medium | — | 77 |
 | 3 | [3426839](../../reports/3426839.md) | Unlimited Reuse of Coupon Code Allows Free Shipping on All Orders on ██████████ | AWS VDP | Low | — | 68 |
 | 4 | [3699522](../../reports/3699522.md) | `check_reserve_proof` counts duplicate entries: one output can inflate `total` | Monero | Medium | — | 42 |
 | 5 | [2061982](../../reports/2061982.md) | Create account without auth via response manipulation | U.S. Dept Of Defense | Low | — | 40 |

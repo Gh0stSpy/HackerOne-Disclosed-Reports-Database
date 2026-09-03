@@ -3,8 +3,8 @@
 | By program | Reports | Published bounties |
 |:--|--:|--:|
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
-| [curl](curl.md) | 31 | — |
-| [Monero](monero.md) | 22 | — |
+| [curl](curl.md) | 32 | — |
+| [Monero](monero.md) | 23 | — |
 | [AWS VDP](aws-vdp.md) | 14 | — |
 | [Essity](essity.md) | 14 | — |
 | [Nextcloud](nextcloud.md) | 10 | $600 |

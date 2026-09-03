@@ -1,6 +1,6 @@
 # By severity: Low
 
-**45 reports** · published bounties $1,887 *(most programs don't publish an amount, so this undercounts)*
+**47 reports** · published bounties $1,887 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -34,8 +34,8 @@
 | 28 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | Information Disclosure | Low | — | 14 |
 | 29 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
 | 30 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
-| 31 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
-| 32 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 9 |
+| 31 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 10 |
+| 32 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
 | 33 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
 | 34 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
 | 35 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
@@ -48,7 +48,9 @@
 | 42 | [3718195](../../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | — | Low | — | 2 |
 | 43 | [3721183](../../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Authentication Bypass by Primary Weakness | Low | — | 2 |
 | 44 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Information Disclosure | Low | — | 2 |
-| 45 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
+| 45 | [3822248](../../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Authentication Bypass by Primary Weakness | Low | — | 2 |
+| 46 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
+| 47 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Information Disclosure | Low | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

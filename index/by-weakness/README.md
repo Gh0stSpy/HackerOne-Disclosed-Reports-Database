@@ -4,7 +4,7 @@
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 31 | $1,600 |
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 14 | $350 |
-| [Information Disclosure](information-disclosure.md) | 9 | — |
+| [Information Disclosure](information-disclosure.md) | 10 | — |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 7 | $337 |
@@ -16,6 +16,7 @@
 | [Path Traversal](path-traversal.md) | 4 | $5,000 |
 | [Use After Free](use-after-free.md) | 4 | — |
 | [SQL Injection](sql-injection.md) | 4 | — |
+| [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 4 | — |
 | [Improper Input Validation](improper-input-validation.md) | 3 | $500 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
@@ -25,7 +26,6 @@
 | [Resource Injection](resource-injection.md) | 3 | — |
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
-| [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 3 | — |
 | [OS Command Injection](os-command-injection.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
@@ -54,9 +54,9 @@
 | [Integer Overflow](integer-overflow.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
+| [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
-| [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Buffer Over-read](buffer-over-read.md) | 1 | — |

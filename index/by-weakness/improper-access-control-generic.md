@@ -12,10 +12,10 @@
 | 6 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Basecamp | Medium | — | 101 |
 | 7 | [3370430](../../reports/3370430.md) | Users can change project visibility which requires high subscription by just changing requ | Lovable VDP | Medium | — | 69 |
 | 8 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Basecamp | Low | — | 53 |
-| 9 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Monero | High | — | 39 |
+| 9 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Monero | High | — | 40 |
 | 10 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Mozilla | Low | — | 38 |
 | 11 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 36 |
-| 12 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Rockstar Games | High | — | 20 |
+| 12 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Rockstar Games | High | — | 24 |
 | 13 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Monero | Low | — | 20 |
 | 14 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
 
