@@ -21,6 +21,7 @@
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
+| [Privacy Violation](privacy-violation.md) | 3 | — |
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 3 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
@@ -29,7 +30,6 @@
 | [OS Command Injection](os-command-injection.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
-| [Privacy Violation](privacy-violation.md) | 2 | — |
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 2 | — |
 | [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
@@ -60,8 +60,8 @@
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Buffer Over-read](buffer-over-read.md) | 1 | — |
-| [Missing Authorization](missing-authorization.md) | 1 | — |
 | [Stack Overflow](stack-overflow.md) | 1 | — |
+| [Missing Authorization](missing-authorization.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |

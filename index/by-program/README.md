@@ -7,7 +7,7 @@
 | [Monero](monero.md) | 23 | — |
 | [AWS VDP](aws-vdp.md) | 14 | — |
 | [Essity](essity.md) | 14 | — |
-| [Nextcloud](nextcloud.md) | 10 | $600 |
+| [Nextcloud](nextcloud.md) | 11 | $600 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [Basecamp](basecamp.md) | 5 | $437 |
 | [Weblate](weblate.md) | 5 | — |
