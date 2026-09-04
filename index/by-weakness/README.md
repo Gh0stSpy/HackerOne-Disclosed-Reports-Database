@@ -4,8 +4,8 @@
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 31 | $1,600 |
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 14 | $350 |
-| [Information Disclosure](information-disclosure.md) | 11 | — |
-| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 8 | $1,124 |
+| [Information Disclosure](information-disclosure.md) | 12 | — |
+| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 9 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 7 | $337 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 6 | — |
@@ -61,7 +61,7 @@
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Buffer Over-read](buffer-over-read.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
+| [Stack Overflow](stack-overflow.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
-| [Stack Overflow](stack-overflow.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
