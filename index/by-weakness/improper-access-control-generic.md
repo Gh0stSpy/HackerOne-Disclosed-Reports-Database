@@ -15,7 +15,7 @@
 | 9 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Monero | High | — | 40 |
 | 10 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Mozilla | Low | — | 38 |
 | 11 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 36 |
-| 12 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Rockstar Games | High | — | 27 |
+| 12 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Rockstar Games | High | — | 29 |
 | 13 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Monero | Low | — | 20 |
 | 14 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
 

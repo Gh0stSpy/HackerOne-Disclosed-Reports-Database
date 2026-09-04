@@ -43,3 +43,4 @@
 | [Myndr](myndr.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
 | [Rockstar Games](rockstar-games.md) | 1 | — |
+| [MariaDB](mariadb.md) | 1 | — |
