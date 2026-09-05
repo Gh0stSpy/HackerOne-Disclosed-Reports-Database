@@ -8,7 +8,7 @@
 | 2 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Improper Access Control - Generic | — | $100 | 56 |
 | 3 | [3447021](../../reports/3447021.md) | XSS Vulnerability on Pressable/Atomic Hosting Platform via unescaped admin notices leads t | — | — | — | 76 |
 | 4 | [3399016](../../reports/3399016.md) | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on c | Improper Null Termination | — | — | 65 |
-| 5 | [3721519](../../reports/3721519.md) | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Li | Open Redirect | — | — | 64 |
+| 5 | [3721519](../../reports/3721519.md) | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Li | Open Redirect | — | — | 65 |
 | 6 | [3424977](../../reports/3424977.md) | User enumeration via timing attack in Django mod_wsgi authentication backend leads to acco | — | — | — | 62 |
 | 7 | [3577145](../../reports/3577145.md) | QuickSight Authorization Bypass: Chat Agents Accessible Despite Custom Permissions Denial | — | — | — | 59 |
 | 8 | [3581815](../../reports/3581815.md) | Open Redirect on lovable.dev via redirect parameter leads to phishing attacks | — | — | — | 44 |
@@ -25,8 +25,8 @@
 | 19 | [3426417](../../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django via repeated headers leads to | — | — | — | 24 |
 | 20 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |
 | 21 | [3547349](../../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host | — | — | — | 18 |
-| 22 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | Information Disclosure | — | — | 10 |
-| 23 | [3969255](../../reports/3969255.md) | CVE-2026-80229: OpenSSL provider use-after-free | — | — | — | 6 |
+| 22 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | Information Disclosure | — | — | 11 |
+| 23 | [3969255](../../reports/3969255.md) | CVE-2026-80229: OpenSSL provider use-after-free | — | — | — | 7 |
 | 24 | [3969300](../../reports/3969300.md) | CVE-2026-80230: OpenSSL pinning bypass | — | — | — | 6 |
 | 25 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
 | 26 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 2 |
