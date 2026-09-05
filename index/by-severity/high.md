@@ -5,7 +5,7 @@
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | Code Injection | High | $7,000 | 162 |
-| 2 | [3712279](../../reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through | Path Traversal | High | $5,000 | 168 |
+| 2 | [3712279](../../reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through | Path Traversal | High | $5,000 | 169 |
 | 3 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Uncontrolled Resource Consumption | High | $1,024 | 92 |
 | 4 | [3475626](../../reports/3475626.md) | Session Cookie Leakage via Static Header Field in WebViewerFragment | Misconfiguration | High | — | 128 |
 | 5 | [3637898](../../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (S | OS Command Injection | High | — | 110 |
@@ -23,14 +23,14 @@
 | 17 | [3473145](../../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding | Server-Side Request Forgery (SSRF) | High | — | 28 |
 | 18 | [3393664](../../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the link-preview feature | Server-Side Request Forgery (SSRF) | High | — | 26 |
 | 19 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | Insecure Direct Object Reference (IDOR) | High | — | 25 |
-| 20 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 24 |
+| 20 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 25 |
 | 21 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
 | 22 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
-| 23 | [3242830](../../reports/3242830.md) | Critical PII Data Exposure in ORDER_ERROR_LOG | Cleartext Storage of Sensitive Information | High | — | 7 |
-| 24 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | Information Disclosure | High | — | 6 |
-| 25 | [3686259](../../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wa | Improper Certificate Validation | High | — | 6 |
-| 26 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 6 |
-| 27 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 6 |
+| 23 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 9 |
+| 24 | [3242830](../../reports/3242830.md) | Critical PII Data Exposure in ORDER_ERROR_LOG | Cleartext Storage of Sensitive Information | High | — | 7 |
+| 25 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | Information Disclosure | High | — | 6 |
+| 26 | [3686259](../../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wa | Improper Certificate Validation | High | — | 6 |
+| 27 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 6 |
 | 28 | [3781785](../../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters | Improper Input Validation | High | — | 4 |
 | 29 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Cross-site Scripting (XSS) - Reflected | High | — | 4 |
 | 30 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Cross-site Scripting (XSS) - Reflected | High | — | 3 |

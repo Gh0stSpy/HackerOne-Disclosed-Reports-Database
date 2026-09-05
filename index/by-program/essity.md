@@ -4,8 +4,8 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Cross-site Scripting (XSS) - Stored | Critical | — | 39 |
-| 2 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 30 |
+| 1 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Cross-site Scripting (XSS) - Stored | Critical | — | 40 |
+| 2 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 31 |
 | 3 | [3589269](../../reports/3589269.md) | HTTP Request Smuggling | HTTP Request Smuggling | Critical | — | 12 |
 | 4 | [3873072](../../reports/3873072.md) | Unauthenticated SQL Injection via REST Batch Route Confusion ████████ | SQL Injection | Critical | — | 11 |
 | 5 | [3584078](../../reports/3584078.md) | ████████ ████████ Server Full Exposure with Database Credentials | Information Exposure Through Directory Listing | Critical | — | 10 |

@@ -17,7 +17,7 @@
 | 11 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
 | 12 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
 | 13 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 12 |
-| 14 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | Information Disclosure | — | — | 9 |
+| 14 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | Information Disclosure | — | — | 10 |
 | 15 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
 | 16 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 8 |
 | 17 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
@@ -42,7 +42,7 @@
 | 36 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
 | 37 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 2 |
 | 38 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
-| 39 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 0 |
+| 39 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

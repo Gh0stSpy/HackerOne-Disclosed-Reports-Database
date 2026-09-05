@@ -8,7 +8,7 @@
 | 2 | [3581911](../../reports/3581911.md) | Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass | Cross-site Scripting (XSS) - Stored | Low | $337 | 84 |
 | 3 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Improper Access Control - Generic | Low | $250 | 46 |
 | 4 | [3556892](../../reports/3556892.md) | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger | — | Low | $200 | 90 |
-| 5 | [3625600](../../reports/3625600.md) | Out of scope: Improper Input Validation Order on /api-internal/login via password field le | — | Low | $200 | 89 |
+| 5 | [3625600](../../reports/3625600.md) | Out of scope: Improper Input Validation Order on /api-internal/login via password field le | — | Low | $200 | 90 |
 | 6 | [2119892](../../reports/2119892.md) | clickjacing can lead to account takeover | UI Redressing (Clickjacking) | Low | $200 | 70 |
 | 7 | [3467641](../../reports/3467641.md) | Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to i | Insecure Direct Object Reference (IDOR) | Low | $100 | 72 |
 | 8 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Uncontrolled Resource Consumption | Low | $100 | 35 |
