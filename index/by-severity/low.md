@@ -8,7 +8,7 @@
 | 2 | [3581911](../../reports/3581911.md) | Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass | Cross-site Scripting (XSS) - Stored | Low | $337 | 84 |
 | 3 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Improper Access Control - Generic | Low | $250 | 46 |
 | 4 | [3556892](../../reports/3556892.md) | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger | — | Low | $200 | 90 |
-| 5 | [3625600](../../reports/3625600.md) | Out of scope: Improper Input Validation Order on /api-internal/login via password field le | — | Low | $200 | 88 |
+| 5 | [3625600](../../reports/3625600.md) | Out of scope: Improper Input Validation Order on /api-internal/login via password field le | — | Low | $200 | 89 |
 | 6 | [2119892](../../reports/2119892.md) | clickjacing can lead to account takeover | UI Redressing (Clickjacking) | Low | $200 | 70 |
 | 7 | [3467641](../../reports/3467641.md) | Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to i | Insecure Direct Object Reference (IDOR) | Low | $100 | 72 |
 | 8 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Uncontrolled Resource Consumption | Low | $100 | 35 |
@@ -40,9 +40,9 @@
 | 34 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
 | 35 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
 | 36 | [3788931](../../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Allocation of Resources Without Limits or Throttling | Low | — | 6 |
-| 37 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
-| 38 | [3969368](../../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | — | Low | — | 5 |
-| 39 | [3822248](../../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Authentication Bypass by Primary Weakness | Low | — | 4 |
+| 37 | [3822248](../../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Authentication Bypass by Primary Weakness | Low | — | 6 |
+| 38 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
+| 39 | [3969368](../../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | — | Low | — | 5 |
 | 40 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Business Logic Errors | Low | — | 3 |
 | 41 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | Use After Free | Low | — | 3 |
 | 42 | [3752888](../../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | Improper Certificate Validation | Low | — | 3 |

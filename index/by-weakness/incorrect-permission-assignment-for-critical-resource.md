@@ -5,7 +5,7 @@
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3632577](../../reports/3632577.md) | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protec | AWS VDP | Medium | — | 47 |
-| 2 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Essity | Medium | — | 4 |
+| 2 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Essity | Medium | — | 5 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

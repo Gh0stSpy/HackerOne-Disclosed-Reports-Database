@@ -8,8 +8,8 @@
 | 2 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Monero | Medium | — | 32 |
 | 3 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | U.S. Dept Of Defense | Low | — | 28 |
 | 4 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | U.S. Dept Of Defense | Low | — | 14 |
-| 5 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | curl | — | — | 9 |
-| 6 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Weblate | Medium | — | 8 |
+| 5 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Weblate | Medium | — | 9 |
+| 6 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | curl | — | — | 9 |
 | 7 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | U.S. Dept Of Defense | Medium | — | 6 |
 | 8 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | U.S. Dept Of Defense | Medium | — | 6 |
 | 9 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | U.S. Dept Of Defense | High | — | 6 |

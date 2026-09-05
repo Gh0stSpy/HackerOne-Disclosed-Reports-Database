@@ -7,7 +7,7 @@
 | 1 | [3869124](../../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer billing information** | Insecure Direct Object Reference (IDOR) | High | — | 58 |
 | 2 | [3518571](../../reports/3518571.md) | Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure o | — | — | — | 33 |
 | 3 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 24 |
-| 4 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 8 |
+| 4 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 9 |
 | 5 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 6 |
 
 ---
