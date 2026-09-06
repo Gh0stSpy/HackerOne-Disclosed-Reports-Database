@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3726887](../../reports/3726887.md) | Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to A | Essity | Critical | — | 7 |
+| 1 | [3726887](../../reports/3726887.md) | Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to A | Essity | Critical | — | 8 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

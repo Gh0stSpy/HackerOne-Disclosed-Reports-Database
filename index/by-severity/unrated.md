@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3287208](../../reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API | — | — | $12,500 | 178 |
+| 1 | [3287208](../../reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Verification API | — | — | $12,500 | 179 |
 | 2 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Improper Access Control - Generic | — | $100 | 56 |
 | 3 | [3447021](../../reports/3447021.md) | XSS Vulnerability on Pressable/Atomic Hosting Platform via unescaped admin notices leads t | — | — | — | 76 |
 | 4 | [3399016](../../reports/3399016.md) | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on c | Improper Null Termination | — | — | 65 |
@@ -17,7 +17,7 @@
 | 11 | [3185083](../../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset Attack | Privacy Violation | — | — | 39 |
 | 12 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Improper Access Control - Generic | — | — | 36 |
 | 13 | [3524779](../../reports/3524779.md) | DoS via Unbounded Memory Allocation in sendWebStream on Fastify v5.7.0+ leads to OOM crash | — | — | — | 35 |
-| 14 | [3518571](../../reports/3518571.md) | Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure o | — | — | — | 33 |
+| 14 | [3518571](../../reports/3518571.md) | Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure o | — | — | — | 34 |
 | 15 | [3738654](../../reports/3738654.md) | Firecracker Out-of-bounds Read/Write Local Privilege Escalation Vulnerability | Out-of-bounds Read | — | — | 33 |
 | 16 | [3717354](../../reports/3717354.md) | UI Consent Bypass via Comma Injection in `addAutoApproveTarget` — User-Approval Dialog and | LLM09:2025 Misinformation | — | — | 27 |
 | 17 | [3240792](../../reports/3240792.md) | Reported RPC Overflow | Integer Overflow | — | — | 25 |
