@@ -8,7 +8,7 @@
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 9 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 7 | $337 |
-| [Improper Authentication - Generic](improper-authentication-generic.md) | 6 | — |
+| [Improper Authentication - Generic](improper-authentication-generic.md) | 7 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 6 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 6 | — |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 5 | $600 |
@@ -54,8 +54,8 @@
 | [Integer Overflow](integer-overflow.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
-| [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
 | [Stack Overflow](stack-overflow.md) | 1 | — |
+| [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 1 | — |

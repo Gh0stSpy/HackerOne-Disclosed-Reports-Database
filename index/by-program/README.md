@@ -40,7 +40,8 @@
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
 | [RubyGems](rubygems.md) | 1 | — |
-| [Myndr](myndr.md) | 1 | — |
 | [Rockstar Games](rockstar-games.md) | 1 | — |
+| [Myndr](myndr.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
 | [MariaDB](mariadb.md) | 1 | — |
+| [Equifax-vdp](equifax-vdp.md) | 1 | — |
