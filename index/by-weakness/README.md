@@ -3,12 +3,12 @@
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 31 | $1,600 |
-| [Improper Access Control - Generic](improper-access-control-generic.md) | 14 | $350 |
+| [Improper Access Control - Generic](improper-access-control-generic.md) | 15 | $350 |
 | [Information Disclosure](information-disclosure.md) | 12 | — |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 9 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
+| [Improper Authentication - Generic](improper-authentication-generic.md) | 8 | — |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 7 | $337 |
-| [Improper Authentication - Generic](improper-authentication-generic.md) | 7 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 6 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 6 | — |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 5 | $600 |
@@ -65,3 +65,5 @@
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
+| [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
+| [Heap Overflow](heap-overflow.md) | 1 | — |

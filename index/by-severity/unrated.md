@@ -1,6 +1,6 @@
 # By severity: Unrated
 
-**27 reports** · published bounties $12,600 *(most programs don't publish an amount, so this undercounts)*
+**29 reports** · published bounties $12,600 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -31,6 +31,8 @@
 | 25 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
 | 26 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 2 |
 | 27 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
+| 28 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | — | — | 0 |
+| 29 | [3897588](../../reports/3897588.md) | KILL authorization trusts the presented login name instead of the authenticated anonymous  | Incorrect Calculation of Buffer Size | — | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

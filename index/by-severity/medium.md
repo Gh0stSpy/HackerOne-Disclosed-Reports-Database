@@ -1,6 +1,6 @@
 # By severity: Medium
 
-**109 reports** · published bounties $4,900 *(most programs don't publish an amount, so this undercounts)*
+**110 reports** · published bounties $4,900 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -12,7 +12,7 @@
 | 6 | [3265780](../../reports/3265780.md) | Adding phone number to profile By OTP brute forcing | Insecure Storage of Sensitive Information | Medium | $100 | 108 |
 | 7 | [3878586](../../reports/3878586.md) | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, | — | Medium | $100 | 67 |
 | 8 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Improper Access Control - Generic | Medium | — | 104 |
-| 9 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Improper Access Control - Generic | Medium | — | 102 |
+| 9 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Improper Access Control - Generic | Medium | — | 103 |
 | 10 | [3779690](../../reports/3779690.md) | Stored XSS in Rocket.Chat HTML File Export — Unauthenticated Entry via LiveChat | Cross-site Scripting (XSS) - Stored | Medium | — | 94 |
 | 11 | [3676308](../../reports/3676308.md) | POST /api/bitcoinWithdrawalFees returns financial data without authentication despite bein | Improper Authentication - Generic | Medium | — | 91 |
 | 12 | [3591764](../../reports/3591764.md) | Business Logic Bypass Allows Setting “Read Access” Role Without Pro Plan Subscription | Business Logic Errors | Medium | — | 77 |
@@ -58,15 +58,15 @@
 | 52 | [3642555](../../reports/3642555.md) | CVE-2026-5545: wrong reuse of HTTP Negotiate connection | Authentication Bypass by Primary Weakness | Medium | — | 22 |
 | 53 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | Path Traversal | Medium | — | 21 |
 | 54 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 21 |
-| 55 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
-| 56 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
-| 57 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
-| 58 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
-| 59 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 19 |
-| 60 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 19 |
-| 61 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 19 |
-| 62 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
-| 63 | [3617729](../../reports/3617729.md) | Mail contact autocomplete bypasses administrator-configured user enumeration restrictions  | Privacy Violation | Medium | — | 17 |
+| 55 | [3617729](../../reports/3617729.md) | Mail contact autocomplete bypasses administrator-configured user enumeration restrictions  | Privacy Violation | Medium | — | 20 |
+| 56 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
+| 57 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
+| 58 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
+| 59 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
+| 60 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 19 |
+| 61 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 19 |
+| 62 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 19 |
+| 63 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
 | 64 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 16 |
 | 65 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
 | 66 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 12 |
@@ -113,6 +113,7 @@
 | 107 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
 | 108 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
 | 109 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
+| 110 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

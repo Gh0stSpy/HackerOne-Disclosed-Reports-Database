@@ -1,10 +1,10 @@
-# By weakness: Heap Overflow
+# By weakness: Incorrect Calculation of Buffer Size
 
 **1 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | MariaDB | Medium | — | 0 |
+| 1 | [3897588](../../reports/3897588.md) | KILL authorization trusts the presented login name instead of the authenticated anonymous  | MariaDB | — | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
