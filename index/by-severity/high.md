@@ -6,7 +6,7 @@
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | Code Injection | High | $7,000 | 163 |
 | 2 | [3712279](../../reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through | Path Traversal | High | $5,000 | 169 |
-| 3 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Uncontrolled Resource Consumption | High | $1,024 | 92 |
+| 3 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Uncontrolled Resource Consumption | High | $1,024 | 93 |
 | 4 | [3475626](../../reports/3475626.md) | Session Cookie Leakage via Static Header Field in WebViewerFragment | Misconfiguration | High | — | 128 |
 | 5 | [3637898](../../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (S | OS Command Injection | High | — | 111 |
 | 6 | [3355766](../../reports/3355766.md) | DLL side-loading vulnerability in Sony Music Center for PC Ver. 2.7.2 (Latest version) | Uncontrolled Search Path Element | High | — | 109 |
@@ -20,14 +20,14 @@
 | 14 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Improper Access Control - Generic | High | — | 40 |
 | 15 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Improper Authentication - Generic | High | — | 39 |
 | 16 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Improper Access Control - Generic | High | — | 37 |
-| 17 | [3473145](../../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding | Server-Side Request Forgery (SSRF) | High | — | 28 |
-| 18 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 28 |
+| 17 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 29 |
+| 18 | [3473145](../../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding | Server-Side Request Forgery (SSRF) | High | — | 28 |
 | 19 | [3393664](../../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the link-preview feature | Server-Side Request Forgery (SSRF) | High | — | 26 |
 | 20 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | Insecure Direct Object Reference (IDOR) | High | — | 25 |
-| 21 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
-| 22 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
-| 23 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 15 |
-| 24 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 10 |
+| 21 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 17 |
+| 22 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
+| 23 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 16 |
+| 24 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
 | 25 | [3242830](../../reports/3242830.md) | Critical PII Data Exposure in ORDER_ERROR_LOG | Cleartext Storage of Sensitive Information | High | — | 7 |
 | 26 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 7 |
 | 27 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | Information Disclosure | High | — | 6 |

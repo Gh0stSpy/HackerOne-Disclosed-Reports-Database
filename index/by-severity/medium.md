@@ -50,9 +50,9 @@
 | 44 | [3700036](../../reports/3700036.md) | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned t | Missing Required Cryptographic Step | Medium | — | 28 |
 | 45 | [3583983](../../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | Information Exposure Through Sent Data | Medium | — | 26 |
 | 46 | [3590576](../../reports/3590576.md) | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loadin | Remote File Inclusion | Medium | — | 26 |
-| 47 | [3383079](../../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function | Server-Side Request Forgery (SSRF) | Medium | — | 25 |
-| 48 | [3620753](../../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 25 |
-| 49 | [3689633](../../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorizati | Insecure Direct Object Reference (IDOR) | Medium | — | 25 |
+| 47 | [3689633](../../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorizati | Insecure Direct Object Reference (IDOR) | Medium | — | 26 |
+| 48 | [3383079](../../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function | Server-Side Request Forgery (SSRF) | Medium | — | 25 |
+| 49 | [3620753](../../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 25 |
 | 50 | [876530](../../reports/876530.md) | Remote node DOS | Uncontrolled Resource Consumption | Medium | — | 24 |
 | 51 | [3669637](../../reports/3669637.md) | CVE-2026-6253: proxy credentials leak over redirect-to proxy | — | Medium | — | 24 |
 | 52 | [3642555](../../reports/3642555.md) | CVE-2026-5545: wrong reuse of HTTP Negotiate connection | Authentication Bypass by Primary Weakness | Medium | — | 22 |
@@ -64,10 +64,10 @@
 | 58 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
 | 59 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 19 |
 | 60 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 19 |
-| 61 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 16 |
-| 62 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 14 |
-| 63 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 14 |
-| 64 | [3617729](../../reports/3617729.md) | Mail contact autocomplete bypasses administrator-configured user enumeration restrictions  | Privacy Violation | Medium | — | 13 |
+| 61 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 17 |
+| 62 | [3617729](../../reports/3617729.md) | Mail contact autocomplete bypasses administrator-configured user enumeration restrictions  | Privacy Violation | Medium | — | 16 |
+| 63 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 16 |
+| 64 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 16 |
 | 65 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
 | 66 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 12 |
 | 67 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |

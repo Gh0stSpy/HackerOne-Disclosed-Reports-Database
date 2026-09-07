@@ -43,5 +43,5 @@
 | [Rockstar Games](rockstar-games.md) | 1 | — |
 | [Myndr](myndr.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
-| [MariaDB](mariadb.md) | 1 | — |
 | [Equifax-vdp](equifax-vdp.md) | 1 | — |
+| [MariaDB](mariadb.md) | 1 | — |
