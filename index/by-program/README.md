@@ -9,9 +9,9 @@
 | [Essity](essity.md) | 14 | — |
 | [Nextcloud](nextcloud.md) | 11 | $600 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
+| [MariaDB](mariadb.md) | 6 | — |
 | [Basecamp](basecamp.md) | 5 | $437 |
 | [Weblate](weblate.md) | 5 | — |
-| [MariaDB](mariadb.md) | 5 | — |
 | [HackerOne](hackerone.md) | 4 | $19,500 |
 | [PortSwigger Web Security](portswigger-web-security.md) | 4 | $5,400 |
 | [Rocket.Chat](rocket-chat.md) | 4 | — |
@@ -40,8 +40,8 @@
 | [Automattic](automattic.md) | 1 | — |
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
-| [RubyGems](rubygems.md) | 1 | — |
 | [Rockstar Games](rockstar-games.md) | 1 | — |
+| [RubyGems](rubygems.md) | 1 | — |
 | [Myndr](myndr.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
 | [Equifax-vdp](equifax-vdp.md) | 1 | — |
