@@ -31,9 +31,9 @@
 | 25 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | U.S. Dept Of Defense | Medium | — | 5 |
 | 26 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | U.S. Dept Of Defense | Medium | — | 5 |
 | 27 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Essity | High | — | 5 |
-| 28 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | U.S. Dept Of Defense | Medium | — | 4 |
-| 29 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | U.S. Dept Of Defense | Medium | — | 4 |
-| 30 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Essity | High | — | 4 |
+| 28 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Essity | High | — | 5 |
+| 29 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | U.S. Dept Of Defense | Medium | — | 4 |
+| 30 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | U.S. Dept Of Defense | Medium | — | 4 |
 | 31 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | U.S. Dept Of Defense | Medium | — | 3 |
 
 ---
