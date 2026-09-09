@@ -7,7 +7,7 @@
 | 1 | [3443563](../../reports/3443563.md) | Roundcube Webmail Style Sanitizer can be bypassed using CSS Character Escapes | Nextcloud | Medium | — | 46 |
 | 2 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Monero | Medium | — | 32 |
 | 3 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | U.S. Dept Of Defense | Low | — | 28 |
-| 4 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Weblate | Medium | — | 20 |
+| 4 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Weblate | Medium | — | 21 |
 | 5 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | U.S. Dept Of Defense | Low | — | 14 |
 | 6 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | curl | — | — | 14 |
 | 7 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | U.S. Dept Of Defense | Medium | — | 6 |
