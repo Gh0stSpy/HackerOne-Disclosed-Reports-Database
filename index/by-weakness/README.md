@@ -3,7 +3,7 @@
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 31 | $1,600 |
-| [Improper Access Control - Generic](improper-access-control-generic.md) | 15 | $350 |
+| [Improper Access Control - Generic](improper-access-control-generic.md) | 16 | $350 |
 | [Information Disclosure](information-disclosure.md) | 12 | — |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 9 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
@@ -58,9 +58,9 @@
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 1 | — |
+| [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
-| [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Buffer Over-read](buffer-over-read.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |

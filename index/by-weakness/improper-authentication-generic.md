@@ -9,8 +9,8 @@
 | 3 | [3693295](../../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs | Brave Software | Medium | — | 48 |
 | 4 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Monero | High | — | 39 |
 | 5 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Equifax-vdp | High | — | 24 |
-| 6 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
-| 7 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | MariaDB | Medium | — | 6 |
+| 6 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | MariaDB | Medium | — | 7 |
+| 7 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
 | 8 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | curl | Medium | — | 3 |
 
 ---

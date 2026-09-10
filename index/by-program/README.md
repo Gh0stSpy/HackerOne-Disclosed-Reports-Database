@@ -30,6 +30,7 @@
 | [phpBB](phpbb.md) | 2 | — |
 | [Brave Software](brave-software.md) | 2 | — |
 | [WordPress](wordpress.md) | 2 | — |
+| [Myndr](myndr.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
 | [MetaMask](metamask.md) | 1 | $350 |
 | [Tor](tor.md) | 1 | $100 |
@@ -42,6 +43,5 @@
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
 | [Rockstar Games](rockstar-games.md) | 1 | — |
 | [RubyGems](rubygems.md) | 1 | — |
-| [Myndr](myndr.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
 | [Equifax-vdp](equifax-vdp.md) | 1 | — |
