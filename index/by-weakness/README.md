@@ -5,7 +5,7 @@
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 31 | $1,600 |
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 16 | $350 |
 | [Information Disclosure](information-disclosure.md) | 12 | — |
-| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 9 | $1,124 |
+| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 10 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 8 | $350 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 8 | — |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 7 | $337 |
@@ -26,13 +26,13 @@
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
+| [Out-of-bounds Read](out-of-bounds-read.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
 | [OS Command Injection](os-command-injection.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 2 | — |
 | [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
-| [Out-of-bounds Read](out-of-bounds-read.md) | 2 | — |
 | [Stack Overflow](stack-overflow.md) | 2 | — |
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |

@@ -18,6 +18,7 @@
 | [Lovable VDP](lovable-vdp.md) | 4 | — |
 | [Ruby on Rails](ruby-on-rails.md) | 4 | — |
 | [CoinMate.io](coinmate-io.md) | 3 | $100 |
+| [Tor](tor.md) | 3 | $100 |
 | [arkadiyt-projects](arkadiyt-projects.md) | 3 | — |
 | [Node.js](node-js.md) | 3 | — |
 | [Discourse](discourse.md) | 2 | $1,024 |
@@ -33,7 +34,6 @@
 | [Myndr](myndr.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
 | [MetaMask](metamask.md) | 1 | $350 |
-| [Tor](tor.md) | 1 | $100 |
 | [LinkedIn](linkedin.md) | 1 | — |
 | [Khan Academy](khan-academy.md) | 1 | — |
 | [Sony](sony.md) | 1 | — |
