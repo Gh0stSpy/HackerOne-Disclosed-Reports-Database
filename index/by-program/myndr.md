@@ -5,7 +5,7 @@
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Improper Access Control - Generic | — | — | 36 |
-| 2 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Improper Access Control - Generic | — | — | 4 |
+| 2 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Improper Access Control - Generic | — | — | 9 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

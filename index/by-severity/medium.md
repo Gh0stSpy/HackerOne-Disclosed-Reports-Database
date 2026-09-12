@@ -71,19 +71,19 @@
 | 65 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
 | 66 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 12 |
 | 67 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
-| 68 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 11 |
-| 69 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 70 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 71 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 10 |
-| 72 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 73 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 74 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 75 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 76 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 77 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 78 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 79 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 80 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Out-of-bounds Read | Medium | — | 8 |
+| 68 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Out-of-bounds Read | Medium | — | 11 |
+| 69 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 11 |
+| 70 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
+| 71 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
+| 72 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 10 |
+| 73 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 74 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 75 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 76 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 77 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 78 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 79 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 80 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
 | 81 | [2750977](../../reports/2750977.md) | Cross-Site Scripting (XSS) Vulnerability via parameter c0-id + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 7 |
 | 82 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
 | 83 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
