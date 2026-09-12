@@ -12,11 +12,11 @@
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [Basecamp](basecamp.md) | 5 | $437 |
 | [Weblate](weblate.md) | 5 | — |
+| [Ruby on Rails](ruby-on-rails.md) | 5 | — |
 | [HackerOne](hackerone.md) | 4 | $19,500 |
 | [PortSwigger Web Security](portswigger-web-security.md) | 4 | $5,400 |
 | [Rocket.Chat](rocket-chat.md) | 4 | — |
 | [Lovable VDP](lovable-vdp.md) | 4 | — |
-| [Ruby on Rails](ruby-on-rails.md) | 4 | — |
 | [CoinMate.io](coinmate-io.md) | 3 | $100 |
 | [Tor](tor.md) | 3 | $100 |
 | [arkadiyt-projects](arkadiyt-projects.md) | 3 | — |
