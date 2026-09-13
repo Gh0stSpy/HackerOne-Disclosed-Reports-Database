@@ -60,14 +60,14 @@
 | 54 | [3642555](../../reports/3642555.md) | CVE-2026-5545: wrong reuse of HTTP Negotiate connection | Authentication Bypass by Primary Weakness | Medium | — | 22 |
 | 55 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | Path Traversal | Medium | — | 21 |
 | 56 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 21 |
-| 57 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 20 |
-| 58 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
-| 59 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
-| 60 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
-| 61 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
-| 62 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 19 |
-| 63 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
-| 64 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Out-of-bounds Read | Medium | — | 17 |
+| 57 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Out-of-bounds Read | Medium | — | 21 |
+| 58 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 20 |
+| 59 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
+| 60 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
+| 61 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
+| 62 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
+| 63 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 19 |
+| 64 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
 | 65 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 16 |
 | 66 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
 | 67 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 12 |
@@ -92,28 +92,28 @@
 | 86 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Incorrect Permission Assignment for Critical Resource | Medium | — | 7 |
 | 87 | [3839914](../../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins | Missing Authorization | Medium | — | 7 |
 | 88 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 7 |
-| 89 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
-| 90 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
-| 91 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
-| 92 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
-| 93 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 94 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 95 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 96 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 97 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 98 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 99 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
-| 100 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
-| 101 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 102 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 103 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 5 |
-| 104 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
-| 105 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
-| 106 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
-| 107 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
-| 108 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
-| 109 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
-| 110 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Cross-site Scripting (XSS) - Stored | Medium | — | 3 |
+| 89 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Cross-site Scripting (XSS) - Stored | Medium | — | 7 |
+| 90 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
+| 91 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
+| 92 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
+| 93 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
+| 94 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 95 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 96 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 97 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 98 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 99 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 100 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
+| 101 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
+| 102 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
+| 103 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
+| 104 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 5 |
+| 105 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
+| 106 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
+| 107 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
+| 108 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
+| 109 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
+| 110 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
 | 111 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
 | 112 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
 | 113 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
