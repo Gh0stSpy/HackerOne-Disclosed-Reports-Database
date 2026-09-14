@@ -32,8 +32,8 @@
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 2 | — |
-| [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
 | [Stack Overflow](stack-overflow.md) | 2 | — |
+| [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |
 | [Authentication Bypass by Capture-replay](authentication-bypass-by-capture-replay.md) | 1 | $2,000 |

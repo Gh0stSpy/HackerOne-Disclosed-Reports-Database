@@ -11,8 +11,8 @@
 | 5 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Ruby on Rails | Low | — | 28 |
 | 6 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Weblate | High | — | 26 |
 | 7 | [876530](../../reports/876530.md) | Remote node DOS | Monero | Medium | — | 24 |
-| 8 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Monero | — | — | 23 |
-| 9 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Tor | Low | — | 20 |
+| 8 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Tor | Low | — | 24 |
+| 9 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Monero | — | — | 23 |
 | 10 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | curl | Low | — | 7 |
 
 ---
