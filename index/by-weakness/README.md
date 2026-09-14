@@ -12,11 +12,11 @@
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 6 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 6 | — |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 5 | $600 |
+| [Use After Free](use-after-free.md) | 5 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 5 | — |
 | [Code Injection](code-injection.md) | 4 | $19,000 |
 | [Path Traversal](path-traversal.md) | 4 | $5,000 |
 | [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
-| [Use After Free](use-after-free.md) | 4 | — |
 | [SQL Injection](sql-injection.md) | 4 | — |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
