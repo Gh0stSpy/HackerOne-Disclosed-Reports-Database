@@ -30,9 +30,9 @@
 | 24 | [3897588](../../reports/3897588.md) | KILL authorization trusts the presented login name instead of the authenticated anonymous  | Incorrect Calculation of Buffer Size | — | — | 8 |
 | 25 | [3969255](../../reports/3969255.md) | CVE-2026-80229: OpenSSL provider use-after-free | — | — | — | 7 |
 | 26 | [3969300](../../reports/3969300.md) | CVE-2026-80230: OpenSSL pinning bypass | — | — | — | 6 |
-| 27 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |
-| 28 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
-| 29 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 2 |
+| 27 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 3 |
+| 28 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |
+| 29 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
 | 30 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
 
 ---
