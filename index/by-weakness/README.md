@@ -18,6 +18,7 @@
 | [Path Traversal](path-traversal.md) | 4 | $5,000 |
 | [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
 | [SQL Injection](sql-injection.md) | 4 | — |
+| [OS Command Injection](os-command-injection.md) | 3 | — |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
@@ -26,16 +27,16 @@
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
+| [Stack Overflow](stack-overflow.md) | 3 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
-| [OS Command Injection](os-command-injection.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 2 | — |
-| [Stack Overflow](stack-overflow.md) | 2 | — |
 | [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |
+| [Buffer Over-read](buffer-over-read.md) | 2 | — |
 | [Authentication Bypass by Capture-replay](authentication-bypass-by-capture-replay.md) | 1 | $2,000 |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 1 | $250 |
 | [UI Redressing (Clickjacking)](ui-redressing-clickjacking.md) | 1 | $200 |
@@ -62,8 +63,8 @@
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
-| [Buffer Over-read](buffer-over-read.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
+| [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |

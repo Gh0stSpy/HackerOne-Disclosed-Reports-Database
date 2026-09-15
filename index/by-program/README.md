@@ -8,10 +8,10 @@
 | [AWS VDP](aws-vdp.md) | 14 | — |
 | [Essity](essity.md) | 14 | — |
 | [Nextcloud](nextcloud.md) | 11 | $600 |
-| [MariaDB](mariadb.md) | 8 | — |
+| [MariaDB](mariadb.md) | 11 | — |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
+| [Weblate](weblate.md) | 6 | — |
 | [Basecamp](basecamp.md) | 5 | $437 |
-| [Weblate](weblate.md) | 5 | — |
 | [Ruby on Rails](ruby-on-rails.md) | 5 | — |
 | [HackerOne](hackerone.md) | 4 | $19,500 |
 | [PortSwigger Web Security](portswigger-web-security.md) | 4 | $5,400 |
