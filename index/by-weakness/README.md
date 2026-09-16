@@ -17,8 +17,8 @@
 | [Code Injection](code-injection.md) | 4 | $19,000 |
 | [Path Traversal](path-traversal.md) | 4 | $5,000 |
 | [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
+| [OS Command Injection](os-command-injection.md) | 4 | — |
 | [SQL Injection](sql-injection.md) | 4 | — |
-| [OS Command Injection](os-command-injection.md) | 3 | — |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
@@ -26,8 +26,8 @@
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 3 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
-| [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Stack Overflow](stack-overflow.md) | 3 | — |
+| [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
@@ -57,9 +57,9 @@
 | [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
+| [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 1 | — |
-| [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
 | [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
