@@ -4,7 +4,7 @@
 |:--|--:|--:|
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
 | [curl](curl.md) | 39 | — |
-| [Monero](monero.md) | 23 | — |
+| [Monero](monero.md) | 24 | — |
 | [AWS VDP](aws-vdp.md) | 14 | — |
 | [Essity](essity.md) | 14 | — |
 | [Nextcloud](nextcloud.md) | 11 | $600 |

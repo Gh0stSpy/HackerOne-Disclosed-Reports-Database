@@ -6,7 +6,7 @@
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3788482](../../reports/3788482.md) | Stack Buffer Overflow in mariadb-dump quote_name() Allows Malicious Server to Execute Arbi | MariaDB | Critical | — | 41 |
 | 2 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | MariaDB | Medium | — | 18 |
-| 3 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | MariaDB | — | — | 1 |
+| 3 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | MariaDB | — | — | 4 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

@@ -44,7 +44,7 @@
 | 38 | [3694390](../../reports/3694390.md) | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust | Improper Certificate Validation | Medium | — | 33 |
 | 39 | [3608558](../../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | Server-Side Request Forgery (SSRF) | Medium | — | 32 |
 | 40 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Information Disclosure | Medium | — | 32 |
-| 41 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Out-of-bounds Read | Medium | — | 31 |
+| 41 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Out-of-bounds Read | Medium | — | 32 |
 | 42 | [3621606](../../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | CRLF Injection | Medium | — | 30 |
 | 43 | [3648681](../../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally Accepts Bare CR in Status | HTTP Request Smuggling | Medium | — | 29 |
 | 44 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 29 |
@@ -52,8 +52,8 @@
 | 46 | [3700036](../../reports/3700036.md) | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned t | Missing Required Cryptographic Step | Medium | — | 28 |
 | 47 | [3583983](../../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | Information Exposure Through Sent Data | Medium | — | 26 |
 | 48 | [3590576](../../reports/3590576.md) | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loadin | Remote File Inclusion | Medium | — | 26 |
-| 49 | [3383079](../../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function | Server-Side Request Forgery (SSRF) | Medium | — | 25 |
-| 50 | [3617729](../../reports/3617729.md) | Mail contact autocomplete bypasses administrator-configured user enumeration restrictions  | Privacy Violation | Medium | — | 25 |
+| 49 | [3617729](../../reports/3617729.md) | Mail contact autocomplete bypasses administrator-configured user enumeration restrictions  | Privacy Violation | Medium | — | 26 |
+| 50 | [3383079](../../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function | Server-Side Request Forgery (SSRF) | Medium | — | 25 |
 | 51 | [3620753](../../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 25 |
 | 52 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 25 |
 | 53 | [876530](../../reports/876530.md) | Remote node DOS | Uncontrolled Resource Consumption | Medium | — | 24 |
@@ -62,12 +62,12 @@
 | 56 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | Path Traversal | Medium | — | 21 |
 | 57 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 21 |
 | 58 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 20 |
-| 59 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
-| 60 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
-| 61 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
-| 62 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
-| 63 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 19 |
-| 64 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Cross-site Scripting (XSS) - Stored | Medium | — | 19 |
+| 59 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Cross-site Scripting (XSS) - Stored | Medium | — | 20 |
+| 60 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
+| 61 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
+| 62 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
+| 63 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
+| 64 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 19 |
 | 65 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
 | 66 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 16 |
 | 67 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
