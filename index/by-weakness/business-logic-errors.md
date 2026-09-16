@@ -11,8 +11,8 @@
 | 5 | [2061982](../../reports/2061982.md) | Create account without auth via response manipulation | U.S. Dept Of Defense | Low | — | 40 |
 | 6 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Monero | Medium | — | 21 |
 | 7 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Monero | Medium | — | 12 |
-| 8 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | curl | Low | — | 3 |
-| 9 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Monero | High | — | 1 |
+| 8 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Monero | High | — | 7 |
+| 9 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | curl | Low | — | 3 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
