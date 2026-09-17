@@ -12,7 +12,7 @@
 | 6 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Basecamp | Medium | — | 104 |
 | 7 | [3370430](../../reports/3370430.md) | Users can change project visibility which requires high subscription by just changing requ | Lovable VDP | Medium | — | 70 |
 | 8 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Basecamp | Low | — | 53 |
-| 9 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Rockstar Games | High | — | 50 |
+| 9 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Rockstar Games | High | — | 51 |
 | 10 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Monero | High | — | 40 |
 | 11 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Mozilla | Low | — | 38 |
 | 12 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 36 |
@@ -20,10 +20,10 @@
 | 14 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Monero | Low | — | 20 |
 | 15 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Myndr | — | — | 17 |
 | 16 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
-| 17 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Nextcloud | Medium | — | 2 |
-| 18 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 1 |
-| 19 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Nextcloud | Medium | — | 0 |
-| 20 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Nextcloud | Medium | — | 0 |
+| 17 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Nextcloud | Medium | — | 3 |
+| 18 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 2 |
+| 19 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Nextcloud | Medium | — | 1 |
+| 20 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Nextcloud | Medium | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

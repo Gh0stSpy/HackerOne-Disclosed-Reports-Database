@@ -1,6 +1,6 @@
 # By weakness: Improper Authentication - Generic
 
-**8 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**9 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -12,6 +12,7 @@
 | 6 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | MariaDB | Medium | — | 7 |
 | 7 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
 | 8 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | curl | Medium | — | 3 |
+| 9 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Nextcloud | Medium | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
