@@ -12,8 +12,8 @@
 | 6 | [3424977](../../reports/3424977.md) | User enumeration via timing attack in Django mod_wsgi authentication backend leads to acco | — | — | — | 62 |
 | 7 | [3577145](../../reports/3577145.md) | QuickSight Authorization Bypass: Chat Agents Accessible Despite Custom Permissions Denial | — | — | — | 59 |
 | 8 | [3581815](../../reports/3581815.md) | Open Redirect on lovable.dev via redirect parameter leads to phishing attacks | — | — | — | 44 |
-| 9 | [3542546](../../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access Policy | Uncontrolled Resource Consumption | — | — | 41 |
-| 10 | [3642600](../../reports/3642600.md) | Authorization header leak in ssrf_filter via cross-host redirect leads to credential theft | — | — | — | 41 |
+| 9 | [3642600](../../reports/3642600.md) | Authorization header leak in ssrf_filter via cross-host redirect leads to credential theft | — | — | — | 42 |
+| 10 | [3542546](../../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access Policy | Uncontrolled Resource Consumption | — | — | 41 |
 | 11 | [3185083](../../reports/3185083.md) | Connection Count Bug in Monero Node Enables Outbound Peer Reset Attack | Privacy Violation | — | — | 39 |
 | 12 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Improper Access Control - Generic | — | — | 36 |
 | 13 | [3524779](../../reports/3524779.md) | DoS via Unbounded Memory Allocation in sendWebStream on Fastify v5.7.0+ leads to OOM crash | — | — | — | 35 |
@@ -27,10 +27,10 @@
 | 21 | [3547349](../../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host | — | — | — | 18 |
 | 22 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Improper Access Control - Generic | — | — | 17 |
 | 23 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | Information Disclosure | — | — | 14 |
-| 24 | [3771139](../../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in | Buffer Over-read | — | — | 11 |
-| 25 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | Stack Overflow | — | — | 11 |
-| 26 | [3771147](../../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyIS | Classic Buffer Overflow | — | — | 10 |
-| 27 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 9 |
+| 24 | [3771139](../../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in | Buffer Over-read | — | — | 12 |
+| 25 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | Stack Overflow | — | — | 12 |
+| 26 | [3771147](../../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyIS | Classic Buffer Overflow | — | — | 11 |
+| 27 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 10 |
 | 28 | [3897588](../../reports/3897588.md) | KILL authorization trusts the presented login name instead of the authenticated anonymous  | Incorrect Calculation of Buffer Size | — | — | 8 |
 | 29 | [3969255](../../reports/3969255.md) | CVE-2026-80229: OpenSSL provider use-after-free | — | — | — | 7 |
 | 30 | [3969300](../../reports/3969300.md) | CVE-2026-80230: OpenSSL pinning bypass | — | — | — | 6 |

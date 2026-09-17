@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **246** |
-| With a published bounty | 21 |
-| Total published bounties | **$44,411** |
-| Last updated | 2026-09-17 04:57 UTC |
-| Last pull | 2026-09-17T04:57:34+00:00 |
+| Reports with full write-ups | **253** |
+| With a published bounty | 22 |
+| Total published bounties | **$44,611** |
+| Last updated | 2026-09-17 11:48 UTC |
+| Last pull | 2026-09-17T11:48:16+00:00 |
 
 ## Browse
 
@@ -33,15 +33,15 @@ publicly disclosed finding.
 | Weakness | Reports |
 |:--|--:|
 | Cross-site Scripting (XSS) - Reflected | 31 |
-| Improper Access Control - Generic | 16 |
+| Improper Access Control - Generic | 20 |
 | Information Disclosure | 12 |
 | Uncontrolled Resource Consumption | 10 |
-| Business Logic Errors | 9 |
+| Business Logic Errors | 10 |
 | Cross-site Scripting (XSS) - Stored | 8 |
 | Improper Authentication - Generic | 8 |
-| Server-Side Request Forgery (SSRF) | 6 |
+| Server-Side Request Forgery (SSRF) | 7 |
+| Insecure Direct Object Reference (IDOR) | 6 |
 | Improper Certificate Validation | 6 |
-| Insecure Direct Object Reference (IDOR) | 5 |
 
 ## Highest published bounties
 

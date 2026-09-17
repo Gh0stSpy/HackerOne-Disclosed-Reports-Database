@@ -1,6 +1,6 @@
 # By weakness: Business Logic Errors
 
-**9 reports** · published bounties $350 *(most programs don't publish an amount, so this undercounts)*
+**10 reports** · published bounties $350 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -10,9 +10,10 @@
 | 4 | [3699522](../../reports/3699522.md) | `check_reserve_proof` counts duplicate entries: one output can inflate `total` | Monero | Medium | — | 42 |
 | 5 | [2061982](../../reports/2061982.md) | Create account without auth via response manipulation | U.S. Dept Of Defense | Low | — | 40 |
 | 6 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Monero | Medium | — | 21 |
-| 7 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Monero | High | — | 13 |
+| 7 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Monero | High | — | 16 |
 | 8 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Monero | Medium | — | 12 |
 | 9 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | curl | Low | — | 3 |
+| 10 | [3610332](../../reports/3610332.md) | Approval app's file-freshness check can be bypassed by omitting the etag parameter, allowi | Nextcloud | Medium | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
