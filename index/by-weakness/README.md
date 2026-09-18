@@ -8,8 +8,8 @@
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 10 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 10 | $350 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 9 | — |
+| [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 8 | $500 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 8 | $337 |
-| [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 7 | — |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 6 | — |
 | [Use After Free](use-after-free.md) | 5 | — |

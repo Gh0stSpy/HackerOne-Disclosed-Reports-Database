@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **254** |
-| With a published bounty | 22 |
-| Total published bounties | **$44,611** |
-| Last updated | 2026-09-17 21:26 UTC |
-| Last pull | 2026-09-17T21:26:37+00:00 |
+| Reports with full write-ups | **255** |
+| With a published bounty | 23 |
+| Total published bounties | **$45,111** |
+| Last updated | 2026-09-18 04:49 UTC |
+| Last pull | 2026-09-18T04:49:46+00:00 |
 
 ## Browse
 
@@ -38,8 +38,8 @@ publicly disclosed finding.
 | Uncontrolled Resource Consumption | 10 |
 | Business Logic Errors | 10 |
 | Improper Authentication - Generic | 9 |
+| Server-Side Request Forgery (SSRF) | 8 |
 | Cross-site Scripting (XSS) - Stored | 8 |
-| Server-Side Request Forgery (SSRF) | 7 |
 | Insecure Direct Object Reference (IDOR) | 6 |
 | Improper Certificate Validation | 6 |
 
@@ -56,7 +56,7 @@ publicly disclosed finding.
 | [3400140](reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | $1,024 |
 | [2541962](reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | pixiv | $500 |
 | [3279441](reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unico | Mozilla | $500 |
-| [3507241](reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter le | MetaMask | $350 |
+| [3522157](reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS  | DuckDuckGo | $500 |
 
 ## Build your own copy
 
