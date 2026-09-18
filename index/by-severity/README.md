@@ -6,4 +6,4 @@
 | [Low](low.md) | 51 | $2,087 |
 | [High](high.md) | 36 | $13,024 |
 | [Unrated](unrated.md) | 33 | $12,600 |
-| [Critical](critical.md) | 15 | $12,000 |
+| [Critical](critical.md) | 16 | $12,000 |

@@ -7,7 +7,7 @@
 | [Monero](monero.md) | 24 | — |
 | [Nextcloud](nextcloud.md) | 19 | $800 |
 | [AWS VDP](aws-vdp.md) | 15 | — |
-| [Essity](essity.md) | 14 | — |
+| [Essity](essity.md) | 15 | — |
 | [MariaDB](mariadb.md) | 11 | — |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [Weblate](weblate.md) | 6 | — |
@@ -40,8 +40,8 @@
 | [Kubernetes](kubernetes.md) | 1 | — |
 | [Automattic](automattic.md) | 1 | — |
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
-| [Tucows (VDP)](tucows-vdp.md) | 1 | — |
 | [Rockstar Games](rockstar-games.md) | 1 | — |
+| [Tucows (VDP)](tucows-vdp.md) | 1 | — |
 | [RubyGems](rubygems.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
 | [Equifax-vdp](equifax-vdp.md) | 1 | — |
