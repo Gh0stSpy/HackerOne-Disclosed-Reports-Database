@@ -36,8 +36,8 @@
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 2 | — |
 | [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 2 | — |
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
-| [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |
 | [Buffer Over-read](buffer-over-read.md) | 2 | — |
+| [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |
 | [Authentication Bypass by Capture-replay](authentication-bypass-by-capture-replay.md) | 1 | $2,000 |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 1 | $250 |
 | [UI Redressing (Clickjacking)](ui-redressing-clickjacking.md) | 1 | $200 |
@@ -58,12 +58,12 @@
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
 | [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
+| [Buffer Under-read](buffer-under-read.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 1 | — |
 | [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
-| [Buffer Under-read](buffer-under-read.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
