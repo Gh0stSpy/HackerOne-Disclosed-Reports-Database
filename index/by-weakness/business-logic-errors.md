@@ -1,6 +1,6 @@
 # By weakness: Business Logic Errors
 
-**10 reports** · published bounties $350 *(most programs don't publish an amount, so this undercounts)*
+**11 reports** · published bounties $350 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -14,6 +14,7 @@
 | 8 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Monero | Medium | — | 12 |
 | 9 | [3610332](../../reports/3610332.md) | Approval app's file-freshness check can be bypassed by omitting the etag parameter, allowi | Nextcloud | Medium | — | 5 |
 | 10 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | curl | Low | — | 3 |
+| 11 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Nextcloud | Low | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
