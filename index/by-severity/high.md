@@ -32,7 +32,7 @@
 | 26 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Business Logic Errors | High | — | 23 |
 | 27 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
 | 28 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
-| 29 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 12 |
+| 29 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 13 |
 | 30 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 8 |
 | 31 | [3242830](../../reports/3242830.md) | Critical PII Data Exposure in ORDER_ERROR_LOG | Cleartext Storage of Sensitive Information | High | — | 7 |
 | 32 | [3781785](../../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters | Improper Input Validation | High | — | 7 |

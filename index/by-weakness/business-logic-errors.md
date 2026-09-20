@@ -12,9 +12,9 @@
 | 6 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Monero | High | — | 23 |
 | 7 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Monero | Medium | — | 21 |
 | 8 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Monero | Medium | — | 12 |
-| 9 | [3610332](../../reports/3610332.md) | Approval app's file-freshness check can be bypassed by omitting the etag parameter, allowi | Nextcloud | Medium | — | 5 |
-| 10 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | curl | Low | — | 3 |
-| 11 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Nextcloud | Low | — | 2 |
+| 9 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Nextcloud | Low | — | 7 |
+| 10 | [3610332](../../reports/3610332.md) | Approval app's file-freshness check can be bypassed by omitting the etag parameter, allowi | Nextcloud | Medium | — | 5 |
+| 11 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | curl | Low | — | 3 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

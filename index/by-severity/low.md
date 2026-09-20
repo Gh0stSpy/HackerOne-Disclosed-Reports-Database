@@ -39,18 +39,18 @@
 | 33 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 13 |
 | 34 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
 | 35 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
-| 36 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
-| 37 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
-| 38 | [3822248](../../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Authentication Bypass by Primary Weakness | Low | — | 7 |
-| 39 | [3788931](../../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Allocation of Resources Without Limits or Throttling | Low | — | 6 |
-| 40 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 5 |
-| 41 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
-| 42 | [3969368](../../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | — | Low | — | 5 |
-| 43 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Business Logic Errors | Low | — | 3 |
-| 44 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | Use After Free | Low | — | 3 |
-| 45 | [3752888](../../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | Improper Certificate Validation | Low | — | 3 |
-| 46 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | Use After Free | Low | — | 3 |
-| 47 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Business Logic Errors | Low | — | 2 |
+| 36 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Business Logic Errors | Low | — | 7 |
+| 37 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
+| 38 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
+| 39 | [3822248](../../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Authentication Bypass by Primary Weakness | Low | — | 7 |
+| 40 | [3788931](../../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Allocation of Resources Without Limits or Throttling | Low | — | 6 |
+| 41 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 5 |
+| 42 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
+| 43 | [3969368](../../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | — | Low | — | 5 |
+| 44 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Business Logic Errors | Low | — | 3 |
+| 45 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | Use After Free | Low | — | 3 |
+| 46 | [3752888](../../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | Improper Certificate Validation | Low | — | 3 |
+| 47 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | Use After Free | Low | — | 3 |
 | 48 | [3718195](../../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | — | Low | — | 2 |
 | 49 | [3721183](../../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Authentication Bypass by Primary Weakness | Low | — | 2 |
 | 50 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Information Disclosure | Low | — | 2 |

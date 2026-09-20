@@ -10,7 +10,7 @@
 | 4 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 30 |
 | 5 | [3507241](../../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized  | Business Logic Errors | Medium | $350 | 85 |
 | 6 | [3400143](../../reports/3400143.md) | Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribu | Insufficiently Protected Credentials | Medium | $250 | 37 |
-| 7 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Improper Access Control - Generic | Medium | $200 | 7 |
+| 7 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Improper Access Control - Generic | Medium | $200 | 10 |
 | 8 | [3265780](../../reports/3265780.md) | Adding phone number to profile By OTP brute forcing | Insecure Storage of Sensitive Information | Medium | $100 | 110 |
 | 9 | [3878586](../../reports/3878586.md) | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, | — | Medium | $100 | 68 |
 | 10 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Improper Access Control - Generic | Medium | — | 105 |
@@ -69,11 +69,11 @@
 | 63 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
 | 64 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
 | 65 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
-| 66 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 19 |
-| 67 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
-| 68 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Improper Access Control - Generic | Medium | — | 18 |
+| 66 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Improper Access Control - Generic | Medium | — | 19 |
+| 67 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 19 |
+| 68 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
 | 69 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 17 |
-| 70 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Improper Authentication - Generic | Medium | — | 15 |
+| 70 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Improper Authentication - Generic | Medium | — | 16 |
 | 71 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
 | 72 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 12 |
 | 73 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Server-Side Request Forgery (SSRF) | Medium | — | 11 |
