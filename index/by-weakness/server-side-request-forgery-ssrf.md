@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | DuckDuckGo | Medium | $500 | 34 |
+| 1 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | DuckDuckGo | Medium | $500 | 35 |
 | 2 | [3634400](../../reports/3634400.md) | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 Prefix (64:ff9b:1::/48) | arkadiyt-projects | High | — | 65 |
 | 3 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Weblate | High | — | 41 |
 | 4 | [3608558](../../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | phpBB | Medium | — | 32 |

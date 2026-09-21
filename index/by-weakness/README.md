@@ -5,7 +5,7 @@
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 31 | $1,600 |
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 21 | $550 |
 | [Information Disclosure](information-disclosure.md) | 12 | — |
-| [Business Logic Errors](business-logic-errors.md) | 11 | $350 |
+| [Business Logic Errors](business-logic-errors.md) | 11 | $500 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 10 | $1,124 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 9 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 8 | $500 |
@@ -19,10 +19,10 @@
 | [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
 | [OS Command Injection](os-command-injection.md) | 4 | — |
 | [SQL Injection](sql-injection.md) | 4 | — |
+| [Privacy Violation](privacy-violation.md) | 3 | $250 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
-| [Privacy Violation](privacy-violation.md) | 3 | — |
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 3 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
