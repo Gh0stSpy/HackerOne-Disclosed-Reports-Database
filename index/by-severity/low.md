@@ -10,7 +10,7 @@
 | 4 | [3556892](../../reports/3556892.md) | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger | — | Low | $200 | 90 |
 | 5 | [3625600](../../reports/3625600.md) | Out of scope: Improper Input Validation Order on /api-internal/login via password field le | — | Low | $200 | 90 |
 | 6 | [2119892](../../reports/2119892.md) | clickjacing can lead to account takeover | UI Redressing (Clickjacking) | Low | $200 | 70 |
-| 7 | [3484601](../../reports/3484601.md) | Team membership information returned on API level based on ID | Insecure Direct Object Reference (IDOR) | Low | $200 | 9 |
+| 7 | [3484601](../../reports/3484601.md) | Team membership information returned on API level based on ID | Insecure Direct Object Reference (IDOR) | Low | $200 | 10 |
 | 8 | [3467641](../../reports/3467641.md) | Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to i | Insecure Direct Object Reference (IDOR) | Low | $100 | 73 |
 | 9 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Uncontrolled Resource Consumption | Low | $100 | 35 |
 | 10 | [3378540](../../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse | Improper Access Control - Generic | Low | — | 124 |
@@ -34,17 +34,17 @@
 | 28 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 20 |
 | 29 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |
 | 30 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | Information Disclosure | Low | — | 14 |
-| 31 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
-| 32 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
-| 33 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 13 |
-| 34 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
-| 35 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Business Logic Errors | Low | — | 9 |
+| 31 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Business Logic Errors | Low | — | 14 |
+| 32 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
+| 33 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
+| 34 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 13 |
+| 35 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
 | 36 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
 | 37 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
 | 38 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
 | 39 | [3822248](../../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Authentication Bypass by Primary Weakness | Low | — | 7 |
-| 40 | [3788931](../../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Allocation of Resources Without Limits or Throttling | Low | — | 6 |
-| 41 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 5 |
+| 40 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 6 |
+| 41 | [3788931](../../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Allocation of Resources Without Limits or Throttling | Low | — | 6 |
 | 42 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
 | 43 | [3969368](../../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | — | Low | — | 5 |
 | 44 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Business Logic Errors | Low | — | 3 |

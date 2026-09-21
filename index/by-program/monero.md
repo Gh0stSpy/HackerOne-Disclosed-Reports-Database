@@ -18,8 +18,8 @@
 | 12 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 29 |
 | 13 | [3700036](../../reports/3700036.md) | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned t | Missing Required Cryptographic Step | Medium | — | 28 |
 | 14 | [3240792](../../reports/3240792.md) | Reported RPC Overflow | Integer Overflow | — | — | 25 |
-| 15 | [876530](../../reports/876530.md) | Remote node DOS | Uncontrolled Resource Consumption | Medium | — | 24 |
-| 16 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Business Logic Errors | High | — | 24 |
+| 15 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Business Logic Errors | High | — | 25 |
+| 16 | [876530](../../reports/876530.md) | Remote node DOS | Uncontrolled Resource Consumption | Medium | — | 24 |
 | 17 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |
 | 18 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 21 |
 | 19 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 20 |

@@ -24,8 +24,8 @@
 | 18 | [3456148](../../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding  | — | — | — | 25 |
 | 19 | [3426417](../../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django via repeated headers leads to | — | — | — | 24 |
 | 20 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |
-| 21 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Improper Access Control - Generic | — | — | 20 |
-| 22 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | Stack Overflow | — | — | 19 |
+| 21 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | Stack Overflow | — | — | 21 |
+| 22 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Improper Access Control - Generic | — | — | 20 |
 | 23 | [3547349](../../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host | — | — | — | 18 |
 | 24 | [3771139](../../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in | Buffer Over-read | — | — | 15 |
 | 25 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | Information Disclosure | — | — | 14 |

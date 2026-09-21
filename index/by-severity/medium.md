@@ -7,10 +7,10 @@
 | 1 | [3734676](../../reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler ch | Authentication Bypass by Capture-replay | Medium | $2,000 | 40 |
 | 2 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 101 |
 | 3 | [2541962](../../reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | Insecure Direct Object Reference (IDOR) | Medium | $500 | 145 |
-| 4 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 31 |
+| 4 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 34 |
 | 5 | [3507241](../../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized  | Business Logic Errors | Medium | $350 | 85 |
 | 6 | [3400143](../../reports/3400143.md) | Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribu | Insufficiently Protected Credentials | Medium | $250 | 37 |
-| 7 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Improper Access Control - Generic | Medium | $200 | 11 |
+| 7 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Improper Access Control - Generic | Medium | $200 | 15 |
 | 8 | [3265780](../../reports/3265780.md) | Adding phone number to profile By OTP brute forcing | Insecure Storage of Sensitive Information | Medium | $100 | 110 |
 | 9 | [3878586](../../reports/3878586.md) | Unauthenticated team "income/payments" export ignores donor privacy settings (hide_giving, | — | Medium | $100 | 68 |
 | 10 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Improper Access Control - Generic | Medium | — | 105 |
@@ -63,22 +63,22 @@
 | 57 | [3642555](../../reports/3642555.md) | CVE-2026-5545: wrong reuse of HTTP Negotiate connection | Authentication Bypass by Primary Weakness | Medium | — | 22 |
 | 58 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | Path Traversal | Medium | — | 21 |
 | 59 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 21 |
-| 60 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Cross-site Scripting (XSS) - Stored | Medium | — | 21 |
-| 61 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Improper Access Control - Generic | Medium | — | 20 |
-| 62 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 20 |
-| 63 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
-| 64 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
-| 65 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
-| 66 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
-| 67 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 19 |
+| 60 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Improper Access Control - Generic | Medium | — | 21 |
+| 61 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Cross-site Scripting (XSS) - Stored | Medium | — | 21 |
+| 62 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 20 |
+| 63 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 20 |
+| 64 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
+| 65 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
+| 66 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
+| 67 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
 | 68 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
-| 69 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 17 |
-| 70 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Improper Authentication - Generic | Medium | — | 16 |
-| 71 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
-| 72 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 12 |
-| 73 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Server-Side Request Forgery (SSRF) | Medium | — | 11 |
-| 74 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
-| 75 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Improper Access Control - Generic | Medium | — | 11 |
+| 69 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Improper Authentication - Generic | Medium | — | 17 |
+| 70 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 17 |
+| 71 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Server-Side Request Forgery (SSRF) | Medium | — | 12 |
+| 72 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Improper Access Control - Generic | Medium | — | 12 |
+| 73 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
+| 74 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 12 |
+| 75 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
 | 76 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 11 |
 | 77 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 11 |
 | 78 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |

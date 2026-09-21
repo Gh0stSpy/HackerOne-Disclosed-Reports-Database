@@ -14,8 +14,8 @@
 | 8 | [3608199](../../reports/3608199.md) | DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover | Cross-site Scripting (XSS) - DOM | High | — | 80 |
 | 9 | [3869124](../../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer billing information** | Insecure Direct Object Reference (IDOR) | High | — | 69 |
 | 10 | [3634400](../../reports/3634400.md) | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 Prefix (64:ff9b:1::/48) | Server-Side Request Forgery (SSRF) | High | — | 65 |
-| 11 | [3620006](../../reports/3620006.md) | Wallet RPC Restricted-Mode Policy Bypass | Improper Authentication - Generic | High | — | 53 |
-| 12 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Improper Access Control - Generic | High | — | 52 |
+| 11 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Improper Access Control - Generic | High | — | 53 |
+| 12 | [3620006](../../reports/3620006.md) | Wallet RPC Restricted-Mode Policy Bypass | Improper Authentication - Generic | High | — | 53 |
 | 13 | [3558713](../../reports/3558713.md) | Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs` | OS Command Injection | High | — | 48 |
 | 14 | [3693636](../../reports/3693636.md) | wallet-rpc crash via malformed /gettransactions response (empty txs → vector::front() in c | NULL Pointer Dereference | High | — | 44 |
 | 15 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 41 |
@@ -28,7 +28,7 @@
 | 22 | [3874004](../../reports/3874004.md) | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() | OS Command Injection | High | — | 27 |
 | 23 | [3393664](../../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the link-preview feature | Server-Side Request Forgery (SSRF) | High | — | 26 |
 | 24 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | Insecure Direct Object Reference (IDOR) | High | — | 25 |
-| 25 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Business Logic Errors | High | — | 24 |
+| 25 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Business Logic Errors | High | — | 25 |
 | 26 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 24 |
 | 27 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
 | 28 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
