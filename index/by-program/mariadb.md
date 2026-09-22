@@ -12,7 +12,7 @@
 | 6 | [3771139](../../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in | Buffer Over-read | — | — | 15 |
 | 7 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 11 |
 | 8 | [3771147](../../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyIS | Classic Buffer Overflow | — | — | 11 |
-| 9 | [3897588](../../reports/3897588.md) | KILL authorization trusts the presented login name instead of the authenticated anonymous  | Incorrect Calculation of Buffer Size | — | — | 8 |
+| 9 | [3897588](../../reports/3897588.md) | KILL authorization trusts the presented login name instead of the authenticated anonymous  | Incorrect Calculation of Buffer Size | — | — | 9 |
 | 10 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 7 |
 | 11 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 5 |
 

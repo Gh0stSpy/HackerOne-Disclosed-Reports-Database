@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3782701](../../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) | Code Injection | Critical | $12,000 | 340 |
+| 1 | [3782701](../../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) | Code Injection | Critical | $12,000 | 341 |
 | 2 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Improper Access Control - Generic | Critical | — | 121 |
 | 3 | [3307874](../../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis | Uncontrolled Resource Consumption | Critical | — | 96 |
 | 4 | [3619288](../../reports/3619288.md) | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.ym | — | Critical | — | 66 |
@@ -13,7 +13,7 @@
 | 7 | [3619287](../../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.ym | — | Critical | — | 41 |
 | 8 | [3931777](../../reports/3931777.md) | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/< | Path Traversal | Critical | — | 38 |
 | 9 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 36 |
-| 10 | [4020767](../../reports/4020767.md) | Unauthenticated API allows reading, writing to and deleting any user's private chat histor | Misconfiguration | Critical | — | 26 |
+| 10 | [4020767](../../reports/4020767.md) | Unauthenticated API allows reading, writing to and deleting any user's private chat histor | Misconfiguration | Critical | — | 27 |
 | 11 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 25 |
 | 12 | [3589269](../../reports/3589269.md) | HTTP Request Smuggling | HTTP Request Smuggling | Critical | — | 13 |
 | 13 | [3584078](../../reports/3584078.md) | ████████ ████████ Server Full Exposure with Database Credentials | Information Exposure Through Directory Listing | Critical | — | 12 |

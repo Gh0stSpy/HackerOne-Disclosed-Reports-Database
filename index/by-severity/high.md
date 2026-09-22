@@ -12,7 +12,7 @@
 | 6 | [3355766](../../reports/3355766.md) | DLL side-loading vulnerability in Sony Music Center for PC Ver. 2.7.2 (Latest version) | Uncontrolled Search Path Element | High | — | 109 |
 | 7 | [2701701](../../reports/2701701.md) | Injection in path parameter of Ingress-nginx | Code Injection | High | — | 89 |
 | 8 | [3608199](../../reports/3608199.md) | DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover | Cross-site Scripting (XSS) - DOM | High | — | 80 |
-| 9 | [3869124](../../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer billing information** | Insecure Direct Object Reference (IDOR) | High | — | 69 |
+| 9 | [3869124](../../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer billing information** | Insecure Direct Object Reference (IDOR) | High | — | 70 |
 | 10 | [3634400](../../reports/3634400.md) | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 Prefix (64:ff9b:1::/48) | Server-Side Request Forgery (SSRF) | High | — | 65 |
 | 11 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Improper Access Control - Generic | High | — | 53 |
 | 12 | [3620006](../../reports/3620006.md) | Wallet RPC Restricted-Mode Policy Bypass | Improper Authentication - Generic | High | — | 53 |
@@ -23,7 +23,7 @@
 | 17 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Improper Authentication - Generic | High | — | 40 |
 | 18 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Improper Access Control - Generic | High | — | 40 |
 | 19 | [3876430](../../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account  | Improper Access Control - Generic | High | — | 32 |
-| 20 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 29 |
+| 20 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 30 |
 | 21 | [3473145](../../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding | Server-Side Request Forgery (SSRF) | High | — | 28 |
 | 22 | [3874004](../../reports/3874004.md) | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() | OS Command Injection | High | — | 27 |
 | 23 | [3393664](../../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the link-preview feature | Server-Side Request Forgery (SSRF) | High | — | 26 |
