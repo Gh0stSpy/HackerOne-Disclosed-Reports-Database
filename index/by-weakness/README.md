@@ -25,10 +25,10 @@
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 3 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
-| [Resource Injection](resource-injection.md) | 3 | — |
 | [Stack Overflow](stack-overflow.md) | 3 | — |
-| [Array Index Underflow](array-index-underflow.md) | 3 | — |
+| [Resource Injection](resource-injection.md) | 3 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 3 | — |
+| [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
 | [Misconfiguration](misconfiguration.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
