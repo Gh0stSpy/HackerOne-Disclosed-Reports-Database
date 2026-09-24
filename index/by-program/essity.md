@@ -6,7 +6,7 @@
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Cross-site Scripting (XSS) - Stored | Critical | — | 44 |
 | 2 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 36 |
-| 3 | [4020767](../../reports/4020767.md) | Unauthenticated API allows reading, writing to and deleting any user's private chat histor | Misconfiguration | Critical | — | 32 |
+| 3 | [4020767](../../reports/4020767.md) | Unauthenticated API allows reading, writing to and deleting any user's private chat histor | Misconfiguration | Critical | — | 34 |
 | 4 | [3589269](../../reports/3589269.md) | HTTP Request Smuggling | HTTP Request Smuggling | Critical | — | 13 |
 | 5 | [3584078](../../reports/3584078.md) | ████████ ████████ Server Full Exposure with Database Credentials | Information Exposure Through Directory Listing | Critical | — | 12 |
 | 6 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 12 |

@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3913012](../../reports/3913012.md) | Persistent SMTP header injection via identity `organization` / `name` | Nextcloud | — | — | 12 |
+| 1 | [3913012](../../reports/3913012.md) | Persistent SMTP header injection via identity `organization` / `name` | Nextcloud | — | — | 13 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
