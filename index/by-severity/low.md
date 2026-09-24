@@ -25,8 +25,8 @@
 | 19 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Inclusion of Functionality from Untrusted Control Sphere | Low | — | 47 |
 | 20 | [2061982](../../reports/2061982.md) | Create account without auth via response manipulation | Business Logic Errors | Low | — | 40 |
 | 21 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Improper Access Control - Generic | Low | — | 38 |
-| 22 | [3584903](../../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Incorrect Authorization | Low | — | 30 |
-| 23 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Business Logic Errors | Low | — | 30 |
+| 22 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Business Logic Errors | Low | — | 31 |
+| 23 | [3584903](../../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Incorrect Authorization | Low | — | 30 |
 | 24 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Uncontrolled Resource Consumption | Low | — | 28 |
 | 25 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
 | 26 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Uncontrolled Resource Consumption | Low | — | 27 |
