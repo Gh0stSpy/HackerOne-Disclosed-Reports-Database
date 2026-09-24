@@ -30,6 +30,7 @@
 | [Out-of-bounds Read](out-of-bounds-read.md) | 3 | — |
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
+| [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 2 | $450 |
 | [Misconfiguration](misconfiguration.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
@@ -39,7 +40,6 @@
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |
 | [Authentication Bypass by Capture-replay](authentication-bypass-by-capture-replay.md) | 1 | $2,000 |
-| [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 1 | $250 |
 | [UI Redressing (Clickjacking)](ui-redressing-clickjacking.md) | 1 | $200 |
 | [Insecure Storage of Sensitive Information](insecure-storage-of-sensitive-information.md) | 1 | $100 |
 | [Uncontrolled Search Path Element](uncontrolled-search-path-element.md) | 1 | — |
