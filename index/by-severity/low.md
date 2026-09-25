@@ -10,7 +10,7 @@
 | 4 | [3556892](../../reports/3556892.md) | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger | — | Low | $200 | 90 |
 | 5 | [3625600](../../reports/3625600.md) | Out of scope: Improper Input Validation Order on /api-internal/login via password field le | — | Low | $200 | 90 |
 | 6 | [2119892](../../reports/2119892.md) | clickjacing can lead to account takeover | UI Redressing (Clickjacking) | Low | $200 | 70 |
-| 7 | [4000185](../../reports/4000185.md) | HackerOne Code sends live password-reset tokens to Segment in automatic page events | Insufficiently Protected Credentials | Low | $200 | 19 |
+| 7 | [4000185](../../reports/4000185.md) | HackerOne Code sends live password-reset tokens to Segment in automatic page events | Insufficiently Protected Credentials | Low | $200 | 25 |
 | 8 | [3484601](../../reports/3484601.md) | Team membership information returned on API level based on ID | Insecure Direct Object Reference (IDOR) | Low | $200 | 13 |
 | 9 | [3467641](../../reports/3467641.md) | Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to i | Insecure Direct Object Reference (IDOR) | Low | $100 | 73 |
 | 10 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Uncontrolled Resource Consumption | Low | $100 | 35 |
@@ -19,14 +19,14 @@
 | 13 | [3670955](../../reports/3670955.md) | HMAC signature verification omits endpoint and payload allowing request forgery on CoinMat | Missing Required Cryptographic Step | Low | — | 66 |
 | 14 | [3558277](../../reports/3558277.md) | Fail-Open in set_tlsext_servername_callback on pyopenssl via unhandled exceptions leads to | — | Low | — | 63 |
 | 15 | [3025797](../../reports/3025797.md) | [Privilege Escalation] User can Pin\|Unpin Any Comment on Any Project or Locale | Privilege Escalation | Low | — | 59 |
-| 16 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Cross-site Scripting (XSS) - Stored | Low | — | 54 |
+| 16 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Cross-site Scripting (XSS) - Stored | Low | — | 55 |
 | 17 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Improper Access Control - Generic | Low | — | 53 |
 | 18 | [3829030](../../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption | Violation of Secure Design Principles | Low | — | 52 |
 | 19 | [3665151](../../reports/3665151.md) | Brave Shields Domain Reordering Leads to Origin Confusion | Violation of Secure Design Principles | Low | — | 51 |
 | 20 | [3478646](../../reports/3478646.md) | GitHub Retired UsernameTakeover From  [aws/████████] | Inclusion of Functionality from Untrusted Control Sphere | Low | — | 47 |
 | 21 | [2061982](../../reports/2061982.md) | Create account without auth via response manipulation | Business Logic Errors | Low | — | 40 |
-| 22 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Improper Access Control - Generic | Low | — | 38 |
-| 23 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Business Logic Errors | Low | — | 37 |
+| 22 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Business Logic Errors | Low | — | 39 |
+| 23 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Improper Access Control - Generic | Low | — | 38 |
 | 24 | [3584903](../../reports/3584903.md) | CVE-2026-3784: wrong proxy connection reuse with credentials | Incorrect Authorization | Low | — | 30 |
 | 25 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Uncontrolled Resource Consumption | Low | — | 28 |
 | 26 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |

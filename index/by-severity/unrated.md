@@ -28,7 +28,7 @@
 | 22 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Improper Access Control - Generic | — | — | 21 |
 | 23 | [3547349](../../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host | — | — | — | 18 |
 | 24 | [3771139](../../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in | Buffer Over-read | — | — | 16 |
-| 25 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | Information Disclosure | — | — | 14 |
+| 25 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | Information Disclosure | — | — | 15 |
 | 26 | [3913012](../../reports/3913012.md) | Persistent SMTP header injection via identity `organization` / `name` | Buffer Under-read | — | — | 13 |
 | 27 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 12 |
 | 28 | [3771147](../../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyIS | Classic Buffer Overflow | — | — | 11 |
