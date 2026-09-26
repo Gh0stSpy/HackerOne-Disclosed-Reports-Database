@@ -5,7 +5,7 @@
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Nextcloud | Low | $250 | 46 |
-| 2 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Nextcloud | Medium | $200 | 41 |
+| 2 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Nextcloud | Medium | $200 | 44 |
 | 3 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Nextcloud | — | $100 | 56 |
 | 4 | [3378540](../../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse | HackerOne | Low | — | 124 |
 | 5 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Khan Academy | Critical | — | 122 |
@@ -23,7 +23,7 @@
 | 17 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Monero | Low | — | 20 |
 | 18 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Nextcloud | Medium | — | 12 |
 | 19 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Nextcloud | Medium | — | 10 |
-| 20 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 7 |
+| 20 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 8 |
 | 21 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
 
 ---
