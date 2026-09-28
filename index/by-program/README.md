@@ -22,6 +22,7 @@
 | [Tor](tor.md) | 3 | $100 |
 | [arkadiyt-projects](arkadiyt-projects.md) | 3 | — |
 | [Node.js](node-js.md) | 3 | — |
+| [WordPress](wordpress.md) | 3 | — |
 | [Discourse](discourse.md) | 2 | $1,024 |
 | [pixiv](pixiv.md) | 2 | $700 |
 | [Liberapay](liberapay.md) | 2 | $100 |
@@ -30,7 +31,6 @@
 | [Django](django.md) | 2 | — |
 | [phpBB](phpbb.md) | 2 | — |
 | [Brave Software](brave-software.md) | 2 | — |
-| [WordPress](wordpress.md) | 2 | — |
 | [Myndr](myndr.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
 | [MetaMask](metamask.md) | 1 | $350 |
