@@ -10,7 +10,7 @@
 | 4 | [3606773](../../reports/3606773.md) | Stored XSS via SVG Upload — check_content() Blocklist Bypass & 256-Byte Scan Limit (Self-P | phpBB | Medium | — | 54 |
 | 5 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Essity | Critical | — | 45 |
 | 6 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Nextcloud | Medium | — | 39 |
-| 7 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | WordPress | Critical | — | 26 |
+| 7 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | WordPress | Critical | — | 27 |
 | 8 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Ruby on Rails | Medium | — | 22 |
 
 ---
