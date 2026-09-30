@@ -5,8 +5,8 @@
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 31 | $1,600 |
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 22 | $550 |
 | [Information Disclosure](information-disclosure.md) | 12 | — |
+| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 11 | $1,124 |
 | [Business Logic Errors](business-logic-errors.md) | 11 | $500 |
-| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 10 | $1,124 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 9 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 8 | $500 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 8 | $337 |
@@ -18,6 +18,7 @@
 | [Path Traversal](path-traversal.md) | 4 | $5,000 |
 | [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
 | [OS Command Injection](os-command-injection.md) | 4 | — |
+| [Out-of-bounds Read](out-of-bounds-read.md) | 4 | — |
 | [SQL Injection](sql-injection.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
@@ -27,7 +28,6 @@
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
 | [Stack Overflow](stack-overflow.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
-| [Out-of-bounds Read](out-of-bounds-read.md) | 3 | — |
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 2 | $450 |
