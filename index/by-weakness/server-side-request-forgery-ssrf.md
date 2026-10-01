@@ -12,7 +12,7 @@
 | 6 | [3393664](../../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the link-preview feature | Rocket.Chat | High | — | 26 |
 | 7 | [3383079](../../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function | Rocket.Chat | Medium | — | 25 |
 | 8 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Nextcloud | Medium | — | 14 |
-| 9 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Nextcloud | Medium | — | 6 |
+| 9 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Nextcloud | Medium | — | 9 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

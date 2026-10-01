@@ -45,10 +45,10 @@
 | 39 | [3698862](../../reports/3698862.md) | `check_reserve_proof` sums RingCT ECDH amounts without checking the output commitment | Missing Required Cryptographic Step | Medium | — | 37 |
 | 40 | [3590583](../../reports/3590583.md) | Unquoted body background attribute enables CSS injection that bypasses remote image blocki | Resource Injection | Medium | — | 34 |
 | 41 | [3591944](../../reports/3591944.md) | CVE-2026-3805: use after free in SMB connection reuse | Use After Free | Medium | — | 34 |
-| 42 | [3608558](../../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | Server-Side Request Forgery (SSRF) | Medium | — | 33 |
-| 43 | [3694390](../../reports/3694390.md) | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust | Improper Certificate Validation | Medium | — | 33 |
-| 44 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Out-of-bounds Read | Medium | — | 33 |
-| 45 | [3893632](../../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fi | Improper Access Control - Generic | Medium | — | 33 |
+| 42 | [3893632](../../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fi | Improper Access Control - Generic | Medium | — | 34 |
+| 43 | [3608558](../../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | Server-Side Request Forgery (SSRF) | Medium | — | 33 |
+| 44 | [3694390](../../reports/3694390.md) | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust | Improper Certificate Validation | Medium | — | 33 |
+| 45 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Out-of-bounds Read | Medium | — | 33 |
 | 46 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Information Disclosure | Medium | — | 32 |
 | 47 | [3621606](../../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | CRLF Injection | Medium | — | 30 |
 | 48 | [3689633](../../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorizati | Insecure Direct Object Reference (IDOR) | Medium | — | 30 |
@@ -90,31 +90,31 @@
 | 84 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 85 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 86 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 87 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 88 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 89 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 90 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 91 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Incorrect Permission Assignment for Critical Resource | Medium | — | 8 |
-| 92 | [3839914](../../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins | Missing Authorization | Medium | — | 8 |
-| 93 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | Uncontrolled Resource Consumption | Medium | — | 8 |
-| 94 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 8 |
-| 95 | [2750977](../../reports/2750977.md) | Cross-Site Scripting (XSS) Vulnerability via parameter c0-id + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 7 |
-| 96 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 97 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 98 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 99 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 100 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
-| 101 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
-| 102 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
-| 103 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
-| 104 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 105 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 106 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 107 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 108 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 109 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 110 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
-| 111 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Server-Side Request Forgery (SSRF) | Medium | — | 6 |
+| 87 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Server-Side Request Forgery (SSRF) | Medium | — | 9 |
+| 88 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | Uncontrolled Resource Consumption | Medium | — | 9 |
+| 89 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 90 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 91 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 92 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 93 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Incorrect Permission Assignment for Critical Resource | Medium | — | 8 |
+| 94 | [3839914](../../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins | Missing Authorization | Medium | — | 8 |
+| 95 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 8 |
+| 96 | [2750977](../../reports/2750977.md) | Cross-Site Scripting (XSS) Vulnerability via parameter c0-id + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 7 |
+| 97 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 98 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 99 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 100 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 101 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
+| 102 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
+| 103 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
+| 104 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
+| 105 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 106 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 107 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 108 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 109 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 110 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 111 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
 | 112 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
 | 113 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
 | 114 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |

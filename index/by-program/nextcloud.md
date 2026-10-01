@@ -25,8 +25,8 @@
 | 19 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Server-Side Request Forgery (SSRF) | Medium | — | 14 |
 | 20 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Improper Access Control - Generic | Medium | — | 13 |
 | 21 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Improper Access Control - Generic | Medium | — | 13 |
-| 22 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 8 |
-| 23 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Server-Side Request Forgery (SSRF) | Medium | — | 6 |
+| 22 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Server-Side Request Forgery (SSRF) | Medium | — | 9 |
+| 23 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 8 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

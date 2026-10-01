@@ -4,9 +4,9 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | Code Injection | High | $7,000 | 166 |
-| 2 | [3712279](../../reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through | Path Traversal | High | $5,000 | 172 |
-| 3 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Uncontrolled Resource Consumption | High | $1,024 | 94 |
+| 1 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | Code Injection | High | $7,000 | 167 |
+| 2 | [3712279](../../reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through | Path Traversal | High | $5,000 | 173 |
+| 3 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Uncontrolled Resource Consumption | High | $1,024 | 95 |
 | 4 | [3475626](../../reports/3475626.md) | Session Cookie Leakage via Static Header Field in WebViewerFragment | Misconfiguration | High | — | 129 |
 | 5 | [3637898](../../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (S | OS Command Injection | High | — | 111 |
 | 6 | [3355766](../../reports/3355766.md) | DLL side-loading vulnerability in Sony Music Center for PC Ver. 2.7.2 (Latest version) | Uncontrolled Search Path Element | High | — | 109 |
@@ -14,23 +14,23 @@
 | 8 | [3608199](../../reports/3608199.md) | DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover | Cross-site Scripting (XSS) - DOM | High | — | 80 |
 | 9 | [3869124](../../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer billing information** | Insecure Direct Object Reference (IDOR) | High | — | 70 |
 | 10 | [3634400](../../reports/3634400.md) | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 Prefix (64:ff9b:1::/48) | Server-Side Request Forgery (SSRF) | High | — | 65 |
-| 11 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Improper Access Control - Generic | High | — | 58 |
+| 11 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Improper Access Control - Generic | High | — | 59 |
 | 12 | [3620006](../../reports/3620006.md) | Wallet RPC Restricted-Mode Policy Bypass | Improper Authentication - Generic | High | — | 53 |
 | 13 | [3558713](../../reports/3558713.md) | Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs` | OS Command Injection | High | — | 48 |
 | 14 | [3693636](../../reports/3693636.md) | wallet-rpc crash via malformed /gettransactions response (empty txs → vector::front() in c | NULL Pointer Dereference | High | — | 44 |
-| 15 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 42 |
-| 16 | [3897914](../../reports/3897914.md) | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking | Out-of-bounds Read | High | — | 42 |
+| 15 | [3897914](../../reports/3897914.md) | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking | Out-of-bounds Read | High | — | 43 |
+| 16 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 42 |
 | 17 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Improper Authentication - Generic | High | — | 40 |
 | 18 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Improper Access Control - Generic | High | — | 40 |
 | 19 | [3876430](../../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account  | Improper Access Control - Generic | High | — | 34 |
-| 20 | [3874004](../../reports/3874004.md) | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() | OS Command Injection | High | — | 31 |
+| 20 | [3874004](../../reports/3874004.md) | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() | OS Command Injection | High | — | 32 |
 | 21 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 31 |
 | 22 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Business Logic Errors | High | — | 29 |
 | 23 | [3473145](../../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding | Server-Side Request Forgery (SSRF) | High | — | 28 |
 | 24 | [3393664](../../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the link-preview feature | Server-Side Request Forgery (SSRF) | High | — | 26 |
 | 25 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | Insecure Direct Object Reference (IDOR) | High | — | 25 |
 | 26 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 24 |
-| 27 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 18 |
+| 27 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 19 |
 | 28 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
 | 29 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
 | 30 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 8 |
