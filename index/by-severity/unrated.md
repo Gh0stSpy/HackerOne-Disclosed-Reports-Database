@@ -30,10 +30,10 @@
 | 24 | [3913012](../../reports/3913012.md) | Persistent SMTP header injection via identity `organization` / `name` | Buffer Under-read | — | — | 17 |
 | 25 | [3771139](../../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in | Buffer Over-read | — | — | 16 |
 | 26 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | Information Disclosure | — | — | 15 |
-| 27 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 12 |
-| 28 | [3771147](../../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyIS | Classic Buffer Overflow | — | — | 11 |
-| 29 | [3897588](../../reports/3897588.md) | KILL authorization trusts the presented login name instead of the authenticated anonymous  | Incorrect Calculation of Buffer Size | — | — | 9 |
-| 30 | [3896671](../../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field | Out-of-bounds Read | — | — | 7 |
+| 27 | [3896671](../../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field | Out-of-bounds Read | — | — | 13 |
+| 28 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 12 |
+| 29 | [3771147](../../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyIS | Classic Buffer Overflow | — | — | 11 |
+| 30 | [3897588](../../reports/3897588.md) | KILL authorization trusts the presented login name instead of the authenticated anonymous  | Incorrect Calculation of Buffer Size | — | — | 9 |
 | 31 | [3969255](../../reports/3969255.md) | CVE-2026-80229: OpenSSL provider use-after-free | — | — | — | 7 |
 | 32 | [3969300](../../reports/3969300.md) | CVE-2026-80230: OpenSSL pinning bypass | — | — | — | 6 |
 | 33 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |

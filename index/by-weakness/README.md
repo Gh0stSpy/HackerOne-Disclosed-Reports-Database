@@ -2,7 +2,7 @@
 
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
-| [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 31 | $1,600 |
+| [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 32 | $1,600 |
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 22 | $550 |
 | [Information Disclosure](information-disclosure.md) | 12 | — |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 11 | $1,124 |

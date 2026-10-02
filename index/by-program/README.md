@@ -10,9 +10,9 @@
 | [Essity](essity.md) | 15 | — |
 | [MariaDB](mariadb.md) | 13 | — |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
+| [Basecamp](basecamp.md) | 6 | $437 |
 | [Weblate](weblate.md) | 6 | — |
 | [HackerOne](hackerone.md) | 5 | $19,700 |
-| [Basecamp](basecamp.md) | 5 | $437 |
 | [Ruby on Rails](ruby-on-rails.md) | 5 | — |
 | [PortSwigger Web Security](portswigger-web-security.md) | 4 | $5,400 |
 | [Rocket.Chat](rocket-chat.md) | 4 | — |

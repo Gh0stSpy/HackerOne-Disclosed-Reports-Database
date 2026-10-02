@@ -1,6 +1,6 @@
 # By weakness: Cross-site Scripting (XSS) - Reflected
 
-**31 reports** · published bounties $1,600 *(most programs don't publish an amount, so this undercounts)*
+**32 reports** · published bounties $1,600 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -18,23 +18,24 @@
 | 12 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | U.S. Dept Of Defense | Medium | — | 8 |
 | 13 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | U.S. Dept Of Defense | Medium | — | 8 |
 | 14 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | U.S. Dept Of Defense | Medium | — | 8 |
-| 15 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
-| 16 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
-| 17 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | U.S. Dept Of Defense | Medium | — | 7 |
-| 18 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
-| 19 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | U.S. Dept Of Defense | Medium | — | 6 |
-| 20 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | U.S. Dept Of Defense | Medium | — | 6 |
-| 21 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | U.S. Dept Of Defense | Medium | — | 6 |
-| 22 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | U.S. Dept Of Defense | Medium | — | 6 |
-| 23 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | U.S. Dept Of Defense | Medium | — | 6 |
-| 24 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | U.S. Dept Of Defense | Medium | — | 6 |
-| 25 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Essity | High | — | 6 |
-| 26 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | U.S. Dept Of Defense | Medium | — | 5 |
-| 27 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | U.S. Dept Of Defense | Medium | — | 5 |
-| 28 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Essity | High | — | 5 |
-| 29 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | U.S. Dept Of Defense | Medium | — | 4 |
-| 30 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | U.S. Dept Of Defense | Medium | — | 4 |
-| 31 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | U.S. Dept Of Defense | Medium | — | 3 |
+| 15 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Basecamp | High | — | 8 |
+| 16 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
+| 17 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
+| 18 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | U.S. Dept Of Defense | Medium | — | 7 |
+| 19 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
+| 20 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | U.S. Dept Of Defense | Medium | — | 6 |
+| 21 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | U.S. Dept Of Defense | Medium | — | 6 |
+| 22 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | U.S. Dept Of Defense | Medium | — | 6 |
+| 23 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | U.S. Dept Of Defense | Medium | — | 6 |
+| 24 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | U.S. Dept Of Defense | Medium | — | 6 |
+| 25 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | U.S. Dept Of Defense | Medium | — | 6 |
+| 26 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Essity | High | — | 6 |
+| 27 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | U.S. Dept Of Defense | Medium | — | 5 |
+| 28 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | U.S. Dept Of Defense | Medium | — | 5 |
+| 29 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Essity | High | — | 5 |
+| 30 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | U.S. Dept Of Defense | Medium | — | 4 |
+| 31 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | U.S. Dept Of Defense | Medium | — | 4 |
+| 32 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | U.S. Dept Of Defense | Medium | — | 3 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
