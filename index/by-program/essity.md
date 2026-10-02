@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [4020767](../../reports/4020767.md) | Unauthenticated API allows reading, writing to and deleting any user's private chat histor | Misconfiguration | Critical | — | 52 |
+| 1 | [4020767](../../reports/4020767.md) | Unauthenticated API allows reading, writing to and deleting any user's private chat histor | Misconfiguration | Critical | — | 54 |
 | 2 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Cross-site Scripting (XSS) - Stored | Critical | — | 45 |
 | 3 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 36 |
 | 4 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 14 |
