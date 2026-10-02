@@ -16,8 +16,8 @@ publicly disclosed finding.
 | Reports with full write-ups | **264** |
 | With a published bounty | 27 |
 | Total published bounties | **$45,911** |
-| Last updated | 2026-10-02 05:46 UTC |
-| Last pull | 2026-10-02T05:46:24+00:00 |
+| Last updated | 2026-10-02 12:44 UTC |
+| Last pull | 2026-10-02T12:44:35+00:00 |
 
 ## Browse
 
