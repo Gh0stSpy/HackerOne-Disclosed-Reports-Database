@@ -33,8 +33,8 @@
 | 27 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 20 |
 | 28 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
 | 29 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
-| 30 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 8 |
-| 31 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Cross-site Scripting (XSS) - Reflected | High | — | 8 |
+| 30 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Cross-site Scripting (XSS) - Reflected | High | — | 12 |
+| 31 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 8 |
 | 32 | [3242830](../../reports/3242830.md) | Critical PII Data Exposure in ORDER_ERROR_LOG | Cleartext Storage of Sensitive Information | High | — | 7 |
 | 33 | [3781785](../../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters | Improper Input Validation | High | — | 7 |
 | 34 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | Information Disclosure | High | — | 6 |

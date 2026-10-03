@@ -39,8 +39,8 @@
 | 33 | [3183046](../../reports/3183046.md) | Cache Pollution via Unkeyed GET Parameters on www.omise.co | — | Medium | — | 43 |
 | 34 | [3819475](../../reports/3819475.md) | Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipie | — | Medium | — | 43 |
 | 35 | [3699522](../../reports/3699522.md) | `check_reserve_proof` counts duplicate entries: one output can inflate `total` | Business Logic Errors | Medium | — | 42 |
-| 36 | [3620748](../../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 41 |
-| 37 | [3893632](../../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fi | Improper Access Control - Generic | Medium | — | 40 |
+| 36 | [3893632](../../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fi | Improper Access Control - Generic | Medium | — | 42 |
+| 37 | [3620748](../../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 41 |
 | 38 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Cross-site Scripting (XSS) - Stored | Medium | — | 39 |
 | 39 | [3697719](../../reports/3697719.md) | CVE-2026-7168: cross-proxy Digest auth state leak | Exposure of Data Element to Wrong Session | Medium | — | 37 |
 | 40 | [3698862](../../reports/3698862.md) | `check_reserve_proof` sums RingCT ECDH amounts without checking the output commitment | Missing Required Cryptographic Step | Medium | — | 37 |
@@ -72,12 +72,12 @@
 | 66 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 20 |
 | 67 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
 | 68 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
-| 69 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
-| 70 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
-| 71 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
-| 72 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 17 |
-| 73 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Server-Side Request Forgery (SSRF) | Medium | — | 16 |
-| 74 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | Uncontrolled Resource Consumption | Medium | — | 16 |
+| 69 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Server-Side Request Forgery (SSRF) | Medium | — | 19 |
+| 70 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
+| 71 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
+| 72 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | Uncontrolled Resource Consumption | Medium | — | 19 |
+| 73 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
+| 74 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 17 |
 | 75 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Server-Side Request Forgery (SSRF) | Medium | — | 14 |
 | 76 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 14 |
 | 77 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Improper Access Control - Generic | Medium | — | 13 |
