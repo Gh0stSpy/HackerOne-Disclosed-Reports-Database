@@ -8,7 +8,7 @@
 | [Nextcloud](nextcloud.md) | 23 | $1,400 |
 | [AWS VDP](aws-vdp.md) | 15 | — |
 | [Essity](essity.md) | 15 | — |
-| [MariaDB](mariadb.md) | 13 | — |
+| [MariaDB](mariadb.md) | 14 | — |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [Basecamp](basecamp.md) | 6 | $437 |
 | [Weblate](weblate.md) | 6 | — |

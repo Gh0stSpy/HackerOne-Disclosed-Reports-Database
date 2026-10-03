@@ -12,10 +12,10 @@
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 8 | $337 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 6 | — |
+| [Path Traversal](path-traversal.md) | 5 | $5,000 |
 | [Use After Free](use-after-free.md) | 5 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 5 | — |
 | [Code Injection](code-injection.md) | 4 | $19,000 |
-| [Path Traversal](path-traversal.md) | 4 | $5,000 |
 | [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
 | [OS Command Injection](os-command-injection.md) | 4 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 4 | — |
