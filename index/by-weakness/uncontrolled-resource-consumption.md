@@ -12,8 +12,8 @@
 | 6 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Ruby on Rails | Low | — | 28 |
 | 7 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Tor | Low | — | 28 |
 | 8 | [876530](../../reports/876530.md) | Remote node DOS | Monero | Medium | — | 24 |
-| 9 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Monero | — | — | 23 |
-| 10 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | MariaDB | Medium | — | 22 |
+| 9 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | MariaDB | Medium | — | 24 |
+| 10 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Monero | — | — | 23 |
 | 11 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | curl | Low | — | 7 |
 
 ---
