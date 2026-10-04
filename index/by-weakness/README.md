@@ -18,6 +18,7 @@
 | [Code Injection](code-injection.md) | 4 | $19,000 |
 | [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
 | [OS Command Injection](os-command-injection.md) | 4 | — |
+| [Stack Overflow](stack-overflow.md) | 4 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 4 | — |
 | [SQL Injection](sql-injection.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
@@ -26,7 +27,6 @@
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 3 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
-| [Stack Overflow](stack-overflow.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |

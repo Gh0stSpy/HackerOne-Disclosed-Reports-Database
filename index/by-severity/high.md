@@ -11,7 +11,7 @@
 | 5 | [3637898](../../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (S | OS Command Injection | High | — | 111 |
 | 6 | [3355766](../../reports/3355766.md) | DLL side-loading vulnerability in Sony Music Center for PC Ver. 2.7.2 (Latest version) | Uncontrolled Search Path Element | High | — | 109 |
 | 7 | [2701701](../../reports/2701701.md) | Injection in path parameter of Ingress-nginx | Code Injection | High | — | 89 |
-| 8 | [3608199](../../reports/3608199.md) | DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover | Cross-site Scripting (XSS) - DOM | High | — | 80 |
+| 8 | [3608199](../../reports/3608199.md) | DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover | Cross-site Scripting (XSS) - DOM | High | — | 81 |
 | 9 | [3869124](../../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer billing information** | Insecure Direct Object Reference (IDOR) | High | — | 70 |
 | 10 | [3634400](../../reports/3634400.md) | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 Prefix (64:ff9b:1::/48) | Server-Side Request Forgery (SSRF) | High | — | 65 |
 | 11 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Improper Access Control - Generic | High | — | 59 |
@@ -28,17 +28,17 @@
 | 22 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 31 |
 | 23 | [3473145](../../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding | Server-Side Request Forgery (SSRF) | High | — | 28 |
 | 24 | [3393664](../../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the link-preview feature | Server-Side Request Forgery (SSRF) | High | — | 26 |
-| 25 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | Insecure Direct Object Reference (IDOR) | High | — | 25 |
-| 26 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 24 |
-| 27 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Cross-site Scripting (XSS) - Reflected | High | — | 24 |
+| 25 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Cross-site Scripting (XSS) - Reflected | High | — | 26 |
+| 26 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | Insecure Direct Object Reference (IDOR) | High | — | 25 |
+| 27 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 24 |
 | 28 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 20 |
 | 29 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
 | 30 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
-| 31 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 8 |
-| 32 | [3242830](../../reports/3242830.md) | Critical PII Data Exposure in ORDER_ERROR_LOG | Cleartext Storage of Sensitive Information | High | — | 7 |
-| 33 | [3781785](../../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters | Improper Input Validation | High | — | 7 |
-| 34 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | Information Disclosure | High | — | 6 |
-| 35 | [3678395](../../reports/3678395.md) | Path Traversal in mbstream Extract | Path Traversal | High | — | 6 |
+| 31 | [3678395](../../reports/3678395.md) | Path Traversal in mbstream Extract | Path Traversal | High | — | 9 |
+| 32 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 8 |
+| 33 | [3242830](../../reports/3242830.md) | Critical PII Data Exposure in ORDER_ERROR_LOG | Cleartext Storage of Sensitive Information | High | — | 7 |
+| 34 | [3781785](../../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters | Improper Input Validation | High | — | 7 |
+| 35 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | Information Disclosure | High | — | 6 |
 | 36 | [3686259](../../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wa | Improper Certificate Validation | High | — | 6 |
 | 37 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Cross-site Scripting (XSS) - Reflected | High | — | 6 |
 | 38 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Cross-site Scripting (XSS) - Reflected | High | — | 5 |
