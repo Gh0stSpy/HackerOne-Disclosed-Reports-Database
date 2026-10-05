@@ -26,6 +26,7 @@
 | [Discourse](discourse.md) | 2 | $1,024 |
 | [pixiv](pixiv.md) | 2 | $700 |
 | [Liberapay](liberapay.md) | 2 | $100 |
+| [Khan Academy](khan-academy.md) | 2 | — |
 | [Omise](omise.md) | 2 | — |
 | [Yelp](yelp.md) | 2 | — |
 | [Django](django.md) | 2 | — |
@@ -35,7 +36,6 @@
 | [Shopify](shopify.md) | 1 | $1,600 |
 | [MetaMask](metamask.md) | 1 | $350 |
 | [LinkedIn](linkedin.md) | 1 | — |
-| [Khan Academy](khan-academy.md) | 1 | — |
 | [Sony](sony.md) | 1 | — |
 | [Kubernetes](kubernetes.md) | 1 | — |
 | [Automattic](automattic.md) | 1 | — |
