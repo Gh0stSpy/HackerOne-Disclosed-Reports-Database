@@ -5,7 +5,7 @@
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Shopify | Medium | $1,600 | 106 |
-| 2 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Basecamp | High | — | 38 |
+| 2 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Basecamp | High | — | 40 |
 | 3 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | U.S. Dept Of Defense | Medium | — | 19 |
 | 4 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Ruby on Rails | Medium | — | 13 |
 | 5 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | U.S. Dept Of Defense | Medium | — | 11 |
