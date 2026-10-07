@@ -4,11 +4,11 @@
 |:--|--:|--:|
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
 | [curl](curl.md) | 39 | — |
+| [MariaDB](mariadb.md) | 27 | — |
 | [Monero](monero.md) | 24 | — |
 | [Nextcloud](nextcloud.md) | 23 | $1,400 |
 | [Essity](essity.md) | 16 | — |
 | [AWS VDP](aws-vdp.md) | 15 | — |
-| [MariaDB](mariadb.md) | 15 | — |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [Basecamp](basecamp.md) | 6 | $437 |
 | [Weblate](weblate.md) | 6 | — |

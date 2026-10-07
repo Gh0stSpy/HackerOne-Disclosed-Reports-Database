@@ -1,6 +1,6 @@
 # By weakness: Uncontrolled Resource Consumption
 
-**12 reports** · published bounties $1,124 *(most programs don't publish an amount, so this undercounts)*
+**14 reports** · published bounties $1,124 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -14,8 +14,10 @@
 | 8 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Tor | Low | — | 28 |
 | 9 | [876530](../../reports/876530.md) | Remote node DOS | Monero | Medium | — | 24 |
 | 10 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Monero | — | — | 23 |
-| 11 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Khan Academy | High | — | 17 |
+| 11 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Khan Academy | High | — | 21 |
 | 12 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | curl | Low | — | 7 |
+| 13 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | MariaDB | Medium | — | 1 |
+| 14 | [3867363](../../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash | MariaDB | Medium | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

@@ -1,6 +1,6 @@
 # By weakness: Use After Free
 
-**5 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**7 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -9,6 +9,8 @@
 | 3 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | MariaDB | — | — | 12 |
 | 4 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | curl | Low | — | 3 |
 | 5 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | curl | Low | — | 3 |
+| 6 | [3856148](../../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST | MariaDB | Critical | — | 3 |
+| 7 | [3915935](../../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation | MariaDB | High | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

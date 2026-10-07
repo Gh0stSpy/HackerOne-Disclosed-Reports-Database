@@ -3,24 +3,24 @@
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 32 | $1,600 |
-| [Improper Access Control - Generic](improper-access-control-generic.md) | 22 | $550 |
-| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 12 | $1,124 |
+| [Improper Access Control - Generic](improper-access-control-generic.md) | 24 | $550 |
+| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 14 | $1,124 |
 | [Information Disclosure](information-disclosure.md) | 12 | — |
 | [Business Logic Errors](business-logic-errors.md) | 11 | $500 |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 9 | — |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 8 | $337 |
+| [Use After Free](use-after-free.md) | 7 | — |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 6 | — |
 | [Path Traversal](path-traversal.md) | 5 | $5,000 |
-| [Use After Free](use-after-free.md) | 5 | — |
+| [SQL Injection](sql-injection.md) | 5 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 5 | — |
 | [Code Injection](code-injection.md) | 4 | $19,000 |
 | [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
 | [OS Command Injection](os-command-injection.md) | 4 | — |
 | [Stack Overflow](stack-overflow.md) | 4 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 4 | — |
-| [SQL Injection](sql-injection.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
@@ -52,9 +52,9 @@
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |
 | [CRLF Injection](crlf-injection.md) | 1 | — |
 | [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
+| [Improper Output Neutralization for Logs](improper-output-neutralization-for-logs.md) | 1 | — |
 | [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
 | [Integer Overflow](integer-overflow.md) | 1 | — |
-| [Improper Output Neutralization for Logs](improper-output-neutralization-for-logs.md) | 1 | — |
 | [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Buffer Under-read](buffer-under-read.md) | 1 | — |
@@ -69,4 +69,5 @@
 | [Heap Overflow](heap-overflow.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
+| [Integer Underflow](integer-underflow.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
