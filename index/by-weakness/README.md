@@ -22,6 +22,7 @@
 | [Stack Overflow](stack-overflow.md) | 4 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
+| [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 3 | $650 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Open Redirect](open-redirect.md) | 3 | — |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
@@ -30,7 +31,6 @@
 | [Resource Injection](resource-injection.md) | 3 | — |
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
-| [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 2 | $450 |
 | [Misconfiguration](misconfiguration.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
@@ -49,9 +49,9 @@
 | [Inclusion of Functionality from Untrusted Control Sphere](inclusion-of-functionality-from-untrusted-control-sphere.md) | 1 | — |
 | [Insecure Default Initialization of Resource](insecure-default-initialization-of-resource.md) | 1 | — |
 | [NULL Pointer Dereference](null-pointer-dereference.md) | 1 | — |
+| [Improper Output Neutralization for Logs](improper-output-neutralization-for-logs.md) | 1 | — |
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |
 | [CRLF Injection](crlf-injection.md) | 1 | — |
-| [Improper Output Neutralization for Logs](improper-output-neutralization-for-logs.md) | 1 | — |
 | [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
 | [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
 | [Integer Overflow](integer-overflow.md) | 1 | — |
