@@ -44,5 +44,5 @@
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
 | [RubyGems](rubygems.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
-| [Equifax-vdp](equifax-vdp.md) | 1 | — |
 | [R3](r3.md) | 1 | — |
+| [Equifax-vdp](equifax-vdp.md) | 1 | — |
