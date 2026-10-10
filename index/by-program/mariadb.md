@@ -14,11 +14,11 @@
 | 8 | [3766217](../../reports/3766217.md) | libmariadb ( mariadb-connector-c ): stack overflow via server-controlled field->length in  | Stack Overflow | Medium | — | 22 |
 | 9 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
 | 10 | [3771139](../../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in | Buffer Over-read | — | — | 16 |
-| 11 | [3867363](../../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash | Uncontrolled Resource Consumption | Medium | — | 14 |
+| 11 | [3867363](../../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash | Uncontrolled Resource Consumption | Medium | — | 15 |
 | 12 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 12 |
 | 13 | [3771147](../../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyIS | Classic Buffer Overflow | — | — | 11 |
-| 14 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | Improper Access Control - Generic | High | — | 10 |
-| 15 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | Uncontrolled Resource Consumption | Medium | — | 9 |
+| 14 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | Uncontrolled Resource Consumption | Medium | — | 10 |
+| 15 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | Improper Access Control - Generic | High | — | 10 |
 | 16 | [3897588](../../reports/3897588.md) | KILL authorization trusts the presented login name instead of the authenticated anonymous  | Incorrect Calculation of Buffer Size | — | — | 9 |
 | 17 | [3781201](../../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of-bounds read / server crash in Maria | Integer Underflow | Medium | — | 8 |
 | 18 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 8 |

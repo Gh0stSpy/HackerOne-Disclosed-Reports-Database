@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | DuckDuckGo | Medium | $500 | 72 |
+| 1 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | DuckDuckGo | Medium | $500 | 73 |
 | 2 | [3634400](../../reports/3634400.md) | SSRF Filter Bypass via Unblocked NAT64 Local-Use IPv6 Prefix (64:ff9b:1::/48) | arkadiyt-projects | High | — | 65 |
 | 3 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Nextcloud | Medium | — | 44 |
 | 4 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Weblate | High | — | 42 |

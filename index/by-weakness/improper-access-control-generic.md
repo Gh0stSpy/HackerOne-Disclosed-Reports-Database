@@ -12,7 +12,7 @@
 | 6 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Omise | Medium | — | 105 |
 | 7 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Basecamp | Medium | — | 104 |
 | 8 | [3370430](../../reports/3370430.md) | Users can change project visibility which requires high subscription by just changing requ | Lovable VDP | Medium | — | 70 |
-| 9 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Rockstar Games | High | — | 60 |
+| 9 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Rockstar Games | High | — | 61 |
 | 10 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Basecamp | Low | — | 53 |
 | 11 | [3893632](../../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fi | WordPress | Medium | — | 48 |
 | 12 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Monero | High | — | 40 |
