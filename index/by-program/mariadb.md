@@ -24,9 +24,9 @@
 | 18 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 8 |
 | 19 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | Improper Access Control - Generic | High | — | 7 |
 | 20 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 6 |
-| 21 | [3915935](../../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation | Use After Free | High | — | 5 |
-| 22 | [3849025](../../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | — | — | — | 4 |
-| 23 | [3856148](../../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST | Use After Free | Critical | — | 4 |
+| 21 | [3856148](../../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST | Use After Free | Critical | — | 5 |
+| 22 | [3915935](../../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation | Use After Free | High | — | 5 |
+| 23 | [3849025](../../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | — | — | — | 4 |
 | 24 | [3880451](../../reports/3880451.md) | Privilege escalation via user controlled usernames / roles and views | — | — | — | 4 |
 | 25 | [3848978](../../reports/3848978.md) | `SHOW [CREATE\|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation | SQL Injection | — | — | 3 |
 | 26 | [3849040](../../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | — | — | — | 1 |

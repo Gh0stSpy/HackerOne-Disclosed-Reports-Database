@@ -1,6 +1,6 @@
 # By weakness: Information Disclosure
 
-**12 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**13 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -15,7 +15,8 @@
 | 9 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | U.S. Dept Of Defense | High | — | 6 |
 | 10 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | curl | Medium | — | 4 |
 | 11 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | curl | Low | — | 2 |
-| 12 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Monero | Low | — | 1 |
+| 12 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | WordPress | Medium | — | 2 |
+| 13 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Monero | Low | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
