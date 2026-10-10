@@ -17,7 +17,7 @@
 | 11 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Improper Access Control - Generic | High | — | 61 |
 | 12 | [3620006](../../reports/3620006.md) | Wallet RPC Restricted-Mode Policy Bypass | Improper Authentication - Generic | High | — | 53 |
 | 13 | [3558713](../../reports/3558713.md) | Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs` | OS Command Injection | High | — | 48 |
-| 14 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Cross-site Scripting (XSS) - Reflected | High | — | 46 |
+| 14 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Cross-site Scripting (XSS) - Reflected | High | — | 47 |
 | 15 | [3693636](../../reports/3693636.md) | wallet-rpc crash via malformed /gettransactions response (empty txs → vector::front() in c | NULL Pointer Dereference | High | — | 44 |
 | 16 | [3897914](../../reports/3897914.md) | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking | Out-of-bounds Read | High | — | 43 |
 | 17 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 42 |
@@ -29,8 +29,8 @@
 | 23 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 32 |
 | 24 | [3473145](../../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding | Server-Side Request Forgery (SSRF) | High | — | 28 |
 | 25 | [3678395](../../reports/3678395.md) | Path Traversal in mbstream Extract | Path Traversal | High | — | 27 |
-| 26 | [3393664](../../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the link-preview feature | Server-Side Request Forgery (SSRF) | High | — | 26 |
-| 27 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Uncontrolled Resource Consumption | High | — | 26 |
+| 26 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Uncontrolled Resource Consumption | High | — | 27 |
+| 27 | [3393664](../../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the link-preview feature | Server-Side Request Forgery (SSRF) | High | — | 26 |
 | 28 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | Insecure Direct Object Reference (IDOR) | High | — | 25 |
 | 29 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 24 |
 | 30 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 22 |
