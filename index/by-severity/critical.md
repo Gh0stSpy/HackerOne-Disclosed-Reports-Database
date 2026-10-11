@@ -9,7 +9,7 @@
 | 3 | [3307874](../../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis | Uncontrolled Resource Consumption | Critical | — | 96 |
 | 4 | [3619288](../../reports/3619288.md) | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.ym | — | Critical | — | 66 |
 | 5 | [4020767](../../reports/4020767.md) | Unauthenticated API allows reading, writing to and deleting any user's private chat histor | Misconfiguration | Critical | — | 66 |
-| 6 | [3994056](../../reports/3994056.md) | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC | Improper Authentication - Generic | Critical | — | 57 |
+| 6 | [3994056](../../reports/3994056.md) | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC | Improper Authentication - Generic | Critical | — | 59 |
 | 7 | [3788482](../../reports/3788482.md) | Stack Buffer Overflow in mariadb-dump quote_name() Allows Malicious Server to Execute Arbi | Stack Overflow | Critical | — | 50 |
 | 8 | [3931777](../../reports/3931777.md) | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/< | Path Traversal | Critical | — | 47 |
 | 9 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Cross-site Scripting (XSS) - Stored | Critical | — | 45 |
