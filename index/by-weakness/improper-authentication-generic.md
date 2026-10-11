@@ -5,8 +5,8 @@
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3676308](../../reports/3676308.md) | POST /api/bitcoinWithdrawalFees returns financial data without authentication despite bein | CoinMate.io | Medium | — | 92 |
-| 2 | [3620006](../../reports/3620006.md) | Wallet RPC Restricted-Mode Policy Bypass | Monero | High | — | 53 |
-| 3 | [3994056](../../reports/3994056.md) | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC | R3 | Critical | — | 52 |
+| 2 | [3994056](../../reports/3994056.md) | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC | R3 | Critical | — | 57 |
+| 3 | [3620006](../../reports/3620006.md) | Wallet RPC Restricted-Mode Policy Bypass | Monero | High | — | 53 |
 | 4 | [3693295](../../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs | Brave Software | Medium | — | 48 |
 | 5 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Monero | High | — | 40 |
 | 6 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Equifax-vdp | High | — | 24 |
