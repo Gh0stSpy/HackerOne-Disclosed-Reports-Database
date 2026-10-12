@@ -59,8 +59,8 @@
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Buffer Under-read](buffer-under-read.md) | 1 | — |
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 1 | — |
-| [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
 | [Integer Underflow](integer-underflow.md) | 1 | — |
+| [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 1 | — |
 | [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |

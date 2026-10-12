@@ -39,8 +39,8 @@
 | [Sony](sony.md) | 1 | — |
 | [Kubernetes](kubernetes.md) | 1 | — |
 | [Automattic](automattic.md) | 1 | — |
-| [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [R3](r3.md) | 1 | — |
+| [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [Rockstar Games](rockstar-games.md) | 1 | — |
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
 | [RubyGems](rubygems.md) | 1 | — |
