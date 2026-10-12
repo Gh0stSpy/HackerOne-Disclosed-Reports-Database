@@ -1,6 +1,6 @@
 # By weakness: Out-of-bounds Read
 
-**4 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**5 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -8,6 +8,7 @@
 | 2 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Tor | Medium | — | 33 |
 | 3 | [3738654](../../reports/3738654.md) | Firecracker Out-of-bounds Read/Write Local Privilege Escalation Vulnerability | AWS VDP | — | — | 33 |
 | 4 | [3896671](../../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field | MariaDB | — | — | 31 |
+| 5 | [3872248](../../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared | MariaDB | Medium | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

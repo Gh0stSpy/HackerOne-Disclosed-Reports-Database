@@ -4,7 +4,7 @@
 |:--|--:|--:|
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
 | [curl](curl.md) | 39 | — |
-| [MariaDB](mariadb.md) | 28 | — |
+| [MariaDB](mariadb.md) | 31 | — |
 | [Monero](monero.md) | 24 | — |
 | [Nextcloud](nextcloud.md) | 23 | $1,400 |
 | [Essity](essity.md) | 16 | — |
@@ -14,10 +14,10 @@
 | [Basecamp](basecamp.md) | 6 | $437 |
 | [Weblate](weblate.md) | 6 | — |
 | [Ruby on Rails](ruby-on-rails.md) | 5 | — |
+| [WordPress](wordpress.md) | 5 | — |
 | [PortSwigger Web Security](portswigger-web-security.md) | 4 | $5,400 |
 | [Rocket.Chat](rocket-chat.md) | 4 | — |
 | [Lovable VDP](lovable-vdp.md) | 4 | — |
-| [WordPress](wordpress.md) | 4 | — |
 | [DuckDuckGo](duckduckgo.md) | 3 | $500 |
 | [CoinMate.io](coinmate-io.md) | 3 | $100 |
 | [Tor](tor.md) | 3 | $100 |
