@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [2831902](../../reports/2831902.md) | [CRITICAL] 0-Click Account Takeover via Password Reset [AUTH-3243] /orchestrator/v1/passwo | Improper Access Control - Generic | Critical | — | 280 |
+| 1 | [3189580](../../reports/3189580.md) | Password Reset Allows Reusing Old Password -- [AUTH-3820] | Unverified Password Change | — | — | 4 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

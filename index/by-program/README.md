@@ -4,7 +4,7 @@
 |:--|--:|--:|
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
 | [curl](curl.md) | 39 | — |
-| [MariaDB](mariadb.md) | 31 | — |
+| [MariaDB](mariadb.md) | 32 | — |
 | [Monero](monero.md) | 24 | — |
 | [Nextcloud](nextcloud.md) | 23 | $1,400 |
 | [Essity](essity.md) | 16 | — |
@@ -46,3 +46,4 @@
 | [RubyGems](rubygems.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
 | [Equifax-vdp](equifax-vdp.md) | 1 | — |
+| [Remitly](remitly.md) | 1 | — |
