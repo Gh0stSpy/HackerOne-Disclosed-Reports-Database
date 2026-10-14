@@ -41,6 +41,7 @@
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 2 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |
+| [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 2 | — |
 | [Improper Validation of Certificate with Host Mismatch](improper-validation-of-certificate-with-host-mismatch.md) | 2 | — |
 | [Authentication Bypass by Capture-replay](authentication-bypass-by-capture-replay.md) | 1 | $2,000 |
 | [UI Redressing (Clickjacking)](ui-redressing-clickjacking.md) | 1 | $200 |
@@ -64,7 +65,6 @@
 | [Unverified Password Change](unverified-password-change.md) | 1 | — |
 | [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
-| [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 1 | — |
 | [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
