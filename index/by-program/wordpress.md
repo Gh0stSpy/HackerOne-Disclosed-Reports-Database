@@ -8,7 +8,7 @@
 | 2 | [3931777](../../reports/3931777.md) | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/< | Path Traversal | Critical | — | 48 |
 | 3 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 31 |
 | 4 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | Information Disclosure | Medium | — | 26 |
-| 5 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | Improper Access Control - Generic | Critical | — | 14 |
+| 5 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | Improper Access Control - Generic | Critical | — | 16 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

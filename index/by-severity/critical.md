@@ -16,7 +16,7 @@
 | 10 | [3619287](../../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.ym | — | Critical | — | 41 |
 | 11 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 37 |
 | 12 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 31 |
-| 13 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | Improper Access Control - Generic | Critical | — | 14 |
+| 13 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | Improper Access Control - Generic | Critical | — | 16 |
 | 14 | [3589269](../../reports/3589269.md) | HTTP Request Smuggling | HTTP Request Smuggling | Critical | — | 13 |
 | 15 | [3873072](../../reports/3873072.md) | Unauthenticated SQL Injection via REST Batch Route Confusion ████████ | SQL Injection | Critical | — | 13 |
 | 16 | [3584078](../../reports/3584078.md) | ████████ ████████ Server Full Exposure with Database Credentials | Information Exposure Through Directory Listing | Critical | — | 12 |
