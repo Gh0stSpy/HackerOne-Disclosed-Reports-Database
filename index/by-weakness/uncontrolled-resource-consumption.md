@@ -10,7 +10,7 @@
 | 4 | [3542546](../../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access Policy | RubyGems | — | — | 41 |
 | 5 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Weblate | High | — | 32 |
 | 6 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | MariaDB | Medium | — | 31 |
-| 7 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Khan Academy | High | — | 29 |
+| 7 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Khan Academy | High | — | 30 |
 | 8 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Ruby on Rails | Low | — | 28 |
 | 9 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Tor | Low | — | 28 |
 | 10 | [876530](../../reports/876530.md) | Remote node DOS | Monero | Medium | — | 24 |

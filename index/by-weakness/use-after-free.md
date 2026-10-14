@@ -11,7 +11,7 @@
 | 5 | [3915935](../../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation | MariaDB | High | — | 6 |
 | 6 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | curl | Low | — | 3 |
 | 7 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | curl | Low | — | 3 |
-| 8 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | curl | High | — | 1 |
+| 8 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | curl | High | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
