@@ -45,9 +45,9 @@
 | 39 | [3849051](../../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | — | — | — | 5 |
 | 40 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |
 | 41 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
-| 42 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
-| 43 | [3993549](../../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirected origin | — | — | — | 1 |
-| 44 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 1 |
+| 42 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
+| 43 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
+| 44 | [3993549](../../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirected origin | — | — | — | 1 |
 | 45 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
 | 46 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
 | 47 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
