@@ -1,11 +1,11 @@
 # By weakness: Improper Access Control - Generic
 
-**25 reports** · published bounties $550 *(most programs don't publish an amount, so this undercounts)*
+**26 reports** · published bounties $550 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Nextcloud | Low | $250 | 46 |
-| 2 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Nextcloud | Medium | $200 | 61 |
+| 2 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Nextcloud | Medium | $200 | 62 |
 | 3 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Nextcloud | — | $100 | 56 |
 | 4 | [3378540](../../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse | HackerOne | Low | — | 124 |
 | 5 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Khan Academy | Critical | — | 124 |
@@ -29,6 +29,7 @@
 | 23 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Nextcloud | Medium | — | 13 |
 | 24 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 9 |
 | 25 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
+| 26 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | RubyGems | High | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

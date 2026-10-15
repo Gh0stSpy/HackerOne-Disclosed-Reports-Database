@@ -32,6 +32,7 @@
 | [Django](django.md) | 2 | — |
 | [phpBB](phpbb.md) | 2 | — |
 | [Brave Software](brave-software.md) | 2 | — |
+| [RubyGems](rubygems.md) | 2 | — |
 | [Myndr](myndr.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
 | [MetaMask](metamask.md) | 1 | $350 |
@@ -43,7 +44,6 @@
 | [Rockstar Games](rockstar-games.md) | 1 | — |
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
-| [RubyGems](rubygems.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
 | [Equifax-vdp](equifax-vdp.md) | 1 | — |
 | [Remitly](remitly.md) | 1 | — |

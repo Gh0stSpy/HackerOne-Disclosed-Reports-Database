@@ -3,7 +3,7 @@
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 32 | $1,600 |
-| [Improper Access Control - Generic](improper-access-control-generic.md) | 25 | $550 |
+| [Improper Access Control - Generic](improper-access-control-generic.md) | 26 | $550 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 16 | $1,124 |
 | [Information Disclosure](information-disclosure.md) | 14 | — |
 | [Business Logic Errors](business-logic-errors.md) | 11 | $500 |
@@ -39,9 +39,9 @@
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 2 | — |
 | [CRLF Injection](crlf-injection.md) | 2 | — |
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
+| [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 2 | — |
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 2 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |
-| [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 2 | — |
 | [Improper Validation of Certificate with Host Mismatch](improper-validation-of-certificate-with-host-mismatch.md) | 2 | — |
 | [Authentication Bypass by Capture-replay](authentication-bypass-by-capture-replay.md) | 1 | $2,000 |
 | [UI Redressing (Clickjacking)](ui-redressing-clickjacking.md) | 1 | $200 |
