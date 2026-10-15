@@ -38,8 +38,8 @@
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 2 | — |
 | [CRLF Injection](crlf-injection.md) | 2 | — |
-| [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 2 | — |
+| [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 2 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |
 | [Improper Validation of Certificate with Host Mismatch](improper-validation-of-certificate-with-host-mismatch.md) | 2 | — |

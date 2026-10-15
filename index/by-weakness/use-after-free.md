@@ -9,9 +9,9 @@
 | 3 | [3856148](../../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST | MariaDB | Critical | — | 13 |
 | 4 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | MariaDB | — | — | 12 |
 | 5 | [3915935](../../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation | MariaDB | High | — | 6 |
-| 6 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | curl | Low | — | 3 |
-| 7 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | curl | Low | — | 3 |
-| 8 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | curl | High | — | 2 |
+| 6 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | curl | High | — | 4 |
+| 7 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | curl | Low | — | 3 |
+| 8 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | curl | Low | — | 3 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
