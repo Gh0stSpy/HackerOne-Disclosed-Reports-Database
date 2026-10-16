@@ -6,7 +6,7 @@
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3734676](../../reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler ch | Authentication Bypass by Capture-replay | Medium | $2,000 | 42 |
 | 2 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 107 |
-| 3 | [3972558](../../reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication | — | Medium | $1,000 | 30 |
+| 3 | [3972558](../../reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication | — | Medium | $1,000 | 32 |
 | 4 | [2541962](../../reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | Insecure Direct Object Reference (IDOR) | Medium | $500 | 145 |
 | 5 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 74 |
 | 6 | [3507241](../../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized  | Business Logic Errors | Medium | $350 | 85 |
@@ -92,9 +92,9 @@
 | 86 | [3781201](../../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of-bounds read / server crash in Maria | Integer Underflow | Medium | — | 14 |
 | 87 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Improper Access Control - Generic | Medium | — | 13 |
 | 88 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 13 |
-| 89 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
-| 90 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 12 |
-| 91 | [3972760](../../reports/3972760.md) | Open redirect on app.hey.com bypasses HEY desktop's internal-origin allowlist and loads at | Open Redirect | Medium | — | 12 |
+| 89 | [3972760](../../reports/3972760.md) | Open redirect on app.hey.com bypasses HEY desktop's internal-origin allowlist and loads at | Open Redirect | Medium | — | 13 |
+| 90 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
+| 91 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 12 |
 | 92 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
 | 93 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
 | 94 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
@@ -102,14 +102,14 @@
 | 96 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 97 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 98 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 99 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 100 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 101 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 102 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 103 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Incorrect Permission Assignment for Critical Resource | Medium | — | 8 |
-| 104 | [3839914](../../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins | Missing Authorization | Medium | — | 8 |
-| 105 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 8 |
-| 106 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Uncontrolled Resource Consumption | Medium | — | 8 |
+| 99 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Uncontrolled Resource Consumption | Medium | — | 9 |
+| 100 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 101 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 102 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 103 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 104 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Incorrect Permission Assignment for Critical Resource | Medium | — | 8 |
+| 105 | [3839914](../../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins | Missing Authorization | Medium | — | 8 |
+| 106 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 8 |
 | 107 | [2750977](../../reports/2750977.md) | Cross-Site Scripting (XSS) Vulnerability via parameter c0-id + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 7 |
 | 108 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
 | 109 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
