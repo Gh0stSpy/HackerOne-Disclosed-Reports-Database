@@ -7,8 +7,8 @@
 | [MariaDB](mariadb.md) | 32 | — |
 | [Monero](monero.md) | 24 | — |
 | [Nextcloud](nextcloud.md) | 23 | $1,400 |
+| [AWS VDP](aws-vdp.md) | 17 | — |
 | [Essity](essity.md) | 17 | — |
-| [AWS VDP](aws-vdp.md) | 16 | — |
 | [Weblate](weblate.md) | 8 | — |
 | [Basecamp](basecamp.md) | 7 | $437 |
 | [HackerOne](hackerone.md) | 6 | $19,900 |

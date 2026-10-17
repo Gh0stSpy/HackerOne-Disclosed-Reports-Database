@@ -32,13 +32,13 @@
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
 | [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
+| [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 3 | — |
 | [Buffer Over-read](buffer-over-read.md) | 3 | — |
 | [Misconfiguration](misconfiguration.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 2 | — |
 | [CRLF Injection](crlf-injection.md) | 2 | — |
-| [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 2 | — |
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |
 | [Cleartext Transmission of Sensitive Information](cleartext-transmission-of-sensitive-information.md) | 2 | — |
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |
