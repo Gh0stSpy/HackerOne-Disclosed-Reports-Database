@@ -4,8 +4,8 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3782701](../../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) | Mozilla | Critical | $12,000 | 357 |
-| 2 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | HackerOne | High | $7,000 | 170 |
+| 1 | [3782701](../../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) | Mozilla | Critical | $12,000 | 358 |
+| 2 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | HackerOne | High | $7,000 | 171 |
 | 3 | [2701701](../../reports/2701701.md) | Injection in path parameter of Ingress-nginx | Kubernetes | High | — | 89 |
 | 4 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Monero | Medium | — | 30 |
 | 5 | [3897236](../../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template | AWS VDP | High | — | 21 |

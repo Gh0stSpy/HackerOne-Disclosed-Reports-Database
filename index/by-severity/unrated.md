@@ -43,10 +43,10 @@
 | 37 | [3848978](../../reports/3848978.md) | `SHOW [CREATE\|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation | SQL Injection | — | — | 5 |
 | 38 | [3849040](../../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | — | — | — | 5 |
 | 39 | [3849051](../../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | — | — | — | 5 |
-| 40 | [3993549](../../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirected origin | — | — | — | 4 |
-| 41 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |
-| 42 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
-| 43 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 2 |
+| 40 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 4 |
+| 41 | [3993549](../../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirected origin | — | — | — | 4 |
+| 42 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |
+| 43 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
 | 44 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 2 |
 | 45 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
 | 46 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |

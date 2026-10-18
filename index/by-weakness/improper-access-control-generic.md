@@ -7,8 +7,8 @@
 | 1 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Nextcloud | Low | $250 | 46 |
 | 2 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Nextcloud | Medium | $200 | 62 |
 | 3 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Nextcloud | — | $100 | 56 |
-| 4 | [3378540](../../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse | HackerOne | Low | — | 124 |
-| 5 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Khan Academy | Critical | — | 124 |
+| 4 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Khan Academy | Critical | — | 125 |
+| 5 | [3378540](../../reports/3378540.md) | Lack of Validation in Reward Redemption Allows Unlimited Burp Suite License Abuse | HackerOne | Low | — | 124 |
 | 6 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Omise | Medium | — | 105 |
 | 7 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Basecamp | Medium | — | 104 |
 | 8 | [3370430](../../reports/3370430.md) | Users can change project visibility which requires high subscription by just changing requ | Lovable VDP | Medium | — | 70 |
@@ -25,8 +25,8 @@
 | 19 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | WordPress | Critical | — | 19 |
 | 20 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | MariaDB | High | — | 19 |
 | 21 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Nextcloud | Medium | — | 16 |
-| 22 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | MariaDB | High | — | 14 |
-| 23 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | RubyGems | High | — | 14 |
+| 22 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | RubyGems | High | — | 15 |
+| 23 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | MariaDB | High | — | 14 |
 | 24 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Nextcloud | Medium | — | 13 |
 | 25 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 9 |
 | 26 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |

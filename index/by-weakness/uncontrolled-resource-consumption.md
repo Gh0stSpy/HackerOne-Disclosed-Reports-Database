@@ -16,7 +16,7 @@
 | 10 | [876530](../../reports/876530.md) | Remote node DOS | Monero | Medium | — | 24 |
 | 11 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Monero | — | — | 23 |
 | 12 | [3867363](../../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash | MariaDB | Medium | — | 23 |
-| 13 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Weblate | Medium | — | 19 |
+| 13 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Weblate | Medium | — | 20 |
 | 14 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | MariaDB | Medium | — | 16 |
 | 15 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Weblate | Low | — | 15 |
 | 16 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | curl | Low | — | 7 |
