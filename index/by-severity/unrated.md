@@ -1,6 +1,6 @@
 # By severity: Unrated
 
-**58 reports** · published bounties $12,600 *(most programs don't publish an amount, so this undercounts)*
+**59 reports** · published bounties $12,600 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -46,22 +46,23 @@
 | 40 | [3993549](../../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirected origin | — | — | — | 4 |
 | 41 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |
 | 42 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
-| 43 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 2 |
-| 44 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
-| 45 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
-| 46 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
-| 47 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
-| 48 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
-| 49 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
-| 50 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
-| 51 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
-| 52 | [3973190](../../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certificate | Authentication Bypass by Primary Weakness | — | — | 0 |
-| 53 | [3973201](../../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | Improper Check or Handling of Exceptional Conditions | — | — | 0 |
-| 54 | [4021979](../../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | — | — | — | 0 |
-| 55 | [4022003](../../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omission | — | — | — | 0 |
-| 56 | [4022070](../../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | — | — | — | 0 |
-| 57 | [4022568](../../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | — | — | — | 0 |
-| 58 | [4023192](../../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints | — | — | — | 0 |
+| 43 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 2 |
+| 44 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 2 |
+| 45 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
+| 46 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
+| 47 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
+| 48 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
+| 49 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
+| 50 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
+| 51 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
+| 52 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
+| 53 | [3973190](../../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certificate | Authentication Bypass by Primary Weakness | — | — | 0 |
+| 54 | [3973201](../../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | Improper Check or Handling of Exceptional Conditions | — | — | 0 |
+| 55 | [4021979](../../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | — | — | — | 0 |
+| 56 | [4022003](../../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omission | — | — | — | 0 |
+| 57 | [4022070](../../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | — | — | — | 0 |
+| 58 | [4022568](../../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | — | — | — | 0 |
+| 59 | [4023192](../../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints | — | — | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

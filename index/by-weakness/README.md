@@ -22,6 +22,7 @@
 | [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
 | [OS Command Injection](os-command-injection.md) | 4 | — |
 | [Open Redirect](open-redirect.md) | 4 | — |
+| [Buffer Over-read](buffer-over-read.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 3 | $650 |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
@@ -33,7 +34,6 @@
 | [Exposure of Data Element to Wrong Session](exposure-of-data-element-to-wrong-session.md) | 3 | — |
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 3 | — |
-| [Buffer Over-read](buffer-over-read.md) | 3 | — |
 | [Misconfiguration](misconfiguration.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
 | [Privilege Escalation](privilege-escalation.md) | 2 | — |

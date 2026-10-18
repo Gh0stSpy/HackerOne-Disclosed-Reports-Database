@@ -10,13 +10,13 @@
 | 4 | [3542546](../../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access Policy | RubyGems | — | — | 41 |
 | 5 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Weblate | High | — | 32 |
 | 6 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | MariaDB | Medium | — | 31 |
-| 7 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Khan Academy | High | — | 30 |
+| 7 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Khan Academy | High | — | 31 |
 | 8 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Ruby on Rails | Low | — | 28 |
 | 9 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Tor | Low | — | 28 |
 | 10 | [876530](../../reports/876530.md) | Remote node DOS | Monero | Medium | — | 24 |
 | 11 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Monero | — | — | 23 |
 | 12 | [3867363](../../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash | MariaDB | Medium | — | 23 |
-| 13 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Weblate | Medium | — | 18 |
+| 13 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Weblate | Medium | — | 19 |
 | 14 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | MariaDB | Medium | — | 16 |
 | 15 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Weblate | Low | — | 15 |
 | 16 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | curl | Low | — | 7 |
