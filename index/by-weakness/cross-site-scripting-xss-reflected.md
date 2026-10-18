@@ -23,13 +23,13 @@
 | 17 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
 | 18 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | U.S. Dept Of Defense | Medium | — | 7 |
 | 19 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | U.S. Dept Of Defense | Medium | — | 7 |
-| 20 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | U.S. Dept Of Defense | Medium | — | 6 |
-| 21 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | U.S. Dept Of Defense | Medium | — | 6 |
-| 22 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | U.S. Dept Of Defense | Medium | — | 6 |
-| 23 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | U.S. Dept Of Defense | Medium | — | 6 |
-| 24 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | U.S. Dept Of Defense | Medium | — | 6 |
-| 25 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | U.S. Dept Of Defense | Medium | — | 6 |
-| 26 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Essity | High | — | 6 |
+| 20 | [3793533](../../reports/3793533.md) | Unauthenticated reflected XSS in Essity "Network Toolbox" CGI (████████ ████████ | Essity | High | — | 7 |
+| 21 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | U.S. Dept Of Defense | Medium | — | 6 |
+| 22 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | U.S. Dept Of Defense | Medium | — | 6 |
+| 23 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | U.S. Dept Of Defense | Medium | — | 6 |
+| 24 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | U.S. Dept Of Defense | Medium | — | 6 |
+| 25 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | U.S. Dept Of Defense | Medium | — | 6 |
+| 26 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | U.S. Dept Of Defense | Medium | — | 6 |
 | 27 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | U.S. Dept Of Defense | Medium | — | 5 |
 | 28 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | U.S. Dept Of Defense | Medium | — | 5 |
 | 29 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Essity | High | — | 5 |
