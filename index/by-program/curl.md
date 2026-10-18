@@ -30,9 +30,9 @@
 | 24 | [3969300](../../reports/3969300.md) | CVE-2026-80230: OpenSSL pinning bypass | — | — | — | 6 |
 | 25 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
 | 26 | [3969368](../../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | — | Low | — | 5 |
-| 27 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
-| 28 | [3993549](../../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirected origin | — | — | — | 4 |
-| 29 | [4099618](../../reports/4099618.md) | CVE-2026-107929: local interface connection reuse mixup | Exposure of Data Element to Wrong Session | Low | — | 4 |
+| 27 | [4099618](../../reports/4099618.md) | CVE-2026-107929: local interface connection reuse mixup | Exposure of Data Element to Wrong Session | Low | — | 5 |
+| 28 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
+| 29 | [3993549](../../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirected origin | — | — | — | 4 |
 | 30 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Business Logic Errors | Low | — | 3 |
 | 31 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
 | 32 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | Use After Free | Low | — | 3 |
@@ -48,13 +48,13 @@
 | 42 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
 | 43 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
 | 44 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | Improper Authentication - Generic | Low | — | 1 |
-| 45 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
-| 46 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 1 |
-| 47 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 1 |
-| 48 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
-| 49 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
-| 50 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
-| 51 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 0 |
+| 45 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 1 |
+| 46 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
+| 47 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 1 |
+| 48 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 1 |
+| 49 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
+| 50 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
+| 51 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
 | 52 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
 | 53 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
 | 54 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
