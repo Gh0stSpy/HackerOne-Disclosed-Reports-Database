@@ -62,11 +62,11 @@
 | 56 | [3700036](../../reports/3700036.md) | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned t | Missing Required Cryptographic Step | Medium | — | 28 |
 | 57 | [3972760](../../reports/3972760.md) | Open redirect on app.hey.com bypasses HEY desktop's internal-origin allowlist and loads at | Open Redirect | Medium | — | 28 |
 | 58 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 27 |
-| 59 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | Information Disclosure | Medium | — | 27 |
-| 60 | [4071064](../../reports/4071064.md) | Unauthenticated self-registration on ████████ grants full access to internal supplier proc | Missing Authentication for Critical Function | Medium | — | 27 |
-| 61 | [3583983](../../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | Information Exposure Through Sent Data | Medium | — | 26 |
-| 62 | [3590576](../../reports/3590576.md) | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loadin | Remote File Inclusion | Medium | — | 26 |
-| 63 | [3966599](../../reports/3966599.md) | Unauthenticated go-httpbin servers : Leads to Cookie Tossing on *.aws.dev and Open Redirec | Missing Authentication for Critical Function | Medium | — | 26 |
+| 59 | [3966599](../../reports/3966599.md) | Unauthenticated go-httpbin servers : Leads to Cookie Tossing on *.aws.dev and Open Redirec | Missing Authentication for Critical Function | Medium | — | 27 |
+| 60 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | Information Disclosure | Medium | — | 27 |
+| 61 | [4071064](../../reports/4071064.md) | Unauthenticated self-registration on ████████ grants full access to internal supplier proc | Missing Authentication for Critical Function | Medium | — | 27 |
+| 62 | [3583983](../../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | Information Exposure Through Sent Data | Medium | — | 26 |
+| 63 | [3590576](../../reports/3590576.md) | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loadin | Remote File Inclusion | Medium | — | 26 |
 | 64 | [3383079](../../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function | Server-Side Request Forgery (SSRF) | Medium | — | 25 |
 | 65 | [3620753](../../reports/3620753.md) | V2Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 25 |
 | 66 | [876530](../../reports/876530.md) | Remote node DOS | Uncontrolled Resource Consumption | Medium | — | 24 |

@@ -1,6 +1,6 @@
 # By severity: High
 
-**45 reports** · published bounties $13,024 *(most programs don't publish an amount, so this undercounts)*
+**46 reports** · published bounties $13,024 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -49,6 +49,7 @@
 | 43 | [3686259](../../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wa | Improper Certificate Validation | High | — | 6 |
 | 44 | [3915935](../../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation | Use After Free | High | — | 6 |
 | 45 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Cross-site Scripting (XSS) - Reflected | High | — | 5 |
+| 46 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Improper Access Control - Generic | High | — | 4 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

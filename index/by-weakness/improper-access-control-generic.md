@@ -1,6 +1,6 @@
 # By weakness: Improper Access Control - Generic
 
-**26 reports** · published bounties $550 *(most programs don't publish an amount, so this undercounts)*
+**27 reports** · published bounties $550 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -30,6 +30,7 @@
 | 24 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Nextcloud | Medium | — | 13 |
 | 25 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 9 |
 | 26 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
+| 27 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Basecamp | High | — | 4 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
