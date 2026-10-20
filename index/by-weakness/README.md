@@ -6,7 +6,7 @@
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 27 | $550 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 17 | $1,124 |
 | [Information Disclosure](information-disclosure.md) | 14 | — |
-| [Business Logic Errors](business-logic-errors.md) | 11 | $500 |
+| [Business Logic Errors](business-logic-errors.md) | 13 | $500 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 11 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 8 | $337 |
