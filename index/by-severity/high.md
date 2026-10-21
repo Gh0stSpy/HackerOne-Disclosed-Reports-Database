@@ -34,11 +34,11 @@
 | 28 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | Insecure Direct Object Reference (IDOR) | High | — | 25 |
 | 29 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 24 |
 | 30 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 23 |
-| 31 | [3897236](../../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template | Code Injection | High | — | 22 |
-| 32 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | Improper Access Control - Generic | High | — | 20 |
-| 33 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | Improper Access Control - Generic | High | — | 19 |
-| 34 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
-| 35 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Improper Access Control - Generic | High | — | 16 |
+| 31 | [3897236](../../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template | Code Injection | High | — | 23 |
+| 32 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Improper Access Control - Generic | High | — | 23 |
+| 33 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | Improper Access Control - Generic | High | — | 20 |
+| 34 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | Improper Access Control - Generic | High | — | 19 |
+| 35 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
 | 36 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
 | 37 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | Improper Access Control - Generic | High | — | 14 |
 | 38 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 9 |

@@ -8,7 +8,7 @@
 | 2 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | HackerOne | High | $7,000 | 172 |
 | 3 | [2701701](../../reports/2701701.md) | Injection in path parameter of Ingress-nginx | Kubernetes | High | — | 89 |
 | 4 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Monero | Medium | — | 30 |
-| 5 | [3897236](../../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template | AWS VDP | High | — | 22 |
+| 5 | [3897236](../../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template | AWS VDP | High | — | 23 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
