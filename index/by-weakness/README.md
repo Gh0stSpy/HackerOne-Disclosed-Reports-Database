@@ -7,25 +7,25 @@
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 17 | $1,124 |
 | [Information Disclosure](information-disclosure.md) | 14 | — |
 | [Business Logic Errors](business-logic-errors.md) | 13 | $500 |
-| [Improper Authentication - Generic](improper-authentication-generic.md) | 11 | — |
+| [Improper Authentication - Generic](improper-authentication-generic.md) | 12 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 8 | $337 |
 | [Use After Free](use-after-free.md) | 8 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 7 | — |
+| [Code Injection](code-injection.md) | 6 | $19,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 6 | — |
-| [Code Injection](code-injection.md) | 5 | $19,000 |
 | [Path Traversal](path-traversal.md) | 5 | $5,000 |
 | [Stack Overflow](stack-overflow.md) | 5 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 5 | — |
 | [SQL Injection](sql-injection.md) | 5 | — |
 | [Improper Input Validation](improper-input-validation.md) | 4 | $500 |
 | [OS Command Injection](os-command-injection.md) | 4 | — |
+| [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 4 | — |
 | [Open Redirect](open-redirect.md) | 4 | — |
 | [Buffer Over-read](buffer-over-read.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 3 | $650 |
-| [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 3 | — |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 3 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
