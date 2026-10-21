@@ -8,7 +8,7 @@
 | 2 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | curl | Low | — | 14 |
 | 3 | [3856148](../../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST | MariaDB | Critical | — | 13 |
 | 4 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | MariaDB | — | — | 12 |
-| 5 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | curl | High | — | 7 |
+| 5 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | curl | High | — | 8 |
 | 6 | [3915935](../../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation | MariaDB | High | — | 6 |
 | 7 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | curl | Low | — | 3 |
 | 8 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | curl | Low | — | 3 |
