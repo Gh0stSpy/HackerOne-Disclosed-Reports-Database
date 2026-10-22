@@ -10,7 +10,7 @@
 | 4 | [3686259](../../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wa | Monero | High | — | 6 |
 | 5 | [3752888](../../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | curl | Low | — | 3 |
 | 6 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | curl | — | — | 3 |
-| 7 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | curl | Medium | — | 1 |
+| 7 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | curl | Medium | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

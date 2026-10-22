@@ -46,11 +46,11 @@
 | 40 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
 | 41 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
 | 42 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 2 |
-| 43 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
-| 44 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
-| 45 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | Improper Authentication - Generic | Low | — | 1 |
-| 46 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
-| 47 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 1 |
+| 43 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
+| 44 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
+| 45 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
+| 46 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | Improper Authentication - Generic | Low | — | 1 |
+| 47 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
 | 48 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 1 |
 | 49 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
 | 50 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
