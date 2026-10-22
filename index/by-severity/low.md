@@ -34,7 +34,7 @@
 | 28 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Uncontrolled Resource Consumption | Low | — | 28 |
 | 29 | [3671818](../../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | Exposure of Data Element to Wrong Session | Low | — | 24 |
 | 30 | [3601655](../../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-spli | — | Low | — | 23 |
-| 31 | [3508852](../../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables | Business Logic Errors | Low | — | 21 |
+| 31 | [3508852](../../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables | Business Logic Errors | Low | — | 22 |
 | 32 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 20 |
 | 33 | [3485178](../../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and breaks frontend UI | Business Logic Errors | Low | — | 18 |
 | 34 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 15 |

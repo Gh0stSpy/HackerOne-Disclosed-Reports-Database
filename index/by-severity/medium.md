@@ -5,7 +5,7 @@
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3734676](../../reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler ch | Authentication Bypass by Capture-replay | Medium | $2,000 | 43 |
-| 2 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 108 |
+| 2 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 109 |
 | 3 | [3972558](../../reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication | — | Medium | $1,000 | 56 |
 | 4 | [2541962](../../reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | Insecure Direct Object Reference (IDOR) | Medium | $500 | 145 |
 | 5 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 74 |
@@ -100,11 +100,11 @@
 | 94 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
 | 95 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
 | 96 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 97 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 98 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 99 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 100 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 101 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 9 |
+| 97 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 10 |
+| 98 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 99 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 100 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 101 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 102 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
 | 103 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
 | 104 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |

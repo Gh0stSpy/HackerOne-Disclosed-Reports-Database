@@ -39,9 +39,9 @@
 | 33 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | Improper Access Control - Generic | High | — | 21 |
 | 34 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | Improper Access Control - Generic | High | — | 19 |
 | 35 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
-| 36 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
-| 37 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | Improper Access Control - Generic | High | — | 14 |
-| 38 | [3923967](../../reports/3923967.md) | WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE | Code Injection | High | — | 13 |
+| 36 | [3923967](../../reports/3923967.md) | WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE | Code Injection | High | — | 16 |
+| 37 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
+| 38 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | Improper Access Control - Generic | High | — | 14 |
 | 39 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 9 |
 | 40 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | Use After Free | High | — | 8 |
 | 41 | [3242830](../../reports/3242830.md) | Critical PII Data Exposure in ORDER_ERROR_LOG | Cleartext Storage of Sensitive Information | High | — | 7 |

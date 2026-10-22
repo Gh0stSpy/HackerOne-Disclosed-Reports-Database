@@ -22,7 +22,7 @@
 | 16 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Improper Access Control - Generic | Medium | — | 31 |
 | 17 | [3590576](../../reports/3590576.md) | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loadin | Remote File Inclusion | Medium | — | 26 |
 | 18 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Improper Authentication - Generic | Medium | — | 23 |
-| 19 | [3508852](../../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables | Business Logic Errors | Low | — | 21 |
+| 19 | [3508852](../../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables | Business Logic Errors | Low | — | 22 |
 | 20 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 20 |
 | 21 | [3913012](../../reports/3913012.md) | Persistent SMTP header injection via identity `organization` / `name` | Buffer Under-read | — | — | 19 |
 | 22 | [3485178](../../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and breaks frontend UI | Business Logic Errors | Low | — | 18 |
