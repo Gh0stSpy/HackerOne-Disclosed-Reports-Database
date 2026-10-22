@@ -12,8 +12,8 @@
 | 6 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Equifax-vdp | High | — | 24 |
 | 7 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Nextcloud | Medium | — | 23 |
 | 8 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | MariaDB | Medium | — | 8 |
-| 9 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
-| 10 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Nextcloud | Low | — | 3 |
+| 9 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Nextcloud | Low | — | 7 |
+| 10 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
 | 11 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | curl | Medium | — | 3 |
 | 12 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | curl | Low | — | 1 |
 
