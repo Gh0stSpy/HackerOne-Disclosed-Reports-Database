@@ -17,9 +17,9 @@
 | 11 | [3893632](../../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fi | WordPress | Medium | — | 51 |
 | 12 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Monero | High | — | 40 |
 | 13 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Mozilla | Low | — | 38 |
-| 14 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 36 |
-| 15 | [3876430](../../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account  | MariaDB | High | — | 35 |
-| 16 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Basecamp | High | — | 35 |
+| 14 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Basecamp | High | — | 37 |
+| 15 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 36 |
+| 16 | [3876430](../../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account  | MariaDB | High | — | 35 |
 | 17 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Nextcloud | Medium | — | 31 |
 | 18 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | WordPress | Critical | — | 22 |
 | 19 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Myndr | — | — | 21 |
