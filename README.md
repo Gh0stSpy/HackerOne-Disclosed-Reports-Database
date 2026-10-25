@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **331** |
+| Reports with full write-ups | **332** |
 | With a published bounty | 29 |
 | Total published bounties | **$47,111** |
-| Last updated | 2026-10-24 20:55 UTC |
-| Last pull | 2026-10-24T20:55:03+00:00 |
+| Last updated | 2026-10-25 04:50 UTC |
+| Last pull | 2026-10-25T04:50:21+00:00 |
 
 ## Browse
 
@@ -41,7 +41,7 @@ publicly disclosed finding.
 | Server-Side Request Forgery (SSRF) | 9 |
 | Cross-site Scripting (XSS) - Stored | 8 |
 | Use After Free | 8 |
-| Improper Certificate Validation | 7 |
+| Code Injection | 7 |
 
 ## Highest published bounties
 

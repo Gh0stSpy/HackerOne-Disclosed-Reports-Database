@@ -11,8 +11,8 @@
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 8 | $337 |
 | [Use After Free](use-after-free.md) | 8 | — |
+| [Code Injection](code-injection.md) | 7 | $19,000 |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 7 | — |
-| [Code Injection](code-injection.md) | 6 | $19,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 6 | — |
 | [Path Traversal](path-traversal.md) | 5 | $5,000 |
