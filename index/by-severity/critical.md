@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3782701](../../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) | Code Injection | Critical | $12,000 | 360 |
+| 1 | [3782701](../../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) | Code Injection | Critical | $12,000 | 361 |
 | 2 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Improper Access Control - Generic | Critical | — | 125 |
 | 3 | [3307874](../../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis | Uncontrolled Resource Consumption | Critical | — | 96 |
 | 4 | [3994056](../../reports/3994056.md) | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC | Improper Authentication - Generic | Critical | — | 88 |
