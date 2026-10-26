@@ -19,11 +19,11 @@
 | [Rocket.Chat](rocket-chat.md) | 4 | — |
 | [Lovable VDP](lovable-vdp.md) | 4 | — |
 | [Node.js](node-js.md) | 4 | — |
+| [Discourse](discourse.md) | 3 | $1,024 |
 | [DuckDuckGo](duckduckgo.md) | 3 | $500 |
 | [CoinMate.io](coinmate-io.md) | 3 | $100 |
 | [Tor](tor.md) | 3 | $100 |
 | [arkadiyt-projects](arkadiyt-projects.md) | 3 | — |
-| [Discourse](discourse.md) | 2 | $1,024 |
 | [pixiv](pixiv.md) | 2 | $700 |
 | [Liberapay](liberapay.md) | 2 | $100 |
 | [Khan Academy](khan-academy.md) | 2 | — |

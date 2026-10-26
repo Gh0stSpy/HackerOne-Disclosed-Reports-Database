@@ -1,6 +1,6 @@
 # By weakness: Information Disclosure
 
-**14 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**15 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -16,8 +16,9 @@
 | 10 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | U.S. Dept Of Defense | High | — | 6 |
 | 11 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | curl | Medium | — | 4 |
 | 12 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | curl | Low | — | 2 |
-| 13 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Monero | Low | — | 1 |
-| 14 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | curl | — | — | 0 |
+| 13 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Discourse | Medium | — | 2 |
+| 14 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Monero | Low | — | 1 |
+| 15 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | curl | — | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
