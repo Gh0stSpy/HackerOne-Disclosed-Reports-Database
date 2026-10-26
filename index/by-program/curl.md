@@ -1,6 +1,6 @@
 # By program: curl
 
-**63 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**76 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -47,26 +47,39 @@
 | 41 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
 | 42 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 2 |
 | 43 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
-| 44 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
-| 45 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
-| 46 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | Improper Authentication - Generic | Low | — | 1 |
-| 47 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
-| 48 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 1 |
-| 49 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
-| 50 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
-| 51 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
-| 52 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
-| 53 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
-| 54 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
-| 55 | [3973190](../../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certificate | Authentication Bypass by Primary Weakness | — | — | 0 |
-| 56 | [3973201](../../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | Improper Check or Handling of Exceptional Conditions | — | — | 0 |
-| 57 | [3975408](../../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as missing | Improper Validation of Certificate with Host Mismatch | Low | — | 0 |
-| 58 | [3993566](../../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | — | Low | — | 0 |
-| 59 | [4021979](../../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | — | — | — | 0 |
-| 60 | [4022003](../../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omission | — | — | — | 0 |
-| 61 | [4022070](../../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | — | — | — | 0 |
-| 62 | [4022568](../../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | — | — | — | 0 |
-| 63 | [4023192](../../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints | — | — | — | 0 |
+| 44 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 2 |
+| 45 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
+| 46 | [4124849](../../reports/4124849.md) | CVE-2026-111951: curl -OJ truncate without filename | External Control of File Name or Path | Low | — | 2 |
+| 47 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
+| 48 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | Improper Authentication - Generic | Low | — | 1 |
+| 49 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
+| 50 | [3973190](../../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certificate | Authentication Bypass by Primary Weakness | — | — | 1 |
+| 51 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
+| 52 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
+| 53 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | Improper Check for Certificate Revocation | Medium | — | 1 |
+| 54 | [4116527](../../reports/4116527.md) | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown | Use After Free | Low | — | 1 |
+| 55 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 1 |
+| 56 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 1 |
+| 57 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
+| 58 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
+| 59 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
+| 60 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
+| 61 | [3973201](../../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | Improper Check or Handling of Exceptional Conditions | — | — | 0 |
+| 62 | [3975408](../../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as missing | Improper Validation of Certificate with Host Mismatch | Low | — | 0 |
+| 63 | [3993566](../../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | — | Low | — | 0 |
+| 64 | [4021979](../../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | — | — | — | 0 |
+| 65 | [4022003](../../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omission | — | — | — | 0 |
+| 66 | [4022070](../../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | — | — | — | 0 |
+| 67 | [4022568](../../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | — | — | — | 0 |
+| 68 | [4023192](../../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints | — | — | — | 0 |
+| 69 | [4102061](../../reports/4102061.md) | CVE-2026-111480: pause UAF from within callback | Use After Free | Low | — | 0 |
+| 70 | [4112709](../../reports/4112709.md) | CVE-2026-111482: libssh2 knownhosts prefix match | Partial String Comparison | Low | — | 0 |
+| 71 | [4112912](../../reports/4112912.md) | CVE-2026-111481: server-set cookie still aborts cookie jar | Improper Input Validation | Low | — | 0 |
+| 72 | [4122175](../../reports/4122175.md) | CVE-2026-111950: TLS session cache diff scheme reuse | Incorrect Comparison | Low | — | 0 |
+| 73 | [4122239](../../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | Use After Free | Medium | — | 0 |
+| 74 | [4122300](../../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | Improper Certificate Validation | Low | — | 0 |
+| 75 | [4123190](../../reports/4123190.md) | CVE-2026-111954: upload reader failed redirect UAF | Use After Free | Low | — | 0 |
+| 76 | [4136767](../../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resumption | Improper Authentication - Generic | Low | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

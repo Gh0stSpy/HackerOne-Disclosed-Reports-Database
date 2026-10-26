@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [2148242](../../reports/2148242.md) | CVE-2023-38546: cookie injection with none file | curl | Low | — | 14 |
+| 1 | [4124849](../../reports/4124849.md) | CVE-2026-111951: curl -OJ truncate without filename | curl | Low | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

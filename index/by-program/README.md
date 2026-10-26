@@ -2,7 +2,7 @@
 
 | By program | Reports | Published bounties |
 |:--|--:|--:|
-| [curl](curl.md) | 63 | — |
+| [curl](curl.md) | 76 | — |
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
 | [MariaDB](mariadb.md) | 32 | — |
 | [Nextcloud](nextcloud.md) | 28 | $1,400 |

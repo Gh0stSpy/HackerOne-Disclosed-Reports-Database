@@ -1,17 +1,17 @@
 # By severity: Low
 
-**65 reports** · published bounties $2,487 *(most programs don't publish an amount, so this undercounts)*
+**74 reports** · published bounties $2,487 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3279441](../../reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unicode Homoglyphs on add | Improper Input Validation | Low | $500 | 93 |
-| 2 | [3581911](../../reports/3581911.md) | Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass | Cross-site Scripting (XSS) - Stored | Low | $337 | 88 |
+| 2 | [3581911](../../reports/3581911.md) | Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass | Cross-site Scripting (XSS) - Stored | Low | $337 | 89 |
 | 3 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Improper Access Control - Generic | Low | $250 | 46 |
 | 4 | [4000185](../../reports/4000185.md) | HackerOne Code sends live password-reset tokens to Segment in automatic page events | Insufficiently Protected Credentials | Low | $200 | 114 |
 | 5 | [3625600](../../reports/3625600.md) | Out of scope: Improper Input Validation Order on /api-internal/login via password field le | — | Low | $200 | 91 |
 | 6 | [3556892](../../reports/3556892.md) | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger | — | Low | $200 | 90 |
 | 7 | [2119892](../../reports/2119892.md) | clickjacing can lead to account takeover | UI Redressing (Clickjacking) | Low | $200 | 70 |
-| 8 | [4071670](../../reports/4071670.md) | HackerOne Code: a live password reset token reaches Datadog RUM, and the same session reco | Insufficiently Protected Credentials | Low | $200 | 43 |
+| 8 | [4071670](../../reports/4071670.md) | HackerOne Code: a live password reset token reaches Datadog RUM, and the same session reco | Insufficiently Protected Credentials | Low | $200 | 44 |
 | 9 | [3484601](../../reports/3484601.md) | Team membership information returned on API level based on ID | Insecure Direct Object Reference (IDOR) | Low | $200 | 19 |
 | 10 | [3467641](../../reports/3467641.md) | Unauthenticated access to private files on app.fizzy.do via Active Storage URLs leads to i | Insecure Direct Object Reference (IDOR) | Low | $100 | 73 |
 | 11 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Uncontrolled Resource Consumption | Low | $100 | 35 |
@@ -63,12 +63,21 @@
 | 57 | [3718195](../../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | — | Low | — | 2 |
 | 58 | [3721183](../../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Authentication Bypass by Primary Weakness | Low | — | 2 |
 | 59 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Information Disclosure | Low | — | 2 |
-| 60 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
-| 61 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Information Disclosure | Low | — | 1 |
-| 62 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | Improper Authentication - Generic | Low | — | 1 |
-| 63 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 1 |
-| 64 | [3975408](../../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as missing | Improper Validation of Certificate with Host Mismatch | Low | — | 0 |
-| 65 | [3993566](../../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | — | Low | — | 0 |
+| 60 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 2 |
+| 61 | [4124849](../../reports/4124849.md) | CVE-2026-111951: curl -OJ truncate without filename | External Control of File Name or Path | Low | — | 2 |
+| 62 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
+| 63 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Information Disclosure | Low | — | 1 |
+| 64 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | Improper Authentication - Generic | Low | — | 1 |
+| 65 | [4116527](../../reports/4116527.md) | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown | Use After Free | Low | — | 1 |
+| 66 | [3975408](../../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as missing | Improper Validation of Certificate with Host Mismatch | Low | — | 0 |
+| 67 | [3993566](../../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | — | Low | — | 0 |
+| 68 | [4102061](../../reports/4102061.md) | CVE-2026-111480: pause UAF from within callback | Use After Free | Low | — | 0 |
+| 69 | [4112709](../../reports/4112709.md) | CVE-2026-111482: libssh2 knownhosts prefix match | Partial String Comparison | Low | — | 0 |
+| 70 | [4112912](../../reports/4112912.md) | CVE-2026-111481: server-set cookie still aborts cookie jar | Improper Input Validation | Low | — | 0 |
+| 71 | [4122175](../../reports/4122175.md) | CVE-2026-111950: TLS session cache diff scheme reuse | Incorrect Comparison | Low | — | 0 |
+| 72 | [4122300](../../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | Improper Certificate Validation | Low | — | 0 |
+| 73 | [4123190](../../reports/4123190.md) | CVE-2026-111954: upload reader failed redirect UAF | Use After Free | Low | — | 0 |
+| 74 | [4136767](../../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resumption | Improper Authentication - Generic | Low | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
