@@ -40,16 +40,16 @@
 | 34 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | Use After Free | Low | — | 3 |
 | 35 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 3 |
 | 36 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |
-| 37 | [3718195](../../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | — | Low | — | 2 |
-| 38 | [3721183](../../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Authentication Bypass by Primary Weakness | Low | — | 2 |
-| 39 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Information Disclosure | Low | — | 2 |
-| 40 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
-| 41 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
-| 42 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
-| 43 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
-| 44 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 2 |
-| 45 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
-| 46 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 2 |
+| 37 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 3 |
+| 38 | [3718195](../../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | — | Low | — | 2 |
+| 39 | [3721183](../../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Authentication Bypass by Primary Weakness | Low | — | 2 |
+| 40 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Information Disclosure | Low | — | 2 |
+| 41 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
+| 42 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
+| 43 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
+| 44 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
+| 45 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 2 |
+| 46 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
 | 47 | [4124849](../../reports/4124849.md) | CVE-2026-111951: curl -OJ truncate without filename | External Control of File Name or Path | Low | — | 2 |
 | 48 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
 | 49 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | Improper Authentication - Generic | Low | — | 1 |

@@ -8,7 +8,7 @@
 | 2 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 109 |
 | 3 | [3972558](../../reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication | — | Medium | $1,000 | 57 |
 | 4 | [2541962](../../reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | Insecure Direct Object Reference (IDOR) | Medium | $500 | 145 |
-| 5 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 75 |
+| 5 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 76 |
 | 6 | [3507241](../../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized  | Business Logic Errors | Medium | $350 | 85 |
 | 7 | [3617729](../../reports/3617729.md) | Mail contact autocomplete bypasses administrator-configured user enumeration restrictions  | Privacy Violation | Medium | $250 | 100 |
 | 8 | [3400143](../../reports/3400143.md) | Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribu | Insufficiently Protected Credentials | Medium | $250 | 37 |
@@ -34,8 +34,8 @@
 | 28 | [3723248](../../reports/3723248.md) | HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser | HTTP Request Smuggling | Medium | — | 49 |
 | 29 | [3632577](../../reports/3632577.md) | Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protec | Incorrect Permission Assignment for Critical Resource | Medium | — | 48 |
 | 30 | [3693295](../../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs | Improper Authentication - Generic | Medium | — | 48 |
-| 31 | [3443563](../../reports/3443563.md) | Roundcube Webmail Style Sanitizer can be bypassed using CSS Character Escapes | Information Disclosure | Medium | — | 46 |
-| 32 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Server-Side Request Forgery (SSRF) | Medium | — | 46 |
+| 31 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Server-Side Request Forgery (SSRF) | Medium | — | 47 |
+| 32 | [3443563](../../reports/3443563.md) | Roundcube Webmail Style Sanitizer can be bypassed using CSS Character Escapes | Information Disclosure | Medium | — | 46 |
 | 33 | [3020021](../../reports/3020021.md) | [Vertical Privilege Escalation] User can Unapproved any Approved Translation at [/translat | Privilege Escalation | Medium | — | 45 |
 | 34 | [3702072](../../reports/3702072.md) | bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, a | Insecure Default Initialization of Resource | Medium | — | 45 |
 | 35 | [3590586](../../reports/3590586.md) | position: fixed !important bypasses CSS sanitizer's fixed-position mitigation, enabling fu | Resource Injection | Medium | — | 44 |
@@ -63,9 +63,9 @@
 | 57 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 30 |
 | 58 | [3648681](../../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally Accepts Bare CR in Status | HTTP Request Smuggling | Medium | — | 29 |
 | 59 | [3700036](../../reports/3700036.md) | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned t | Missing Required Cryptographic Step | Medium | — | 28 |
-| 60 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 27 |
-| 61 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | Information Disclosure | Medium | — | 27 |
-| 62 | [4071064](../../reports/4071064.md) | Unauthenticated self-registration on ████████ grants full access to internal supplier proc | Missing Authentication for Critical Function | Medium | — | 27 |
+| 60 | [4071064](../../reports/4071064.md) | Unauthenticated self-registration on ████████ grants full access to internal supplier proc | Missing Authentication for Critical Function | Medium | — | 28 |
+| 61 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 27 |
+| 62 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | Information Disclosure | Medium | — | 27 |
 | 63 | [3583983](../../reports/3583983.md) | CVE-2026-3783: token leak with redirect and netrc | Information Exposure Through Sent Data | Medium | — | 26 |
 | 64 | [3590576](../../reports/3590576.md) | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loadin | Remote File Inclusion | Medium | — | 26 |
 | 65 | [3383079](../../reports/3383079.md) | SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function | Server-Side Request Forgery (SSRF) | Medium | — | 25 |
@@ -141,12 +141,12 @@
 | 135 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
 | 136 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
 | 137 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
-| 138 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
-| 139 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
-| 140 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Information Disclosure | Medium | — | 2 |
-| 141 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
-| 142 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
-| 143 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 2 |
+| 138 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 3 |
+| 139 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
+| 140 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
+| 141 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Information Disclosure | Medium | — | 2 |
+| 142 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
+| 143 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
 | 144 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | Improper Check for Certificate Revocation | Medium | — | 1 |
 | 145 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 1 |
 | 146 | [4122239](../../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | Use After Free | Medium | — | 0 |

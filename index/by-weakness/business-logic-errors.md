@@ -14,7 +14,7 @@
 | 8 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Monero | High | — | 32 |
 | 9 | [3508852](../../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables | Nextcloud | Low | — | 24 |
 | 10 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Monero | Medium | — | 21 |
-| 11 | [3485178](../../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and breaks frontend UI | Nextcloud | Low | — | 18 |
+| 11 | [3485178](../../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and breaks frontend UI | Nextcloud | Low | — | 19 |
 | 12 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Monero | Medium | — | 12 |
 | 13 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | curl | Low | — | 3 |
 
