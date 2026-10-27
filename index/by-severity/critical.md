@@ -15,7 +15,7 @@
 | 9 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Cross-site Scripting (XSS) - Stored | Critical | — | 47 |
 | 10 | [3619287](../../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.ym | — | Critical | — | 41 |
 | 11 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 39 |
-| 12 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 31 |
+| 12 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 32 |
 | 13 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | Improper Access Control - Generic | Critical | — | 23 |
 | 14 | [3856148](../../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST | Use After Free | Critical | — | 14 |
 | 15 | [3873072](../../reports/3873072.md) | Unauthenticated SQL Injection via REST Batch Route Confusion ████████ | SQL Injection | Critical | — | 14 |

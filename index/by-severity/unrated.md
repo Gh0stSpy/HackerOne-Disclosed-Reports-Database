@@ -26,7 +26,7 @@
 | 20 | [3426417](../../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django via repeated headers leads to | — | — | — | 24 |
 | 21 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |
 | 22 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | Stack Overflow | — | — | 23 |
-| 23 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 21 |
+| 23 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 22 |
 | 24 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Improper Access Control - Generic | — | — | 21 |
 | 25 | [3913012](../../reports/3913012.md) | Persistent SMTP header injection via identity `organization` / `name` | Buffer Under-read | — | — | 19 |
 | 26 | [3547349](../../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host | — | — | — | 18 |

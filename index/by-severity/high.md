@@ -21,9 +21,9 @@
 | 15 | [3693636](../../reports/3693636.md) | wallet-rpc crash via malformed /gettransactions response (empty txs → vector::front() in c | NULL Pointer Dereference | High | — | 44 |
 | 16 | [3897914](../../reports/3897914.md) | Out-of-bounds read in MariaDB .frm parsing enables RCE via vtable hijacking | Out-of-bounds Read | High | — | 43 |
 | 17 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 42 |
-| 18 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Improper Authentication - Generic | High | — | 40 |
-| 19 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Improper Access Control - Generic | High | — | 40 |
-| 20 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Improper Access Control - Generic | High | — | 40 |
+| 18 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Improper Access Control - Generic | High | — | 41 |
+| 19 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Improper Authentication - Generic | High | — | 40 |
+| 20 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Improper Access Control - Generic | High | — | 40 |
 | 21 | [3876430](../../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account  | Improper Access Control - Generic | High | — | 35 |
 | 22 | [3874004](../../reports/3874004.md) | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() | OS Command Injection | High | — | 34 |
 | 23 | [3923967](../../reports/3923967.md) | WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE | Code Injection | High | — | 33 |
@@ -37,7 +37,7 @@
 | 31 | [3897236](../../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template | Code Injection | High | — | 25 |
 | 32 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 24 |
 | 33 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 23 |
-| 34 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | Improper Access Control - Generic | High | — | 22 |
+| 34 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | Improper Access Control - Generic | High | — | 23 |
 | 35 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | Improper Access Control - Generic | High | — | 19 |
 | 36 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
 | 37 | [4038342](../../reports/4038342.md) | dns.resolve truncates names containing NUL char | Improper Access Control - Generic | High | — | 16 |
