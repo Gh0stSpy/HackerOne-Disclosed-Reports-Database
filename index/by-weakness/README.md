@@ -71,6 +71,7 @@
 | [Memory Corruption - Generic](memory-corruption-generic.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
+| [Cross-site Scripting (XSS) - Generic](cross-site-scripting-xss-generic.md) | 1 | — |
 | [Time-of-check Time-of-use (TOCTOU) Race Condition](time-of-check-time-of-use-toctou-race-condition.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
@@ -78,6 +79,5 @@
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
 | [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
 | [Improper Check or Handling of Exceptional Conditions](improper-check-or-handling-of-exceptional-conditions.md) | 1 | — |
-| [Cross-site Scripting (XSS) - Generic](cross-site-scripting-xss-generic.md) | 1 | — |
 | [Partial String Comparison](partial-string-comparison.md) | 1 | — |
 | [Incorrect Comparison](incorrect-comparison.md) | 1 | — |
