@@ -12,8 +12,8 @@
 | 6 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | curl | — | — | 3 |
 | 7 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | curl | Medium | — | 3 |
 | 8 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | curl | Medium | — | 2 |
-| 9 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | curl | Medium | — | 1 |
-| 10 | [4122300](../../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | curl | Low | — | 0 |
+| 9 | [4122300](../../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | curl | Low | — | 1 |
+| 10 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | curl | Medium | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

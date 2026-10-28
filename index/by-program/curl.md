@@ -59,25 +59,25 @@
 | 53 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
 | 54 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | Improper Check for Certificate Revocation | Medium | — | 1 |
 | 55 | [4116527](../../reports/4116527.md) | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown | Use After Free | Low | — | 1 |
-| 56 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 1 |
-| 57 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
-| 58 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
-| 59 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
-| 60 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
-| 61 | [3973201](../../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | Improper Check or Handling of Exceptional Conditions | — | — | 0 |
-| 62 | [3975408](../../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as missing | Improper Validation of Certificate with Host Mismatch | Low | — | 0 |
-| 63 | [3993566](../../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | — | Low | — | 0 |
-| 64 | [4021979](../../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | — | — | — | 0 |
-| 65 | [4022003](../../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omission | — | — | — | 0 |
-| 66 | [4022070](../../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | — | — | — | 0 |
-| 67 | [4022568](../../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | — | — | — | 0 |
-| 68 | [4023192](../../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints | — | — | — | 0 |
-| 69 | [4102061](../../reports/4102061.md) | CVE-2026-111480: pause UAF from within callback | Use After Free | Low | — | 0 |
-| 70 | [4112709](../../reports/4112709.md) | CVE-2026-111482: libssh2 knownhosts prefix match | Partial String Comparison | Low | — | 0 |
-| 71 | [4112912](../../reports/4112912.md) | CVE-2026-111481: server-set cookie still aborts cookie jar | Improper Input Validation | Low | — | 0 |
-| 72 | [4122175](../../reports/4122175.md) | CVE-2026-111950: TLS session cache diff scheme reuse | Incorrect Comparison | Low | — | 0 |
-| 73 | [4122239](../../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | Use After Free | Medium | — | 0 |
-| 74 | [4122300](../../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | Improper Certificate Validation | Low | — | 0 |
+| 56 | [4122300](../../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | Improper Certificate Validation | Low | — | 1 |
+| 57 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 1 |
+| 58 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
+| 59 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
+| 60 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
+| 61 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
+| 62 | [3973201](../../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | Improper Check or Handling of Exceptional Conditions | — | — | 0 |
+| 63 | [3975408](../../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as missing | Improper Validation of Certificate with Host Mismatch | Low | — | 0 |
+| 64 | [3993566](../../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | — | Low | — | 0 |
+| 65 | [4021979](../../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | — | — | — | 0 |
+| 66 | [4022003](../../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omission | — | — | — | 0 |
+| 67 | [4022070](../../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | — | — | — | 0 |
+| 68 | [4022568](../../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | — | — | — | 0 |
+| 69 | [4023192](../../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints | — | — | — | 0 |
+| 70 | [4102061](../../reports/4102061.md) | CVE-2026-111480: pause UAF from within callback | Use After Free | Low | — | 0 |
+| 71 | [4112709](../../reports/4112709.md) | CVE-2026-111482: libssh2 knownhosts prefix match | Partial String Comparison | Low | — | 0 |
+| 72 | [4112912](../../reports/4112912.md) | CVE-2026-111481: server-set cookie still aborts cookie jar | Improper Input Validation | Low | — | 0 |
+| 73 | [4122175](../../reports/4122175.md) | CVE-2026-111950: TLS session cache diff scheme reuse | Incorrect Comparison | Low | — | 0 |
+| 74 | [4122239](../../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | Use After Free | Medium | — | 0 |
 | 75 | [4123190](../../reports/4123190.md) | CVE-2026-111954: upload reader failed redirect UAF | Use After Free | Low | — | 0 |
 | 76 | [4136767](../../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resumption | Improper Authentication - Generic | Low | — | 0 |
 

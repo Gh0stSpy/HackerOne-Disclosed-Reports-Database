@@ -78,5 +78,6 @@
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
 | [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
 | [Improper Check or Handling of Exceptional Conditions](improper-check-or-handling-of-exceptional-conditions.md) | 1 | — |
+| [Cross-site Scripting (XSS) - Generic](cross-site-scripting-xss-generic.md) | 1 | — |
 | [Partial String Comparison](partial-string-comparison.md) | 1 | — |
 | [Incorrect Comparison](incorrect-comparison.md) | 1 | — |
