@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **347** |
-| With a published bounty | 29 |
-| Total published bounties | **$47,111** |
-| Last updated | 2026-10-29 05:54 UTC |
-| Last pull | 2026-10-29T05:54:49+00:00 |
+| Reports with full write-ups | **348** |
+| With a published bounty | 30 |
+| Total published bounties | **$48,137** |
+| Last updated | 2026-10-29 13:11 UTC |
+| Last pull | 2026-10-29T13:11:08+00:00 |
 
 ## Browse
 
@@ -53,10 +53,10 @@ publicly disclosed finding.
 | [3712279](reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-cont | PortSwigger Web Security | $5,000 |
 | [3734676](reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the | Mozilla | $2,000 |
 | [2509022](reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdow | Shopify | $1,600 |
+| [3852102](reports/3852102.md) | Revoked deployment collaborator regains access to private comments aft | Vercel | $1,026 |
 | [3400140](reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | $1,024 |
 | [3972558](reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authe | PortSwigger Web Security | $1,000 |
 | [2541962](reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | pixiv | $500 |
-| [3279441](reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unico | Mozilla | $500 |
 
 ## Build your own copy
 

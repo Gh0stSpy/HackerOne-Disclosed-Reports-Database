@@ -39,10 +39,10 @@
 | 33 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | Improper Access Control - Generic | High | — | 24 |
 | 34 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 23 |
 | 35 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | Improper Access Control - Generic | High | — | 19 |
-| 36 | [4038342](../../reports/4038342.md) | dns.resolve truncates names containing NUL char | Improper Access Control - Generic | High | — | 17 |
-| 37 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
-| 38 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
-| 39 | [3981292](../../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defea | Cross-site Scripting (XSS) - Generic | High | — | 15 |
+| 36 | [3981292](../../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defea | Cross-site Scripting (XSS) - Generic | High | — | 17 |
+| 37 | [4038342](../../reports/4038342.md) | dns.resolve truncates names containing NUL char | Improper Access Control - Generic | High | — | 17 |
+| 38 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
+| 39 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
 | 40 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | Improper Access Control - Generic | High | — | 14 |
 | 41 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 9 |
 | 42 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | Use After Free | High | — | 8 |

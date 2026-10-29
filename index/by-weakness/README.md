@@ -44,6 +44,7 @@
 | [Information Exposure Through Directory Listing](information-exposure-through-directory-listing.md) | 2 | — |
 | [Improper Validation of Certificate with Host Mismatch](improper-validation-of-certificate-with-host-mismatch.md) | 2 | — |
 | [Authentication Bypass by Capture-replay](authentication-bypass-by-capture-replay.md) | 1 | $2,000 |
+| [Access Control Check Implemented After Asset is Accessed](access-control-check-implemented-after-asset-is-accessed.md) | 1 | $1,026 |
 | [UI Redressing (Clickjacking)](ui-redressing-clickjacking.md) | 1 | $200 |
 | [Insecure Storage of Sensitive Information](insecure-storage-of-sensitive-information.md) | 1 | $100 |
 | [Uncontrolled Search Path Element](uncontrolled-search-path-element.md) | 1 | — |
@@ -73,11 +74,11 @@
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
 | [Time-of-check Time-of-use (TOCTOU) Race Condition](time-of-check-time-of-use-toctou-race-condition.md) | 1 | — |
+| [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
-| [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
-| [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
 | [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
-| [Improper Check or Handling of Exceptional Conditions](improper-check-or-handling-of-exceptional-conditions.md) | 1 | — |
+| [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
 | [Partial String Comparison](partial-string-comparison.md) | 1 | — |
 | [Incorrect Comparison](incorrect-comparison.md) | 1 | — |
+| [Improper Check or Handling of Exceptional Conditions](improper-check-or-handling-of-exceptional-conditions.md) | 1 | — |

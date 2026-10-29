@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | curl | Medium | — | 1 |
+| 1 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | curl | Medium | — | 2 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

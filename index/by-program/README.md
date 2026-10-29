@@ -35,11 +35,12 @@
 | [RubyGems](rubygems.md) | 2 | — |
 | [Myndr](myndr.md) | 2 | — |
 | [Shopify](shopify.md) | 1 | $1,600 |
+| [Vercel](vercel.md) | 1 | $1,026 |
 | [MetaMask](metamask.md) | 1 | $350 |
 | [LinkedIn](linkedin.md) | 1 | — |
 | [Sony](sony.md) | 1 | — |
-| [Kubernetes](kubernetes.md) | 1 | — |
 | [R3](r3.md) | 1 | — |
+| [Kubernetes](kubernetes.md) | 1 | — |
 | [Automattic](automattic.md) | 1 | — |
 | [Rockstar Games](rockstar-games.md) | 1 | — |
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |

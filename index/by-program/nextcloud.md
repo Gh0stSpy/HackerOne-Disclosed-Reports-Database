@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3617729](../../reports/3617729.md) | Mail contact autocomplete bypasses administrator-configured user enumeration restrictions  | Privacy Violation | Medium | $250 | 100 |
+| 1 | [3617729](../../reports/3617729.md) | Mail contact autocomplete bypasses administrator-configured user enumeration restrictions  | Privacy Violation | Medium | $250 | 101 |
 | 2 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Improper Access Control - Generic | Low | $250 | 46 |
 | 3 | [3400143](../../reports/3400143.md) | Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribu | Insufficiently Protected Credentials | Medium | $250 | 37 |
 | 4 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Improper Access Control - Generic | Medium | $200 | 62 |
@@ -14,7 +14,7 @@
 | 8 | [3399016](../../reports/3399016.md) | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on c | Improper Null Termination | — | — | 65 |
 | 9 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Business Logic Errors | Low | — | 64 |
 | 10 | [3486747](../../reports/3486747.md) | SVG filter primitives bypass remote image blocking, enabling email tracking without consen | Privacy Violation | Medium | — | 53 |
-| 11 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Server-Side Request Forgery (SSRF) | Medium | — | 47 |
+| 11 | [3623149](../../reports/3623149.md) | SSRF via User-Controlled Push proxyServer in Notifications Push Registration | Server-Side Request Forgery (SSRF) | Medium | — | 48 |
 | 12 | [3443563](../../reports/3443563.md) | Roundcube Webmail Style Sanitizer can be bypassed using CSS Character Escapes | Information Disclosure | Medium | — | 46 |
 | 13 | [3590586](../../reports/3590586.md) | position: fixed !important bypasses CSS sanitizer's fixed-position mitigation, enabling fu | Resource Injection | Medium | — | 44 |
 | 14 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Cross-site Scripting (XSS) - Stored | Medium | — | 39 |
@@ -24,7 +24,7 @@
 | 18 | [3590576](../../reports/3590576.md) | SMIL values and by attributes bypass remote image blocking via unvalidated resource-loadin | Remote File Inclusion | Medium | — | 26 |
 | 19 | [3508852](../../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables | Business Logic Errors | Low | — | 24 |
 | 20 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Improper Authentication - Generic | Medium | — | 23 |
-| 21 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 22 |
+| 21 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 23 |
 | 22 | [3485178](../../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and breaks frontend UI | Business Logic Errors | Low | — | 19 |
 | 23 | [3913012](../../reports/3913012.md) | Persistent SMTP header injection via identity `organization` / `name` | Buffer Under-read | — | — | 19 |
 | 24 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Improper Access Control - Generic | Medium | — | 16 |

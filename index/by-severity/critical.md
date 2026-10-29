@@ -7,7 +7,7 @@
 | 1 | [3782701](../../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) | Code Injection | Critical | $12,000 | 361 |
 | 2 | [3723458](../../reports/3723458.md) | 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation | Improper Access Control - Generic | Critical | — | 125 |
 | 3 | [3307874](../../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis | Uncontrolled Resource Consumption | Critical | — | 96 |
-| 4 | [3994056](../../reports/3994056.md) | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC | Improper Authentication - Generic | Critical | — | 89 |
+| 4 | [3994056](../../reports/3994056.md) | Full Admin Takeover of R3 Limited's JFrog Artifactory - 292 Users, Corda Enterprise & CBDC | Improper Authentication - Generic | Critical | — | 90 |
 | 5 | [4020767](../../reports/4020767.md) | Unauthenticated API allows reading, writing to and deleting any user's private chat histor | Misconfiguration | Critical | — | 67 |
 | 6 | [3619288](../../reports/3619288.md) | RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.ym | — | Critical | — | 66 |
 | 7 | [3788482](../../reports/3788482.md) | Stack Buffer Overflow in mariadb-dump quote_name() Allows Malicious Server to Execute Arbi | Stack Overflow | Critical | — | 51 |
