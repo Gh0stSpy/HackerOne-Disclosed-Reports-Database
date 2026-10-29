@@ -61,8 +61,8 @@
 | [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Buffer Under-read](buffer-under-read.md) | 1 | — |
-| [Integer Underflow](integer-underflow.md) | 1 | — |
 | [Cross-site Scripting (XSS) - Generic](cross-site-scripting-xss-generic.md) | 1 | — |
+| [Integer Underflow](integer-underflow.md) | 1 | — |
 | [Unverified Password Change](unverified-password-change.md) | 1 | — |
 | [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |

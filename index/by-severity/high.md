@@ -42,8 +42,8 @@
 | 36 | [4038342](../../reports/4038342.md) | dns.resolve truncates names containing NUL char | Improper Access Control - Generic | High | — | 17 |
 | 37 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |
 | 38 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | Open Redirect | High | — | 15 |
-| 39 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | Improper Access Control - Generic | High | — | 14 |
-| 40 | [3981292](../../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defea | Cross-site Scripting (XSS) - Generic | High | — | 12 |
+| 39 | [3981292](../../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defea | Cross-site Scripting (XSS) - Generic | High | — | 15 |
+| 40 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | Improper Access Control - Generic | High | — | 14 |
 | 41 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 9 |
 | 42 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | Use After Free | High | — | 8 |
 | 43 | [3242830](../../reports/3242830.md) | Critical PII Data Exposure in ORDER_ERROR_LOG | Cleartext Storage of Sensitive Information | High | — | 7 |
