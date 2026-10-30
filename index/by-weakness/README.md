@@ -5,8 +5,8 @@
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 32 | $1,600 |
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 28 | $550 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 17 | $1,124 |
+| [Improper Authentication - Generic](improper-authentication-generic.md) | 16 | — |
 | [Information Disclosure](information-disclosure.md) | 15 | — |
-| [Improper Authentication - Generic](improper-authentication-generic.md) | 14 | — |
 | [Business Logic Errors](business-logic-errors.md) | 13 | $500 |
 | [Use After Free](use-after-free.md) | 12 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 10 | — |
@@ -17,12 +17,12 @@
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 6 | — |
 | [Improper Input Validation](improper-input-validation.md) | 5 | $500 |
+| [Open Redirect](open-redirect.md) | 5 | — |
 | [Stack Overflow](stack-overflow.md) | 5 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 5 | — |
 | [SQL Injection](sql-injection.md) | 5 | — |
 | [OS Command Injection](os-command-injection.md) | 4 | — |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 4 | — |
-| [Open Redirect](open-redirect.md) | 4 | — |
 | [Buffer Over-read](buffer-over-read.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 3 | $650 |
@@ -59,8 +59,8 @@
 | [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
 | [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
 | [Integer Overflow](integer-overflow.md) | 1 | — |
-| [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Cross-site Scripting (XSS) - Generic](cross-site-scripting-xss-generic.md) | 1 | — |
+| [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Buffer Under-read](buffer-under-read.md) | 1 | — |
 | [Integer Underflow](integer-underflow.md) | 1 | — |
@@ -71,15 +71,15 @@
 | [Missing Authorization](missing-authorization.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Memory Corruption - Generic](memory-corruption-generic.md) | 1 | — |
+| [Information Exposure Through an Error Message](information-exposure-through-an-error-message.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
 | [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
-| [Information Exposure Through an Error Message](information-exposure-through-an-error-message.md) | 1 | — |
 | [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
 | [Time-of-check Time-of-use (TOCTOU) Race Condition](time-of-check-time-of-use-toctou-race-condition.md) | 1 | — |
+| [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
-| [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
 | [Partial String Comparison](partial-string-comparison.md) | 1 | — |
 | [Incorrect Comparison](incorrect-comparison.md) | 1 | — |
