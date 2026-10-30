@@ -10,9 +10,9 @@
 | 4 | [3608199](../../reports/3608199.md) | DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover | Cross-site Scripting (XSS) - DOM | High | — | 81 |
 | 5 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Improper Access Control - Generic | Low | — | 53 |
 | 6 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Cross-site Scripting (XSS) - Reflected | High | — | 48 |
-| 7 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Improper Access Control - Generic | High | — | 43 |
+| 7 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Improper Access Control - Generic | High | — | 44 |
 | 8 | [3972760](../../reports/3972760.md) | Open redirect on app.hey.com bypasses HEY desktop's internal-origin allowlist and loads at | Open Redirect | Medium | — | 33 |
-| 9 | [3981292](../../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defea | Cross-site Scripting (XSS) - Generic | High | — | 20 |
+| 9 | [3981292](../../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defea | Cross-site Scripting (XSS) - Generic | High | — | 21 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
