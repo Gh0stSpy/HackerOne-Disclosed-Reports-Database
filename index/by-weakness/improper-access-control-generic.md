@@ -12,7 +12,7 @@
 | 6 | [3356149](../../reports/3356149.md) | 2FA requirement bypass when inviting team members | Omise | Medium | — | 105 |
 | 7 | [3764217](../../reports/3764217.md) | Any installed app can force immediate logout and persistent DOS of authenticated Basecamp  | Basecamp | Medium | — | 104 |
 | 8 | [3370430](../../reports/3370430.md) | Users can change project visibility which requires high subscription by just changing requ | Lovable VDP | Medium | — | 70 |
-| 9 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Rockstar Games | High | — | 64 |
+| 9 | [1534465](../../reports/1534465.md) | Ticket Trick Attack allows access to ████████' workspaces | Rockstar Games | High | — | 65 |
 | 10 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Basecamp | Low | — | 53 |
 | 11 | [3893632](../../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fi | WordPress | Medium | — | 51 |
 | 12 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Basecamp | High | — | 44 |
@@ -22,9 +22,9 @@
 | 16 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 36 |
 | 17 | [3876430](../../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account  | MariaDB | High | — | 35 |
 | 18 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Nextcloud | Medium | — | 31 |
-| 19 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | RubyGems | High | — | 24 |
+| 19 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | RubyGems | High | — | 25 |
 | 20 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | WordPress | Critical | — | 23 |
-| 21 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Myndr | — | — | 21 |
+| 21 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Myndr | — | — | 22 |
 | 22 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Monero | Low | — | 20 |
 | 23 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | MariaDB | High | — | 19 |
 | 24 | [4038342](../../reports/4038342.md) | dns.resolve truncates names containing NUL char | Node.js | High | — | 17 |

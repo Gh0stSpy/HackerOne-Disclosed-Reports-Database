@@ -7,7 +7,7 @@
 | 1 | [3279441](../../reports/3279441.md) | Bypass of Restricted Keyword "Mozilla" in Display Name Field via Unicode Homoglyphs on add | Improper Input Validation | Low | $500 | 93 |
 | 2 | [3581911](../../reports/3581911.md) | Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass | Cross-site Scripting (XSS) - Stored | Low | $337 | 89 |
 | 3 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Improper Access Control - Generic | Low | $250 | 46 |
-| 4 | [4000185](../../reports/4000185.md) | HackerOne Code sends live password-reset tokens to Segment in automatic page events | Insufficiently Protected Credentials | Low | $200 | 114 |
+| 4 | [4000185](../../reports/4000185.md) | HackerOne Code sends live password-reset tokens to Segment in automatic page events | Insufficiently Protected Credentials | Low | $200 | 115 |
 | 5 | [3625600](../../reports/3625600.md) | Out of scope: Improper Input Validation Order on /api-internal/login via password field le | — | Low | $200 | 91 |
 | 6 | [3556892](../../reports/3556892.md) | HTML Injection in DAST Trial Request Form Confirmation Email – PortSwigger | — | Low | $200 | 90 |
 | 7 | [2119892](../../reports/2119892.md) | clickjacing can lead to account takeover | UI Redressing (Clickjacking) | Low | $200 | 70 |
@@ -21,7 +21,7 @@
 | 15 | [3599470](../../reports/3599470.md) | Improper input validation in emoji field leads to sidebar UI denial of service | Business Logic Errors | Low | — | 64 |
 | 16 | [3558277](../../reports/3558277.md) | Fail-Open in set_tlsext_servername_callback on pyopenssl via unhandled exceptions leads to | — | Low | — | 63 |
 | 17 | [3025797](../../reports/3025797.md) | [Privilege Escalation] User can Pin\|Unpin Any Comment on Any Project or Locale | Privilege Escalation | Low | — | 59 |
-| 18 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Cross-site Scripting (XSS) - Stored | Low | — | 56 |
+| 18 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Cross-site Scripting (XSS) - Stored | Low | — | 57 |
 | 19 | [3829030](../../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption | Violation of Secure Design Principles | Low | — | 54 |
 | 20 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Improper Access Control - Generic | Low | — | 53 |
 | 21 | [3665151](../../reports/3665151.md) | Brave Shields Domain Reordering Leads to Origin Confusion | Violation of Secure Design Principles | Low | — | 51 |
@@ -55,14 +55,14 @@
 | 49 | [3822248](../../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Authentication Bypass by Primary Weakness | Low | — | 6 |
 | 50 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
 | 51 | [3969368](../../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | — | Low | — | 5 |
-| 52 | [4099618](../../reports/4099618.md) | CVE-2026-107929: local interface connection reuse mixup | Exposure of Data Element to Wrong Session | Low | — | 5 |
-| 53 | [4124849](../../reports/4124849.md) | CVE-2026-111951: curl -OJ truncate without filename | External Control of File Name or Path | Low | — | 4 |
-| 54 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Business Logic Errors | Low | — | 3 |
-| 55 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | Use After Free | Low | — | 3 |
-| 56 | [3752888](../../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | Improper Certificate Validation | Low | — | 3 |
-| 57 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | Use After Free | Low | — | 3 |
-| 58 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 3 |
-| 59 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 3 |
+| 52 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 5 |
+| 53 | [4099618](../../reports/4099618.md) | CVE-2026-107929: local interface connection reuse mixup | Exposure of Data Element to Wrong Session | Low | — | 5 |
+| 54 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 4 |
+| 55 | [4124849](../../reports/4124849.md) | CVE-2026-111951: curl -OJ truncate without filename | External Control of File Name or Path | Low | — | 4 |
+| 56 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Business Logic Errors | Low | — | 3 |
+| 57 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | Use After Free | Low | — | 3 |
+| 58 | [3752888](../../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | Improper Certificate Validation | Low | — | 3 |
+| 59 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | Use After Free | Low | — | 3 |
 | 60 | [3718195](../../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | — | Low | — | 2 |
 | 61 | [3721183](../../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Authentication Bypass by Primary Weakness | Low | — | 2 |
 | 62 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Information Disclosure | Low | — | 2 |

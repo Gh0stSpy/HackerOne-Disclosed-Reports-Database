@@ -6,8 +6,8 @@
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 28 | $550 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 17 | $1,124 |
 | [Information Disclosure](information-disclosure.md) | 15 | — |
+| [Improper Authentication - Generic](improper-authentication-generic.md) | 14 | — |
 | [Business Logic Errors](business-logic-errors.md) | 13 | $500 |
-| [Improper Authentication - Generic](improper-authentication-generic.md) | 13 | — |
 | [Use After Free](use-after-free.md) | 12 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 10 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
@@ -73,10 +73,10 @@
 | [Memory Corruption - Generic](memory-corruption-generic.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
+| [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
+| [Information Exposure Through an Error Message](information-exposure-through-an-error-message.md) | 1 | — |
 | [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
 | [Time-of-check Time-of-use (TOCTOU) Race Condition](time-of-check-time-of-use-toctou-race-condition.md) | 1 | — |
-| [Information Exposure Through an Error Message](information-exposure-through-an-error-message.md) | 1 | — |
-| [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
 | [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
