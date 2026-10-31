@@ -6,7 +6,7 @@
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3734676](../../reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler ch | Authentication Bypass by Capture-replay | Medium | $2,000 | 43 |
 | 2 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 109 |
-| 3 | [3852102](../../reports/3852102.md) | Revoked deployment collaborator regains access to private comments after active collaborat | Access Control Check Implemented After Asset is Accessed | Medium | $1,026 | 41 |
+| 3 | [3852102](../../reports/3852102.md) | Revoked deployment collaborator regains access to private comments after active collaborat | Access Control Check Implemented After Asset is Accessed | Medium | $1,026 | 42 |
 | 4 | [3972558](../../reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication | — | Medium | $1,000 | 58 |
 | 5 | [2541962](../../reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | Insecure Direct Object Reference (IDOR) | Medium | $500 | 145 |
 | 6 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 77 |
@@ -97,10 +97,10 @@
 | 91 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 14 |
 | 92 | [3781201](../../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of-bounds read / server crash in Maria | Integer Underflow | Medium | — | 14 |
 | 93 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 13 |
-| 94 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
-| 95 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 12 |
-| 96 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
-| 97 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 11 |
+| 94 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 13 |
+| 95 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
+| 96 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 12 |
+| 97 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
 | 98 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
 | 99 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
 | 100 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
@@ -137,22 +137,22 @@
 | 131 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
 | 132 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
 | 133 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 134 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
-| 135 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
-| 136 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
-| 137 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Information Disclosure | Medium | — | 4 |
-| 138 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
-| 139 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 4 |
-| 140 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 4 |
-| 141 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
-| 142 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
-| 143 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | Improper Check for Certificate Revocation | Medium | — | 3 |
-| 144 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
-| 145 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
-| 146 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
-| 147 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
-| 148 | [3933198](../../reports/3933198.md) | wordpress.org/openverse/: unauthenticated open redirect — `str_replace()`'s 4th arg is a c | Open Redirect | Medium | — | 1 |
-| 149 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | Improper Authentication - Generic | Medium | — | 1 |
+| 134 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | Improper Authentication - Generic | Medium | — | 5 |
+| 135 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
+| 136 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
+| 137 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
+| 138 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Information Disclosure | Medium | — | 4 |
+| 139 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
+| 140 | [3933198](../../reports/3933198.md) | wordpress.org/openverse/: unauthenticated open redirect — `str_replace()`'s 4th arg is a c | Open Redirect | Medium | — | 4 |
+| 141 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 4 |
+| 142 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 4 |
+| 143 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
+| 144 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
+| 145 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | Improper Check for Certificate Revocation | Medium | — | 3 |
+| 146 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
+| 147 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
+| 148 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
+| 149 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
 | 150 | [4122239](../../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | Use After Free | Medium | — | 1 |
 
 ---

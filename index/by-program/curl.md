@@ -19,8 +19,8 @@
 | 13 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 14 |
 | 14 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
 | 15 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 12 |
-| 16 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
-| 17 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | Use After Free | High | — | 8 |
+| 16 | [4030333](../../reports/4030333.md) | CVE-2026-92392: HTTP/2 upload Use-After-Free | Use After Free | High | — | 9 |
+| 17 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
 | 18 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
 | 19 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
 | 20 | [3969255](../../reports/3969255.md) | CVE-2026-80229: OpenSSL provider use-after-free | — | — | — | 7 |

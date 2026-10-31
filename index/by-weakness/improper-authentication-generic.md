@@ -11,14 +11,14 @@
 | 5 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Monero | High | — | 40 |
 | 6 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Equifax-vdp | High | — | 24 |
 | 7 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Nextcloud | Medium | — | 23 |
-| 8 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Nextcloud | Low | — | 12 |
-| 9 | [3955956](../../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker red | Basecamp | High | — | 11 |
+| 8 | [3955956](../../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker red | Basecamp | High | — | 13 |
+| 9 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Nextcloud | Low | — | 12 |
 | 10 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | MariaDB | Medium | — | 8 |
-| 11 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
-| 12 | [3979217](../../reports/3979217.md) | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach anot | Basecamp | High | — | 6 |
-| 13 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | curl | Medium | — | 3 |
-| 14 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | curl | Low | — | 1 |
-| 15 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | WordPress | Medium | — | 1 |
+| 11 | [3979217](../../reports/3979217.md) | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach anot | Basecamp | High | — | 7 |
+| 12 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
+| 13 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | WordPress | Medium | — | 5 |
+| 14 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | curl | Medium | — | 3 |
+| 15 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | curl | Low | — | 1 |
 | 16 | [4136767](../../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resumption | curl | Low | — | 1 |
 
 ---

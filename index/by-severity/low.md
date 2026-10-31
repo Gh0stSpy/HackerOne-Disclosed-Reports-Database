@@ -51,10 +51,10 @@
 | 45 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
 | 46 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
 | 47 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 7 |
-| 48 | [4099194](../../reports/4099194.md) | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS | Buffer Over-read | Low | — | 7 |
-| 49 | [3788931](../../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Allocation of Resources Without Limits or Throttling | Low | — | 6 |
-| 50 | [3822248](../../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Authentication Bypass by Primary Weakness | Low | — | 6 |
-| 51 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 6 |
+| 48 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 7 |
+| 49 | [4099194](../../reports/4099194.md) | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS | Buffer Over-read | Low | — | 7 |
+| 50 | [3788931](../../reports/3788931.md) | CVE-2026-11586: WS Auto-PONG memory exhaustion | Allocation of Resources Without Limits or Throttling | Low | — | 6 |
+| 51 | [3822248](../../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Authentication Bypass by Primary Weakness | Low | — | 6 |
 | 52 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
 | 53 | [3969368](../../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | — | Low | — | 5 |
 | 54 | [4099618](../../reports/4099618.md) | CVE-2026-107929: local interface connection reuse mixup | Exposure of Data Element to Wrong Session | Low | — | 5 |
