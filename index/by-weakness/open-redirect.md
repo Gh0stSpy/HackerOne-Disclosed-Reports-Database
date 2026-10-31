@@ -8,7 +8,7 @@
 | 2 | [3721519](../../reports/3721519.md) | Liberapay member team twitter account broken Link Hijacking via Expired Twitter Account Li | Liberapay | — | — | 65 |
 | 3 | [3972760](../../reports/3972760.md) | Open redirect on app.hey.com bypasses HEY desktop's internal-origin allowlist and loads at | Basecamp | Medium | — | 33 |
 | 4 | [3286945](../../reports/3286945.md) | CVE‑2025‑4123 — Grafana Open Redirect → Stored XSS → SSRF (Full Read) at ██████ | U.S. Dept Of Defense | High | — | 15 |
-| 5 | [3933198](../../reports/3933198.md) | wordpress.org/openverse/: unauthenticated open redirect — `str_replace()`'s 4th arg is a c | WordPress | Medium | — | 4 |
+| 5 | [3933198](../../reports/3933198.md) | wordpress.org/openverse/: unauthenticated open redirect — `str_replace()`'s 4th arg is a c | WordPress | Medium | — | 7 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
