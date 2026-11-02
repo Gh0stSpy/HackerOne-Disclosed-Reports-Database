@@ -6,7 +6,7 @@
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
 | [MariaDB](mariadb.md) | 32 | — |
 | [Nextcloud](nextcloud.md) | 28 | $1,400 |
-| [Monero](monero.md) | 24 | — |
+| [Monero](monero.md) | 25 | — |
 | [AWS VDP](aws-vdp.md) | 17 | — |
 | [Essity](essity.md) | 17 | — |
 | [Basecamp](basecamp.md) | 11 | $437 |

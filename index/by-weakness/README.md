@@ -6,7 +6,7 @@
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 28 | $550 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 17 | $1,124 |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 16 | — |
-| [Information Disclosure](information-disclosure.md) | 15 | — |
+| [Information Disclosure](information-disclosure.md) | 16 | — |
 | [Business Logic Errors](business-logic-errors.md) | 13 | $500 |
 | [Use After Free](use-after-free.md) | 12 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 10 | — |
@@ -58,21 +58,21 @@
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |
 | [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
 | [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
-| [Integer Overflow](integer-overflow.md) | 1 | — |
 | [Cross-site Scripting (XSS) - Generic](cross-site-scripting-xss-generic.md) | 1 | — |
+| [Integer Overflow](integer-overflow.md) | 1 | — |
 | [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Buffer Under-read](buffer-under-read.md) | 1 | — |
 | [Integer Underflow](integer-underflow.md) | 1 | — |
+| [Information Exposure Through an Error Message](information-exposure-through-an-error-message.md) | 1 | — |
 | [Unverified Password Change](unverified-password-change.md) | 1 | — |
 | [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
-| [Information Exposure Through an Error Message](information-exposure-through-an-error-message.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
+| [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Memory Corruption - Generic](memory-corruption-generic.md) | 1 | — |
-| [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
 | [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
