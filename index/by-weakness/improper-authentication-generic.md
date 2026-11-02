@@ -9,11 +9,11 @@
 | 3 | [3620006](../../reports/3620006.md) | Wallet RPC Restricted-Mode Policy Bypass | Monero | High | — | 54 |
 | 4 | [3693295](../../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs | Brave Software | Medium | — | 48 |
 | 5 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Monero | High | — | 40 |
-| 6 | [3955956](../../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker red | Basecamp | High | — | 27 |
+| 6 | [3955956](../../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker red | Basecamp | High | — | 28 |
 | 7 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Equifax-vdp | High | — | 24 |
 | 8 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Nextcloud | Medium | — | 23 |
-| 9 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | WordPress | Medium | — | 18 |
-| 10 | [3979217](../../reports/3979217.md) | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach anot | Basecamp | High | — | 16 |
+| 9 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | WordPress | Medium | — | 19 |
+| 10 | [3979217](../../reports/3979217.md) | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach anot | Basecamp | High | — | 17 |
 | 11 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Nextcloud | Low | — | 12 |
 | 12 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | MariaDB | Medium | — | 8 |
 | 13 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
