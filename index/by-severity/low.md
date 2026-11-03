@@ -32,19 +32,19 @@
 | 26 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Uncontrolled Resource Consumption | Low | — | 28 |
 | 27 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
 | 28 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Uncontrolled Resource Consumption | Low | — | 28 |
-| 29 | [3508852](../../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables | Business Logic Errors | Low | — | 24 |
+| 29 | [3508852](../../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables | Business Logic Errors | Low | — | 25 |
 | 30 | [3671818](../../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | Exposure of Data Element to Wrong Session | Low | — | 24 |
 | 31 | [3601655](../../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-spli | — | Low | — | 23 |
-| 32 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 20 |
-| 33 | [3485178](../../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and breaks frontend UI | Business Logic Errors | Low | — | 19 |
+| 32 | [3485178](../../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and breaks frontend UI | Business Logic Errors | Low | — | 20 |
+| 33 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 20 |
 | 34 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 16 |
 | 35 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |
 | 36 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | Information Disclosure | Low | — | 14 |
 | 37 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
 | 38 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 14 |
 | 39 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
-| 40 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Improper Authentication - Generic | Low | — | 12 |
-| 41 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 12 |
+| 40 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 13 |
+| 41 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Improper Authentication - Generic | Low | — | 12 |
 | 42 | [3772818](../../reports/3772818.md) | Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's | Code Injection | Low | — | 11 |
 | 43 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
 | 44 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 9 |

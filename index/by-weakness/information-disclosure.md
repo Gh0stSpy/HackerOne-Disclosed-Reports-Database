@@ -11,10 +11,10 @@
 | 5 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | WordPress | Medium | — | 27 |
 | 6 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | curl | — | — | 15 |
 | 7 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | U.S. Dept Of Defense | Low | — | 14 |
-| 8 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | U.S. Dept Of Defense | Medium | — | 6 |
-| 9 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | U.S. Dept Of Defense | Medium | — | 6 |
-| 10 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | U.S. Dept Of Defense | High | — | 6 |
-| 11 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Monero | Medium | — | 4 |
+| 8 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Monero | Medium | — | 8 |
+| 9 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | U.S. Dept Of Defense | Medium | — | 6 |
+| 10 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | U.S. Dept Of Defense | Medium | — | 6 |
+| 11 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | U.S. Dept Of Defense | High | — | 6 |
 | 12 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Discourse | Medium | — | 4 |
 | 13 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | curl | Medium | — | 4 |
 | 14 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | curl | Low | — | 2 |

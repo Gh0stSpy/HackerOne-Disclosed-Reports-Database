@@ -57,8 +57,8 @@
 | [Improper Output Neutralization for Logs](improper-output-neutralization-for-logs.md) | 1 | — |
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |
 | [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
-| [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
 | [Cross-site Scripting (XSS) - Generic](cross-site-scripting-xss-generic.md) | 1 | — |
+| [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
 | [Integer Overflow](integer-overflow.md) | 1 | — |
 | [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
