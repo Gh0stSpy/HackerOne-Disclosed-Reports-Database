@@ -24,12 +24,12 @@
 | [CoinMate.io](coinmate-io.md) | 3 | $100 |
 | [Tor](tor.md) | 3 | $100 |
 | [arkadiyt-projects](arkadiyt-projects.md) | 3 | — |
+| [Django](django.md) | 3 | — |
 | [pixiv](pixiv.md) | 2 | $700 |
 | [Liberapay](liberapay.md) | 2 | $100 |
 | [Khan Academy](khan-academy.md) | 2 | — |
 | [Omise](omise.md) | 2 | — |
 | [Yelp](yelp.md) | 2 | — |
-| [Django](django.md) | 2 | — |
 | [phpBB](phpbb.md) | 2 | — |
 | [Brave Software](brave-software.md) | 2 | — |
 | [RubyGems](rubygems.md) | 2 | — |

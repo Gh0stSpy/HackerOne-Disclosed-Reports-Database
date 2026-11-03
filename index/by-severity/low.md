@@ -1,6 +1,6 @@
 # By severity: Low
 
-**76 reports** · published bounties $2,487 *(most programs don't publish an amount, so this undercounts)*
+**77 reports** · published bounties $2,487 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -80,6 +80,7 @@
 | 74 | [4136767](../../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resumption | Improper Authentication - Generic | Low | — | 1 |
 | 75 | [3975408](../../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as missing | Improper Validation of Certificate with Host Mismatch | Low | — | 0 |
 | 76 | [3993566](../../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | — | Low | — | 0 |
+| 77 | [4062511](../../reports/4062511.md) | `Vary` cache-key conflation of absent and empty request fields | — | Low | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
