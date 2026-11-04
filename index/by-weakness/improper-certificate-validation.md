@@ -1,6 +1,6 @@
 # By weakness: Improper Certificate Validation
 
-**10 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**11 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -14,6 +14,7 @@
 | 8 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | curl | — | — | 3 |
 | 9 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | curl | Medium | — | 2 |
 | 10 | [4122300](../../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | curl | Low | — | 2 |
+| 11 | [3896617](../../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification fai | MariaDB | — | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

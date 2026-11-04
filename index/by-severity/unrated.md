@@ -1,6 +1,6 @@
 # By severity: Unrated
 
-**59 reports** · published bounties $12,600 *(most programs don't publish an amount, so this undercounts)*
+**61 reports** · published bounties $12,600 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -53,16 +53,18 @@
 | 47 | [3973190](../../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certificate | Authentication Bypass by Primary Weakness | — | — | 1 |
 | 48 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
 | 49 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
-| 50 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
-| 51 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
-| 52 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
-| 53 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
-| 54 | [3973201](../../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | Improper Check or Handling of Exceptional Conditions | — | — | 0 |
-| 55 | [4021979](../../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | — | — | — | 0 |
-| 56 | [4022003](../../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omission | — | — | — | 0 |
-| 57 | [4022070](../../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | — | — | — | 0 |
-| 58 | [4022568](../../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | — | — | — | 0 |
-| 59 | [4023192](../../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints | — | — | — | 0 |
+| 50 | [3896617](../../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification fai | Improper Certificate Validation | — | — | 0 |
+| 51 | [3896684](../../reports/3896684.md) | Connector/C Out-of-bounds read from unterminated GSSAPI SPN in `parse_server_packet()` | Out-of-bounds Read | — | — | 0 |
+| 52 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
+| 53 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
+| 54 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
+| 55 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
+| 56 | [3973201](../../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | Improper Check or Handling of Exceptional Conditions | — | — | 0 |
+| 57 | [4021979](../../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | — | — | — | 0 |
+| 58 | [4022003](../../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omission | — | — | — | 0 |
+| 59 | [4022070](../../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | — | — | — | 0 |
+| 60 | [4022568](../../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | — | — | — | 0 |
+| 61 | [4023192](../../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints | — | — | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

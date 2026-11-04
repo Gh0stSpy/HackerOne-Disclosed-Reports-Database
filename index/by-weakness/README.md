@@ -4,23 +4,23 @@
 |:--|--:|--:|
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 32 | $1,600 |
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 28 | $550 |
-| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 17 | $1,124 |
+| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 18 | $1,124 |
+| [Information Disclosure](information-disclosure.md) | 17 | — |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 16 | — |
-| [Information Disclosure](information-disclosure.md) | 16 | — |
 | [Business Logic Errors](business-logic-errors.md) | 13 | $500 |
 | [Use After Free](use-after-free.md) | 12 | — |
-| [Improper Certificate Validation](improper-certificate-validation.md) | 10 | — |
+| [Improper Certificate Validation](improper-certificate-validation.md) | 11 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 8 | $337 |
+| [Out-of-bounds Read](out-of-bounds-read.md) | 8 | — |
+| [SQL Injection](sql-injection.md) | 8 | — |
 | [Code Injection](code-injection.md) | 7 | $19,000 |
 | [Path Traversal](path-traversal.md) | 6 | $5,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
+| [Stack Overflow](stack-overflow.md) | 6 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 6 | — |
 | [Improper Input Validation](improper-input-validation.md) | 5 | $500 |
 | [Open Redirect](open-redirect.md) | 5 | — |
-| [Stack Overflow](stack-overflow.md) | 5 | — |
-| [Out-of-bounds Read](out-of-bounds-read.md) | 5 | — |
-| [SQL Injection](sql-injection.md) | 5 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 4 | $3,100 |
 | [OS Command Injection](os-command-injection.md) | 4 | — |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 4 | — |
@@ -81,6 +81,7 @@
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
+| [Type Confusion](type-confusion.md) | 1 | — |
 | [Partial String Comparison](partial-string-comparison.md) | 1 | — |
 | [Incorrect Comparison](incorrect-comparison.md) | 1 | — |
 | [Improper Check or Handling of Exceptional Conditions](improper-check-or-handling-of-exceptional-conditions.md) | 1 | — |
