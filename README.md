@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **357** |
-| With a published bounty | 30 |
-| Total published bounties | **$48,137** |
-| Last updated | 2026-11-03 19:32 UTC |
-| Last pull | 2026-11-03T19:31:55+00:00 |
+| Reports with full write-ups | **358** |
+| With a published bounty | 31 |
+| Total published bounties | **$51,237** |
+| Last updated | 2026-11-04 06:35 UTC |
+| Last pull | 2026-11-04T06:35:04+00:00 |
 
 ## Browse
 
@@ -51,12 +51,12 @@ publicly disclosed finding.
 | [3782701](reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argum | Mozilla | $12,000 |
 | [3694007](reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search | HackerOne | $7,000 |
 | [3712279](reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-cont | PortSwigger Web Security | $5,000 |
+| [3954327](reports/3954327.md) | Unauthenticated access to Checkout Blocks employee-only endpoints expo | Shopify | $3,100 |
 | [3734676](reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the | Mozilla | $2,000 |
 | [2509022](reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdow | Shopify | $1,600 |
 | [3852102](reports/3852102.md) | Revoked deployment collaborator regains access to private comments aft | Vercel | $1,026 |
 | [3400140](reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | $1,024 |
 | [3972558](reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authe | PortSwigger Web Security | $1,000 |
-| [2541962](reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | pixiv | $500 |
 
 ## Build your own copy
 

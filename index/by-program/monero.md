@@ -25,7 +25,7 @@
 | 19 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 20 |
 | 20 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
 | 21 | [3547349](../../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host | — | — | — | 18 |
-| 22 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Information Disclosure | Medium | — | 13 |
+| 22 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Information Disclosure | Medium | — | 17 |
 | 23 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
 | 24 | [3686259](../../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wa | Improper Certificate Validation | High | — | 6 |
 | 25 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Information Disclosure | Low | — | 1 |

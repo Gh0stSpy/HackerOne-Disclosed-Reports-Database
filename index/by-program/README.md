@@ -25,6 +25,7 @@
 | [Tor](tor.md) | 3 | $100 |
 | [arkadiyt-projects](arkadiyt-projects.md) | 3 | — |
 | [Django](django.md) | 3 | — |
+| [Shopify](shopify.md) | 2 | $4,700 |
 | [pixiv](pixiv.md) | 2 | $700 |
 | [Liberapay](liberapay.md) | 2 | $100 |
 | [Khan Academy](khan-academy.md) | 2 | — |
@@ -34,7 +35,6 @@
 | [Brave Software](brave-software.md) | 2 | — |
 | [RubyGems](rubygems.md) | 2 | — |
 | [Myndr](myndr.md) | 2 | — |
-| [Shopify](shopify.md) | 1 | $1,600 |
 | [Vercel](vercel.md) | 1 | $1,026 |
 | [MetaMask](metamask.md) | 1 | $350 |
 | [LinkedIn](linkedin.md) | 1 | — |
