@@ -42,8 +42,8 @@
 | 36 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | Information Disclosure | Low | — | 14 |
 | 37 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
 | 38 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 14 |
-| 39 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
-| 40 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 13 |
+| 39 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 14 |
+| 40 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
 | 41 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Improper Authentication - Generic | Low | — | 12 |
 | 42 | [3772818](../../reports/3772818.md) | Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's | Code Injection | Low | — | 11 |
 | 43 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
@@ -57,8 +57,8 @@
 | 51 | [3822248](../../reports/3822248.md) | CVE-2026-13608: OpenLDAP SASL authentication bypass | Authentication Bypass by Primary Weakness | Low | — | 6 |
 | 52 | [3751697](../../reports/3751697.md) | CVE-2026-10536: HTTP/2 stream-dependency tree UAF | Buffer Over-read | Low | — | 5 |
 | 53 | [3969368](../../reports/3969368.md) | CVE-2026-80231: native CA store conn reuse | — | Low | — | 5 |
-| 54 | [4099618](../../reports/4099618.md) | CVE-2026-107929: local interface connection reuse mixup | Exposure of Data Element to Wrong Session | Low | — | 5 |
-| 55 | [4062511](../../reports/4062511.md) | `Vary` cache-key conflation of absent and empty request fields | — | Low | — | 4 |
+| 54 | [4062511](../../reports/4062511.md) | `Vary` cache-key conflation of absent and empty request fields | — | Low | — | 5 |
+| 55 | [4099618](../../reports/4099618.md) | CVE-2026-107929: local interface connection reuse mixup | Exposure of Data Element to Wrong Session | Low | — | 5 |
 | 56 | [4124849](../../reports/4124849.md) | CVE-2026-111951: curl -OJ truncate without filename | External Control of File Name or Path | Low | — | 4 |
 | 57 | [3733910](../../reports/3733910.md) | CVE-2026-8932: incomplete mTLS config matching in conn reuse | Business Logic Errors | Low | — | 3 |
 | 58 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | Use After Free | Low | — | 3 |

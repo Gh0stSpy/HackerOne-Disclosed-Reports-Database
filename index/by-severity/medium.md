@@ -1,13 +1,13 @@
 # By severity: Medium
 
-**161 reports** · published bounties $11,126 *(most programs don't publish an amount, so this undercounts)*
+**163 reports** · published bounties $11,126 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3954327](../../reports/3954327.md) | Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadat | Missing Authentication for Critical Function | Medium | $3,100 | 23 |
+| 1 | [3954327](../../reports/3954327.md) | Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadat | Missing Authentication for Critical Function | Medium | $3,100 | 26 |
 | 2 | [3734676](../../reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler ch | Authentication Bypass by Capture-replay | Medium | $2,000 | 43 |
 | 3 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 109 |
-| 4 | [3852102](../../reports/3852102.md) | Revoked deployment collaborator regains access to private comments after active collaborat | Access Control Check Implemented After Asset is Accessed | Medium | $1,026 | 53 |
+| 4 | [3852102](../../reports/3852102.md) | Revoked deployment collaborator regains access to private comments after active collaborat | Access Control Check Implemented After Asset is Accessed | Medium | $1,026 | 55 |
 | 5 | [3972558](../../reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication | — | Medium | $1,000 | 58 |
 | 6 | [2541962](../../reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | Insecure Direct Object Reference (IDOR) | Medium | $500 | 145 |
 | 7 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 77 |
@@ -50,21 +50,21 @@
 | 44 | [3697719](../../reports/3697719.md) | CVE-2026-7168: cross-proxy Digest auth state leak | Exposure of Data Element to Wrong Session | Medium | — | 37 |
 | 45 | [3698862](../../reports/3698862.md) | `check_reserve_proof` sums RingCT ECDH amounts without checking the output commitment | Missing Required Cryptographic Step | Medium | — | 37 |
 | 46 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Improper Access Control - Generic | Medium | — | 36 |
-| 47 | [3590583](../../reports/3590583.md) | Unquoted body background attribute enables CSS injection that bypasses remote image blocki | Resource Injection | Medium | — | 34 |
-| 48 | [3591944](../../reports/3591944.md) | CVE-2026-3805: use after free in SMB connection reuse | Use After Free | Medium | — | 34 |
-| 49 | [3608558](../../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | Server-Side Request Forgery (SSRF) | Medium | — | 33 |
-| 50 | [3694390](../../reports/3694390.md) | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust | Improper Certificate Validation | Medium | — | 33 |
-| 51 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Out-of-bounds Read | Medium | — | 33 |
-| 52 | [3972760](../../reports/3972760.md) | Open redirect on app.hey.com bypasses HEY desktop's internal-origin allowlist and loads at | Open Redirect | Medium | — | 33 |
-| 53 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | Improper Authentication - Generic | Medium | — | 33 |
+| 47 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | Improper Authentication - Generic | Medium | — | 35 |
+| 48 | [3590583](../../reports/3590583.md) | Unquoted body background attribute enables CSS injection that bypasses remote image blocki | Resource Injection | Medium | — | 34 |
+| 49 | [3591944](../../reports/3591944.md) | CVE-2026-3805: use after free in SMB connection reuse | Use After Free | Medium | — | 34 |
+| 50 | [3608558](../../reports/3608558.md) | Blind POST SSRF via Web Push Notification Endpoint | Server-Side Request Forgery (SSRF) | Medium | — | 33 |
+| 51 | [3694390](../../reports/3694390.md) | CVE-2026-7009: OCSP stapling bypass with Apple SecTrust | Improper Certificate Validation | Medium | — | 33 |
+| 52 | [3709605](../../reports/3709605.md) | Conflux-queued zero-length RELAY_END triggers heap out-of-bounds read | Out-of-bounds Read | Medium | — | 33 |
+| 53 | [3972760](../../reports/3972760.md) | Open redirect on app.hey.com bypasses HEY desktop's internal-origin allowlist and loads at | Open Redirect | Medium | — | 33 |
 | 54 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Information Disclosure | Medium | — | 32 |
 | 55 | [3966599](../../reports/3966599.md) | Unauthenticated go-httpbin servers : Leads to Cookie Tossing on *.aws.dev and Open Redirec | Missing Authentication for Critical Function | Medium | — | 32 |
 | 56 | [3689633](../../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorizati | Insecure Direct Object Reference (IDOR) | Medium | — | 31 |
 | 57 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Improper Access Control - Generic | Medium | — | 31 |
 | 58 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | Uncontrolled Resource Consumption | Medium | — | 31 |
-| 59 | [3621606](../../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | CRLF Injection | Medium | — | 30 |
-| 60 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 30 |
-| 61 | [3933198](../../reports/3933198.md) | wordpress.org/openverse/: unauthenticated open redirect — `str_replace()`'s 4th arg is a c | Open Redirect | Medium | — | 30 |
+| 59 | [3933198](../../reports/3933198.md) | wordpress.org/openverse/: unauthenticated open redirect — `str_replace()`'s 4th arg is a c | Open Redirect | Medium | — | 31 |
+| 60 | [3621606](../../reports/3621606.md) | ZMQ RPC Log Injection and Untrusted Payload Persistence | CRLF Injection | Medium | — | 30 |
+| 61 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Code Injection | Medium | — | 30 |
 | 62 | [3648681](../../reports/3648681.md) | Improper Input Validation — HTTP Response Parser Unconditionally Accepts Bare CR in Status | HTTP Request Smuggling | Medium | — | 29 |
 | 63 | [4071064](../../reports/4071064.md) | Unauthenticated self-registration on ████████ grants full access to internal supplier proc | Missing Authentication for Critical Function | Medium | — | 29 |
 | 64 | [3700036](../../reports/3700036.md) | SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned t | Missing Required Cryptographic Step | Medium | — | 28 |
@@ -86,12 +86,12 @@
 | 80 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | Path Traversal | Medium | — | 21 |
 | 81 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 21 |
 | 82 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 21 |
-| 83 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 20 |
-| 84 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 20 |
-| 85 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
-| 86 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
-| 87 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
-| 88 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Information Disclosure | Medium | — | 19 |
+| 83 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 21 |
+| 84 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Information Disclosure | Medium | — | 20 |
+| 85 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 20 |
+| 86 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
+| 87 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
+| 88 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
 | 89 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
 | 90 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 18 |
 | 91 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
@@ -141,30 +141,32 @@
 | 135 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
 | 136 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
 | 137 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 138 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
-| 139 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
-| 140 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
-| 141 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Information Disclosure | Medium | — | 4 |
-| 142 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
-| 143 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 4 |
-| 144 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 4 |
-| 145 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
-| 146 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
-| 147 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | SQL Injection | Medium | — | 3 |
-| 148 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | Improper Check for Certificate Revocation | Medium | — | 3 |
-| 149 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
-| 150 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
-| 151 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
-| 152 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | Information Disclosure | Medium | — | 2 |
-| 153 | [3920633](../../reports/3920633.md) | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-oriented helper, reading past the  | Out-of-bounds Read | Medium | — | 2 |
-| 154 | [3920647](../../reports/3920647.md) | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an exception unwinds out of MADB_ | Out-of-bounds Read | Medium | — | 2 |
-| 155 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
-| 156 | [3890289](../../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enabling SQL injection | SQL Injection | Medium | — | 1 |
-| 157 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | Uncontrolled Resource Consumption | Medium | — | 1 |
-| 158 | [3891319](../../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name | Stack Overflow | Medium | — | 1 |
-| 159 | [3891337](../../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write  | Type Confusion | Medium | — | 1 |
-| 160 | [3891779](../../reports/3891779.md) | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_Dy | SQL Injection | Medium | — | 1 |
-| 161 | [4122239](../../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | Use After Free | Medium | — | 1 |
+| 138 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Uncontrolled Resource Consumption | Medium | — | 5 |
+| 139 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
+| 140 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
+| 141 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
+| 142 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Information Disclosure | Medium | — | 4 |
+| 143 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
+| 144 | [3920633](../../reports/3920633.md) | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-oriented helper, reading past the  | Out-of-bounds Read | Medium | — | 4 |
+| 145 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 4 |
+| 146 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 4 |
+| 147 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
+| 148 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
+| 149 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | SQL Injection | Medium | — | 3 |
+| 150 | [3920647](../../reports/3920647.md) | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an exception unwinds out of MADB_ | Out-of-bounds Read | Medium | — | 3 |
+| 151 | [4029867](../../reports/4029867.md) | WordCamp Meta gpre: password-protected event RSVP list readable without password via /gpre | Improper Access Control - Generic | Medium | — | 3 |
+| 152 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | Improper Check for Certificate Revocation | Medium | — | 3 |
+| 153 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
+| 154 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
+| 155 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
+| 156 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | Information Disclosure | Medium | — | 2 |
+| 157 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
+| 158 | [3890289](../../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enabling SQL injection | SQL Injection | Medium | — | 1 |
+| 159 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | Uncontrolled Resource Consumption | Medium | — | 1 |
+| 160 | [3891319](../../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name | Stack Overflow | Medium | — | 1 |
+| 161 | [3891337](../../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write  | Type Confusion | Medium | — | 1 |
+| 162 | [3891779](../../reports/3891779.md) | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_Dy | SQL Injection | Medium | — | 1 |
+| 163 | [4122239](../../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | Use After Free | Medium | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

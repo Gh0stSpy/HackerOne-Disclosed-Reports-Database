@@ -1,6 +1,6 @@
 # By severity: High
 
-**51 reports** · published bounties $13,024 *(most programs don't publish an amount, so this undercounts)*
+**55 reports** · published bounties $13,024 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -18,7 +18,7 @@
 | 12 | [3620006](../../reports/3620006.md) | Wallet RPC Restricted-Mode Policy Bypass | Improper Authentication - Generic | High | — | 54 |
 | 13 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Cross-site Scripting (XSS) - Reflected | High | — | 49 |
 | 14 | [3558713](../../reports/3558713.md) | Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs` | OS Command Injection | High | — | 48 |
-| 15 | [3955956](../../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker red | Improper Authentication - Generic | High | — | 45 |
+| 15 | [3955956](../../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker red | Improper Authentication - Generic | High | — | 47 |
 | 16 | [3693636](../../reports/3693636.md) | wallet-rpc crash via malformed /gettransactions response (empty txs → vector::front() in c | NULL Pointer Dereference | High | — | 44 |
 | 17 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Improper Access Control - Generic | High | — | 44 |
 | 18 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 43 |
@@ -28,10 +28,10 @@
 | 22 | [3923967](../../reports/3923967.md) | WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE | Code Injection | High | — | 37 |
 | 23 | [3876430](../../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account  | Improper Access Control - Generic | High | — | 35 |
 | 24 | [3874004](../../reports/3874004.md) | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() | OS Command Injection | High | — | 34 |
-| 25 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 33 |
-| 26 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Business Logic Errors | High | — | 32 |
-| 27 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Uncontrolled Resource Consumption | High | — | 32 |
-| 28 | [3979217](../../reports/3979217.md) | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach anot | Improper Authentication - Generic | High | — | 31 |
+| 25 | [3979217](../../reports/3979217.md) | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach anot | Improper Authentication - Generic | High | — | 34 |
+| 26 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 33 |
+| 27 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Business Logic Errors | High | — | 32 |
+| 28 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Uncontrolled Resource Consumption | High | — | 32 |
 | 29 | [3678395](../../reports/3678395.md) | Path Traversal in mbstream Extract | Path Traversal | High | — | 29 |
 | 30 | [3473145](../../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding | Server-Side Request Forgery (SSRF) | High | — | 28 |
 | 31 | [3981292](../../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defea | Cross-site Scripting (XSS) - Generic | High | — | 27 |
@@ -55,6 +55,10 @@
 | 49 | [3686259](../../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wa | Improper Certificate Validation | High | — | 6 |
 | 50 | [3915935](../../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation | Use After Free | High | — | 6 |
 | 51 | [3830771](../../reports/3830771.md) | Reflected XSS in legacy CGI script /cgi-bin/████████.pl on ████████ via `████████` paramet | Cross-site Scripting (XSS) - Reflected | High | — | 5 |
+| 52 | [3871816](../../reports/3871816.md) | Unauthenticated private CSV export of Meetup organizer PII via broken authz check in WordC | Improper Access Control - Generic | High | — | 4 |
+| 53 | [3941626](../../reports/3941626.md) | Instamojo CampTix: fail-open MAC + webhook Credit without binding payment to order | Improper Access Control - Generic | High | — | 4 |
+| 54 | [3942522](../../reports/3942522.md) | wordpress.org Rosetta: invite stores unvalidated role — Editor can assign site Administrat | Improper Access Control - Generic | High | — | 4 |
+| 55 | [4152553](../../reports/4152553.md) | Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core | Information Disclosure | High | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

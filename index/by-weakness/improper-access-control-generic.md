@@ -1,6 +1,6 @@
 # By weakness: Improper Access Control - Generic
 
-**28 reports** · published bounties $550 *(most programs don't publish an amount, so this undercounts)*
+**32 reports** · published bounties $550 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -32,6 +32,10 @@
 | 26 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | MariaDB | High | — | 14 |
 | 27 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 9 |
 | 28 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
+| 29 | [3871816](../../reports/3871816.md) | Unauthenticated private CSV export of Meetup organizer PII via broken authz check in WordC | WordPress | High | — | 4 |
+| 30 | [3941626](../../reports/3941626.md) | Instamojo CampTix: fail-open MAC + webhook Credit without binding payment to order | WordPress | High | — | 4 |
+| 31 | [3942522](../../reports/3942522.md) | wordpress.org Rosetta: invite stores unvalidated role — Editor can assign site Administrat | WordPress | High | — | 4 |
+| 32 | [4029867](../../reports/4029867.md) | WordCamp Meta gpre: password-protected event RSVP list readable without password via /gpre | WordPress | Medium | — | 3 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

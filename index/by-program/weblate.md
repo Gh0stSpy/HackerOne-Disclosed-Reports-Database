@@ -1,6 +1,6 @@
 # By program: Weblate
 
-**11 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**12 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -11,10 +11,11 @@
 | 5 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 33 |
 | 6 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 27 |
 | 7 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Uncontrolled Resource Consumption | Medium | — | 24 |
-| 8 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 20 |
+| 8 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 21 |
 | 9 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 16 |
-| 10 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 13 |
+| 10 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 14 |
 | 11 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
+| 12 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Uncontrolled Resource Consumption | Medium | — | 5 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

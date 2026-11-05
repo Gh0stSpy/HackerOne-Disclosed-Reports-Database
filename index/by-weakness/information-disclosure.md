@@ -1,6 +1,6 @@
 # By weakness: Information Disclosure
 
-**17 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**18 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -9,7 +9,7 @@
 | 3 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | U.S. Dept Of Defense | Low | — | 28 |
 | 4 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Weblate | Medium | — | 27 |
 | 5 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | WordPress | Medium | — | 27 |
-| 6 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Monero | Medium | — | 19 |
+| 6 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Monero | Medium | — | 20 |
 | 7 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | curl | — | — | 15 |
 | 8 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | U.S. Dept Of Defense | Low | — | 14 |
 | 9 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | U.S. Dept Of Defense | Medium | — | 6 |
@@ -21,6 +21,7 @@
 | 15 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | MariaDB | Medium | — | 2 |
 | 16 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Monero | Low | — | 1 |
 | 17 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | curl | — | — | 0 |
+| 18 | [4152553](../../reports/4152553.md) | Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core | WordPress | High | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
