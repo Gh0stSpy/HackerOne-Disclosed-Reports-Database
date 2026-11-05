@@ -48,13 +48,13 @@
 | 42 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 3 |
 | 43 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |
 | 44 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
-| 45 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
-| 46 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
-| 47 | [3973190](../../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certificate | Authentication Bypass by Primary Weakness | — | — | 1 |
-| 48 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
-| 49 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
-| 50 | [3896617](../../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification fai | Improper Certificate Validation | — | — | 0 |
-| 51 | [3896684](../../reports/3896684.md) | Connector/C Out-of-bounds read from unterminated GSSAPI SPN in `parse_server_packet()` | Out-of-bounds Read | — | — | 0 |
+| 45 | [3896684](../../reports/3896684.md) | Connector/C Out-of-bounds read from unterminated GSSAPI SPN in `parse_server_packet()` | Out-of-bounds Read | — | — | 2 |
+| 46 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
+| 47 | [3896617](../../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification fai | Improper Certificate Validation | — | — | 1 |
+| 48 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
+| 49 | [3973190](../../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certificate | Authentication Bypass by Primary Weakness | — | — | 1 |
+| 50 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
+| 51 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
 | 52 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
 | 53 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
 | 54 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |

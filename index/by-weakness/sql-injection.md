@@ -9,7 +9,7 @@
 | 3 | [3809973](../../reports/3809973.md) | Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) | Essity | Critical | — | 11 |
 | 4 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | U.S. Dept Of Defense | Medium | — | 6 |
 | 5 | [3848978](../../reports/3848978.md) | `SHOW [CREATE\|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation | MariaDB | — | — | 5 |
-| 6 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | MariaDB | Medium | — | 2 |
+| 6 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | MariaDB | Medium | — | 3 |
 | 7 | [3890289](../../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enabling SQL injection | MariaDB | Medium | — | 1 |
 | 8 | [3891779](../../reports/3891779.md) | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_Dy | MariaDB | Medium | — | 1 |
 
