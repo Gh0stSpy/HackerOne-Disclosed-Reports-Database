@@ -8,7 +8,7 @@
 | 2 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | AWS VDP | Medium | — | 18 |
 | 3 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | curl | Low | — | 8 |
 | 4 | [3686259](../../reports/3686259.md) | `set_daemon` wallet-rpc silently ignores `ssl_allowed_fingerprints` → pinning bypassed, wa | Monero | High | — | 6 |
-| 5 | [3896617](../../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification fai | MariaDB | — | — | 5 |
+| 5 | [3896617](../../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification fai | MariaDB | — | — | 6 |
 | 6 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | curl | Medium | — | 4 |
 | 7 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | curl | Medium | — | 4 |
 | 8 | [3752888](../../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | curl | Low | — | 3 |
