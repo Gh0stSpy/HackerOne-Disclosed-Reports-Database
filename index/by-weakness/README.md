@@ -20,9 +20,9 @@
 | [Stack Overflow](stack-overflow.md) | 6 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 6 | — |
 | [Improper Input Validation](improper-input-validation.md) | 5 | $500 |
+| [OS Command Injection](os-command-injection.md) | 5 | — |
 | [Open Redirect](open-redirect.md) | 5 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 4 | $3,100 |
-| [OS Command Injection](os-command-injection.md) | 4 | — |
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 4 | — |
 | [Buffer Over-read](buffer-over-read.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
@@ -76,11 +76,11 @@
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
 | [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
+| [Type Confusion](type-confusion.md) | 1 | — |
 | [Time-of-check Time-of-use (TOCTOU) Race Condition](time-of-check-time-of-use-toctou-race-condition.md) | 1 | — |
 | [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
-| [Type Confusion](type-confusion.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
 | [Partial String Comparison](partial-string-comparison.md) | 1 | — |
 | [Incorrect Comparison](incorrect-comparison.md) | 1 | — |

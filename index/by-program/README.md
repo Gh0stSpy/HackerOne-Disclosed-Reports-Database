@@ -7,7 +7,7 @@
 | [MariaDB](mariadb.md) | 43 | — |
 | [Nextcloud](nextcloud.md) | 28 | $1,400 |
 | [Monero](monero.md) | 25 | — |
-| [AWS VDP](aws-vdp.md) | 17 | — |
+| [AWS VDP](aws-vdp.md) | 18 | — |
 | [Essity](essity.md) | 17 | — |
 | [WordPress](wordpress.md) | 14 | — |
 | [Weblate](weblate.md) | 12 | — |
