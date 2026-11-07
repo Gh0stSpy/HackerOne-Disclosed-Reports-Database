@@ -10,7 +10,7 @@
 | 4 | [3955956](../../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker red | Basecamp | High | — | 49 |
 | 5 | [3693295](../../reports/3693295.md) | iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs | Brave Software | Medium | — | 48 |
 | 6 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Monero | High | — | 40 |
-| 7 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | WordPress | Medium | — | 36 |
+| 7 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | WordPress | Medium | — | 37 |
 | 8 | [3979217](../../reports/3979217.md) | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach anot | Basecamp | High | — | 34 |
 | 9 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Equifax-vdp | High | — | 24 |
 | 10 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Nextcloud | Medium | — | 23 |

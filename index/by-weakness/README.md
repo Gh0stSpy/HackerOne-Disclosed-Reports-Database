@@ -78,6 +78,7 @@
 | [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
 | [Type Confusion](type-confusion.md) | 1 | — |
 | [Time-of-check Time-of-use (TOCTOU) Race Condition](time-of-check-time-of-use-toctou-race-condition.md) | 1 | — |
+| [XML Entity Expansion](xml-entity-expansion.md) | 1 | — |
 | [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |

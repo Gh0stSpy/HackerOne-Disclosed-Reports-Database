@@ -1,6 +1,6 @@
 # By program: Weblate
 
-**12 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**13 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -16,6 +16,7 @@
 | 10 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 14 |
 | 11 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Uncontrolled Resource Consumption | Medium | — | 13 |
 | 12 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
+| 13 | [4094236](../../reports/4094236.md) | Billion laughs entity expansion in Qt .ts discovery: a crafted ~950 KB file forces ~55 MB  | XML Entity Expansion | Medium | — | 3 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

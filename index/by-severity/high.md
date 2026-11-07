@@ -33,15 +33,15 @@
 | 27 | [3621588](../../reports/3621588.md) | Authenticated `unsigned_txset` change spoof lets a malicious hot wallet steal cold-signer  | Business Logic Errors | High | — | 32 |
 | 28 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Uncontrolled Resource Consumption | High | — | 32 |
 | 29 | [3678395](../../reports/3678395.md) | Path Traversal in mbstream Extract | Path Traversal | High | — | 29 |
-| 30 | [3473145](../../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding | Server-Side Request Forgery (SSRF) | High | — | 28 |
-| 31 | [3981292](../../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defea | Cross-site Scripting (XSS) - Generic | High | — | 27 |
-| 32 | [4152553](../../reports/4152553.md) | Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core | Information Disclosure | High | — | 27 |
+| 30 | [4152553](../../reports/4152553.md) | Unauthenticated Disclosure of Private, Draft, and Password-Protected Post Content via Core | Information Disclosure | High | — | 29 |
+| 31 | [3473145](../../reports/3473145.md) | Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding | Server-Side Request Forgery (SSRF) | High | — | 28 |
+| 32 | [3981292](../../reports/3981292.md) | Cross-account XSS on app.basecamp.com: oEmbed option injection chained through Turbo defea | Cross-site Scripting (XSS) - Generic | High | — | 27 |
 | 33 | [3393664](../../reports/3393664.md) | SSRF via improper validation after DNS name resolution in the link-preview feature | Server-Side Request Forgery (SSRF) | High | — | 26 |
 | 34 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | Improper Access Control - Generic | High | — | 26 |
 | 35 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | Insecure Direct Object Reference (IDOR) | High | — | 25 |
 | 36 | [3897236](../../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template | Code Injection | High | — | 25 |
-| 37 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 24 |
-| 38 | [3942522](../../reports/3942522.md) | wordpress.org Rosetta: invite stores unvalidated role — Editor can assign site Administrat | Improper Access Control - Generic | High | — | 24 |
+| 37 | [3942522](../../reports/3942522.md) | wordpress.org Rosetta: invite stores unvalidated role — Editor can assign site Administrat | Improper Access Control - Generic | High | — | 25 |
+| 38 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 24 |
 | 39 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 23 |
 | 40 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | Improper Access Control - Generic | High | — | 19 |
 | 41 | [4038342](../../reports/4038342.md) | dns.resolve truncates names containing NUL char | Improper Access Control - Generic | High | — | 18 |

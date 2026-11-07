@@ -10,7 +10,7 @@
 | [AWS VDP](aws-vdp.md) | 18 | — |
 | [Essity](essity.md) | 17 | — |
 | [WordPress](wordpress.md) | 14 | — |
-| [Weblate](weblate.md) | 12 | — |
+| [Weblate](weblate.md) | 13 | — |
 | [Basecamp](basecamp.md) | 11 | $437 |
 | [HackerOne](hackerone.md) | 6 | $19,900 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |

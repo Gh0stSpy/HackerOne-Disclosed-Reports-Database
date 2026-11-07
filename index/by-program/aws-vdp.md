@@ -21,7 +21,7 @@
 | 15 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 23 |
 | 16 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 21 |
 | 17 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 18 |
-| 18 | [4077800](../../reports/4077800.md) | Unescaped consent-prompt renderer (HTML()) enables concealed-approval OS command injection | OS Command Injection | Medium | — | 13 |
+| 18 | [4077800](../../reports/4077800.md) | Unescaped consent-prompt renderer (HTML()) enables concealed-approval OS command injection | OS Command Injection | Medium | — | 15 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
