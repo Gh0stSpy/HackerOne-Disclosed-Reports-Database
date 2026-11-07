@@ -33,8 +33,8 @@
 | 27 | [3771139](../../reports/3771139.md) | Heap Memory Disclosure via Integer Underflow in Item_func_json_arrayagg::cut_max_length in | Buffer Over-read | — | — | 16 |
 | 28 | [3910393](../../reports/3910393.md) | Stack Buffer Overflow in MariaDB CONNECT storage engine when reading DOUBLE columns from T | Stack Overflow | — | — | 16 |
 | 29 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | Information Disclosure | — | — | 15 |
-| 30 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 12 |
-| 31 | [3896617](../../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification fai | Improper Certificate Validation | — | — | 12 |
+| 30 | [3896617](../../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification fai | Improper Certificate Validation | — | — | 14 |
+| 31 | [3771144](../../reports/3771144.md) | Use-After-Free in BTREE Index Traversal via Stale key_version in heap_update() in MariaDB  | Use After Free | — | — | 12 |
 | 32 | [3189580](../../reports/3189580.md) | Password Reset Allows Reusing Old Password -- [AUTH-3820] | Unverified Password Change | — | — | 11 |
 | 33 | [3771147](../../reports/3771147.md) | Stack Buffer Overflow via Crafted keyseg->start/ keyseg->length in .MYI File (MariaDB MyIS | Classic Buffer Overflow | — | — | 11 |
 | 34 | [3897588](../../reports/3897588.md) | KILL authorization trusts the presented login name instead of the authenticated anonymous  | Incorrect Calculation of Buffer Size | — | — | 9 |

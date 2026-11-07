@@ -71,6 +71,7 @@
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
+| [XML Entity Expansion](xml-entity-expansion.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Memory Corruption - Generic](memory-corruption-generic.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
@@ -78,7 +79,6 @@
 | [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
 | [Type Confusion](type-confusion.md) | 1 | — |
 | [Time-of-check Time-of-use (TOCTOU) Race Condition](time-of-check-time-of-use-toctou-race-condition.md) | 1 | — |
-| [XML Entity Expansion](xml-entity-expansion.md) | 1 | — |
 | [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
