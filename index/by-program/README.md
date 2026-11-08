@@ -4,7 +4,7 @@
 |:--|--:|--:|
 | [curl](curl.md) | 76 | — |
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
-| [MariaDB](mariadb.md) | 43 | — |
+| [MariaDB](mariadb.md) | 44 | — |
 | [Nextcloud](nextcloud.md) | 28 | $1,400 |
 | [Monero](monero.md) | 25 | — |
 | [AWS VDP](aws-vdp.md) | 18 | — |

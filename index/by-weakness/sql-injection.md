@@ -1,6 +1,6 @@
 # By weakness: SQL Injection
 
-**8 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**9 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -12,6 +12,7 @@
 | 6 | [3890289](../../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enabling SQL injection | MariaDB | Medium | — | 4 |
 | 7 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | MariaDB | Medium | — | 4 |
 | 8 | [3891779](../../reports/3891779.md) | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_Dy | MariaDB | Medium | — | 2 |
+| 9 | [3849007](../../reports/3849007.md) | MariaDB CLI Utility Issues | MariaDB | — | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

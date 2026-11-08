@@ -11,9 +11,9 @@
 | [Use After Free](use-after-free.md) | 12 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 11 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
+| [SQL Injection](sql-injection.md) | 9 | — |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 8 | $337 |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 8 | — |
-| [SQL Injection](sql-injection.md) | 8 | — |
 | [Code Injection](code-injection.md) | 7 | $19,000 |
 | [Path Traversal](path-traversal.md) | 6 | $5,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
@@ -65,10 +65,10 @@
 | [Buffer Under-read](buffer-under-read.md) | 1 | — |
 | [Integer Underflow](integer-underflow.md) | 1 | — |
 | [Information Exposure Through an Error Message](information-exposure-through-an-error-message.md) | 1 | — |
+| [XML Entity Expansion](xml-entity-expansion.md) | 1 | — |
 | [Unverified Password Change](unverified-password-change.md) | 1 | — |
 | [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
 | [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
-| [XML Entity Expansion](xml-entity-expansion.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
