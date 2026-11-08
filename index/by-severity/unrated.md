@@ -1,6 +1,6 @@
 # By severity: Unrated
 
-**62 reports** · published bounties $12,600 *(most programs don't publish an amount, so this undercounts)*
+**63 reports** · published bounties $12,600 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -44,28 +44,29 @@
 | 38 | [3896684](../../reports/3896684.md) | Connector/C Out-of-bounds read from unterminated GSSAPI SPN in `parse_server_packet()` | Out-of-bounds Read | — | — | 6 |
 | 39 | [3969300](../../reports/3969300.md) | CVE-2026-80230: OpenSSL pinning bypass | — | — | — | 6 |
 | 40 | [3848978](../../reports/3848978.md) | `SHOW [CREATE\|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation | SQL Injection | — | — | 5 |
-| 41 | [3849040](../../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | — | — | — | 5 |
-| 42 | [3849051](../../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | — | — | — | 5 |
-| 43 | [3993549](../../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirected origin | — | — | — | 4 |
-| 44 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 3 |
-| 45 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |
-| 46 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
-| 47 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
-| 48 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
-| 49 | [3973190](../../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certificate | Authentication Bypass by Primary Weakness | — | — | 1 |
-| 50 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
-| 51 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
-| 52 | [3849007](../../reports/3849007.md) | MariaDB CLI Utility Issues | SQL Injection | — | — | 0 |
-| 53 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
-| 54 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
-| 55 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
-| 56 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
-| 57 | [3973201](../../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | Improper Check or Handling of Exceptional Conditions | — | — | 0 |
-| 58 | [4021979](../../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | — | — | — | 0 |
-| 59 | [4022003](../../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omission | — | — | — | 0 |
-| 60 | [4022070](../../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | — | — | — | 0 |
-| 61 | [4022568](../../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | — | — | — | 0 |
-| 62 | [4023192](../../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints | — | — | — | 0 |
+| 41 | [3849007](../../reports/3849007.md) | MariaDB CLI Utility Issues | SQL Injection | — | — | 5 |
+| 42 | [3849040](../../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | — | — | — | 5 |
+| 43 | [3849051](../../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | — | — | — | 5 |
+| 44 | [3993549](../../reports/3993549.md) | CVE-2026-86413: Negotiate credentials sent to redirected origin | — | — | — | 4 |
+| 45 | [3972373](../../reports/3972373.md) | CVE-2026-87863: HSTS response erases persisted entries | Time-of-check Time-of-use (TOCTOU) Race Condition | — | — | 3 |
+| 46 | [3973090](../../reports/3973090.md) | CVE-2026-82208: wolfSSL CA-cache hit overrides callback | Improper Certificate Validation | — | — | 3 |
+| 47 | [3751712](../../reports/3751712.md) | CVE-2026-9547: SSH improper host validation | Reusing a Nonce, Key Pair in Encryption | — | — | 2 |
+| 48 | [4024222](../../reports/4024222.md) | CVE-2026-92391: curl_mime_free stack overflow by recursion | — | — | — | 2 |
+| 49 | [3460138](../../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing  | — | — | — | 1 |
+| 50 | [3972395](../../reports/3972395.md) | CVE-2026-80255: secure cookie attribute bypass with tab | Improper Input Validation | — | — | 1 |
+| 51 | [3973190](../../reports/3973190.md) | CVE-2026-86411: FTP connection reuse inherits client-certificate | Authentication Bypass by Primary Weakness | — | — | 1 |
+| 52 | [4040551](../../reports/4040551.md) | CVE-2026-94265: Authorization: Negotiate sent to foreign origin | — | — | — | 1 |
+| 53 | [4041053](../../reports/4041053.md) | CVE-2026-94266: password leak in CURLINFO_EFFECTIVE_URL | — | — | — | 1 |
+| 54 | [3972357](../../reports/3972357.md) | CVE-2026-87862: HSTS cache import drops longer-lived child | Cleartext Transmission of Sensitive Information | — | — | 0 |
+| 55 | [3972403](../../reports/3972403.md) | CVE-2026-87864: IMAP APPEND plus CRLF conversion command injection | CRLF Injection | — | — | 0 |
+| 56 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | Information Disclosure | — | — | 0 |
+| 57 | [3973176](../../reports/3973176.md) | CVE-2026-86410:  redirect to SFTP or SCP bypasses host verification | Improper Validation of Certificate with Host Mismatch | — | — | 0 |
+| 58 | [3973201](../../reports/3973201.md) | CVE-2026-86412: server-set cookie erases cookie jar | Improper Check or Handling of Exceptional Conditions | — | — | 0 |
+| 59 | [4021979](../../reports/4021979.md) | CVE-2026-92386: server-set cookie aborts cookie jar load | — | — | — | 0 |
+| 60 | [4022003](../../reports/4022003.md) | CVE-2026-92387: never-ending loop via server response omission | — | — | — | 0 |
+| 61 | [4022070](../../reports/4022070.md) | CVE-2026-92388: FTP wildcard write callback mixup | — | — | — | 0 |
+| 62 | [4022568](../../reports/4022568.md) | CVE-2026-92389: TFTP direction confusion | — | — | — | 0 |
+| 63 | [4023192](../../reports/4023192.md) | CVE-2026-92390: -J no-clobber guarantee bypassed with 103 early hints | — | — | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

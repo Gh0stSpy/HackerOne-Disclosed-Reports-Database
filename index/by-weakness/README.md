@@ -63,9 +63,9 @@
 | [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
 | [Authentication Bypass](authentication-bypass.md) | 1 | — |
 | [Buffer Under-read](buffer-under-read.md) | 1 | — |
+| [XML Entity Expansion](xml-entity-expansion.md) | 1 | — |
 | [Integer Underflow](integer-underflow.md) | 1 | — |
 | [Information Exposure Through an Error Message](information-exposure-through-an-error-message.md) | 1 | — |
-| [XML Entity Expansion](xml-entity-expansion.md) | 1 | — |
 | [Unverified Password Change](unverified-password-change.md) | 1 | — |
 | [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
 | [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
@@ -76,8 +76,8 @@
 | [Memory Corruption - Generic](memory-corruption-generic.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
-| [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
 | [Type Confusion](type-confusion.md) | 1 | — |
+| [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
 | [Time-of-check Time-of-use (TOCTOU) Race Condition](time-of-check-time-of-use-toctou-race-condition.md) | 1 | — |
 | [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
