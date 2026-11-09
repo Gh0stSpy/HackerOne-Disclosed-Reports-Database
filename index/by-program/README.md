@@ -48,3 +48,4 @@
 | [Fastify](fastify.md) | 1 | — |
 | [Equifax-vdp](equifax-vdp.md) | 1 | — |
 | [Remitly](remitly.md) | 1 | — |
+| [Trellix](trellix.md) | 1 | — |
