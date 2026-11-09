@@ -49,8 +49,8 @@
 | 43 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
 | 44 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
 | 45 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 9 |
-| 46 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
-| 47 | [4062511](../../reports/4062511.md) | `Vary` cache-key conflation of absent and empty request fields | — | Low | — | 8 |
+| 46 | [4062511](../../reports/4062511.md) | `Vary` cache-key conflation of absent and empty request fields | — | Low | — | 9 |
+| 47 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
 | 48 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
 | 49 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
 | 50 | [4099194](../../reports/4099194.md) | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS | Buffer Over-read | Low | — | 7 |

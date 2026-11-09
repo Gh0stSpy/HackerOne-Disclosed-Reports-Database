@@ -46,6 +46,6 @@
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
 | [Fastify](fastify.md) | 1 | — |
+| [Trellix](trellix.md) | 1 | — |
 | [Equifax-vdp](equifax-vdp.md) | 1 | — |
 | [Remitly](remitly.md) | 1 | — |
-| [Trellix](trellix.md) | 1 | — |

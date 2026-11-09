@@ -17,25 +17,25 @@
 | 11 | [3893632](../../reports/3893632.md) | Unauthenticated disclosure of draft/private/pending post titles & IDs via Secure Custom Fi | WordPress | Medium | — | 51 |
 | 12 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Basecamp | High | — | 44 |
 | 13 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Monero | High | — | 40 |
-| 14 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Mozilla | Low | — | 38 |
-| 15 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Nextcloud | Medium | — | 36 |
-| 16 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 36 |
-| 17 | [3942522](../../reports/3942522.md) | wordpress.org Rosetta: invite stores unvalidated role — Editor can assign site Administrat | WordPress | High | — | 36 |
+| 14 | [3942522](../../reports/3942522.md) | wordpress.org Rosetta: invite stores unvalidated role — Editor can assign site Administrat | WordPress | High | — | 39 |
+| 15 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Mozilla | Low | — | 38 |
+| 16 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Nextcloud | Medium | — | 36 |
+| 17 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 36 |
 | 18 | [3876430](../../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account  | MariaDB | High | — | 35 |
-| 19 | [4029867](../../reports/4029867.md) | WordCamp Meta gpre: password-protected event RSVP list readable without password via /gpre | WordPress | Medium | — | 33 |
+| 19 | [4029867](../../reports/4029867.md) | WordCamp Meta gpre: password-protected event RSVP list readable without password via /gpre | WordPress | Medium | — | 35 |
 | 20 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Nextcloud | Medium | — | 31 |
-| 21 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | RubyGems | High | — | 26 |
-| 22 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | WordPress | Critical | — | 23 |
-| 23 | [3871816](../../reports/3871816.md) | Unauthenticated private CSV export of Meetup organizer PII via broken authz check in WordC | WordPress | High | — | 23 |
-| 24 | [3941626](../../reports/3941626.md) | Instamojo CampTix: fail-open MAC + webhook Credit without binding payment to order | WordPress | High | — | 23 |
-| 25 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Myndr | — | — | 22 |
-| 26 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Monero | Low | — | 20 |
-| 27 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | MariaDB | High | — | 19 |
-| 28 | [4038342](../../reports/4038342.md) | dns.resolve truncates names containing NUL char | Node.js | High | — | 18 |
-| 29 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Nextcloud | Medium | — | 16 |
-| 30 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | MariaDB | High | — | 14 |
-| 31 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 9 |
-| 32 | [3417759](../../reports/3417759.md) | Broken Access Control on **healthwatch.trellix.com** Leading to Unauthorized Access and Se | Trellix | Medium | — | 6 |
+| 21 | [3871816](../../reports/3871816.md) | Unauthenticated private CSV export of Meetup organizer PII via broken authz check in WordC | WordPress | High | — | 27 |
+| 22 | [3941626](../../reports/3941626.md) | Instamojo CampTix: fail-open MAC + webhook Credit without binding payment to order | WordPress | High | — | 27 |
+| 23 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | RubyGems | High | — | 26 |
+| 24 | [3417759](../../reports/3417759.md) | Broken Access Control on **healthwatch.trellix.com** Leading to Unauthorized Access and Se | Trellix | Medium | — | 24 |
+| 25 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | WordPress | Critical | — | 23 |
+| 26 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Myndr | — | — | 22 |
+| 27 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Monero | Low | — | 20 |
+| 28 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | MariaDB | High | — | 19 |
+| 29 | [4038342](../../reports/4038342.md) | dns.resolve truncates names containing NUL char | Node.js | High | — | 18 |
+| 30 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Nextcloud | Medium | — | 16 |
+| 31 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | MariaDB | High | — | 14 |
+| 32 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 9 |
 | 33 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
 
 ---
