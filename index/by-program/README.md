@@ -9,7 +9,7 @@
 | [Monero](monero.md) | 25 | — |
 | [AWS VDP](aws-vdp.md) | 18 | — |
 | [Essity](essity.md) | 18 | — |
-| [WordPress](wordpress.md) | 15 | — |
+| [WordPress](wordpress.md) | 16 | — |
 | [Weblate](weblate.md) | 13 | — |
 | [Basecamp](basecamp.md) | 11 | $437 |
 | [HackerOne](hackerone.md) | 6 | $19,900 |

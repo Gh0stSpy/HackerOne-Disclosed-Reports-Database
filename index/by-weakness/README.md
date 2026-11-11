@@ -11,8 +11,8 @@
 | [Use After Free](use-after-free.md) | 12 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 11 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
+| [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 9 | $337 |
 | [SQL Injection](sql-injection.md) | 9 | — |
-| [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 8 | $337 |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 8 | — |
 | [Code Injection](code-injection.md) | 7 | $19,000 |
 | [Path Traversal](path-traversal.md) | 6 | $5,000 |
@@ -56,9 +56,9 @@
 | [NULL Pointer Dereference](null-pointer-dereference.md) | 1 | — |
 | [Improper Output Neutralization for Logs](improper-output-neutralization-for-logs.md) | 1 | — |
 | [Incorrect Authorization](incorrect-authorization.md) | 1 | — |
+| [XML Entity Expansion](xml-entity-expansion.md) | 1 | — |
 | [LLM09:2025 Misinformation](llm09-2025-misinformation.md) | 1 | — |
 | [Cross-site Scripting (XSS) - Generic](cross-site-scripting-xss-generic.md) | 1 | — |
-| [XML Entity Expansion](xml-entity-expansion.md) | 1 | — |
 | [Remote File Inclusion](remote-file-inclusion.md) | 1 | — |
 | [Integer Overflow](integer-overflow.md) | 1 | — |
 | [Path Traversal: '.../...//'](path-traversal.md) | 1 | — |
