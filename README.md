@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **381** |
+| Reports with full write-ups | **382** |
 | With a published bounty | 31 |
 | Total published bounties | **$51,237** |
-| Last updated | 2026-11-10 19:48 UTC |
-| Last pull | 2026-11-10T19:48:45+00:00 |
+| Last updated | 2026-11-11 06:36 UTC |
+| Last pull | 2026-11-11T06:36:09+00:00 |
 
 ## Browse
 
@@ -37,7 +37,7 @@ publicly disclosed finding.
 | Uncontrolled Resource Consumption | 19 |
 | Information Disclosure | 19 |
 | Improper Authentication - Generic | 16 |
-| Business Logic Errors | 13 |
+| Business Logic Errors | 14 |
 | Use After Free | 12 |
 | Improper Certificate Validation | 11 |
 | Server-Side Request Forgery (SSRF) | 9 |

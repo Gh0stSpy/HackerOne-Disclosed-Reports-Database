@@ -5,7 +5,7 @@
 | [curl](curl.md) | 76 | — |
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
 | [MariaDB](mariadb.md) | 44 | — |
-| [Nextcloud](nextcloud.md) | 28 | $1,400 |
+| [Nextcloud](nextcloud.md) | 29 | $1,400 |
 | [Monero](monero.md) | 25 | — |
 | [AWS VDP](aws-vdp.md) | 18 | — |
 | [Essity](essity.md) | 18 | — |
@@ -45,7 +45,7 @@
 | [Rockstar Games](rockstar-games.md) | 1 | — |
 | [Python Cryptographic Authority](python-cryptographic-authority.md) | 1 | — |
 | [Tucows (VDP)](tucows-vdp.md) | 1 | — |
-| [Fastify](fastify.md) | 1 | — |
 | [Trellix](trellix.md) | 1 | — |
+| [Fastify](fastify.md) | 1 | — |
 | [Equifax-vdp](equifax-vdp.md) | 1 | — |
 | [Remitly](remitly.md) | 1 | — |
