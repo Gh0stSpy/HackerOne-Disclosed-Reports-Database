@@ -21,9 +21,9 @@
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 6 | — |
 | [Improper Input Validation](improper-input-validation.md) | 5 | $500 |
 | [OS Command Injection](os-command-injection.md) | 5 | — |
+| [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 5 | — |
 | [Open Redirect](open-redirect.md) | 5 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 4 | $3,100 |
-| [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 4 | — |
 | [Buffer Over-read](buffer-over-read.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 3 | $650 |
