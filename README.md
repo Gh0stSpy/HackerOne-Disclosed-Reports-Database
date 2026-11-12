@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **384** |
+| Reports with full write-ups | **385** |
 | With a published bounty | 31 |
 | Total published bounties | **$51,237** |
-| Last updated | 2026-11-12 07:19 UTC |
-| Last pull | 2026-11-12T07:19:26+00:00 |
+| Last updated | 2026-11-12 20:00 UTC |
+| Last pull | 2026-11-12T20:00:50+00:00 |
 
 ## Browse
 
@@ -34,8 +34,8 @@ publicly disclosed finding.
 |:--|--:|
 | Improper Access Control - Generic | 33 |
 | Cross-site Scripting (XSS) - Reflected | 32 |
+| Information Disclosure | 20 |
 | Uncontrolled Resource Consumption | 19 |
-| Information Disclosure | 19 |
 | Improper Authentication - Generic | 16 |
 | Business Logic Errors | 14 |
 | Use After Free | 12 |

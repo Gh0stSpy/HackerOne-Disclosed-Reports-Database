@@ -1,6 +1,6 @@
 # By weakness: Information Disclosure
 
-**19 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**20 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -20,9 +20,10 @@
 | 14 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | MariaDB | Medium | — | 6 |
 | 15 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Discourse | Medium | — | 4 |
 | 16 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | curl | Medium | — | 4 |
-| 17 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | curl | Low | — | 2 |
-| 18 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Monero | Low | — | 1 |
-| 19 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | curl | — | — | 0 |
+| 17 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Basecamp | Low | — | 4 |
+| 18 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | curl | Low | — | 2 |
+| 19 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Monero | Low | — | 1 |
+| 20 | [3973135](../../reports/3973135.md) | CVE-2026-86409: stale SigV4 headers sent unintended | curl | — | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

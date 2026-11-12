@@ -12,7 +12,7 @@
 | 6 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Nextcloud | Medium | — | 39 |
 | 7 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | WordPress | Critical | — | 32 |
 | 8 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Ruby on Rails | Medium | — | 23 |
-| 9 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | WordPress | — | — | 12 |
+| 9 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | WordPress | — | — | 15 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

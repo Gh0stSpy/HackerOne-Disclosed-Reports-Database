@@ -11,7 +11,7 @@
 | [Essity](essity.md) | 18 | — |
 | [WordPress](wordpress.md) | 17 | — |
 | [Weblate](weblate.md) | 13 | — |
-| [Basecamp](basecamp.md) | 11 | $437 |
+| [Basecamp](basecamp.md) | 12 | $437 |
 | [HackerOne](hackerone.md) | 6 | $19,900 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [PortSwigger Web Security](portswigger-web-security.md) | 5 | $6,400 |
