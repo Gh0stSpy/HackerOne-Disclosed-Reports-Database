@@ -10,12 +10,12 @@
 | [Business Logic Errors](business-logic-errors.md) | 14 | $500 |
 | [Use After Free](use-after-free.md) | 12 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 11 | — |
+| [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 10 | $337 |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
-| [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 9 | $337 |
 | [SQL Injection](sql-injection.md) | 9 | — |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 8 | — |
 | [Code Injection](code-injection.md) | 7 | $19,000 |
-| [Path Traversal](path-traversal.md) | 6 | $5,000 |
+| [Path Traversal](path-traversal.md) | 7 | $6,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
 | [Stack Overflow](stack-overflow.md) | 6 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 6 | — |

@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **385** |
-| With a published bounty | 31 |
-| Total published bounties | **$51,237** |
-| Last updated | 2026-11-13 06:52 UTC |
-| Last pull | 2026-11-13T06:52:49+00:00 |
+| Reports with full write-ups | **387** |
+| With a published bounty | 32 |
+| Total published bounties | **$52,237** |
+| Last updated | 2026-11-13 19:48 UTC |
+| Last pull | 2026-11-13T19:48:10+00:00 |
 
 ## Browse
 
@@ -40,8 +40,8 @@ publicly disclosed finding.
 | Business Logic Errors | 14 |
 | Use After Free | 12 |
 | Improper Certificate Validation | 11 |
+| Cross-site Scripting (XSS) - Stored | 10 |
 | Server-Side Request Forgery (SSRF) | 9 |
-| Cross-site Scripting (XSS) - Stored | 9 |
 
 ## Highest published bounties
 
