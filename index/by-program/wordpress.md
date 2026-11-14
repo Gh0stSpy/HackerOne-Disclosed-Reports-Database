@@ -18,8 +18,8 @@
 | 12 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | Information Disclosure | Medium | — | 27 |
 | 13 | [3460138](../../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing  | — | — | — | 23 |
 | 14 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | Improper Access Control - Generic | Critical | — | 23 |
-| 15 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 20 |
-| 16 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 20 |
+| 15 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 21 |
+| 16 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 20 |
 | 17 | [3863343](../../reports/3863343.md) | DOM-based XSS in playground.wordpress.net (/scope:*/wp-includes/empty.html) lets any attac | Cross-site Scripting (XSS) - DOM | Low | — | 19 |
 
 ---

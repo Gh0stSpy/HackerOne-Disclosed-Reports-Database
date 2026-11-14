@@ -30,7 +30,7 @@
 | 24 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | Stack Overflow | — | — | 23 |
 | 25 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 23 |
 | 26 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Improper Access Control - Generic | — | — | 22 |
-| 27 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 20 |
+| 27 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 21 |
 | 28 | [3913012](../../reports/3913012.md) | Persistent SMTP header injection via identity `organization` / `name` | Buffer Under-read | — | — | 19 |
 | 29 | [3547349](../../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host | — | — | — | 18 |
 | 30 | [3896617](../../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification fai | Improper Certificate Validation | — | — | 17 |

@@ -9,12 +9,12 @@
 | 3 | [3686283](../../reports/3686283.md) | View-only offline transaction creation bypasses the long-payment-ID privacy block | Monero | Medium | — | 32 |
 | 4 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | U.S. Dept Of Defense | Low | — | 28 |
 | 5 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Weblate | Medium | — | 27 |
-| 6 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | WordPress | Medium | — | 27 |
-| 7 | [3840113](../../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████ | Essity | Critical | — | 25 |
+| 6 | [3840113](../../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████ | Essity | Critical | — | 27 |
+| 7 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | WordPress | Medium | — | 27 |
 | 8 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Monero | Medium | — | 24 |
 | 9 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | curl | — | — | 15 |
 | 10 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | U.S. Dept Of Defense | Low | — | 14 |
-| 11 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Basecamp | Low | — | 8 |
+| 11 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Basecamp | Low | — | 10 |
 | 12 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | U.S. Dept Of Defense | Medium | — | 6 |
 | 13 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | U.S. Dept Of Defense | Medium | — | 6 |
 | 14 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | U.S. Dept Of Defense | High | — | 6 |

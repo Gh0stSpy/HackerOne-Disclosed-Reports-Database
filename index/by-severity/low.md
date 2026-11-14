@@ -48,12 +48,12 @@
 | 42 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Improper Authentication - Generic | Low | — | 12 |
 | 43 | [3772818](../../reports/3772818.md) | Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's | Code Injection | Low | — | 11 |
 | 44 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
-| 45 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
-| 46 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 9 |
-| 47 | [4062511](../../reports/4062511.md) | `Vary` cache-key conflation of absent and empty request fields | — | Low | — | 9 |
-| 48 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
-| 49 | [3943436](../../reports/3943436.md) | Unauthenticated attacker can book appointments at arbitrary times, including outside avail | Business Logic Errors | Low | — | 8 |
-| 50 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Information Disclosure | Low | — | 8 |
+| 45 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Information Disclosure | Low | — | 10 |
+| 46 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
+| 47 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 9 |
+| 48 | [4062511](../../reports/4062511.md) | `Vary` cache-key conflation of absent and empty request fields | — | Low | — | 9 |
+| 49 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
+| 50 | [3943436](../../reports/3943436.md) | Unauthenticated attacker can book appointments at arbitrary times, including outside avail | Business Logic Errors | Low | — | 8 |
 | 51 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
 | 52 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
 | 53 | [4099194](../../reports/4099194.md) | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS | Buffer Over-read | Low | — | 7 |
