@@ -14,11 +14,11 @@
 | 8 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Monero | Medium | — | 24 |
 | 9 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | curl | — | — | 15 |
 | 10 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | U.S. Dept Of Defense | Low | — | 14 |
-| 11 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | U.S. Dept Of Defense | Medium | — | 6 |
-| 12 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | U.S. Dept Of Defense | Medium | — | 6 |
-| 13 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | U.S. Dept Of Defense | High | — | 6 |
-| 14 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | MariaDB | Medium | — | 6 |
-| 15 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Basecamp | Low | — | 5 |
+| 11 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Basecamp | Low | — | 8 |
+| 12 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | U.S. Dept Of Defense | Medium | — | 6 |
+| 13 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | U.S. Dept Of Defense | Medium | — | 6 |
+| 14 | [3328408](../../reports/3328408.md) | Exposed wp-config.php file in ███ National Guard website | U.S. Dept Of Defense | High | — | 6 |
+| 15 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | MariaDB | Medium | — | 6 |
 | 16 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Discourse | Medium | — | 4 |
 | 17 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | curl | Medium | — | 4 |
 | 18 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | curl | Low | — | 2 |

@@ -11,9 +11,9 @@
 | 5 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Essity | Critical | — | 48 |
 | 6 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Nextcloud | Medium | — | 39 |
 | 7 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | WordPress | Critical | — | 32 |
-| 8 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Ruby on Rails | Medium | — | 23 |
-| 9 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | WordPress | — | — | 19 |
-| 10 | [4175245](../../reports/4175245.md) | Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover | Basecamp | High | — | 16 |
+| 8 | [4175245](../../reports/4175245.md) | Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover | Basecamp | High | — | 29 |
+| 9 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Ruby on Rails | Medium | — | 23 |
+| 10 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | WordPress | — | — | 20 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
