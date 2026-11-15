@@ -28,6 +28,7 @@
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 3 | $650 |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
+| [Privilege Escalation](privilege-escalation.md) | 3 | — |
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 3 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
@@ -36,7 +37,6 @@
 | [Information Exposure Through Sent Data](information-exposure-through-sent-data.md) | 3 | — |
 | [Misconfiguration](misconfiguration.md) | 2 | — |
 | [Insufficient Logging](insufficient-logging.md) | 2 | — |
-| [Privilege Escalation](privilege-escalation.md) | 2 | — |
 | [Incorrect Permission Assignment for Critical Resource](incorrect-permission-assignment-for-critical-resource.md) | 2 | — |
 | [CRLF Injection](crlf-injection.md) | 2 | — |
 | [Information Exposure Through Debug Information](information-exposure-through-debug-information.md) | 2 | — |

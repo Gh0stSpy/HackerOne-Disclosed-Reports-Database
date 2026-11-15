@@ -10,8 +10,8 @@
 | [AWS VDP](aws-vdp.md) | 18 | — |
 | [Essity](essity.md) | 18 | — |
 | [WordPress](wordpress.md) | 17 | — |
+| [Weblate](weblate.md) | 14 | — |
 | [Basecamp](basecamp.md) | 13 | $437 |
-| [Weblate](weblate.md) | 13 | — |
 | [HackerOne](hackerone.md) | 6 | $19,900 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [PortSwigger Web Security](portswigger-web-security.md) | 6 | $7,400 |
