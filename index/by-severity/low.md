@@ -1,6 +1,6 @@
 # By severity: Low
 
-**80 reports** · published bounties $2,487 *(most programs don't publish an amount, so this undercounts)*
+**81 reports** · published bounties $2,487 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -51,9 +51,9 @@
 | 45 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
 | 46 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
 | 47 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 9 |
-| 48 | [4062511](../../reports/4062511.md) | `Vary` cache-key conflation of absent and empty request fields | — | Low | — | 9 |
-| 49 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
-| 50 | [3943436](../../reports/3943436.md) | Unauthenticated attacker can book appointments at arbitrary times, including outside avail | Business Logic Errors | Low | — | 8 |
+| 48 | [3943436](../../reports/3943436.md) | Unauthenticated attacker can book appointments at arbitrary times, including outside avail | Business Logic Errors | Low | — | 9 |
+| 49 | [4062511](../../reports/4062511.md) | `Vary` cache-key conflation of absent and empty request fields | — | Low | — | 9 |
+| 50 | [3797526](../../reports/3797526.md) | CVE-2026-12064: proto-default skips SSH verification | Improper Certificate Validation | Low | — | 8 |
 | 51 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | Uncontrolled Resource Consumption | Low | — | 7 |
 | 52 | [3788984](../../reports/3788984.md) | CVE-2026-11564: Native CA trust persist | — | Low | — | 7 |
 | 53 | [4099194](../../reports/4099194.md) | CVE-2026-107928: info leak uploading over WebSockets with GnuTLS | Buffer Over-read | Low | — | 7 |
@@ -67,23 +67,24 @@
 | 61 | [3749204](../../reports/3749204.md) | CVE-2026-9080: UAF after pause in socket callback | Use After Free | Low | — | 3 |
 | 62 | [3752888](../../reports/3752888.md) | CVE-2026-9545: exposing HTTP/3 early data | Improper Certificate Validation | Low | — | 3 |
 | 63 | [3754343](../../reports/3754343.md) | CVE-2026-9546: sending old referer | Use After Free | Low | — | 3 |
-| 64 | [3718195](../../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | — | Low | — | 2 |
-| 65 | [3721183](../../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Authentication Bypass by Primary Weakness | Low | — | 2 |
-| 66 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Information Disclosure | Low | — | 2 |
-| 67 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 2 |
-| 68 | [4116527](../../reports/4116527.md) | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown | Use After Free | Low | — | 2 |
-| 69 | [4122300](../../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | Improper Certificate Validation | Low | — | 2 |
-| 70 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
-| 71 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Information Disclosure | Low | — | 1 |
-| 72 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | Improper Authentication - Generic | Low | — | 1 |
-| 73 | [4102061](../../reports/4102061.md) | CVE-2026-111480: pause UAF from within callback | Use After Free | Low | — | 1 |
-| 74 | [4112709](../../reports/4112709.md) | CVE-2026-111482: libssh2 knownhosts prefix match | Partial String Comparison | Low | — | 1 |
-| 75 | [4112912](../../reports/4112912.md) | CVE-2026-111481: server-set cookie still aborts cookie jar | Improper Input Validation | Low | — | 1 |
-| 76 | [4122175](../../reports/4122175.md) | CVE-2026-111950: TLS session cache diff scheme reuse | Incorrect Comparison | Low | — | 1 |
-| 77 | [4123190](../../reports/4123190.md) | CVE-2026-111954: upload reader failed redirect UAF | Use After Free | Low | — | 1 |
-| 78 | [4136767](../../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resumption | Improper Authentication - Generic | Low | — | 1 |
-| 79 | [3975408](../../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as missing | Improper Validation of Certificate with Host Mismatch | Low | — | 0 |
-| 80 | [3993566](../../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | — | Low | — | 0 |
+| 64 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 3 |
+| 65 | [3718195](../../reports/3718195.md) | CVE-2026-8286: wrong STARTTLS connection reuse | — | Low | — | 2 |
+| 66 | [3721183](../../reports/3721183.md) | CVE-2026-8458: wrong reuse for different services | Authentication Bypass by Primary Weakness | Low | — | 2 |
+| 67 | [3735184](../../reports/3735184.md) | CVE-2026-8926: password leak with netrc and user in URL | Information Disclosure | Low | — | 2 |
+| 68 | [3993870](../../reports/3993870.md) | CVE-2026-86415: auto client cert connection reuse mixup | — | Low | — | 2 |
+| 69 | [4116527](../../reports/4116527.md) | CVE-2026-111878: OpenSSL provider UAF on TLS shutdown | Use After Free | Low | — | 2 |
+| 70 | [4122300](../../reports/4122300.md) | CVE-2026-111953: GnuTLS SecTrust OCSP staple bypass | Improper Certificate Validation | Low | — | 2 |
+| 71 | [3733905](../../reports/3733905.md) | CVE-2026-8924: trailing dot domain super cookie | Use of Incorrectly-Resolved Name or Reference | Low | — | 1 |
+| 72 | [3749681](../../reports/3749681.md) | Background sync cache retains outgoing additional transaction secret keys | Information Disclosure | Low | — | 1 |
+| 73 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | Improper Authentication - Generic | Low | — | 1 |
+| 74 | [4102061](../../reports/4102061.md) | CVE-2026-111480: pause UAF from within callback | Use After Free | Low | — | 1 |
+| 75 | [4112709](../../reports/4112709.md) | CVE-2026-111482: libssh2 knownhosts prefix match | Partial String Comparison | Low | — | 1 |
+| 76 | [4112912](../../reports/4112912.md) | CVE-2026-111481: server-set cookie still aborts cookie jar | Improper Input Validation | Low | — | 1 |
+| 77 | [4122175](../../reports/4122175.md) | CVE-2026-111950: TLS session cache diff scheme reuse | Incorrect Comparison | Low | — | 1 |
+| 78 | [4123190](../../reports/4123190.md) | CVE-2026-111954: upload reader failed redirect UAF | Use After Free | Low | — | 1 |
+| 79 | [4136767](../../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resumption | Improper Authentication - Generic | Low | — | 1 |
+| 80 | [3975408](../../reports/3975408.md) | CVE-2026-87865: knownhost callback mismatches key as missing | Improper Validation of Certificate with Host Mismatch | Low | — | 0 |
+| 81 | [3993566](../../reports/3993566.md) | CVE-2026-86414: leaking host credentials to HTTP proxy | — | Low | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

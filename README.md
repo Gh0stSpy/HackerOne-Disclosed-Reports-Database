@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **388** |
-| With a published bounty | 32 |
-| Total published bounties | **$52,237** |
-| Last updated | 2026-11-15 06:42 UTC |
-| Last pull | 2026-11-15T06:42:21+00:00 |
+| Reports with full write-ups | **391** |
+| With a published bounty | 33 |
+| Total published bounties | **$62,237** |
+| Last updated | 2026-11-15 18:55 UTC |
+| Last pull | 2026-11-15T18:55:21+00:00 |
 
 ## Browse
 
@@ -34,8 +34,8 @@ publicly disclosed finding.
 |:--|--:|
 | Improper Access Control - Generic | 33 |
 | Cross-site Scripting (XSS) - Reflected | 32 |
-| Information Disclosure | 20 |
-| Uncontrolled Resource Consumption | 19 |
+| Uncontrolled Resource Consumption | 21 |
+| Information Disclosure | 21 |
 | Improper Authentication - Generic | 16 |
 | Business Logic Errors | 14 |
 | Use After Free | 12 |
@@ -49,6 +49,7 @@ publicly disclosed finding.
 |:--|:--|:--|--:|
 | [3287208](reports/3287208.md) | DOS via Mutation Aliasing in GraphQL Account Recovery Phone Number Ver | HackerOne | $12,500 |
 | [3782701](reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argum | Mozilla | $12,000 |
+| [3966160](reports/3966160.md) | Unauthenticated remote process termination of Arc RPC nodes via custom | Arc | $10,000 |
 | [3694007](reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search | HackerOne | $7,000 |
 | [3712279](reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-cont | PortSwigger Web Security | $5,000 |
 | [3954327](reports/3954327.md) | Unauthenticated access to Checkout Blocks employee-only endpoints expo | Shopify | $3,100 |
@@ -56,7 +57,6 @@ publicly disclosed finding.
 | [2509022](reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdow | Shopify | $1,600 |
 | [3852102](reports/3852102.md) | Revoked deployment collaborator regains access to private comments aft | Vercel | $1,026 |
 | [3400140](reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | $1,024 |
-| [3972558](reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authe | PortSwigger Web Security | $1,000 |
 
 ## Build your own copy
 

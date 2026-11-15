@@ -9,7 +9,7 @@
 | 3 | [3644182](../../reports/3644182.md) | Stored XSS in nameserver field on account settings page | Tucows (VDP) | Low | — | 57 |
 | 4 | [3606773](../../reports/3606773.md) | Stored XSS via SVG Upload — check_content() Blocklist Bypass & 256-Byte Scan Limit (Self-P | phpBB | Medium | — | 55 |
 | 5 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Essity | Critical | — | 48 |
-| 6 | [4175245](../../reports/4175245.md) | Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover | Basecamp | High | — | 43 |
+| 6 | [4175245](../../reports/4175245.md) | Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover | Basecamp | High | — | 46 |
 | 7 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Nextcloud | Medium | — | 39 |
 | 8 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | WordPress | Critical | — | 32 |
 | 9 | [3994016](../../reports/3994016.md) | Action Text to_markdown: <code>/<pre> content escapes its delimiter, letting a stored body | Ruby on Rails | Medium | — | 23 |

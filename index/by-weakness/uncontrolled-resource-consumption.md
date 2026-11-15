@@ -1,28 +1,30 @@
 # By weakness: Uncontrolled Resource Consumption
 
-**19 reports** · published bounties $1,124 *(most programs don't publish an amount, so this undercounts)*
+**21 reports** · published bounties $11,124 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | High | $1,024 | 98 |
-| 2 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Tor | Low | $100 | 35 |
-| 3 | [3307874](../../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis | Monero | Critical | — | 96 |
-| 4 | [3542546](../../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access Policy | RubyGems | — | — | 41 |
-| 5 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Weblate | High | — | 33 |
-| 6 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Khan Academy | High | — | 32 |
-| 7 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | MariaDB | Medium | — | 31 |
-| 8 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Ruby on Rails | Low | — | 28 |
-| 9 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Tor | Low | — | 28 |
-| 10 | [876530](../../reports/876530.md) | Remote node DOS | Monero | Medium | — | 24 |
-| 11 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Weblate | Medium | — | 24 |
-| 12 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Monero | — | — | 23 |
-| 13 | [3867363](../../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash | MariaDB | Medium | — | 23 |
-| 14 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Weblate | Medium | — | 21 |
-| 15 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | MariaDB | Medium | — | 16 |
-| 16 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Weblate | Low | — | 16 |
-| 17 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | curl | Low | — | 7 |
-| 18 | [3871740](../../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion  | MariaDB | Medium | — | 6 |
-| 19 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | MariaDB | Medium | — | 5 |
+| 1 | [3966160](../../reports/3966160.md) | Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engi | Arc | High | $10,000 | 90 |
+| 2 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | High | $1,024 | 98 |
+| 3 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Tor | Low | $100 | 35 |
+| 4 | [3307874](../../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis | Monero | Critical | — | 96 |
+| 5 | [3542546](../../reports/3542546.md) | Server-side ReDoS via user-controlled regex in OIDC Access Policy | RubyGems | — | — | 41 |
+| 6 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Weblate | High | — | 33 |
+| 7 | [3987499](../../reports/3987499.md) | Client-Side Denial of Service (DoS) via Memory Exhaustion on Password Reset Endpoint | Khan Academy | High | — | 32 |
+| 8 | [3872239](../../reports/3872239.md) | Connector/J: malicious server crashes client JVM via unbounded result-set field-count allo | MariaDB | Medium | — | 31 |
+| 9 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Ruby on Rails | Low | — | 28 |
+| 10 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Tor | Low | — | 28 |
+| 11 | [876530](../../reports/876530.md) | Remote node DOS | Monero | Medium | — | 24 |
+| 12 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Weblate | Medium | — | 24 |
+| 13 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Monero | — | — | 23 |
+| 14 | [3867363](../../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash | MariaDB | Medium | — | 23 |
+| 15 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Weblate | Medium | — | 21 |
+| 16 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | MariaDB | Medium | — | 16 |
+| 17 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Weblate | Low | — | 16 |
+| 18 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | curl | Low | — | 7 |
+| 19 | [3871740](../../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion  | MariaDB | Medium | — | 6 |
+| 20 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | MariaDB | Medium | — | 5 |
+| 21 | [4059744](../../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | Weblate | Medium | — | 5 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

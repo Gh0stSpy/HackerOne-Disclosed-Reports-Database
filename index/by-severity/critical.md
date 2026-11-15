@@ -23,8 +23,8 @@
 | 17 | [3589269](../../reports/3589269.md) | HTTP Request Smuggling | HTTP Request Smuggling | Critical | — | 13 |
 | 18 | [3584078](../../reports/3584078.md) | ████████ ████████ Server Full Exposure with Database Credentials | Information Exposure Through Directory Listing | Critical | — | 12 |
 | 19 | [3809973](../../reports/3809973.md) | Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) | SQL Injection | Critical | — | 11 |
-| 20 | [3726887](../../reports/3726887.md) | Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to A | Improper Privilege Management | Critical | — | 9 |
-| 21 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 6 |
+| 20 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 11 |
+| 21 | [3726887](../../reports/3726887.md) | Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to A | Improper Privilege Management | Critical | — | 9 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

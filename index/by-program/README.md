@@ -10,7 +10,7 @@
 | [AWS VDP](aws-vdp.md) | 18 | — |
 | [Essity](essity.md) | 18 | — |
 | [WordPress](wordpress.md) | 17 | — |
-| [Weblate](weblate.md) | 14 | — |
+| [Weblate](weblate.md) | 16 | — |
 | [Basecamp](basecamp.md) | 13 | $437 |
 | [HackerOne](hackerone.md) | 6 | $19,900 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
@@ -35,6 +35,7 @@
 | [Brave Software](brave-software.md) | 2 | — |
 | [RubyGems](rubygems.md) | 2 | — |
 | [Myndr](myndr.md) | 2 | — |
+| [Arc](arc.md) | 1 | $10,000 |
 | [Vercel](vercel.md) | 1 | $1,026 |
 | [MetaMask](metamask.md) | 1 | $350 |
 | [LinkedIn](linkedin.md) | 1 | — |
