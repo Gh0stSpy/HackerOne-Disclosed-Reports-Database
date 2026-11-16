@@ -9,7 +9,7 @@
 | 3 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 109 |
 | 4 | [3852102](../../reports/3852102.md) | Revoked deployment collaborator regains access to private comments after active collaborat | Access Control Check Implemented After Asset is Accessed | Medium | $1,026 | 59 |
 | 5 | [3972558](../../reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication | — | Medium | $1,000 | 59 |
-| 6 | [4000535](../../reports/4000535.md) | Burp Community OpenAPI site-map action reads a local schema example through $id rebasing | Path Traversal | Medium | $1,000 | 38 |
+| 6 | [4000535](../../reports/4000535.md) | Burp Community OpenAPI site-map action reads a local schema example through $id rebasing | Path Traversal | Medium | $1,000 | 41 |
 | 7 | [2541962](../../reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | Insecure Direct Object Reference (IDOR) | Medium | $500 | 145 |
 | 8 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 77 |
 | 9 | [3507241](../../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized  | Business Logic Errors | Medium | $350 | 85 |
@@ -119,43 +119,43 @@
 | 113 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 114 | [3920633](../../reports/3920633.md) | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-oriented helper, reading past the  | Out-of-bounds Read | Medium | — | 9 |
 | 115 | [3920647](../../reports/3920647.md) | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an exception unwinds out of MADB_ | Out-of-bounds Read | Medium | — | 9 |
-| 116 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 117 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 118 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 119 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
-| 120 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Incorrect Permission Assignment for Critical Resource | Medium | — | 8 |
-| 121 | [3839914](../../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins | Missing Authorization | Medium | — | 8 |
-| 122 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 8 |
-| 123 | [2750977](../../reports/2750977.md) | Cross-Site Scripting (XSS) Vulnerability via parameter c0-id + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 7 |
-| 124 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 125 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 126 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 127 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 128 | [3871977](../../reports/3871977.md) | Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative | Memory Corruption - Generic | Medium | — | 7 |
-| 129 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
-| 130 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
-| 131 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
-| 132 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
-| 133 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 134 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 135 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 136 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 137 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 138 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 139 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
-| 140 | [3871740](../../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion  | Uncontrolled Resource Consumption | Medium | — | 6 |
-| 141 | [3872248](../../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared | Out-of-bounds Read | Medium | — | 6 |
-| 142 | [3890289](../../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enabling SQL injection | SQL Injection | Medium | — | 6 |
-| 143 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | SQL Injection | Medium | — | 6 |
-| 144 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 6 |
-| 145 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | Information Disclosure | Medium | — | 6 |
-| 146 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
-| 147 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 148 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 149 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | Uncontrolled Resource Consumption | Medium | — | 5 |
-| 150 | [3891319](../../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name | Stack Overflow | Medium | — | 5 |
-| 151 | [3891337](../../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write  | Type Confusion | Medium | — | 5 |
-| 152 | [4059744](../../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | Uncontrolled Resource Consumption | Medium | — | 5 |
+| 116 | [4059744](../../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | Uncontrolled Resource Consumption | Medium | — | 9 |
+| 117 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 118 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 119 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 120 | [3351408](../../reports/3351408.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
+| 121 | [3839889](../../reports/3839889.md) | 29 Premium Plugin Packages with License Keys Publicly Accessible in Uploads Directory | Incorrect Permission Assignment for Critical Resource | Medium | — | 8 |
+| 122 | [3839914](../../reports/3839914.md) | Unauthenticated Plugin Settings Modification on Three Crocoblock/Jet Plugins | Missing Authorization | Medium | — | 8 |
+| 123 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 8 |
+| 124 | [2750977](../../reports/2750977.md) | Cross-Site Scripting (XSS) Vulnerability via parameter c0-id + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 7 |
+| 125 | [3166581](../../reports/3166581.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 126 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 127 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 128 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
+| 129 | [3871977](../../reports/3871977.md) | Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative | Memory Corruption - Generic | Medium | — | 7 |
+| 130 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
+| 131 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
+| 132 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
+| 133 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
+| 134 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 135 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 136 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 137 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 138 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 139 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 140 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
+| 141 | [3871740](../../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion  | Uncontrolled Resource Consumption | Medium | — | 6 |
+| 142 | [3872248](../../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared | Out-of-bounds Read | Medium | — | 6 |
+| 143 | [3890289](../../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enabling SQL injection | SQL Injection | Medium | — | 6 |
+| 144 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | SQL Injection | Medium | — | 6 |
+| 145 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 6 |
+| 146 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | Information Disclosure | Medium | — | 6 |
+| 147 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
+| 148 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
+| 149 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
+| 150 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | Uncontrolled Resource Consumption | Medium | — | 5 |
+| 151 | [3891319](../../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name | Stack Overflow | Medium | — | 5 |
+| 152 | [3891337](../../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write  | Type Confusion | Medium | — | 5 |
 | 153 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
 | 154 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
 | 155 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |

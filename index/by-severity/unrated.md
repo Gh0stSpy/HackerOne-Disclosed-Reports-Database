@@ -25,12 +25,12 @@
 | 19 | [3240792](../../reports/3240792.md) | Reported RPC Overflow | Integer Overflow | — | — | 25 |
 | 20 | [3456148](../../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding  | — | — | — | 25 |
 | 21 | [3426417](../../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django via repeated headers leads to | — | — | — | 24 |
-| 22 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |
-| 23 | [3460138](../../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing  | — | — | — | 23 |
-| 24 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | Stack Overflow | — | — | 23 |
-| 25 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 23 |
-| 26 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Improper Access Control - Generic | — | — | 22 |
-| 27 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 22 |
+| 22 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 24 |
+| 23 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |
+| 24 | [3460138](../../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing  | — | — | — | 23 |
+| 25 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | Stack Overflow | — | — | 23 |
+| 26 | [3913007](../../reports/3913007.md) | SMTP header injection via C-escape `\r` in the recipient display name | Buffer Over-read | — | — | 23 |
+| 27 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Improper Access Control - Generic | — | — | 22 |
 | 28 | [3913012](../../reports/3913012.md) | Persistent SMTP header injection via identity `organization` / `name` | Buffer Under-read | — | — | 19 |
 | 29 | [3547349](../../reports/3547349.md) | Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host | — | — | — | 18 |
 | 30 | [3896617](../../reports/3896617.md) | Connector/C TLS auth-switch bypass exposes plaintext password on hostname verification fai | Improper Certificate Validation | — | — | 17 |

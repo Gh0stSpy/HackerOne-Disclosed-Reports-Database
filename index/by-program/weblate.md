@@ -15,11 +15,11 @@
 | 9 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 22 |
 | 10 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Uncontrolled Resource Consumption | Medium | — | 21 |
 | 11 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 16 |
-| 12 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 14 |
-| 13 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
-| 14 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 11 |
-| 15 | [4059744](../../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | Uncontrolled Resource Consumption | Medium | — | 5 |
-| 16 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 3 |
+| 12 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 16 |
+| 13 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 14 |
+| 14 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
+| 15 | [4059744](../../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | Uncontrolled Resource Consumption | Medium | — | 9 |
+| 16 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 8 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
