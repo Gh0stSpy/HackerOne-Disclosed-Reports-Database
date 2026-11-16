@@ -24,8 +24,8 @@
 | 18 | [3849007](../../reports/3849007.md) | MariaDB CLI Utility Issues | SQL Injection | — | — | 27 |
 | 19 | [3240792](../../reports/3240792.md) | Reported RPC Overflow | Integer Overflow | — | — | 25 |
 | 20 | [3456148](../../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding  | — | — | — | 25 |
-| 21 | [3426417](../../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django via repeated headers leads to | — | — | — | 24 |
-| 22 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 24 |
+| 21 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 25 |
+| 22 | [3426417](../../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django via repeated headers leads to | — | — | — | 24 |
 | 23 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Uncontrolled Resource Consumption | — | — | 23 |
 | 24 | [3460138](../../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing  | — | — | — | 23 |
 | 25 | [3782405](../../reports/3782405.md) | Stack Buffer-Overflow in MariaDB Charset_collation_map_st::insert_or_replace() | Stack Overflow | — | — | 23 |
