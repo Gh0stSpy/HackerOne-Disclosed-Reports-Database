@@ -1,10 +1,10 @@
 # By weakness: Uncontrolled Resource Consumption
 
-**21 reports** · published bounties $11,124 *(most programs don't publish an amount, so this undercounts)*
+**22 reports** · published bounties $11,124 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3966160](../../reports/3966160.md) | Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engi | Arc | High | $10,000 | 140 |
+| 1 | [3966160](../../reports/3966160.md) | Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engi | Arc | High | $10,000 | 164 |
 | 2 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | High | $1,024 | 98 |
 | 3 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Tor | Low | $100 | 35 |
 | 4 | [3307874](../../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis | Monero | Critical | — | 96 |
@@ -18,13 +18,14 @@
 | 12 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Weblate | Medium | — | 24 |
 | 13 | [3241102](../../reports/3241102.md) | Reported Denial of Service | Monero | — | — | 23 |
 | 14 | [3867363](../../reports/3867363.md) | MariaDB HandlerSocket Improper Request Field-Count Validation Causes Server Crash | MariaDB | Medium | — | 23 |
-| 15 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Weblate | Medium | — | 21 |
-| 16 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | MariaDB | Medium | — | 16 |
-| 17 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Weblate | Low | — | 16 |
-| 18 | [4059744](../../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | Weblate | Medium | — | 13 |
+| 15 | [4059744](../../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | Weblate | Medium | — | 21 |
+| 16 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Weblate | Medium | — | 21 |
+| 17 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | MariaDB | Medium | — | 16 |
+| 18 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Weblate | Low | — | 16 |
 | 19 | [3783438](../../reports/3783438.md) | CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop | curl | Low | — | 7 |
 | 20 | [3871740](../../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion  | MariaDB | Medium | — | 6 |
 | 21 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | MariaDB | Medium | — | 5 |
+| 22 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Weblate | Medium | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

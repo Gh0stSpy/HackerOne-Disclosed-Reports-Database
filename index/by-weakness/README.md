@@ -4,7 +4,7 @@
 |:--|--:|--:|
 | [Improper Access Control - Generic](improper-access-control-generic.md) | 33 | $550 |
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 32 | $1,600 |
-| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 21 | $11,124 |
+| [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 22 | $11,124 |
 | [Information Disclosure](information-disclosure.md) | 21 | — |
 | [Improper Authentication - Generic](improper-authentication-generic.md) | 16 | — |
 | [Business Logic Errors](business-logic-errors.md) | 14 | $500 |

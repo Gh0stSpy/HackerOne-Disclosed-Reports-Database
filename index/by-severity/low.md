@@ -32,22 +32,22 @@
 | 26 | [2389431](../../reports/2389431.md) | Action Text ReDoS (Ruby 3.1  or lower) | Uncontrolled Resource Consumption | Low | — | 28 |
 | 27 | [3027405](../../reports/3027405.md) | Information Disclosure in API Endpoint /users | Information Disclosure | Low | — | 28 |
 | 28 | [3709703](../../reports/3709703.md) | Tor onion service INTRODUCE2 invalid-MAC cells permanently grow service replay cache | Uncontrolled Resource Consumption | Low | — | 28 |
-| 29 | [3508852](../../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables | Business Logic Errors | Low | — | 25 |
-| 30 | [3863343](../../reports/3863343.md) | DOM-based XSS in playground.wordpress.net (/scope:*/wp-includes/empty.html) lets any attac | Cross-site Scripting (XSS) - DOM | Low | — | 25 |
+| 29 | [3863343](../../reports/3863343.md) | DOM-based XSS in playground.wordpress.net (/scope:*/wp-includes/empty.html) lets any attac | Cross-site Scripting (XSS) - DOM | Low | — | 26 |
+| 30 | [3508852](../../reports/3508852.md) | Application Data Hiding via Invalid `iconName` Causing Frontend Crash in Nextcloud Tables | Business Logic Errors | Low | — | 25 |
 | 31 | [3671818](../../reports/3671818.md) | CVE-2026-6276: stale custom cookie host causes cookie leak | Exposure of Data Element to Wrong Session | Low | — | 24 |
 | 32 | [3601655](../../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-spli | — | Low | — | 23 |
 | 33 | [3485178](../../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and breaks frontend UI | Business Logic Errors | Low | — | 21 |
 | 34 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 20 |
-| 35 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 16 |
-| 36 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Information Disclosure | Low | — | 15 |
-| 37 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |
-| 38 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | Information Disclosure | Low | — | 14 |
-| 39 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
-| 40 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 14 |
-| 41 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 14 |
-| 42 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
-| 43 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Improper Authentication - Generic | Low | — | 12 |
-| 44 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 12 |
+| 35 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 17 |
+| 36 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Information Disclosure | Low | — | 17 |
+| 37 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 16 |
+| 38 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |
+| 39 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | Information Disclosure | Low | — | 14 |
+| 40 | [3650689](../../reports/3650689.md) | CVE-2026-5773: wrong reuse of SMB connection | — | Low | — | 14 |
+| 41 | [3916059](../../reports/3916059.md) | CVE-2026-18924: HTTP/2 server push UAF | Use After Free | Low | — | 14 |
+| 42 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 14 |
+| 43 | [3621851](../../reports/3621851.md) | CVE-2026-4873: connection reuse ignores TLS requirement | Cleartext Transmission of Sensitive Information | Low | — | 13 |
+| 44 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Improper Authentication - Generic | Low | — | 12 |
 | 45 | [3772818](../../reports/3772818.md) | Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's | Code Injection | Low | — | 11 |
 | 46 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
 | 47 | [3066992](../../reports/3066992.md) | Debug Info disclose | Information Exposure Through Debug Information | Low | — | 9 |
