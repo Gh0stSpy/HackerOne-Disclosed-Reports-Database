@@ -8,19 +8,19 @@
 | 2 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 43 |
 | 3 | [3518571](../../reports/3518571.md) | Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure o | — | — | — | 34 |
 | 4 | [3874004](../../reports/3874004.md) | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() | OS Command Injection | High | — | 34 |
-| 5 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 33 |
-| 6 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 32 |
+| 5 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 34 |
+| 6 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 33 |
 | 7 | [4094236](../../reports/4094236.md) | Billion laughs entity expansion in Qt .ts discovery: a crafted ~950 KB file forces ~55 MB  | XML Entity Expansion | Medium | — | 29 |
 | 8 | [3825141](../../reports/3825141.md) | API token sent to URL dictated by an untrusted project .weblate file | Information Disclosure | Medium | — | 27 |
-| 9 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Uncontrolled Resource Consumption | Medium | — | 24 |
-| 10 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 22 |
-| 11 | [4059744](../../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | Uncontrolled Resource Consumption | Medium | — | 21 |
+| 9 | [4059744](../../reports/4059744.md) | Anonymous API Rate Limit Bypass via X-Forwarded-For | Uncontrolled Resource Consumption | Medium | — | 25 |
+| 10 | [4028616](../../reports/4028616.md) | Memory exhaustion (DoS) via unbounded file read in `EncodingDiscovery.detect_encoding()` | Uncontrolled Resource Consumption | Medium | — | 24 |
+| 11 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 22 |
 | 12 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Uncontrolled Resource Consumption | Medium | — | 21 |
-| 13 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 17 |
+| 13 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 20 |
 | 14 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 16 |
 | 15 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 14 |
 | 16 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
-| 17 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 1 |
+| 17 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 5 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

@@ -38,7 +38,7 @@
 | 32 | [3601655](../../reports/3601655.md) | Rails::HTML::Sanitizer.allowed_uri? returns true for entity-encoded control-character-spli | — | Low | — | 23 |
 | 33 | [3485178](../../reports/3485178.md) | Deck app: Invalid tag color is accepted by API and breaks frontend UI | Business Logic Errors | Low | — | 21 |
 | 34 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Improper Access Control - Generic | Low | — | 20 |
-| 35 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 17 |
+| 35 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 20 |
 | 36 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Information Disclosure | Low | — | 17 |
 | 37 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 16 |
 | 38 | [3318295](../../reports/3318295.md) | Information Disclosure via Publicly Accessible Debug Log | Information Exposure Through Debug Information | Low | — | 14 |

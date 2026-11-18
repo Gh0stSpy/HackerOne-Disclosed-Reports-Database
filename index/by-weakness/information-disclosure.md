@@ -12,7 +12,7 @@
 | 6 | [3840113](../../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████ | Essity | Critical | — | 27 |
 | 7 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | WordPress | Medium | — | 27 |
 | 8 | [3719670](../../reports/3719670.md) | `monero-wallet-rpc::rescan_spent` accepts daemon-supplied spent-status from an untrusted d | Monero | Medium | — | 24 |
-| 9 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Weblate | Low | — | 17 |
+| 9 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Weblate | Low | — | 20 |
 | 10 | [4151790](../../reports/4151790.md) | Public board pages are served Cache-Control: public with no Vary: Cookie, so a   signed-in | Basecamp | Low | — | 17 |
 | 11 | [3972385](../../reports/3972385.md) | CVE-2026-82209: domain-scoped PSL domain cookie | curl | — | — | 15 |
 | 12 | [3346375](../../reports/3346375.md) | Publicly Accessible CDN Endpoint Exposing XML Metadata (including ETag) | U.S. Dept Of Defense | Low | — | 14 |
