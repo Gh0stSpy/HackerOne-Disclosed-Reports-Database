@@ -1,6 +1,6 @@
 # By weakness: Improper Authentication - Generic
 
-**16 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**17 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -16,10 +16,11 @@
 | 10 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Nextcloud | Medium | — | 23 |
 | 11 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Nextcloud | Low | — | 12 |
 | 12 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | MariaDB | Medium | — | 8 |
-| 13 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
-| 14 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | curl | Medium | — | 3 |
-| 15 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | curl | Low | — | 1 |
-| 16 | [4136767](../../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resumption | curl | Low | — | 1 |
+| 13 | [2256569](../../reports/2256569.md) | Access and see `reactions recieved` on the notification of any user | Discourse | High | — | 6 |
+| 14 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
+| 15 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | curl | Medium | — | 3 |
+| 16 | [3972094](../../reports/3972094.md) | CVE-2026-87861: cross-origin reuse of a Negotiate connection | curl | Low | — | 1 |
+| 17 | [4136767](../../reports/4136767.md) | CVE-2026-115529: Schannel TLS auto client session resumption | curl | Low | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

@@ -6,7 +6,7 @@
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3025797](../../reports/3025797.md) | [Privilege Escalation] User can Pin\|Unpin Any Comment on Any Project or Locale | Mozilla | Low | — | 59 |
 | 2 | [3020021](../../reports/3020021.md) | [Vertical Privilege Escalation] User can Unapproved any Approved Translation at [/translat | Mozilla | Medium | — | 45 |
-| 3 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Weblate | Critical | — | 40 |
+| 3 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Weblate | Critical | — | 43 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

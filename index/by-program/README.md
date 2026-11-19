@@ -16,10 +16,10 @@
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [PortSwigger Web Security](portswigger-web-security.md) | 6 | $7,400 |
 | [Ruby on Rails](ruby-on-rails.md) | 5 | — |
+| [Discourse](discourse.md) | 4 | $1,024 |
 | [Rocket.Chat](rocket-chat.md) | 4 | — |
 | [Lovable VDP](lovable-vdp.md) | 4 | — |
 | [Node.js](node-js.md) | 4 | — |
-| [Discourse](discourse.md) | 3 | $1,024 |
 | [DuckDuckGo](duckduckgo.md) | 3 | $500 |
 | [CoinMate.io](coinmate-io.md) | 3 | $100 |
 | [Tor](tor.md) | 3 | $100 |
