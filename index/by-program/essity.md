@@ -12,10 +12,10 @@
 | 6 | [3840113](../../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████ | Information Disclosure | Critical | — | 27 |
 | 7 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 14 |
 | 8 | [3873072](../../reports/3873072.md) | Unauthenticated SQL Injection via REST Batch Route Confusion ████████ | SQL Injection | Critical | — | 14 |
-| 9 | [3589269](../../reports/3589269.md) | HTTP Request Smuggling | HTTP Request Smuggling | Critical | — | 13 |
-| 10 | [3584078](../../reports/3584078.md) | ████████ ████████ Server Full Exposure with Database Credentials | Information Exposure Through Directory Listing | Critical | — | 12 |
-| 11 | [3809973](../../reports/3809973.md) | Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) | SQL Injection | Critical | — | 11 |
-| 12 | [4191812](../../reports/4191812.md) | Unauthenticated arbitrary local file read via ABCpdf on www.████████ | Path Traversal | High | — | 11 |
+| 9 | [4191812](../../reports/4191812.md) | Unauthenticated arbitrary local file read via ABCpdf on www.████████ | Path Traversal | High | — | 14 |
+| 10 | [3589269](../../reports/3589269.md) | HTTP Request Smuggling | HTTP Request Smuggling | Critical | — | 13 |
+| 11 | [3584078](../../reports/3584078.md) | ████████ ████████ Server Full Exposure with Database Credentials | Information Exposure Through Directory Listing | Critical | — | 12 |
+| 12 | [3809973](../../reports/3809973.md) | Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) | SQL Injection | Critical | — | 11 |
 | 13 | [3726887](../../reports/3726887.md) | Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to A | Improper Privilege Management | Critical | — | 9 |
 | 14 | [3765476](../../reports/3765476.md) | Unauthenticated File Upload with CORS Wildcard and No Rate Limiting on ████████ and ██████ | Missing Authentication for Critical Function | High | — | 9 |
 | 15 | [3781785](../../reports/3781785.md) | Reflected HTML Injection in ████████ Login Page via infotext/signintext Parameters | Improper Input Validation | High | — | 8 |

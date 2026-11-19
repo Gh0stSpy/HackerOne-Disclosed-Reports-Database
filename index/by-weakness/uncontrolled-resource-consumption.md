@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3966160](../../reports/3966160.md) | Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engi | Arc | High | $10,000 | 180 |
+| 1 | [3966160](../../reports/3966160.md) | Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engi | Arc | High | $10,000 | 186 |
 | 2 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | High | $1,024 | 98 |
 | 3 | [3701692](../../reports/3701692.md) | Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown | Tor | Low | $100 | 35 |
 | 4 | [3307874](../../reports/3307874.md) | Critical Deadlock Vulnerability in Monero RPC Leading to Complete Node Paralysis | Monero | Critical | — | 96 |

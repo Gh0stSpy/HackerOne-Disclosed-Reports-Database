@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3954327](../../reports/3954327.md) | Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadat | Missing Authentication for Critical Function | Medium | $3,100 | 46 |
+| 1 | [3954327](../../reports/3954327.md) | Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadat | Missing Authentication for Critical Function | Medium | $3,100 | 48 |
 | 2 | [3734676](../../reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler ch | Authentication Bypass by Capture-replay | Medium | $2,000 | 43 |
 | 3 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 109 |
 | 4 | [3852102](../../reports/3852102.md) | Revoked deployment collaborator regains access to private comments after active collaborat | Access Control Check Implemented After Asset is Accessed | Medium | $1,026 | 59 |
