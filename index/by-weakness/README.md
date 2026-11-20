@@ -2,7 +2,7 @@
 
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
-| [Improper Access Control - Generic](improper-access-control-generic.md) | 33 | $550 |
+| [Improper Access Control - Generic](improper-access-control-generic.md) | 34 | $550 |
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 32 | $1,600 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 22 | $11,124 |
 | [Information Disclosure](information-disclosure.md) | 21 | — |
@@ -24,11 +24,11 @@
 | [Cross-site Scripting (XSS) - DOM](cross-site-scripting-xss-dom.md) | 5 | — |
 | [Open Redirect](open-redirect.md) | 5 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 4 | $3,100 |
+| [Privilege Escalation](privilege-escalation.md) | 4 | — |
 | [Buffer Over-read](buffer-over-read.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 3 | $650 |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
-| [Privilege Escalation](privilege-escalation.md) | 3 | — |
 | [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 3 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |

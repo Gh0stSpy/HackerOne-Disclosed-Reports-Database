@@ -5,7 +5,7 @@
 | [curl](curl.md) | 76 | — |
 | [U.S. Dept Of Defense](u-s-dept-of-defense.md) | 47 | — |
 | [MariaDB](mariadb.md) | 44 | — |
-| [Nextcloud](nextcloud.md) | 29 | $1,400 |
+| [Nextcloud](nextcloud.md) | 30 | $1,400 |
 | [Monero](monero.md) | 25 | — |
 | [Essity](essity.md) | 19 | — |
 | [AWS VDP](aws-vdp.md) | 18 | — |
@@ -15,9 +15,9 @@
 | [HackerOne](hackerone.md) | 6 | $19,900 |
 | [Mozilla](mozilla.md) | 6 | $14,500 |
 | [PortSwigger Web Security](portswigger-web-security.md) | 6 | $7,400 |
+| [Rocket.Chat](rocket-chat.md) | 5 | — |
 | [Ruby on Rails](ruby-on-rails.md) | 5 | — |
 | [Discourse](discourse.md) | 4 | $1,024 |
-| [Rocket.Chat](rocket-chat.md) | 4 | — |
 | [Lovable VDP](lovable-vdp.md) | 4 | — |
 | [Node.js](node-js.md) | 4 | — |
 | [DuckDuckGo](duckduckgo.md) | 3 | $500 |

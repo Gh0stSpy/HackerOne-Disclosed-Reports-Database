@@ -1,15 +1,15 @@
 # By severity: Medium
 
-**169 reports** · published bounties $12,126 *(most programs don't publish an amount, so this undercounts)*
+**171 reports** · published bounties $12,126 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3954327](../../reports/3954327.md) | Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadat | Missing Authentication for Critical Function | Medium | $3,100 | 48 |
+| 1 | [3954327](../../reports/3954327.md) | Unauthenticated access to Checkout Blocks employee-only endpoints exposed merchant metadat | Missing Authentication for Critical Function | Medium | $3,100 | 50 |
 | 2 | [3734676](../../reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler ch | Authentication Bypass by Capture-replay | Medium | $2,000 | 43 |
 | 3 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 109 |
 | 4 | [3852102](../../reports/3852102.md) | Revoked deployment collaborator regains access to private comments after active collaborat | Access Control Check Implemented After Asset is Accessed | Medium | $1,026 | 59 |
 | 5 | [3972558](../../reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication | — | Medium | $1,000 | 59 |
-| 6 | [4000535](../../reports/4000535.md) | Burp Community OpenAPI site-map action reads a local schema example through $id rebasing | Path Traversal | Medium | $1,000 | 57 |
+| 6 | [4000535](../../reports/4000535.md) | Burp Community OpenAPI site-map action reads a local schema example through $id rebasing | Path Traversal | Medium | $1,000 | 59 |
 | 7 | [2541962](../../reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | Insecure Direct Object Reference (IDOR) | Medium | $500 | 145 |
 | 8 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 77 |
 | 9 | [3507241](../../reports/3507241.md) | Authorization Bypass in Starknet Snap via enableAuthorize parameter leads to unauthorized  | Business Logic Errors | Medium | $350 | 85 |
@@ -48,7 +48,7 @@
 | 42 | [3699522](../../reports/3699522.md) | `check_reserve_proof` counts duplicate entries: one output can inflate `total` | Business Logic Errors | Medium | — | 42 |
 | 43 | [3802451](../../reports/3802451.md) | HTML Injection in Contact Form Email Enables Phishing via Legitimate ████████ Infrastructu | Improper Output Neutralization for Logs | Medium | — | 42 |
 | 44 | [3620748](../../reports/3620748.md) | V1Plugin.Decrypt panics on empty ciphertext (Remote DoS) | Array Index Underflow | Medium | — | 41 |
-| 45 | [4029867](../../reports/4029867.md) | WordCamp Meta gpre: password-protected event RSVP list readable without password via /gpre | Improper Access Control - Generic | Medium | — | 40 |
+| 45 | [4029867](../../reports/4029867.md) | WordCamp Meta gpre: password-protected event RSVP list readable without password via /gpre | Improper Access Control - Generic | Medium | — | 41 |
 | 46 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | Improper Authentication - Generic | Medium | — | 40 |
 | 47 | [3594137](../../reports/3594137.md) | Stored XSS in attachment-display exploitable through SameSite | Cross-site Scripting (XSS) - Stored | Medium | — | 39 |
 | 48 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Improper Access Control - Generic | Medium | — | 38 |
@@ -103,10 +103,10 @@
 | 97 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 18 |
 | 98 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
 | 99 | [3896507](../../reports/3896507.md) | Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTIO | — | Medium | — | 18 |
-| 100 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Improper Access Control - Generic | Medium | — | 16 |
-| 101 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | Uncontrolled Resource Consumption | Medium | — | 16 |
-| 102 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Server-Side Request Forgery (SSRF) | Medium | — | 15 |
-| 103 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 15 |
+| 100 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 17 |
+| 101 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Improper Access Control - Generic | Medium | — | 16 |
+| 102 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | Uncontrolled Resource Consumption | Medium | — | 16 |
+| 103 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Server-Side Request Forgery (SSRF) | Medium | — | 15 |
 | 104 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 14 |
 | 105 | [3781201](../../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of-bounds read / server crash in Maria | Integer Underflow | Medium | — | 14 |
 | 106 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 13 |
@@ -167,12 +167,14 @@
 | 161 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 4 |
 | 162 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
 | 163 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
-| 164 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | Improper Check for Certificate Revocation | Medium | — | 3 |
-| 165 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
-| 166 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
-| 167 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
-| 168 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
-| 169 | [4122239](../../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | Use After Free | Medium | — | 1 |
+| 164 | [4004074](../../reports/4004074.md) | Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAcce | Privilege Escalation | Medium | — | 3 |
+| 165 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | Improper Check for Certificate Revocation | Medium | — | 3 |
+| 166 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
+| 167 | [3735193](../../reports/3735193.md) | CVE-2026-8925: SASL double-free | Double Free | Medium | — | 2 |
+| 168 | [3793260](../../reports/3793260.md) | CVE-2026-11856: cross-origin Digest auth state leak | Information Exposure Through Sent Data | Medium | — | 2 |
+| 169 | [3989514](../../reports/3989514.md) | CVE-2026-87866: wolfSSL public-key pinning bypass | Improper Certificate Validation | Medium | — | 2 |
+| 170 | [4059370](../../reports/4059370.md) | Mass assignment in chat.sendMessage allows unprivileged users to forge message state: pers | Improper Access Control - Generic | Medium | — | 1 |
+| 171 | [4122239](../../reports/4122239.md) | CVE-2026-111952: OpenSSL provider use-after-free again | Use After Free | Medium | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

@@ -1,6 +1,6 @@
 # By weakness: Improper Access Control - Generic
 
-**33 reports** · published bounties $550 *(most programs don't publish an amount, so this undercounts)*
+**34 reports** · published bounties $550 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -18,14 +18,14 @@
 | 12 | [3942522](../../reports/3942522.md) | wordpress.org Rosetta: invite stores unvalidated role — Editor can assign site Administrat | WordPress | High | — | 46 |
 | 13 | [3417759](../../reports/3417759.md) | Broken Access Control on **healthwatch.trellix.com** Leading to Unauthorized Access and Se | Trellix | Medium | — | 44 |
 | 14 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Basecamp | High | — | 44 |
-| 15 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Monero | High | — | 40 |
-| 16 | [4029867](../../reports/4029867.md) | WordCamp Meta gpre: password-protected event RSVP list readable without password via /gpre | WordPress | Medium | — | 40 |
+| 15 | [4029867](../../reports/4029867.md) | WordCamp Meta gpre: password-protected event RSVP list readable without password via /gpre | WordPress | Medium | — | 41 |
+| 16 | [3619409](../../reports/3619409.md) | Windows installer grants low-privileged users write access to executable P2Pool directory, | Monero | High | — | 40 |
 | 17 | [3325582](../../reports/3325582.md) | User Can Delete Other Users' Personal Access Tokens at /delete-token/{token_id}/ on Mozill | Mozilla | Low | — | 38 |
 | 18 | [3674940](../../reports/3674940.md) | Critical broken access control: API-only delegated admin can enumerate all Team Folders an | Nextcloud | Medium | — | 38 |
 | 19 | [3930957](../../reports/3930957.md) | Myndr CORS Misconfiguration | Myndr | — | — | 36 |
 | 20 | [3876430](../../reports/3876430.md) | MariaDB GRANT PROXY permits unauthorized authentication changes and administrator account  | MariaDB | High | — | 35 |
-| 21 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Nextcloud | Medium | — | 31 |
-| 22 | [3941626](../../reports/3941626.md) | Instamojo CampTix: fail-open MAC + webhook Credit without binding payment to order | WordPress | High | — | 31 |
+| 21 | [3941626](../../reports/3941626.md) | Instamojo CampTix: fail-open MAC + webhook Credit without binding payment to order | WordPress | High | — | 32 |
+| 22 | [3770482](../../reports/3770482.md) | files_lock: a write-share collaborator can place a TYPE_TOKEN lock that permanently denies | Nextcloud | Medium | — | 31 |
 | 23 | [3871816](../../reports/3871816.md) | Unauthenticated private CSV export of Meetup organizer PII via broken authz check in WordC | WordPress | High | — | 30 |
 | 24 | [3938927](../../reports/3938927.md) | An organization admin can create an attacker-controlled organization owner via the gem tra | RubyGems | High | — | 28 |
 | 25 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | WordPress | Critical | — | 24 |
@@ -37,6 +37,7 @@
 | 31 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | MariaDB | High | — | 14 |
 | 32 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 9 |
 | 33 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
+| 34 | [4059370](../../reports/4059370.md) | Mass assignment in chat.sendMessage allows unprivileged users to forge message state: pers | Rocket.Chat | Medium | — | 1 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

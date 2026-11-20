@@ -1,6 +1,6 @@
 # By program: Nextcloud
 
-**29 reports** · published bounties $1,400 *(most programs don't publish an amount, so this undercounts)*
+**30 reports** · published bounties $1,400 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -8,7 +8,7 @@
 | 2 | [2380133](../../reports/2380133.md) | Can download files on Android app without permission | Improper Access Control - Generic | Low | $250 | 46 |
 | 3 | [3400143](../../reports/3400143.md) | Credential Disclosure via Unvalidated directDownloadUrl (Missing DontAddCredentialsAttribu | Insufficiently Protected Credentials | Medium | $250 | 37 |
 | 4 | [3599383](../../reports/3599383.md) | Arbitrary Board Preference Injection via Deck Config API | Improper Access Control - Generic | Medium | $200 | 62 |
-| 5 | [3484601](../../reports/3484601.md) | Team membership information returned on API level based on ID | Insecure Direct Object Reference (IDOR) | Low | $200 | 19 |
+| 5 | [3484601](../../reports/3484601.md) | Team membership information returned on API level based on ID | Insecure Direct Object Reference (IDOR) | Low | $200 | 20 |
 | 6 | [3610332](../../reports/3610332.md) | Approval app's file-freshness check can be bypassed by omitting the etag parameter, allowi | Business Logic Errors | Medium | $150 | 63 |
 | 7 | [2388183](../../reports/2388183.md) | Easy way to create a new Deck board without permission | Improper Access Control - Generic | — | $100 | 56 |
 | 8 | [3399016](../../reports/3399016.md) | Improper input validation On Exported deep-link handler crashes `FileDisplayActivity` on c | Improper Null Termination | — | — | 65 |
@@ -33,6 +33,7 @@
 | 27 | [3772818](../../reports/3772818.md) | Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's | Code Injection | Low | — | 11 |
 | 28 | [3943436](../../reports/3943436.md) | Unauthenticated attacker can book appointments at arbitrary times, including outside avail | Business Logic Errors | Low | — | 10 |
 | 29 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Improper Access Control - Generic | Low | — | 9 |
+| 30 | [4004074](../../reports/4004074.md) | Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAcce | Privilege Escalation | Medium | — | 3 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

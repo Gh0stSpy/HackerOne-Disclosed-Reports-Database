@@ -14,8 +14,8 @@
 | 8 | [3979217](../../reports/3979217.md) | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach anot | Basecamp | High | — | 34 |
 | 9 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Equifax-vdp | High | — | 24 |
 | 10 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Nextcloud | Medium | — | 23 |
-| 11 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Nextcloud | Low | — | 12 |
-| 12 | [2256569](../../reports/2256569.md) | Access and see `reactions recieved` on the notification of any user | Discourse | High | — | 11 |
+| 11 | [2256569](../../reports/2256569.md) | Access and see `reactions recieved` on the notification of any user | Discourse | High | — | 15 |
+| 12 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Nextcloud | Low | — | 12 |
 | 13 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | MariaDB | Medium | — | 8 |
 | 14 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | U.S. Dept Of Defense | Medium | — | 6 |
 | 15 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | curl | Medium | — | 3 |

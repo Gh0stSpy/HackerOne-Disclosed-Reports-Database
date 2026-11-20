@@ -5,8 +5,8 @@
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3869124](../../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer billing information** | Insecure Direct Object Reference (IDOR) | High | — | 72 |
-| 2 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 43 |
-| 3 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 43 |
+| 2 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 45 |
+| 3 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 43 |
 | 4 | [3518571](../../reports/3518571.md) | Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure o | — | — | — | 34 |
 | 5 | [3874004](../../reports/3874004.md) | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() | OS Command Injection | High | — | 34 |
 | 6 | [3898281](../../reports/3898281.md) | Unauthenticated ?q= search query causes exponential pyparsing backtracking under a process | Uncontrolled Resource Consumption | High | — | 33 |
@@ -17,8 +17,8 @@
 | 11 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 24 |
 | 12 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 22 |
 | 13 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Uncontrolled Resource Consumption | Medium | — | 22 |
-| 14 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 16 |
-| 15 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 15 |
+| 14 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 17 |
+| 15 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 16 |
 | 16 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 14 |
 | 17 | [4044441](../../reports/4044441.md) | Translation discovery crashes on crafted filenames (regex substitution injection) | Use of Externally-Controlled Format String | Low | — | 11 |
 
