@@ -2,7 +2,7 @@
 
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
-| [Improper Access Control - Generic](improper-access-control-generic.md) | 34 | $550 |
+| [Improper Access Control - Generic](improper-access-control-generic.md) | 35 | $550 |
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 32 | $1,600 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 22 | $11,124 |
 | [Information Disclosure](information-disclosure.md) | 21 | — |
@@ -13,9 +13,9 @@
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 10 | $337 |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
 | [SQL Injection](sql-injection.md) | 9 | — |
+| [Code Injection](code-injection.md) | 8 | $21,000 |
 | [Path Traversal](path-traversal.md) | 8 | $6,000 |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 8 | — |
-| [Code Injection](code-injection.md) | 7 | $19,000 |
 | [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
 | [Stack Overflow](stack-overflow.md) | 6 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 6 | — |

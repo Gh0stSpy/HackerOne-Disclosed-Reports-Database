@@ -14,7 +14,7 @@
 | 8 | [3933198](../../reports/3933198.md) | wordpress.org/openverse/: unauthenticated open redirect — `str_replace()`'s 4th arg is a c | Open Redirect | Medium | — | 33 |
 | 9 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 32 |
 | 10 | [3941626](../../reports/3941626.md) | Instamojo CampTix: fail-open MAC + webhook Credit without binding payment to order | Improper Access Control - Generic | High | — | 32 |
-| 11 | [3863343](../../reports/3863343.md) | DOM-based XSS in playground.wordpress.net (/scope:*/wp-includes/empty.html) lets any attac | Cross-site Scripting (XSS) - DOM | Low | — | 30 |
+| 11 | [3863343](../../reports/3863343.md) | DOM-based XSS in playground.wordpress.net (/scope:*/wp-includes/empty.html) lets any attac | Cross-site Scripting (XSS) - DOM | Low | — | 31 |
 | 12 | [3871816](../../reports/3871816.md) | Unauthenticated private CSV export of Meetup organizer PII via broken authz check in WordC | Improper Access Control - Generic | High | — | 30 |
 | 13 | [4053546](../../reports/4053546.md) | Information Disclosure - Unauthen Leak Private Content | Information Disclosure | Medium | — | 27 |
 | 14 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 27 |

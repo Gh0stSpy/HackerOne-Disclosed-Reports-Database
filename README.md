@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **396** |
-| With a published bounty | 33 |
-| Total published bounties | **$62,237** |
-| Last updated | 2026-11-21 07:18 UTC |
-| Last pull | 2026-11-21T07:18:12+00:00 |
+| Reports with full write-ups | **398** |
+| With a published bounty | 34 |
+| Total published bounties | **$64,237** |
+| Last updated | 2026-11-21 19:23 UTC |
+| Last pull | 2026-11-21T19:23:13+00:00 |
 
 ## Browse
 
@@ -32,7 +32,7 @@ publicly disclosed finding.
 
 | Weakness | Reports |
 |:--|--:|
-| Improper Access Control - Generic | 34 |
+| Improper Access Control - Generic | 35 |
 | Cross-site Scripting (XSS) - Reflected | 32 |
 | Uncontrolled Resource Consumption | 22 |
 | Information Disclosure | 21 |
@@ -54,9 +54,9 @@ publicly disclosed finding.
 | [3712279](reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-cont | PortSwigger Web Security | $5,000 |
 | [3954327](reports/3954327.md) | Unauthenticated access to Checkout Blocks employee-only endpoints expo | Shopify | $3,100 |
 | [3734676](reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the | Mozilla | $2,000 |
+| [2119149](reports/2119149.md) | Evernote(WindowsApp) XSS to RCE | Evernote | $2,000 |
 | [2509022](reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdow | Shopify | $1,600 |
 | [3852102](reports/3852102.md) | Revoked deployment collaborator regains access to private comments aft | Vercel | $1,026 |
-| [3400140](reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Discourse | $1,024 |
 
 ## Build your own copy
 

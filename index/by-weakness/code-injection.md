@@ -1,16 +1,17 @@
 # By weakness: Code Injection
 
-**7 reports** · published bounties $19,000 *(most programs don't publish an amount, so this undercounts)*
+**8 reports** · published bounties $21,000 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3782701](../../reports/3782701.md) | Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where) | Mozilla | Critical | $12,000 | 361 |
 | 2 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | HackerOne | High | $7,000 | 173 |
-| 3 | [2701701](../../reports/2701701.md) | Injection in path parameter of Ingress-nginx | Kubernetes | High | — | 89 |
-| 4 | [3923967](../../reports/3923967.md) | WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE | WordPress | High | — | 37 |
-| 5 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Monero | Medium | — | 30 |
-| 6 | [3897236](../../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template | AWS VDP | High | — | 25 |
-| 7 | [3772818](../../reports/3772818.md) | Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's | Nextcloud | Low | — | 11 |
+| 3 | [2119149](../../reports/2119149.md) | Evernote(WindowsApp) XSS to RCE | Evernote | High | $2,000 | 9 |
+| 4 | [2701701](../../reports/2701701.md) | Injection in path parameter of Ingress-nginx | Kubernetes | High | — | 89 |
+| 5 | [3923967](../../reports/3923967.md) | WordPress 7.1 Media Processing Race Enables Persistent PHP File Write and Author-to-RCE | WordPress | High | — | 37 |
+| 6 | [3679471](../../reports/3679471.md) | HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI  | Monero | Medium | — | 30 |
+| 7 | [3897236](../../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template | AWS VDP | High | — | 25 |
+| 8 | [3772818](../../reports/3772818.md) | Code injection allows unprivileged local attacker to execute arbitrary code in Nextcloud's | Nextcloud | Low | — | 11 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
