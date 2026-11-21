@@ -22,7 +22,7 @@
 | 16 | [3896671](../../reports/3896671.md) | Connector/C Out-of-bounds read in `unpack_fields()` from short metadata field | Out-of-bounds Read | — | — | 31 |
 | 17 | [3717354](../../reports/3717354.md) | UI Consent Bypass via Comma Injection in `addAutoApproveTarget` — User-Approval Dialog and | LLM09:2025 Misinformation | — | — | 28 |
 | 18 | [3849007](../../reports/3849007.md) | MariaDB CLI Utility Issues | SQL Injection | — | — | 27 |
-| 19 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 26 |
+| 19 | [4100259](../../reports/4100259.md) | Stored XSS in the Classic block element path | Cross-site Scripting (XSS) - Stored | — | — | 27 |
 | 20 | [3240792](../../reports/3240792.md) | Reported RPC Overflow | Integer Overflow | — | — | 25 |
 | 21 | [3456148](../../reports/3456148.md) | Unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding  | — | — | — | 25 |
 | 22 | [3426417](../../reports/3426417.md) | ASGIRequest header concatenation quadratic CPU DoS on Django via repeated headers leads to | — | — | — | 24 |
