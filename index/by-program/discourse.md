@@ -6,7 +6,7 @@
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Uncontrolled Resource Consumption | High | $1,024 | 98 |
 | 2 | [3689633](../../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorizati | Insecure Direct Object Reference (IDOR) | Medium | — | 31 |
-| 3 | [2256569](../../reports/2256569.md) | Access and see `reactions recieved` on the notification of any user | Improper Authentication - Generic | High | — | 23 |
+| 3 | [2256569](../../reports/2256569.md) | Access and see `reactions recieved` on the notification of any user | Improper Authentication - Generic | High | — | 25 |
 | 4 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Information Disclosure | Medium | — | 4 |
 
 ---
