@@ -2,7 +2,7 @@
 
 | By severity | Reports | Published bounties |
 |:--|--:|--:|
-| [Medium](medium.md) | 172 | $12,126 |
+| [Medium](medium.md) | 174 | $12,126 |
 | [Low](low.md) | 81 | $2,487 |
 | [Unrated](unrated.md) | 64 | $12,600 |
 | [High](high.md) | 60 | $25,024 |
