@@ -12,7 +12,7 @@
 | 6 | [3601469](../../reports/3601469.md) | Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions | Monero | High | — | 40 |
 | 7 | [4043537](../../reports/4043537.md) | CampTix [camptix_private]: the view token is derived from the requester's own IP, so namin | WordPress | Medium | — | 40 |
 | 8 | [3979217](../../reports/3979217.md) | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach anot | Basecamp | High | — | 34 |
-| 9 | [2256569](../../reports/2256569.md) | Access and see `reactions recieved` on the notification of any user | Discourse | High | — | 27 |
+| 9 | [2256569](../../reports/2256569.md) | Access and see `reactions recieved` on the notification of any user | Discourse | High | — | 28 |
 | 10 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Equifax-vdp | High | — | 24 |
 | 11 | [3301553](../../reports/3301553.md) | Cross-User Lock/Unlock via Absolute DAV Path | Nextcloud | Medium | — | 23 |
 | 12 | [3636758](../../reports/3636758.md) | Cross-room signaling injection enabling unauthorized force-mute | Nextcloud | Low | — | 12 |
