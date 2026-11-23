@@ -32,23 +32,23 @@
 | 26 | [3920647](../../reports/3920647.md) | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an exception unwinds out of MADB_ | Out-of-bounds Read | Medium | — | 9 |
 | 27 | [3849025](../../reports/3849025.md) | DATA / INDEX DIRECTORY Abuse | — | — | — | 8 |
 | 28 | [3889667](../../reports/3889667.md) | ACL cache collision lets a role inherit privileges from a same-named socket user | Improper Authentication - Generic | Medium | — | 8 |
-| 29 | [3871977](../../reports/3871977.md) | Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative | Memory Corruption - Generic | Medium | — | 7 |
-| 30 | [3871740](../../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion  | Uncontrolled Resource Consumption | Medium | — | 6 |
-| 31 | [3872248](../../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared | Out-of-bounds Read | Medium | — | 6 |
-| 32 | [3880451](../../reports/3880451.md) | Privilege escalation via user controlled usernames / roles and views | — | — | — | 6 |
-| 33 | [3890289](../../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enabling SQL injection | SQL Injection | Medium | — | 6 |
-| 34 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | SQL Injection | Medium | — | 6 |
-| 35 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 6 |
-| 36 | [3915935](../../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation | Use After Free | High | — | 6 |
-| 37 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | Information Disclosure | Medium | — | 6 |
-| 38 | [3848978](../../reports/3848978.md) | `SHOW [CREATE\|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation | SQL Injection | — | — | 5 |
-| 39 | [3849040](../../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | — | — | — | 5 |
-| 40 | [3849051](../../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | — | — | — | 5 |
-| 41 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | Uncontrolled Resource Consumption | Medium | — | 5 |
-| 42 | [3891319](../../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name | Stack Overflow | Medium | — | 5 |
-| 43 | [3891337](../../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write  | Type Confusion | Medium | — | 5 |
-| 44 | [3891779](../../reports/3891779.md) | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_Dy | SQL Injection | Medium | — | 4 |
-| 45 | [3643157](../../reports/3643157.md) | Spatial functions perform 4-byte heap buffer over-reads on truncated WKB inputs | Buffer Over-read | Medium | — | 3 |
+| 29 | [3643157](../../reports/3643157.md) | Spatial functions perform 4-byte heap buffer over-reads on truncated WKB inputs | Buffer Over-read | Medium | — | 7 |
+| 30 | [3871977](../../reports/3871977.md) | Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative | Memory Corruption - Generic | Medium | — | 7 |
+| 31 | [3871740](../../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion  | Uncontrolled Resource Consumption | Medium | — | 6 |
+| 32 | [3872248](../../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared | Out-of-bounds Read | Medium | — | 6 |
+| 33 | [3880451](../../reports/3880451.md) | Privilege escalation via user controlled usernames / roles and views | — | — | — | 6 |
+| 34 | [3890289](../../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enabling SQL injection | SQL Injection | Medium | — | 6 |
+| 35 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | SQL Injection | Medium | — | 6 |
+| 36 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 6 |
+| 37 | [3915935](../../reports/3915935.md) | Heap Use-After-Free in Materialized_cursor::open via SYS_REFCURSOR Array Reallocation | Use After Free | High | — | 6 |
+| 38 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | Information Disclosure | Medium | — | 6 |
+| 39 | [3848978](../../reports/3848978.md) | `SHOW [CREATE\|GRANTS] ...` / `mariadb-dump` Unescaped SQL Generation | SQL Injection | — | — | 5 |
+| 40 | [3849040](../../reports/3849040.md) | #mysql50# legacy alias / stale table cache identity mismatch | — | — | — | 5 |
+| 41 | [3849051](../../reports/3849051.md) | #mysql50# legacy alias / internal table collisions | — | — | — | 5 |
+| 42 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | Uncontrolled Resource Consumption | Medium | — | 5 |
+| 43 | [3891319](../../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name | Stack Overflow | Medium | — | 5 |
+| 44 | [3891337](../../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write  | Type Confusion | Medium | — | 5 |
+| 45 | [3891779](../../reports/3891779.md) | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_Dy | SQL Injection | Medium | — | 4 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

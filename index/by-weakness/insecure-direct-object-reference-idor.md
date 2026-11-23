@@ -1,6 +1,6 @@
 # By weakness: Insecure Direct Object Reference (IDOR)
 
-**6 reports** · published bounties $800 *(most programs don't publish an amount, so this undercounts)*
+**7 reports** · published bounties $800 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -10,6 +10,7 @@
 | 4 | [3869124](../../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer billing information** | Weblate | High | — | 73 |
 | 5 | [3689633](../../reports/3689633.md) | Hidden/restricted tags can be mutated through synonym ID paths without per-tag authorizati | Discourse | Medium | — | 31 |
 | 6 | [3259610](../../reports/3259610.md) | Unauthenticated Users Can Access Other Users’ Bug Report Attachments via Broken Access Con | U.S. Dept Of Defense | High | — | 25 |
+| 7 | [4191937](../../reports/4191937.md) | IDOR: private ████████ post comments can be read and written by any authenticated user | Essity | High | — | 9 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

@@ -16,7 +16,7 @@
 | [Code Injection](code-injection.md) | 8 | $21,000 |
 | [Path Traversal](path-traversal.md) | 8 | $6,000 |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 8 | — |
-| [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 6 | $800 |
+| [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md) | 7 | $800 |
 | [Stack Overflow](stack-overflow.md) | 6 | — |
 | [Authentication Bypass by Primary Weakness](authentication-bypass-by-primary-weakness.md) | 6 | — |
 | [Improper Input Validation](improper-input-validation.md) | 5 | $500 |

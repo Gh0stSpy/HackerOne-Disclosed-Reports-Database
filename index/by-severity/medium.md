@@ -8,7 +8,7 @@
 | 2 | [3734676](../../reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler ch | Authentication Bypass by Capture-replay | Medium | $2,000 | 43 |
 | 3 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 109 |
 | 4 | [3852102](../../reports/3852102.md) | Revoked deployment collaborator regains access to private comments after active collaborat | Access Control Check Implemented After Asset is Accessed | Medium | $1,026 | 59 |
-| 5 | [4000535](../../reports/4000535.md) | Burp Community OpenAPI site-map action reads a local schema example through $id rebasing | Path Traversal | Medium | $1,000 | 62 |
+| 5 | [4000535](../../reports/4000535.md) | Burp Community OpenAPI site-map action reads a local schema example through $id rebasing | Path Traversal | Medium | $1,000 | 63 |
 | 6 | [3972558](../../reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication | — | Medium | $1,000 | 59 |
 | 7 | [2541962](../../reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | Insecure Direct Object Reference (IDOR) | Medium | $500 | 145 |
 | 8 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 78 |
@@ -100,20 +100,20 @@
 | 94 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
 | 95 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
 | 96 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
-| 97 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 18 |
-| 98 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
-| 99 | [3896507](../../reports/3896507.md) | Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTIO | — | Medium | — | 18 |
-| 100 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 18 |
+| 97 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 19 |
+| 98 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 18 |
+| 99 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
+| 100 | [3896507](../../reports/3896507.md) | Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTIO | — | Medium | — | 18 |
 | 101 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Improper Access Control - Generic | Medium | — | 16 |
 | 102 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | Uncontrolled Resource Consumption | Medium | — | 16 |
 | 103 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Server-Side Request Forgery (SSRF) | Medium | — | 15 |
-| 104 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 14 |
-| 105 | [3781201](../../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of-bounds read / server crash in Maria | Integer Underflow | Medium | — | 14 |
-| 106 | [4004074](../../reports/4004074.md) | Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAcce | Privilege Escalation | Medium | — | 14 |
-| 107 | [4119675](../../reports/4119675.md) | Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creatin | Improper Access Control - Generic | Medium | — | 14 |
-| 108 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 13 |
-| 109 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
-| 110 | [3892948](../../reports/3892948.md) | Broken access control: any member can self-assign arbitrary BuddyPress member types via th | Improper Access Control - Generic | Medium | — | 12 |
+| 104 | [3892948](../../reports/3892948.md) | Broken access control: any member can self-assign arbitrary BuddyPress member types via th | Improper Access Control - Generic | Medium | — | 15 |
+| 105 | [4004074](../../reports/4004074.md) | Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAcce | Privilege Escalation | Medium | — | 15 |
+| 106 | [4119675](../../reports/4119675.md) | Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creatin | Improper Access Control - Generic | Medium | — | 15 |
+| 107 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 14 |
+| 108 | [3781201](../../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of-bounds read / server crash in Maria | Integer Underflow | Medium | — | 14 |
+| 109 | [3727743](../../reports/3727743.md) | URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-m | Cross-site Scripting (XSS) - Reflected | Medium | — | 13 |
+| 110 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
 | 111 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 12 |
 | 112 | [4059370](../../reports/4059370.md) | Mass assignment in chat.sendMessage allows unprivileged users to forge message state: pers | Improper Access Control - Generic | Medium | — | 12 |
 | 113 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
@@ -137,40 +137,40 @@
 | 131 | [3166582](../../reports/3166582.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
 | 132 | [3205104](../../reports/3205104.md) | Reflected XSS via user Parameter in /ssl-vpn/getconfig.esp | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
 | 133 | [3354494](../../reports/3354494.md) | Cross-Site Scripting via URL on ███████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 7 |
-| 134 | [3871977](../../reports/3871977.md) | Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative | Memory Corruption - Generic | Medium | — | 7 |
-| 135 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
-| 136 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
-| 137 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
-| 138 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
-| 139 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 140 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 141 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 142 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 143 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 144 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
-| 145 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
-| 146 | [3871740](../../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion  | Uncontrolled Resource Consumption | Medium | — | 6 |
-| 147 | [3872248](../../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared | Out-of-bounds Read | Medium | — | 6 |
-| 148 | [3890289](../../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enabling SQL injection | SQL Injection | Medium | — | 6 |
-| 149 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | SQL Injection | Medium | — | 6 |
-| 150 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 6 |
-| 151 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | Information Disclosure | Medium | — | 6 |
-| 152 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
-| 153 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 154 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
-| 155 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | Uncontrolled Resource Consumption | Medium | — | 5 |
-| 156 | [3891319](../../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name | Stack Overflow | Medium | — | 5 |
-| 157 | [3891337](../../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write  | Type Confusion | Medium | — | 5 |
-| 158 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
-| 159 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
-| 160 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
-| 161 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Information Disclosure | Medium | — | 4 |
-| 162 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
-| 163 | [3891779](../../reports/3891779.md) | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_Dy | SQL Injection | Medium | — | 4 |
-| 164 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 4 |
-| 165 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 4 |
-| 166 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
-| 167 | [3643157](../../reports/3643157.md) | Spatial functions perform 4-byte heap buffer over-reads on truncated WKB inputs | Buffer Over-read | Medium | — | 3 |
+| 134 | [3643157](../../reports/3643157.md) | Spatial functions perform 4-byte heap buffer over-reads on truncated WKB inputs | Buffer Over-read | Medium | — | 7 |
+| 135 | [3871977](../../reports/3871977.md) | Connector/ODBC: malicious server's long version string wraps size_t PrefixLen via negative | Memory Corruption - Generic | Medium | — | 7 |
+| 136 | [2665879](../../reports/2665879.md) | Improper Authentication Allows Making Requests as Other Users | Improper Authentication - Generic | Medium | — | 6 |
+| 137 | [2750728](../../reports/2750728.md) | Cross-Site Scripting (XSS) Vulnerability via POST Method + Akamai Firewall Bypass | Cross-site Scripting (XSS) - DOM | Medium | — | 6 |
+| 138 | [3006666](../../reports/3006666.md) | Error-based blind SQL injection | SQL Injection | Medium | — | 6 |
+| 139 | [3008481](../../reports/3008481.md) | Exposed Sensitive PDF: Misconfigured Access Controls Leading to Information Disclosure | Information Disclosure | Medium | — | 6 |
+| 140 | [3127147](../../reports/3127147.md) | POST XSS - data[account][id] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 141 | [3127158](../../reports/3127158.md) | POST XSS -  fields[account][firstname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 142 | [3127162](../../reports/3127162.md) | POST XSS -  fields[account][lastname] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 143 | [3137200](../../reports/3137200.md) | Cross-Site Scripting via 'return_link_url' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 144 | [3166587](../../reports/3166587.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 145 | [3284381](../../reports/3284381.md) | Cross-Site Scripting via 'EVENT_DESCRIPTION' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 6 |
+| 146 | [3291053](../../reports/3291053.md) | exposed FOUO documents, including Passport information | Information Disclosure | Medium | — | 6 |
+| 147 | [3871740](../../reports/3871740.md) | r2dbc-mariadb Parsec auth: server-controlled PBKDF2 iteration count causes CPU-exhaustion  | Uncontrolled Resource Consumption | Medium | — | 6 |
+| 148 | [3872248](../../reports/3872248.md) | Connector/C++: heap out-of-bounds read when malicious server field length exceeds declared | Out-of-bounds Read | Medium | — | 6 |
+| 149 | [3890289](../../reports/3890289.md) | Connector/C++ string escaper re-escapes its own output, enabling SQL injection | SQL Injection | Medium | — | 6 |
+| 150 | [3890329](../../reports/3890329.md) | Connector/C++ ignores allowMultiQueries and injects savepoint names into SQL | SQL Injection | Medium | — | 6 |
+| 151 | [3909248](../../reports/3909248.md) | MariaDB: heap buffer overflow in ha_tina::chain_append() lets a low-privileged user crash  | Heap Overflow | Medium | — | 6 |
+| 152 | [3920629](../../reports/3920629.md) | r2dbc-mariadb: server message accepted with no command in flight desynchronises the connec | Information Disclosure | Medium | — | 6 |
+| 153 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | Improper Access Control - Generic | Medium | — | 5 |
+| 154 | [3127154](../../reports/3127154.md) | POST XSS -  data[type] parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
+| 155 | [3284534](../../reports/3284534.md) | Reflected Cross-Site Scripting (XSS) | Cross-site Scripting (XSS) - Reflected | Medium | — | 5 |
+| 156 | [3890352](../../reports/3890352.md) | Connector/C++ aborts client process on server session-tracking packet via std::stoi | Uncontrolled Resource Consumption | Medium | — | 5 |
+| 157 | [3891319](../../reports/3891319.md) | Stack buffer overflow in 9 of 10 Connector/ODBC catalog functions via unbounded name | Stack Overflow | Medium | — | 5 |
+| 158 | [3891337](../../reports/3891337.md) | Connector/ODBC SQLGetDescRec treats descriptor handle as statement handle, heap OOB write  | Type Confusion | Medium | — | 5 |
+| 159 | [3124103](../../reports/3124103.md) | Swagger UI Injection via Config URL - `███` | Resource Injection | Medium | — | 4 |
+| 160 | [3135626](../../reports/3135626.md) | Reflected XSS in `Telerik.ReportViewer.axd` with F5 BIG-IP ASM Bypass on `████` | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
+| 161 | [3269780](../../reports/3269780.md) | Cross-Site Scripting via 'fname' parameter in ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 4 |
+| 162 | [3738834](../../reports/3738834.md) | Arbitrary `/tmp` read in  discourse via `convert_heif!` decoder-confusion (regression of 4 | Information Disclosure | Medium | — | 4 |
+| 163 | [3750295](../../reports/3750295.md) | CVE-2026-9079: stale proxy password leak | Information Disclosure | Medium | — | 4 |
+| 164 | [3891779](../../reports/3891779.md) | Connector/ODBC injects unquoted column names into positioned DELETE and UPDATE via MADB_Dy | SQL Injection | Medium | — | 4 |
+| 165 | [4118610](../../reports/4118610.md) | CVE-2026-111484: OpenSSL with SecTrust accepts bad OCSP staples | Improper Certificate Validation | Medium | — | 4 |
+| 166 | [4128428](../../reports/4128428.md) | CVE-2026-115528: wolfSSL TLS connect without cert | Improper Certificate Validation | Medium | — | 4 |
+| 167 | [3206013](../../reports/3206013.md) | Reflected XSS via user parameter on getconfig.esp endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 3 |
 | 168 | [3744543](../../reports/3744543.md) | CVE-2026-8927: env-set cross-proxy Digest auth state leak | Improper Authentication - Generic | Medium | — | 3 |
 | 169 | [4116076](../../reports/4116076.md) | CVE-2026-111483: GnuTLS accepts non-successful OCSP staples | Improper Check for Certificate Revocation | Medium | — | 3 |
 | 170 | [3011146](../../reports/3011146.md) | Sensitive Images & Files Exposed Through Directory Listing | Information Exposure Through Directory Listing | Medium | — | 2 |
