@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [2119149](../../reports/2119149.md) | Evernote(WindowsApp) XSS to RCE | Code Injection | High | $2,000 | 43 |
+| 1 | [2119149](../../reports/2119149.md) | Evernote(WindowsApp) XSS to RCE | Code Injection | High | $2,000 | 45 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

@@ -1,6 +1,6 @@
 # By program: AWS VDP
 
-**18 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
+**19 reports** · published bounties — *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -22,6 +22,7 @@
 | 16 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 24 |
 | 17 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 21 |
 | 18 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 18 |
+| 19 | [3891423](../../reports/3891423.md) | Python Sandbox Escape in AWS MCP Server `run_script` | Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') | Medium | — | 0 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*

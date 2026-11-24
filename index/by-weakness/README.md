@@ -2,7 +2,7 @@
 
 | By weakness | Reports | Published bounties |
 |:--|--:|--:|
-| [Improper Access Control - Generic](improper-access-control-generic.md) | 36 | $550 |
+| [Improper Access Control - Generic](improper-access-control-generic.md) | 37 | $550 |
 | [Cross-site Scripting (XSS) - Reflected](cross-site-scripting-xss-reflected.md) | 32 | $1,600 |
 | [Uncontrolled Resource Consumption](uncontrolled-resource-consumption.md) | 22 | $11,124 |
 | [Information Disclosure](information-disclosure.md) | 21 | — |
@@ -77,13 +77,14 @@
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
 | [Type Confusion](type-confusion.md) | 1 | — |
+| [Use of Hard-coded Credentials](use-of-hard-coded-credentials.md) | 1 | — |
 | [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
 | [Time-of-check Time-of-use (TOCTOU) Race Condition](time-of-check-time-of-use-toctou-race-condition.md) | 1 | — |
 | [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |
 | [Double Free](double-free.md) | 1 | — |
 | [Reusing a Nonce, Key Pair in Encryption](reusing-a-nonce-key-pair-in-encryption.md) | 1 | — |
 | [Use of Incorrectly-Resolved Name or Reference](use-of-incorrectly-resolved-name-or-reference.md) | 1 | — |
-| [Use of Hard-coded Credentials](use-of-hard-coded-credentials.md) | 1 | — |
 | [Partial String Comparison](partial-string-comparison.md) | 1 | — |
 | [Incorrect Comparison](incorrect-comparison.md) | 1 | — |
+| [Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')](improper-neutralization-of-directives-in-dynamically-evaluated-code-eval-injection.md) | 1 | — |
 | [Improper Check or Handling of Exceptional Conditions](improper-check-or-handling-of-exceptional-conditions.md) | 1 | — |
