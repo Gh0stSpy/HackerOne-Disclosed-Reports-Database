@@ -13,11 +13,11 @@ publicly disclosed finding.
 
 | | |
 |---|---|
-| Reports with full write-ups | **401** |
+| Reports with full write-ups | **402** |
 | With a published bounty | 34 |
 | Total published bounties | **$64,237** |
-| Last updated | 2026-11-23 23:58 UTC |
-| Last pull | 2026-11-23T23:58:36+00:00 |
+| Last updated | 2026-11-24 10:00 UTC |
+| Last pull | 2026-11-24T10:00:06+00:00 |
 
 ## Browse
 
@@ -53,8 +53,8 @@ publicly disclosed finding.
 | [3694007](reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search | HackerOne | $7,000 |
 | [3712279](reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-cont | PortSwigger Web Security | $5,000 |
 | [3954327](reports/3954327.md) | Unauthenticated access to Checkout Blocks employee-only endpoints expo | Shopify | $3,100 |
-| [3734676](reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the | Mozilla | $2,000 |
 | [2119149](reports/2119149.md) | Evernote(WindowsApp) XSS to RCE | Evernote | $2,000 |
+| [3734676](reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the | Mozilla | $2,000 |
 | [2509022](reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdow | Shopify | $1,600 |
 | [3852102](reports/3852102.md) | Revoked deployment collaborator regains access to private comments aft | Vercel | $1,026 |
 

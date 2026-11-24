@@ -21,7 +21,7 @@
 | 15 | [3460138](../../reports/3460138.md) | Open Email Relay on WordPress Gutenberg Plugin via formAction parameter leads to phishing  | — | — | — | 24 |
 | 16 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | Improper Access Control - Generic | Critical | — | 24 |
 | 17 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 20 |
-| 18 | [3892948](../../reports/3892948.md) | Broken access control: any member can self-assign arbitrary BuddyPress member types via th | Improper Access Control - Generic | Medium | — | 15 |
+| 18 | [3892948](../../reports/3892948.md) | Broken access control: any member can self-assign arbitrary BuddyPress member types via th | Improper Access Control - Generic | Medium | — | 17 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
