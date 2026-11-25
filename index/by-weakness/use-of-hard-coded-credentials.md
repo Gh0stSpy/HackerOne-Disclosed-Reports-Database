@@ -4,7 +4,7 @@
 
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3966705](../../reports/3966705.md) | Default OAuth2 Credentials on SAP Commerce Cloud — Admin Token via Published Sample Secret | Essity | Medium | — | 4 |
+| 1 | [3966705](../../reports/3966705.md) | Default OAuth2 Credentials on SAP Commerce Cloud — Admin Token via Published Sample Secret | Essity | Medium | — | 7 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
