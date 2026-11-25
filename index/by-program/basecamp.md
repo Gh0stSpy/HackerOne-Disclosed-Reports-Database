@@ -10,8 +10,8 @@
 | 4 | [3608199](../../reports/3608199.md) | DOM XSS in `fizzy.do` import filename preview enables one-click victim account takeover | Cross-site Scripting (XSS) - DOM | High | — | 81 |
 | 5 | [4175245](../../reports/4175245.md) | Cross-account stored XSS on app.basecamp.com leads to persistent administrator takeover | Cross-site Scripting (XSS) - Stored | High | — | 80 |
 | 6 | [3543475](../../reports/3543475.md) | Improper Access Control in `fizzy.do` import flow allows cross-tenant ActionText reference | Improper Access Control - Generic | Low | — | 53 |
-| 7 | [3955956](../../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker red | Improper Authentication - Generic | High | — | 50 |
-| 8 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Cross-site Scripting (XSS) - Reflected | High | — | 49 |
+| 7 | [3943339](../../reports/3943339.md) | One-click cross-account JavaScript execution steals a victim write token through Turbo pag | Cross-site Scripting (XSS) - Reflected | High | — | 50 |
+| 8 | [3955956](../../reports/3955956.md) | launchpad.37signals.com OAuth AS issues victim-bound credential to unverified attacker red | Improper Authentication - Generic | High | — | 50 |
 | 9 | [4035023](../../reports/4035023.md) | Ordinary HEY user can make HEY originate authenticated mail from attacker-selected @hey.co | Improper Access Control - Generic | High | — | 44 |
 | 10 | [3979217](../../reports/3979217.md) | Cross-account webhook takeover: PUT and DELETE on /<account>/webhooks/<id>.json reach anot | Improper Authentication - Generic | High | — | 34 |
 | 11 | [3972760](../../reports/3972760.md) | Open redirect on app.hey.com bypasses HEY desktop's internal-origin allowlist and loads at | Open Redirect | Medium | — | 33 |

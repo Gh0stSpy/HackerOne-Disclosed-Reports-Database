@@ -11,8 +11,8 @@
 | [Use After Free](use-after-free.md) | 12 | — |
 | [Improper Certificate Validation](improper-certificate-validation.md) | 11 | — |
 | [Cross-site Scripting (XSS) - Stored](cross-site-scripting-xss-stored.md) | 10 | $337 |
+| [SQL Injection](sql-injection.md) | 10 | — |
 | [Server-Side Request Forgery (SSRF)](server-side-request-forgery-ssrf.md) | 9 | $500 |
-| [SQL Injection](sql-injection.md) | 9 | — |
 | [Code Injection](code-injection.md) | 8 | $21,000 |
 | [Path Traversal](path-traversal.md) | 8 | $6,000 |
 | [Out-of-bounds Read](out-of-bounds-read.md) | 8 | — |
@@ -69,16 +69,16 @@
 | [Unverified Password Change](unverified-password-change.md) | 1 | — |
 | [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
 | [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
+| [Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')](improper-neutralization-of-directives-in-dynamically-evaluated-code-eval-injection.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
+| [Use of Hard-coded Credentials](use-of-hard-coded-credentials.md) | 1 | — |
 | [Cleartext Storage of Sensitive Information](cleartext-storage-of-sensitive-information.md) | 1 | — |
 | [Memory Corruption - Generic](memory-corruption-generic.md) | 1 | — |
-| [Use of Hard-coded Credentials](use-of-hard-coded-credentials.md) | 1 | — |
 | [Allocation of Resources Without Limits or Throttling](allocation-of-resources-without-limits-or-throttling.md) | 1 | — |
 | [Heap Overflow](heap-overflow.md) | 1 | — |
 | [Type Confusion](type-confusion.md) | 1 | — |
-| [Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')](improper-neutralization-of-directives-in-dynamically-evaluated-code-eval-injection.md) | 1 | — |
 | [External Control of File Name or Path](external-control-of-file-name-or-path.md) | 1 | — |
 | [Time-of-check Time-of-use (TOCTOU) Race Condition](time-of-check-time-of-use-toctou-race-condition.md) | 1 | — |
 | [Improper Check for Certificate Revocation](improper-check-for-certificate-revocation.md) | 1 | — |

@@ -1,6 +1,6 @@
 # By severity: Critical
 
-**21 reports** · published bounties $12,000 *(most programs don't publish an amount, so this undercounts)*
+**22 reports** · published bounties $12,000 *(most programs don't publish an amount, so this undercounts)*
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
@@ -19,12 +19,13 @@
 | 13 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 32 |
 | 14 | [3840113](../../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████ | Information Disclosure | Critical | — | 29 |
 | 15 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | Improper Access Control - Generic | Critical | — | 24 |
-| 16 | [3856148](../../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST | Use After Free | Critical | — | 14 |
-| 17 | [3873072](../../reports/3873072.md) | Unauthenticated SQL Injection via REST Batch Route Confusion ████████ | SQL Injection | Critical | — | 14 |
-| 18 | [3589269](../../reports/3589269.md) | HTTP Request Smuggling | HTTP Request Smuggling | Critical | — | 13 |
-| 19 | [3584078](../../reports/3584078.md) | ████████ ████████ Server Full Exposure with Database Credentials | Information Exposure Through Directory Listing | Critical | — | 12 |
-| 20 | [3809973](../../reports/3809973.md) | Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) | SQL Injection | Critical | — | 11 |
-| 21 | [3726887](../../reports/3726887.md) | Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to A | Improper Privilege Management | Critical | — | 9 |
+| 16 | [4216475](../../reports/4216475.md) | error based SQL injection on ████████ | SQL Injection | Critical | — | 18 |
+| 17 | [3856148](../../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST | Use After Free | Critical | — | 14 |
+| 18 | [3873072](../../reports/3873072.md) | Unauthenticated SQL Injection via REST Batch Route Confusion ████████ | SQL Injection | Critical | — | 14 |
+| 19 | [3589269](../../reports/3589269.md) | HTTP Request Smuggling | HTTP Request Smuggling | Critical | — | 13 |
+| 20 | [3584078](../../reports/3584078.md) | ████████ ████████ Server Full Exposure with Database Credentials | Information Exposure Through Directory Listing | Critical | — | 12 |
+| 21 | [3809973](../../reports/3809973.md) | Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) | SQL Injection | Critical | — | 11 |
+| 22 | [3726887](../../reports/3726887.md) | Privilege-relevant fields are clientModify in SAP CDC schema allowing role escalation to A | Improper Privilege Management | Critical | — | 9 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
