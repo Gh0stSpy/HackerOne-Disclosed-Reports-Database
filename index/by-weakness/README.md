@@ -26,10 +26,10 @@
 | [Buffer Over-read](buffer-over-read.md) | 5 | — |
 | [Missing Authentication for Critical Function](missing-authentication-for-critical-function.md) | 4 | $3,100 |
 | [Privilege Escalation](privilege-escalation.md) | 4 | — |
+| [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 4 | — |
 | [Privacy Violation](privacy-violation.md) | 3 | $250 |
 | [Insufficiently Protected Credentials](insufficiently-protected-credentials.md) | 3 | $650 |
 | [Missing Required Cryptographic Step](missing-required-cryptographic-step.md) | 3 | — |
-| [Violation of Secure Design Principles](violation-of-secure-design-principles.md) | 3 | — |
 | [HTTP Request Smuggling](http-request-smuggling.md) | 3 | — |
 | [Resource Injection](resource-injection.md) | 3 | — |
 | [Array Index Underflow](array-index-underflow.md) | 3 | — |
@@ -66,9 +66,9 @@
 | [Buffer Under-read](buffer-under-read.md) | 1 | — |
 | [Integer Underflow](integer-underflow.md) | 1 | — |
 | [Information Exposure Through an Error Message](information-exposure-through-an-error-message.md) | 1 | — |
+| [Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')](improper-neutralization-of-directives-in-dynamically-evaluated-code-eval-injection.md) | 1 | — |
 | [Unverified Password Change](unverified-password-change.md) | 1 | — |
 | [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
-| [Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')](improper-neutralization-of-directives-in-dynamically-evaluated-code-eval-injection.md) | 1 | — |
 | [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
