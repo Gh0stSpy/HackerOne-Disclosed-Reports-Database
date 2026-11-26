@@ -8,7 +8,7 @@
 | 2 | [3734676](../../reports/3734676.md) | Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler ch | Authentication Bypass by Capture-replay | Medium | $2,000 | 43 |
 | 3 | [2509022](../../reports/2509022.md) | Reflected XSS in AI Chat Bot Greetings at help.shopify.com via Markdown Image Rendering | Cross-site Scripting (XSS) - Reflected | Medium | $1,600 | 109 |
 | 4 | [3852102](../../reports/3852102.md) | Revoked deployment collaborator regains access to private comments after active collaborat | Access Control Check Implemented After Asset is Accessed | Medium | $1,026 | 59 |
-| 5 | [4000535](../../reports/4000535.md) | Burp Community OpenAPI site-map action reads a local schema example through $id rebasing | Path Traversal | Medium | $1,000 | 64 |
+| 5 | [4000535](../../reports/4000535.md) | Burp Community OpenAPI site-map action reads a local schema example through $id rebasing | Path Traversal | Medium | $1,000 | 65 |
 | 6 | [3972558](../../reports/3972558.md) | Burp Suite OpenAPI Event Log HTML injection triggers Windows SMB authentication | — | Medium | $1,000 | 59 |
 | 7 | [2541962](../../reports/2541962.md) | Disclose Hidden Comments on Media Section of hub.vroid.com | Insecure Direct Object Reference (IDOR) | Medium | $500 | 145 |
 | 8 | [3522157](../../reports/3522157.md) | SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others ) | Server-Side Request Forgery (SSRF) | Medium | $500 | 78 |
@@ -95,8 +95,8 @@
 | 89 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | Path Traversal | Medium | — | 21 |
 | 90 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 21 |
 | 91 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 21 |
-| 92 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 20 |
-| 93 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 20 |
+| 92 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 21 |
+| 93 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 20 |
 | 94 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
 | 95 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
 | 96 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
@@ -118,9 +118,9 @@
 | 112 | [3643157](../../reports/3643157.md) | Spatial functions perform 4-byte heap buffer over-reads on truncated WKB inputs | Buffer Over-read | Medium | — | 12 |
 | 113 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 12 |
 | 114 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
-| 115 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 116 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 117 | [3891423](../../reports/3891423.md) | Python Sandbox Escape in AWS MCP Server `run_script` | Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') | Medium | — | 10 |
+| 115 | [3891423](../../reports/3891423.md) | Python Sandbox Escape in AWS MCP Server `run_script` | Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') | Medium | — | 11 |
+| 116 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
+| 117 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
 | 118 | [3920633](../../reports/3920633.md) | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-oriented helper, reading past the  | Out-of-bounds Read | Medium | — | 10 |
 | 119 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
 | 120 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |

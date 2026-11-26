@@ -17,7 +17,7 @@
 | 11 | [4117330](../../reports/4117330.md) | Anonymous Translation Suggestion IP Address Exposure Through Change API | Information Disclosure | Low | — | 24 |
 | 12 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 22 |
 | 13 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Uncontrolled Resource Consumption | Medium | — | 22 |
-| 14 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 20 |
+| 14 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 21 |
 | 15 | [4119675](../../reports/4119675.md) | Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creatin | Improper Access Control - Generic | Medium | — | 17 |
 | 16 | [4022462](../../reports/4022462.md) | Uncaught RecursionError crash in translation-finder (deep directory tree DoS) | Uncontrolled Resource Consumption | Low | — | 16 |
 | 17 | [4040149](../../reports/4040149.md) | wlc: Project-wide download fails part-way and leaves stale archives on disk; filesystem er | Information Exposure Through an Error Message | Low | — | 14 |

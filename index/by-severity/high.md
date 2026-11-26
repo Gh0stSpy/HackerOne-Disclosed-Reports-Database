@@ -7,7 +7,7 @@
 | 1 | [3966160](../../reports/3966160.md) | Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engi | Uncontrolled Resource Consumption | High | $10,000 | 229 |
 | 2 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | Code Injection | High | $7,000 | 173 |
 | 3 | [3712279](../../reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through | Path Traversal | High | $5,000 | 175 |
-| 4 | [2119149](../../reports/2119149.md) | Evernote(WindowsApp) XSS to RCE | Code Injection | High | $2,000 | 49 |
+| 4 | [2119149](../../reports/2119149.md) | Evernote(WindowsApp) XSS to RCE | Code Injection | High | $2,000 | 51 |
 | 5 | [3400140](../../reports/3400140.md) | Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint | Uncontrolled Resource Consumption | High | $1,024 | 98 |
 | 6 | [3475626](../../reports/3475626.md) | Session Cookie Leakage via Static Header Field in WebViewerFragment | Misconfiguration | High | — | 129 |
 | 7 | [3637898](../../reports/3637898.md) | OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (S | OS Command Injection | High | — | 111 |

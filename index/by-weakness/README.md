@@ -68,8 +68,8 @@
 | [Information Exposure Through an Error Message](information-exposure-through-an-error-message.md) | 1 | — |
 | [Unverified Password Change](unverified-password-change.md) | 1 | — |
 | [Classic Buffer Overflow](classic-buffer-overflow.md) | 1 | — |
-| [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
 | [Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')](improper-neutralization-of-directives-in-dynamically-evaluated-code-eval-injection.md) | 1 | — |
+| [Use of Externally-Controlled Format String](use-of-externally-controlled-format-string.md) | 1 | — |
 | [Improper Privilege Management](improper-privilege-management.md) | 1 | — |
 | [Incorrect Calculation of Buffer Size](incorrect-calculation-of-buffer-size.md) | 1 | — |
 | [Missing Authorization](missing-authorization.md) | 1 | — |
