@@ -99,18 +99,18 @@
 | 93 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 20 |
 | 94 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
 | 95 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
-| 96 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
-| 97 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
-| 98 | [3892948](../../reports/3892948.md) | Broken access control: any member can self-assign arbitrary BuddyPress member types via th | Improper Access Control - Generic | Medium | — | 19 |
-| 99 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 18 |
-| 100 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
-| 101 | [3896507](../../reports/3896507.md) | Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTIO | — | Medium | — | 18 |
-| 102 | [4119675](../../reports/4119675.md) | Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creatin | Improper Access Control - Generic | Medium | — | 17 |
-| 103 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Improper Access Control - Generic | Medium | — | 16 |
-| 104 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | Uncontrolled Resource Consumption | Medium | — | 16 |
-| 105 | [4004074](../../reports/4004074.md) | Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAcce | Privilege Escalation | Medium | — | 16 |
-| 106 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Server-Side Request Forgery (SSRF) | Medium | — | 15 |
-| 107 | [3490059](../../reports/3490059.md) | Unicode RTLO character allowed in uploaded filenames leading to executable file upload and | Violation of Secure Design Principles | Medium | — | 14 |
+| 96 | [3490059](../../reports/3490059.md) | Unicode RTLO character allowed in uploaded filenames leading to executable file upload and | Violation of Secure Design Principles | Medium | — | 19 |
+| 97 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
+| 98 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
+| 99 | [3892948](../../reports/3892948.md) | Broken access control: any member can self-assign arbitrary BuddyPress member types via th | Improper Access Control - Generic | Medium | — | 19 |
+| 100 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 18 |
+| 101 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
+| 102 | [3896507](../../reports/3896507.md) | Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTIO | — | Medium | — | 18 |
+| 103 | [4119675](../../reports/4119675.md) | Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creatin | Improper Access Control - Generic | Medium | — | 17 |
+| 104 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Improper Access Control - Generic | Medium | — | 16 |
+| 105 | [3867358](../../reports/3867358.md) | MariaDB Low-Privilege User Can Exhaust Memory Through a Formatting Function and Crash the  | Uncontrolled Resource Consumption | Medium | — | 16 |
+| 106 | [4004074](../../reports/4004074.md) | Nextcloud subadmin → admin takeover when allowed_admin_ranges is set: SubAdmin::isUserAcce | Privilege Escalation | Medium | — | 16 |
+| 107 | [3303283](../../reports/3303283.md) | Unauthenticated blind SSRF in Circles signature verification bypasses Nextcloud local-addr | Server-Side Request Forgery (SSRF) | Medium | — | 15 |
 | 108 | [3737516](../../reports/3737516.md) | Unauthenticated Account Registration + Email Verification Bypass + PII Data Leak (2,480 Re | Authentication Bypass by Primary Weakness | Medium | — | 14 |
 | 109 | [3781201](../../reports/3781201.md) | Pre-authentication `size_t` integer underflow → out-of-bounds read / server crash in Maria | Integer Underflow | Medium | — | 14 |
 | 110 | [4059370](../../reports/4059370.md) | Mass assignment in chat.sendMessage allows unprivileged users to forge message state: pers | Improper Access Control - Generic | Medium | — | 14 |
@@ -120,15 +120,15 @@
 | 114 | [3515557](../../reports/3515557.md) | Loss of multisig funds through single malicious participant's deliberate deception | Business Logic Errors | Medium | — | 12 |
 | 115 | [3923520](../../reports/3923520.md) | CVE-2026-19931: Negotiate ambient user conn reuse | Authentication Bypass by Primary Weakness | Medium | — | 12 |
 | 116 | [3437836](../../reports/3437836.md) | Cross-Site Scripting via URL on ████████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 11 |
-| 117 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 118 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
-| 119 | [3920633](../../reports/3920633.md) | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-oriented helper, reading past the  | Out-of-bounds Read | Medium | — | 10 |
-| 120 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 121 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 122 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 123 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
-| 124 | [3920647](../../reports/3920647.md) | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an exception unwinds out of MADB_ | Out-of-bounds Read | Medium | — | 9 |
-| 125 | [4118627](../../reports/4118627.md) | weblate.org: a removed customer owner regains ownership with one GET to /fosdem/donate/, e | Improper Access Control - Generic | Medium | — | 9 |
+| 117 | [4118627](../../reports/4118627.md) | weblate.org: a removed customer owner regains ownership with one GET to /fosdem/donate/, e | Improper Access Control - Generic | Medium | — | 11 |
+| 118 | [3053220](../../reports/3053220.md) | XSS on ███ | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
+| 119 | [3136754](../../reports/3136754.md) | Cross-Site Scripting via 'autoPlay' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 10 |
+| 120 | [3920633](../../reports/3920633.md) | Connector/ODBC: SqlwcsOctetLen sizes UTF-16 with a byte-oriented helper, reading past the  | Out-of-bounds Read | Medium | — | 10 |
+| 121 | [3137206](../../reports/3137206.md) | Cross-Site Scripting via 'description_extra' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 122 | [3137212](../../reports/3137212.md) | Cross-Site Scripting via 'wikitext' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 123 | [3166585](../../reports/3166585.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ██████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 124 | [3284389](../../reports/3284389.md) | Cross-Site Scripting via 'RAISED_FUNDS_DESC' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 9 |
+| 125 | [3920647](../../reports/3920647.md) | Connector/ODBC: MADB_Stmt::ArrayOffset is not reset when an exception unwinds out of MADB_ | Out-of-bounds Read | Medium | — | 9 |
 | 126 | [3136746](../../reports/3136746.md) | Cross-Site Scripting via 'currentImage' parameter | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
 | 127 | [3166579](../../reports/3166579.md) | Cross-Site Scripting (XSS) in ASP.NET via ResolveUrl on ████ | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |
 | 128 | [3204997](../../reports/3204997.md) | Reflected XSS via user Parameter on getconfig.esp Endpoint | Cross-site Scripting (XSS) - Reflected | Medium | — | 8 |

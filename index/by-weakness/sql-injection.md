@@ -5,7 +5,7 @@
 | # | Report | Title | Program | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | Essity | Critical | — | 40 |
-| 2 | [4216475](../../reports/4216475.md) | error based SQL injection on ████████ | Essity | Critical | — | 31 |
+| 2 | [4216475](../../reports/4216475.md) | error based SQL injection on ████████ | Essity | Critical | — | 38 |
 | 3 | [3849007](../../reports/3849007.md) | MariaDB CLI Utility Issues | MariaDB | — | — | 27 |
 | 4 | [3873072](../../reports/3873072.md) | Unauthenticated SQL Injection via REST Batch Route Confusion ████████ | Essity | Critical | — | 14 |
 | 5 | [3809973](../../reports/3809973.md) | Error-Based SQL Injection in ████████.com Login/Password Reset (username parameter) | Essity | Critical | — | 11 |

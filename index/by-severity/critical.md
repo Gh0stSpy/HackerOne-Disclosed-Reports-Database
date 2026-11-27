@@ -16,8 +16,8 @@
 | 10 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 46 |
 | 11 | [3619287](../../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.ym | — | Critical | — | 41 |
 | 12 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 40 |
-| 13 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 32 |
-| 14 | [4216475](../../reports/4216475.md) | error based SQL injection on ████████ | SQL Injection | Critical | — | 31 |
+| 13 | [4216475](../../reports/4216475.md) | error based SQL injection on ████████ | SQL Injection | Critical | — | 38 |
+| 14 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 32 |
 | 15 | [3840113](../../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████ | Information Disclosure | Critical | — | 29 |
 | 16 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | Improper Access Control - Generic | Critical | — | 24 |
 | 17 | [3856148](../../reports/3856148.md) | Low-privilege RCE in MariaDB: SYS_REFCURSOR cursor-array use-after-free chained with an ST | Use After Free | Critical | — | 14 |

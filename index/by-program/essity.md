@@ -8,8 +8,8 @@
 | 2 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Cross-site Scripting (XSS) - Stored | Critical | — | 48 |
 | 3 | [3802451](../../reports/3802451.md) | HTML Injection in Contact Form Email Enables Phishing via Legitimate ████████ Infrastructu | Improper Output Neutralization for Logs | Medium | — | 43 |
 | 4 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 40 |
-| 5 | [4191812](../../reports/4191812.md) | Unauthenticated arbitrary local file read via ABCpdf on www.████████ | Path Traversal | High | — | 34 |
-| 6 | [4216475](../../reports/4216475.md) | error based SQL injection on ████████ | SQL Injection | Critical | — | 31 |
+| 5 | [4216475](../../reports/4216475.md) | error based SQL injection on ████████ | SQL Injection | Critical | — | 38 |
+| 6 | [4191812](../../reports/4191812.md) | Unauthenticated arbitrary local file read via ABCpdf on www.████████ | Path Traversal | High | — | 34 |
 | 7 | [3840113](../../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████ | Information Disclosure | Critical | — | 29 |
 | 8 | [4071064](../../reports/4071064.md) | Unauthenticated self-registration on ████████ grants full access to internal supplier proc | Missing Authentication for Critical Function | Medium | — | 29 |
 | 9 | [4191937](../../reports/4191937.md) | IDOR: private ████████ post comments can be read and written by any authenticated user | Insecure Direct Object Reference (IDOR) | High | — | 24 |

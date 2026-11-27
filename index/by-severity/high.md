@@ -4,7 +4,7 @@
 
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
-| 1 | [3966160](../../reports/3966160.md) | Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engi | Uncontrolled Resource Consumption | High | $10,000 | 230 |
+| 1 | [3966160](../../reports/3966160.md) | Unauthenticated remote process termination of Arc RPC nodes via custom JS tracer (Boa engi | Uncontrolled Resource Consumption | High | $10,000 | 234 |
 | 2 | [3694007](../../reports/3694007.md) | Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hacke | Code Injection | High | $7,000 | 173 |
 | 3 | [3712279](../../reports/3712279.md) | Burp Suite Professional: browser-powered crawl can write attacker-controlled files through | Path Traversal | High | $5,000 | 175 |
 | 4 | [2119149](../../reports/2119149.md) | Evernote(WindowsApp) XSS to RCE | Code Injection | High | $2,000 | 52 |

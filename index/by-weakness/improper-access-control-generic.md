@@ -38,8 +38,8 @@
 | 32 | [3506873](../../reports/3506873.md) | Shared smart albums in the Photos app can expose files outside the album owner's configure | Nextcloud | Medium | — | 16 |
 | 33 | [3836021](../../reports/3836021.md) | Missing FILE-privilege enforcement in CONNECT file UDFs allows server-side file read and w | MariaDB | High | — | 14 |
 | 34 | [4059370](../../reports/4059370.md) | Mass assignment in chat.sendMessage allows unprivileged users to forge message state: pers | Rocket.Chat | Medium | — | 14 |
-| 35 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 9 |
-| 36 | [4118627](../../reports/4118627.md) | weblate.org: a removed customer owner regains ownership with one GET to /fosdem/donate/, e | Weblate | Medium | — | 9 |
+| 35 | [4118627](../../reports/4118627.md) | weblate.org: a removed customer owner regains ownership with one GET to /fosdem/donate/, e | Weblate | Medium | — | 11 |
+| 36 | [3533697](../../reports/3533697.md) | Public collectives allow to create pages | Nextcloud | Low | — | 9 |
 | 37 | [2954381](../../reports/2954381.md) | ASBS Analytics Dashboard | U.S. Dept Of Defense | Medium | — | 5 |
 
 ---
