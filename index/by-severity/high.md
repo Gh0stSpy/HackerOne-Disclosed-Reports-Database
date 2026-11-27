@@ -50,7 +50,7 @@
 | 44 | [3897236](../../reports/3897236.md) | RCE in AWS Amplify CLI via Prototype Chain Traversal in amplify-velocity-template | Code Injection | High | — | 25 |
 | 45 | [3633123](../../reports/3633123.md) | Incomplete Input Sanitization in CodeInterpreter install_packages Allows Command Injection | OS Command Injection | High | — | 24 |
 | 46 | [3828431](../../reports/3828431.md) | PII Exposure of Credit Applications and Social Security Numbers equifax-6070.my.salesforce | Improper Authentication - Generic | High | — | 24 |
-| 47 | [4191937](../../reports/4191937.md) | IDOR: private ████████ post comments can be read and written by any authenticated user | Insecure Direct Object Reference (IDOR) | High | — | 22 |
+| 47 | [4191937](../../reports/4191937.md) | IDOR: private ████████ post comments can be read and written by any authenticated user | Insecure Direct Object Reference (IDOR) | High | — | 24 |
 | 48 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | Improper Access Control - Generic | High | — | 19 |
 | 49 | [4038342](../../reports/4038342.md) | dns.resolve truncates names containing NUL char | Improper Access Control - Generic | High | — | 18 |
 | 50 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | Violation of Secure Design Principles | High | — | 16 |

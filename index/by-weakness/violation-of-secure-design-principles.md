@@ -7,7 +7,7 @@
 | 1 | [3829030](../../reports/3829030.md) | Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption | Yelp | Low | — | 54 |
 | 2 | [3665151](../../reports/3665151.md) | Brave Shields Domain Reordering Leads to Origin Confusion | Brave Software | Low | — | 51 |
 | 3 | [3324823](../../reports/3324823.md) | Account Takeover via Unverified Email Change and Improper Session Handling | U.S. Dept Of Defense | High | — | 16 |
-| 4 | [3490059](../../reports/3490059.md) | Unicode RTLO character allowed in uploaded filenames leading to executable file upload and | Nextcloud | Medium | — | 9 |
+| 4 | [3490059](../../reports/3490059.md) | Unicode RTLO character allowed in uploaded filenames leading to executable file upload and | Nextcloud | Medium | — | 14 |
 
 ---
 *Part of the [HackerOne Disclosed Reports Database](../../README.md). Generated, do not edit by hand.*
