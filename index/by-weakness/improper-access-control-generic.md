@@ -31,7 +31,7 @@
 | 25 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | WordPress | Critical | — | 24 |
 | 26 | [3930102](../../reports/3930102.md) | CORS Misconfiguration / Broken Access Control | Myndr | — | — | 22 |
 | 27 | [3687543](../../reports/3687543.md) | `relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet st | Monero | Low | — | 20 |
-| 28 | [3892948](../../reports/3892948.md) | Broken access control: any member can self-assign arbitrary BuddyPress member types via th | WordPress | Medium | — | 19 |
+| 28 | [3892948](../../reports/3892948.md) | Broken access control: any member can self-assign arbitrary BuddyPress member types via th | WordPress | Medium | — | 20 |
 | 29 | [3908943](../../reports/3908943.md) | DROP PACKAGE leaves PACKAGE BODY grant in mysql.procs_priv causing privilege escalation | MariaDB | High | — | 19 |
 | 30 | [4038342](../../reports/4038342.md) | dns.resolve truncates names containing NUL char | Node.js | High | — | 18 |
 | 31 | [4119675](../../reports/4119675.md) | Project-scoped language_aliases reaches LanguageManager.auto_create() unvalidated, creatin | Weblate | Medium | — | 17 |

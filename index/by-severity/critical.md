@@ -13,10 +13,10 @@
 | 7 | [3788482](../../reports/3788482.md) | Stack Buffer Overflow in mariadb-dump quote_name() Allows Malicious Server to Execute Arbi | Stack Overflow | Critical | — | 51 |
 | 8 | [3729501](../../reports/3729501.md) | Pre-authentication Stored XSS in Essity Customer-Service Pipeline via ContactApi (reCAPTCH | Cross-site Scripting (XSS) - Stored | Critical | — | 48 |
 | 9 | [3931777](../../reports/3931777.md) | Author → arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/< | Path Traversal | Critical | — | 48 |
-| 10 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 46 |
-| 11 | [3619287](../../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.ym | — | Critical | — | 41 |
-| 12 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 40 |
-| 13 | [4216475](../../reports/4216475.md) | error based SQL injection on ████████ | SQL Injection | Critical | — | 38 |
+| 10 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 48 |
+| 11 | [4216475](../../reports/4216475.md) | error based SQL injection on ████████ | SQL Injection | Critical | — | 44 |
+| 12 | [3619287](../../reports/3619287.md) | RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.ym | — | Critical | — | 41 |
+| 13 | [3778282](../../reports/3778282.md) | Critical SQL Injection WDM API (████████) | SQL Injection | Critical | — | 40 |
 | 14 | [3931771](../../reports/3931771.md) | Author → stored XSS in wp-admin: unescaped sub-size filename from attachment metadata brea | Cross-site Scripting (XSS) - Stored | Critical | — | 32 |
 | 15 | [3840113](../../reports/3840113.md) | Mass PII Exposure: 120,000+ Consumer Email Addresses Leaked via Author Enumeration on ████ | Information Disclosure | Critical | — | 29 |
 | 16 | [3801107](../../reports/3801107.md) | Unauthenticated disclosure of private and hidden forum content in bbPress via the WordPres | Improper Access Control - Generic | Critical | — | 24 |

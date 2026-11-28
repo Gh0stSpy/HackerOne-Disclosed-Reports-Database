@@ -92,17 +92,17 @@
 | 86 | [3969820](../../reports/3969820.md) | CVE-2026-80256: wcurl backslash bypass | Path Traversal: '.../...//' | Medium | — | 22 |
 | 87 | [4037976](../../reports/4037976.md) | Incomplete VCS metadata exclusion: `.svn` / `.bzr` bypass CVE-2026-61792 due to missing `V | Path Traversal | Medium | — | 22 |
 | 88 | [4088592](../../reports/4088592.md) | CPU-based Denial of Service in translation-finder via O(N²) per-result wildcard mask match | Uncontrolled Resource Consumption | Medium | — | 22 |
-| 89 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | Path Traversal | Medium | — | 21 |
-| 90 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 21 |
-| 91 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 21 |
-| 92 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 21 |
-| 93 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 20 |
-| 94 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
-| 95 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
-| 96 | [3490059](../../reports/3490059.md) | Unicode RTLO character allowed in uploaded filenames leading to executable file upload and | Violation of Secure Design Principles | Medium | — | 19 |
-| 97 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
-| 98 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
-| 99 | [3892948](../../reports/3892948.md) | Broken access control: any member can self-assign arbitrary BuddyPress member types via th | Improper Access Control - Generic | Medium | — | 19 |
+| 89 | [3490059](../../reports/3490059.md) | Unicode RTLO character allowed in uploaded filenames leading to executable file upload and | Violation of Secure Design Principles | Medium | — | 21 |
+| 90 | [3634571](../../reports/3634571.md) | Path Traversal in writeFile via Unsafe Prefix Containment Check Allows Out-of-Directory Wr | Path Traversal | Medium | — | 21 |
+| 91 | [3648638](../../reports/3648638.md) | monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mo | Business Logic Errors | Medium | — | 21 |
+| 92 | [3775702](../../reports/3775702.md) | Non-Production API Endpoints for the Amazon Cloudwatch Fails to Log to CloudTrail Resultin | Insufficient Logging | Medium | — | 21 |
+| 93 | [4105212](../../reports/4105212.md) | CPU Exhaustion via Crafted TOML Files in translation-finder | Uncontrolled Resource Consumption | Medium | — | 21 |
+| 94 | [3878399](../../reports/3878399.md) | Large-site Quick Edit reparses a Contributor display name into active HTML | Cross-site Scripting (XSS) - DOM | Medium | — | 20 |
+| 95 | [3892948](../../reports/3892948.md) | Broken access control: any member can self-assign arbitrary BuddyPress member types via th | Improper Access Control - Generic | Medium | — | 20 |
+| 96 | [2962527](../../reports/2962527.md) | 2FA Bypass via Response Manipulation on Login Page | Authentication Bypass | Medium | — | 19 |
+| 97 | [3238607](../../reports/3238607.md) | Reflected XSS Vulnerability in  SSL VPN Endpoint — CVE-2025-0133 | Cross-site Scripting (XSS) - Reflected | Medium | — | 19 |
+| 98 | [3677759](../../reports/3677759.md) | CVE-2026-6429: netrc credential leak with reused proxy connection | Information Exposure Through Sent Data | Medium | — | 19 |
+| 99 | [3723315](../../reports/3723315.md) | wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wal | Array Index Underflow | Medium | — | 19 |
 | 100 | [3633146](../../reports/3633146.md) | Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-c | Improper Certificate Validation | Medium | — | 18 |
 | 101 | [3769676](../../reports/3769676.md) | Stack Overflow DoS in ST_GeomFromGeoJSON Allows Any Authenticated User to Crash the Entire | Stack Overflow | Medium | — | 18 |
 | 102 | [3896507](../../reports/3896507.md) | Server crash (stack-overflow DoS) via unbounded recursion in MariaDB WKB GEOMETRYCOLLECTIO | — | Medium | — | 18 |

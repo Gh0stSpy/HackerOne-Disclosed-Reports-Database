@@ -5,7 +5,7 @@
 | # | Report | Title | Weakness | Severity | Bounty | Votes |
 |--:|:--|:--|:--|:--|--:|--:|
 | 1 | [3869124](../../reports/3869124.md) | **Unauthenticated IDOR allows modification of payment customer billing information** | Insecure Direct Object Reference (IDOR) | High | — | 73 |
-| 2 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 46 |
+| 2 | [4081135](../../reports/4081135.md) | Privilege escalation via unfiltered role restoration in project backup import | Privilege Escalation | Critical | — | 48 |
 | 3 | [3887969](../../reports/3887969.md) | SSRF via URL Parser Differential in `normalize_request_url` (wlc) | Server-Side Request Forgery (SSRF) | High | — | 43 |
 | 4 | [3518571](../../reports/3518571.md) | Argument Injection in /manage/ssh/ via host parameter leads to sensitive file disclosure o | — | — | — | 34 |
 | 5 | [3874004](../../reports/3874004.md) | Incomplete fix for CVE-2022-23915: Mercurial argument injection in HgRepository.get_file() | OS Command Injection | High | — | 34 |
